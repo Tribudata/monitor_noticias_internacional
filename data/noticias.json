@@ -1,9 +1,76 @@
 {
-  "actualizado": "2026-09-06T10:00:00-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T15:57:40-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economist": [],
-    "BBC": [],
-    "Yahoo": []
+    "BBC": [
+      {
+        "titulo": "¿Por qué las naciones europeas están retirando sus reservas de oro de Norteamérica?",
+        "url": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o",
+        "publicacion": "2026-09-06",
+        "titulo_fuente": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "La bóveda donde EE.UU. guarda toneladas de lingotes extranjeros y por qué países europeos los retiran",
+        "url": "https://www.bbc.com/mundo/articles/cjwzxzvdy75o",
+        "publicacion": "2026-09-03",
+        "titulo_fuente": "La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Países Bajos traslada miles de millones en oro a Londres para prepararse ante una crisis",
+        "url": "https://www.bbc.com/mundo/articles/c14dj2vxgnro",
+        "publicacion": "2026-09-02",
+        "titulo_fuente": "Países Bajos traslada miles de millones en oro a Londres como medida de \"preparación para la crisis\"",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Por qué la inestabilidad en el mercado de bonos les quita el sueño a los líderes del mundo",
+        "url": "https://www.bbc.com/mundo/articles/c62kxg57zxgo",
+        "publicacion": "2026-09-02",
+        "titulo_fuente": "Por qué el \"incendio\" en el mercado de bonos está quitando el sueño a los líderes mundiales",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Por qué en Colombia se labora bastante pero se genera poca producción, Duración 1,45",
+        "url": "https://www.bbc.com/mundo/articles/c4gl7g7229xo",
+        "publicacion": "PT1M45S",
+        "titulo_fuente": "Por qué en Colombia se trabaja mucho, pero se produce poco, Duración 1,45",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      }
+    ],
+    "Yahoo": [
+      {
+        "titulo": "Avión Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
+        "url": "https://es.finance.yahoo.com/noticias/boeing-767-amazon-prime-air-195759964.html",
+        "titulo_fuente": "Un Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Memoria cuántica: el dispositivo que vulnera a Bitcoin y lo sustituye",
+        "url": "https://es.finance.yahoo.com/noticias/memoria-cu%C3%A1ntica-dispositivo-rompe-bitcoin-192300230.html",
+        "titulo_fuente": "Memoria cuántica: El dispositivo que rompe Bitcoin y lo reemplaza",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Mudarse al pueblo para tener casa: el éxodo rural inverso de jóvenes que escapan del costo de la vivienda",
+        "url": "https://es.finance.yahoo.com/noticias/irse-pueblo-casa-%C3%A9xodo-rural-035717659.html",
+        "titulo_fuente": "Irse al pueblo para tener casa: el éxodo rural inverso de los jóvenes que huyen del precio de la vivienda",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "Reporte semanal de Bitcoin y criptoactivos: España y América Latina – 6 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-171000194.html",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 6 de septiembre",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "La firma de motosierras Stihl propone ampliar la jornada laboral en Alemania sin remuneración",
+        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
+        "titulo_fuente": "El fabricante de motosierras Stihl aboga por una jornada más larga en Alemania sin remuneración",
+        "capturado": "2026-09-06T15:57:40-05:00"
+      }
+    ]
   }
 }
