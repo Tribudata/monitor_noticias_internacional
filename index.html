@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tribudata</title>
+<meta name="description" content="Titulares internacionales de economía y finanzas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Libre+Franklin:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blanco:#ffffff;
+    --negro:#0a0a0a;
+    --gris:#6b6b6b;
+    --regla:#c9c9c9;
+    --rojo:#9b1c1c;
+    --serif:"Playfair Display",Georgia,"Times New Roman",serif;
+    --sans:"Libre Franklin",-apple-system,"Segoe UI",Helvetica,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--blanco);
+    color:var(--negro);
+    font-family:var(--sans);
+  }
+  .hoja{max-width:1280px;margin:0 auto;padding:1px 1px 10px}
+
+  .dateline{
+    display:flex;
+    flex-wrap:wrap;
+    gap:5px 14px;
+    padding:6px 2px 8px;
+    font-size:11px;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    color:var(--gris);
+  }
+  .dateline .refrescar{
+    background:none;border:none;padding:0;
+    font:inherit;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--negro);cursor:pointer;
+    border-bottom:1px solid var(--negro);
+  }
+  .dateline .refrescar:hover{color:var(--rojo);border-color:var(--rojo)}
+  :focus-visible{outline:2px solid var(--rojo);outline-offset:3px}
+
+  .tablero{border-top:2px solid var(--negro);border-bottom:2px solid var(--negro)}
+
+  /* Una fila por fuente. Todas las celdas de la fila comparten alto;
+     el titular se corta a tres líneas para que no se dispare. */
+  .fila{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);
+    border-bottom:1px solid var(--regla);
+  }
+  .fila:last-child{border-bottom:none}
+
+  .celda{
+    padding:12px 14px;
+    border-left:1px solid var(--regla);
+    min-width:0;
+  }
+  .celda:first-child{border-left:none;padding-left:2px}
+
+  .celda a{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:15px;
+    line-height:1.28;
+    color:var(--negro);
+    text-decoration:none;
+    display:-webkit-box;
+    -webkit-line-clamp:3;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    overflow-wrap:break-word;
+    hyphens:auto;
+  }
+  .celda a:hover{color:var(--rojo)}
+  .hora{
+    display:block;
+    margin-top:7px;
+    font-size:10px;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    color:var(--gris);
+  }
+  .celda.reciente .hora::before{
+    content:"Nuevo";
+    color:var(--rojo);
+    font-weight:600;
+    margin-right:6px;
+  }
+  .vacio{
+    grid-column:1 / -1;
+    padding:14px 2px;
+    font-family:var(--serif);
+    color:var(--gris);
+  }
+
+  @media (max-width:900px){
+    .fila{grid-template-columns:repeat(2,1fr)}
+    .celda{border-top:1px solid var(--regla)}
+    .celda:nth-child(-n+2){border-top:none}
+    .celda:nth-child(odd){border-left:none;padding-left:2px}
+  }
+  @media (max-width:600px){
+    .fila{grid-template-columns:1fr}
+    .celda{border-left:none;padding-left:2px;border-top:1px solid var(--regla)}
+    .celda:first-child{border-top:none}
+  }
+</style>
+</head>
+<body>
+<div class="hoja">
+
+  <div class="dateline">
+    <span id="corte">Cargando</span>
+    <button type="button" class="refrescar" id="refrescar">Volver a cargar</button>
+  </div>
+
+  <main class="tablero" id="tablero"></main>
+</div>
+
+<script>
+const FUENTE_JSON = "https://tribudata.github.io/monitor_noticias_internacional/data/noticias.json";
+const SECCIONES = ["Economist", "BBC", "Yahoo"];   // orden de las filas
+const POR_FILA = 5;
+const REFRESCO_MS = 5 * 60 * 1000;
+const VENTANA_NUEVO_H = 12;
+
+const $tablero = document.getElementById("tablero");
+const $corte = document.getElementById("corte");
+
+function hora(iso){
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleTimeString("es-CO", {hour:"2-digit", minute:"2-digit"});
+}
+
+function esReciente(iso){
+  const d = new Date(iso);
+  return !isNaN(d) && (Date.now() - d) < VENTANA_NUEVO_H * 3600 * 1000;
+}
+
+function crearCelda(item){
+  const celda = document.createElement("div");
+  celda.className = "celda" + (esReciente(item.capturado) ? " reciente" : "");
+
+  const a = document.createElement("a");
+  a.href = item.url;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.textContent = item.titulo;
+  celda.appendChild(a);
+
+  const marca = document.createElement("span");
+  marca.className = "hora";
+  marca.textContent = hora(item.capturado);
+  celda.appendChild(marca);
+
+  return celda;
+}
+
+function pintar(datos){
+  const et = datos.secciones || {};
+  $tablero.innerHTML = "";
+
+  SECCIONES.forEach(seccion => {
+    const fila = document.createElement("div");
+    fila.className = "fila";
+
+    const items = (et[seccion] || []).slice(0, POR_FILA);
+    if (!items.length){
+      const p = document.createElement("p");
+      p.className = "vacio";
+      p.textContent = "Sin titulares por ahora.";
+      fila.appendChild(p);
+    } else {
+      items.forEach(i => fila.appendChild(crearCelda(i)));
+    }
+
+    $tablero.appendChild(fila);
+  });
+
+  $corte.textContent = "Última Actualización " + (hora(datos.actualizado) || "—");
+}
+
+async function cargar(){
+  try{
+    const r = await fetch(FUENTE_JSON + "?v=" + Date.now(), {cache:"no-store"});
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    pintar(await r.json());
+  }catch(e){
+    $corte.textContent = "No se pudieron cargar los titulares";
+  }
+}
+
+document.getElementById("refrescar").addEventListener("click", cargar);
+cargar();
+setInterval(cargar, REFRESCO_MS);
+</script>
+</body>
+</html>
