@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T10:31:34-05:00",
+  "actualizado": "2026-09-07T14:36:33-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Así nutre la caída demográfica el éxito de la extrema derecha de AfD en Sajonia-Anhalt y el este de Alemania",
+        "url": "https://www.bbc.com/mundo/articles/cvgy1jyg6dwo",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
+        "capturado": "2026-09-07T14:36:33-05:00"
+      },
+      {
         "titulo": "Por qué más de 70 países custodian sus reservas de oro en el Banco de Inglaterra y qué lo distingue de otros",
         "url": "https://www.bbc.com/mundo/articles/cvgyper4gdeo",
         "publicacion": "2026-09-07",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-02",
         "titulo_fuente": "Países Bajos traslada miles de millones en oro a Londres como medida de \"preparación para la crisis\"",
         "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "Por qué la inestabilidad en el mercado de bonos les quita el sueño a los líderes del mundo",
-        "url": "https://www.bbc.com/mundo/articles/c62kxg57zxgo",
-        "publicacion": "2026-09-02",
-        "titulo_fuente": "Por qué el \"incendio\" en el mercado de bonos está quitando el sueño a los líderes mundiales",
-        "capturado": "2026-09-06T15:57:40-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "EE. UU. importa más cobre de Congo por tener mejor acogida entre los consumidores",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-importa-cobre-congo-aceptado-151306121.html",
-        "titulo_fuente": "EEUU importa más cobre del Congo, que es mejor aceptado por los consumidores",
-        "capturado": "2026-09-07T10:31:34-05:00"
+        "titulo": "CASA 47: Qué brinda el nuevo sitio web estatal de vivienda pública y su forma de operar",
+        "url": "https://es.finance.yahoo.com/noticias/casa-47-ofrece-portal-estatal-192606257.html",
+        "titulo_fuente": "CASA 47: Qué ofrece el nuevo portal estatal de vivienda pública y cómo funcionará",
+        "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "Mercado financiero de Argentina retrocede con operaciones limitadas por festivo en EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-baja-negocios-144353580.html",
-        "titulo_fuente": "Plaza financiera de Argentina en baja con negocios reducidos por feriado estadounidense",
-        "capturado": "2026-09-07T10:31:34-05:00"
+        "titulo": "Recaudo de impuestos en Colombia aumenta en julio, pero el acumulado anual continúa bajo la meta",
+        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
+        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
+        "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "El mercado bajista de Bitcoin llegó a su fin y Eric Crown explica las razones",
-        "url": "https://es.finance.yahoo.com/noticias/mercado-bajista-bitcoin-termin%C3%B3-eric-143000492.html",
-        "titulo_fuente": "El mercado bajista de Bitcoin terminó, Eric Crown explica por qué",
-        "capturado": "2026-09-07T10:31:34-05:00"
+        "titulo": "Alza histórica en el precio de los combustibles desata manifestaciones en Portugal",
+        "url": "https://es.finance.yahoo.com/noticias/subida-r%C3%A9cord-combustibles-provoca-protestas-171738439.html",
+        "titulo_fuente": "La subida récord del precio de los combustibles provoca protestas en Portugal",
+        "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "Aumentan las señales de alerta para los republicanos de Trump en la recta final de campaña en EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alerta-multiplican-republicanos-trump-142835993.html",
-        "titulo_fuente": "Señales de alerta se multiplican para los republicanos de Trump en recta final de campaña en EEUU",
-        "capturado": "2026-09-07T10:31:34-05:00"
+        "titulo": "¿Podría la IA rejuvenecer a las personas? Un medicamento abre esta opción",
+        "url": "https://es.finance.yahoo.com/noticias/ia-hacernos-j%C3%B3venes-f%C3%A1rmaco-abre-165925122.html",
+        "titulo_fuente": "¿La IA puede hacernos más jóvenes? Un fármaco abre esa posibilidad",
+        "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "El caudal del río Rin disminuye en Alemania pero sigue por encima de sus mínimos históricos",
-        "url": "https://es.finance.yahoo.com/noticias/niveles-agua-r%C3%ADo-rin-bajan-141636093.html",
-        "titulo_fuente": "Niveles de agua del río Rin bajan en Alemania, siguen por encima de sus mínimos históricos",
-        "capturado": "2026-09-07T10:31:34-05:00"
+        "titulo": "Magnate de propiedad raíz aliado de Milei defiende su inversión en las Malvinas",
+        "url": "https://es.finance.yahoo.com/noticias/magnate-inmobiliario-aliado-milei-defiende-165405193.html",
+        "titulo_fuente": "Magnate inmobiliario aliado de Milei defiende su inversión en las Malvinas",
+        "capturado": "2026-09-07T14:36:33-05:00"
       }
     ]
   }
