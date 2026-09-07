@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-07T14:36:33-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-07T17:31:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -84,28 +84,28 @@
         "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "Recaudo de impuestos en Colombia aumenta en julio, pero el acumulado anual continúa bajo la meta",
-        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
-        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
-        "capturado": "2026-09-07T14:36:33-05:00"
-      },
-      {
         "titulo": "Alza histórica en el precio de los combustibles desata manifestaciones en Portugal",
         "url": "https://es.finance.yahoo.com/noticias/subida-r%C3%A9cord-combustibles-provoca-protestas-171738439.html",
         "titulo_fuente": "La subida récord del precio de los combustibles provoca protestas en Portugal",
         "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "¿Podría la IA rejuvenecer a las personas? Un medicamento abre esta opción",
-        "url": "https://es.finance.yahoo.com/noticias/ia-hacernos-j%C3%B3venes-f%C3%A1rmaco-abre-165925122.html",
-        "titulo_fuente": "¿La IA puede hacernos más jóvenes? Un fármaco abre esa posibilidad",
+        "titulo": "Prosigue la salida de ricos del Reino Unido: Chris Rokos se traslada a Grecia",
+        "url": "https://es.finance.yahoo.com/noticias/contin%C3%BAa-%C3%A9xodo-ricos-reino-unido-190749768.html",
+        "titulo_fuente": "Continúa el éxodo de ricos de Reino Unido: Chris Rokos se muda a Grecia",
+        "capturado": "2026-09-07T17:31:43-05:00"
+      },
+      {
+        "titulo": "Recaudo de impuestos en Colombia aumenta en julio, pero el acumulado anual continúa bajo la meta",
+        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
+        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
         "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
-        "titulo": "Magnate de propiedad raíz aliado de Milei defiende su inversión en las Malvinas",
-        "url": "https://es.finance.yahoo.com/noticias/magnate-inmobiliario-aliado-milei-defiende-165405193.html",
-        "titulo_fuente": "Magnate inmobiliario aliado de Milei defiende su inversión en las Malvinas",
-        "capturado": "2026-09-07T14:36:33-05:00"
+        "titulo": "Capcom reactivará IPs inactivas tras Onimusha: Way of the Sword, con más de un millón de copias el primer día",
+        "url": "https://es-us.noticias.yahoo.com/capcom-enfocar%C3%A1-reactivar-ips-lanzamiento-170145477.html",
+        "titulo_fuente": "Capcom se enfocará en reactivar IPs que no han tenido un lanzamiento reciente después del éxito de Onimusha: Way of the Sword, que vendió más de un millón de copias en su primer día",
+        "capturado": "2026-09-07T17:31:43-05:00"
       }
     ]
   }
