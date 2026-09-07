@@ -25,7 +25,10 @@ from bs4 import BeautifulSoup
 #   idioma  "en" activa la traducción además de la reescritura.
 SECCIONES = {
     "Economist": {
-        "url": "https://www.economist.com/topics/finance-and-economics",
+        # El feed RSS en vez de la portada: la web devuelve 403 a todo lo
+        # que no sea un navegador, y un feed está hecho para ser leído
+        # por programas.
+        "url": "https://www.economist.com/finance-and-economics/rss.xml",
         "base": "https://www.economist.com/",
         "idioma": "en",
     },
@@ -90,6 +93,7 @@ CABECERAS = {
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
     ),
     "Accept-Language": "es-CO,es;q=0.9,en;q=0.8",
+    "Accept": "application/rss+xml, application/xml, text/html;q=0.9",
 }
 
 
@@ -107,16 +111,23 @@ def descargar(url: str) -> str:
 # --- Un extractor por fuente: cada sitio arma su portada distinto --------
 
 def extraer_economist(html: str, base: str) -> list:
-    """Los teasers llevan data-testid, más estable que las clases con hash."""
-    sopa = BeautifulSoup(html, "lxml")
-    enlaces = sopa.select('a[data-testid="teaser-card-link"]')
-    if not enlaces:
-        enlaces = sopa.select("h3 a[href^='/finance-and-economics/']")
-    return [
-        {"titulo": limpiar(a.get_text()), "url": urljoin(base, a.get("href", ""))}
-        for a in enlaces
-        if limpiar(a.get_text()) and a.get("href")
-    ]
+    """Lee el feed RSS: <item> con <title> y <link>, ya ordenado por fecha."""
+    sopa = BeautifulSoup(html, "xml")
+    items = []
+
+    for entrada in sopa.find_all("item"):
+        titulo = limpiar(entrada.title.get_text() if entrada.title else "")
+        enlace = limpiar(entrada.link.get_text() if entrada.link else "")
+        if not titulo or not enlace:
+            continue
+        fecha = entrada.find("pubDate")
+        items.append({
+            "titulo": titulo,
+            "url": urljoin(base, enlace),
+            "publicacion": limpiar(fecha.get_text()) if fecha else "",
+        })
+
+    return items
 
 
 def extraer_bbc(html: str, base: str) -> list:
