@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-07T03:57:34-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-07T10:31:34-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué más de 70 países custodian sus reservas de oro en el Banco de Inglaterra y qué lo distingue de otros",
+        "url": "https://www.bbc.com/mundo/articles/cvgyper4gdeo",
+        "publicacion": "2026-09-07",
+        "titulo_fuente": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
+        "capturado": "2026-09-07T10:31:34-05:00"
+      },
+      {
         "titulo": "¿Por qué las naciones europeas están retirando sus reservas de oro de Norteamérica?",
         "url": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o",
         "publicacion": "2026-09-06",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-02",
         "titulo_fuente": "Por qué el \"incendio\" en el mercado de bonos está quitando el sueño a los líderes mundiales",
         "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "Por qué en Colombia se labora bastante pero se genera poca producción, Duración 1,45",
-        "url": "https://www.bbc.com/mundo/articles/c4gl7g7229xo",
-        "publicacion": "PT1M45S",
-        "titulo_fuente": "Por qué en Colombia se trabaja mucho, pero se produce poco, Duración 1,45",
-        "capturado": "2026-09-06T15:57:40-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Healey, el nuevo ministro de Economía británico, asume el reto de sus primeros presupuestos",
-        "url": "https://es.finance.yahoo.com/noticias/healey-ministro-econom%C3%ADa-brit%C3%A1nico-afronta-075308002.html",
-        "titulo_fuente": "Healey, nuevo ministro de Economía británico, afronta el reto de sus primeros presupuestos",
-        "capturado": "2026-09-07T03:57:34-05:00"
+        "titulo": "EE. UU. importa más cobre de Congo por tener mejor acogida entre los consumidores",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-importa-cobre-congo-aceptado-151306121.html",
+        "titulo_fuente": "EEUU importa más cobre del Congo, que es mejor aceptado por los consumidores",
+        "capturado": "2026-09-07T10:31:34-05:00"
       },
       {
-        "titulo": "El cerebro opera con 20 vatios y la IA requiere una central eléctrica",
-        "url": "https://es.finance.yahoo.com/noticias/tu-cerebro-funciona-20-vatios-075100547.html",
-        "titulo_fuente": "Tu cerebro funciona con 20 vatios: la IA quiere una central eléctrica",
-        "capturado": "2026-09-07T03:57:34-05:00"
+        "titulo": "Mercado financiero de Argentina retrocede con operaciones limitadas por festivo en EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-baja-negocios-144353580.html",
+        "titulo_fuente": "Plaza financiera de Argentina en baja con negocios reducidos por feriado estadounidense",
+        "capturado": "2026-09-07T10:31:34-05:00"
       },
       {
-        "titulo": "Trabajar más horas por el mismo salario: la propuesta del CEO de STIHL",
-        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
-        "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
-        "capturado": "2026-09-07T03:57:34-05:00"
+        "titulo": "El mercado bajista de Bitcoin llegó a su fin y Eric Crown explica las razones",
+        "url": "https://es.finance.yahoo.com/noticias/mercado-bajista-bitcoin-termin%C3%B3-eric-143000492.html",
+        "titulo_fuente": "El mercado bajista de Bitcoin terminó, Eric Crown explica por qué",
+        "capturado": "2026-09-07T10:31:34-05:00"
       },
       {
-        "titulo": "Turquía eleva sustancialmente su previsión de inflación al 28,4% por la guerra en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/turqu%C3%ADa-dispara-previsi%C3%B3n-inflaci%C3%B3n-28-061855901.html",
-        "titulo_fuente": "Turquía dispara su previsión de inflación al 28,4% por la guerra en Oriente Medio",
-        "capturado": "2026-09-07T03:57:34-05:00"
+        "titulo": "Aumentan las señales de alerta para los republicanos de Trump en la recta final de campaña en EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alerta-multiplican-republicanos-trump-142835993.html",
+        "titulo_fuente": "Señales de alerta se multiplican para los republicanos de Trump en recta final de campaña en EEUU",
+        "capturado": "2026-09-07T10:31:34-05:00"
       },
       {
-        "titulo": "Los 20 puertos con mayor actividad de la UE: ¿en qué posición se ubican los de España?",
-        "url": "https://es.finance.yahoo.com/noticias/puertos-activos-europa-ciudades-mueven-040630931.html",
-        "titulo_fuente": "Estos son los 20 puertos más activos de la UE: ¿En qué puesto están los españoles?",
-        "capturado": "2026-09-07T03:57:34-05:00"
+        "titulo": "El caudal del río Rin disminuye en Alemania pero sigue por encima de sus mínimos históricos",
+        "url": "https://es.finance.yahoo.com/noticias/niveles-agua-r%C3%ADo-rin-bajan-141636093.html",
+        "titulo_fuente": "Niveles de agua del río Rin bajan en Alemania, siguen por encima de sus mínimos históricos",
+        "capturado": "2026-09-07T10:31:34-05:00"
       }
     ]
   }
