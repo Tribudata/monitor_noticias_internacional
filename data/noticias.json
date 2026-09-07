@@ -1,8 +1,44 @@
 {
-  "actualizado": "2026-09-06T18:30:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T19:38:20-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
-    "Economist": [],
+    "Economist": [
+      {
+        "titulo": "La inflación regresa a nivel global y se reactiva la batalla para contenerla",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+        "publicacion": "Sun, 06 Sep 2026 15:39:54 +0000",
+        "titulo_fuente": "Inflation is back around the world—as is the fight against it",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      },
+      {
+        "titulo": "Se posterga el colapso del mercado laboral ante el auge de empleos en IA",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "publicacion": "Fri, 04 Sep 2026 18:05:02 +0000",
+        "titulo_fuente": "The jobs apocalypse is postponed. An AI jobs boom is here",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      },
+      {
+        "titulo": "México afronta dificultades para ganarse la confianza de los mercados de bonos",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+        "publicacion": "Thu, 03 Sep 2026 09:35:43 +0000",
+        "titulo_fuente": "Mexico is struggling to win over bond markets",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      },
+      {
+        "titulo": "China intenta dejar atrás el desplome de su sector inmobiliario",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
+        "publicacion": "Thu, 03 Sep 2026 09:35:32 +0000",
+        "titulo_fuente": "China tries to look past the property slump",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      },
+      {
+        "titulo": "Esfuerzos de reguladores de India por proteger a operadores minoristas resultan contraproducentes",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring",
+        "publicacion": "Thu, 03 Sep 2026 09:34:25 +0000",
+        "titulo_fuente": "Indian regulators’ attempts to protect retail traders are backfiring",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      }
+    ],
     "BBC": [
       {
         "titulo": "¿Por qué las naciones europeas están retirando sus reservas de oro de Norteamérica?",
@@ -42,10 +78,22 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Emulador de PS5 en PC corre primera misión de GTA 5 hasta 60 FPS; por veloz avance ya se habla de GTA 6 en PC",
+        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-pc-logra-correr-201751599.html",
+        "titulo_fuente": "El emulador de PS5 para PC logra correr la primera misión de GTA 5 en hasta 60 FPS, un avance tan rápido que los jugadores ya hablan de GTA 6 en PC",
+        "capturado": "2026-09-06T19:38:20-05:00"
+      },
+      {
         "titulo": "Avión Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
         "url": "https://es.finance.yahoo.com/noticias/boeing-767-amazon-prime-air-195759964.html",
         "titulo_fuente": "Un Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
         "capturado": "2026-09-06T15:57:40-05:00"
+      },
+      {
+        "titulo": "RPCS3 ya lee discos físicos de PS3 directo en lector de CD del PC sin copiar nada: inserte el disco y juegue",
+        "url": "https://es-us.noticias.yahoo.com/rpcs3-lee-discos-f%C3%ADsicos-ps3-195216990.html",
+        "titulo_fuente": "RPCS3 ahora lee discos físicos de PS3 directamente en lector de CD del PC sin copiar nada: inserta el disco y juega",
+        "capturado": "2026-09-06T19:38:20-05:00"
       },
       {
         "titulo": "Memoria cuántica: el dispositivo que vulnera a Bitcoin y lo sustituye",
@@ -57,18 +105,6 @@
         "titulo": "Mudarse al pueblo para tener casa: el éxodo rural inverso de jóvenes que escapan del costo de la vivienda",
         "url": "https://es.finance.yahoo.com/noticias/irse-pueblo-casa-%C3%A9xodo-rural-035717659.html",
         "titulo_fuente": "Irse al pueblo para tener casa: el éxodo rural inverso de los jóvenes que huyen del precio de la vivienda",
-        "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "Reporte semanal de Bitcoin y criptoactivos: España y América Latina – 6 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-171000194.html",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 6 de septiembre",
-        "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "La firma de motosierras Stihl propone ampliar la jornada laboral en Alemania sin remuneración",
-        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
-        "titulo_fuente": "El fabricante de motosierras Stihl aboga por una jornada más larga en Alemania sin remuneración",
         "capturado": "2026-09-06T15:57:40-05:00"
       }
     ]
