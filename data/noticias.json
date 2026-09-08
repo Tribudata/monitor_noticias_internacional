@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-08T14:16:34-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-08T17:23:28-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Cuál es el mandatario mejor remunerado del planeta y por qué su sueldo se incrementará en US$1 millón",
+        "url": "https://www.bbc.com/mundo/articles/c3v43l909n3o",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
+        "capturado": "2026-09-08T17:23:28-05:00"
+      },
+      {
         "titulo": "Los motivos detrás de los millones de deudores en mora en Argentina, Duración 2,54",
         "url": "https://www.bbc.com/mundo/articles/c0rev4rqq01o",
         "publicacion": "PT2M54S",
@@ -66,13 +73,6 @@
         "url": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o",
         "publicacion": "2026-09-06",
         "titulo_fuente": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
-        "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "La bóveda donde EE.UU. guarda toneladas de lingotes extranjeros y por qué países europeos los retiran",
-        "url": "https://www.bbc.com/mundo/articles/cjwzxzvdy75o",
-        "publicacion": "2026-09-03",
-        "titulo_fuente": "La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)",
         "capturado": "2026-09-06T15:57:40-05:00"
       }
     ],
