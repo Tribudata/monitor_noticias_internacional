@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-09-08T09:10:07-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-08T14:16:34-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Qué está impulsando la venta masiva de bonos a nivel global",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+        "publicacion": "Tue, 08 Sep 2026 18:15:09 +0000",
+        "titulo_fuente": "What is causing the global bond sell-off?",
+        "capturado": "2026-09-08T14:16:34-05:00"
+      },
+      {
+        "titulo": "La inyección de capital de China por US$54.000 millones para los bancos resulta muy insuficiente",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
+        "publicacion": "Tue, 08 Sep 2026 16:18:35 +0000",
+        "titulo_fuente": "China’s $54bn capital boost for banks falls far short",
+        "capturado": "2026-09-08T14:16:34-05:00"
+      },
       {
         "titulo": "La inflación regresa a nivel global y se reactiva la batalla para contenerla",
         "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
@@ -22,20 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
         "publicacion": "Thu, 03 Sep 2026 09:35:43 +0000",
         "titulo_fuente": "Mexico is struggling to win over bond markets",
-        "capturado": "2026-09-06T19:38:20-05:00"
-      },
-      {
-        "titulo": "China intenta dejar atrás el desplome de su sector inmobiliario",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
-        "publicacion": "Thu, 03 Sep 2026 09:35:32 +0000",
-        "titulo_fuente": "China tries to look past the property slump",
-        "capturado": "2026-09-06T19:38:20-05:00"
-      },
-      {
-        "titulo": "Esfuerzos de reguladores de India por proteger a operadores minoristas resultan contraproducentes",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring",
-        "publicacion": "Thu, 03 Sep 2026 09:34:25 +0000",
-        "titulo_fuente": "Indian regulators’ attempts to protect retail traders are backfiring",
         "capturado": "2026-09-06T19:38:20-05:00"
       }
     ],
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Serbia y Uzbekistán buscan elevar intercambio comercial con visita de Mirziyoyev a Belgrado",
-        "url": "https://es.finance.yahoo.com/noticias/serbia-uzbekist%C3%A1n-buscan-aumentar-comercio-120515300.html",
-        "titulo_fuente": "Serbia y Uzbekistán buscan aumentar el comercio con la visita de Mirziyoyev a Belgrado",
-        "capturado": "2026-09-08T09:10:07-05:00"
+        "titulo": "Demanda acusa a Amazon de discriminación sistemática contra trabajadoras en estado de embarazo",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-185633321.html",
+        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática contra empleadas embarazadas",
+        "capturado": "2026-09-08T14:16:34-05:00"
       },
       {
-        "titulo": "Alteraciones en estrecho de Ormuz golpean más a pequeñas empresas, advierte agencia comercial ONU",
-        "url": "https://es.finance.yahoo.com/noticias/interrupciones-estrecho-ormuz-afectan-dureza-133557557.html",
-        "titulo_fuente": "Interrupciones en estrecho de Ormuz afectan con mayor dureza a pequeñas empresas, advierte agencia comercial ONU",
-        "capturado": "2026-09-08T09:10:07-05:00"
+        "titulo": "Amazon afronta demanda que la acusa de discriminación sistemática por motivos de embarazo",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-171107100.html",
+        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática por embarazo",
+        "capturado": "2026-09-08T14:16:34-05:00"
       },
       {
-        "titulo": "Dos reveses seguidos de fármacos de Novartis elevan presión sobre portafolio en desarrollo y su CEO",
-        "url": "https://es.finance.yahoo.com/noticias/reveses-consecutivos-f%C3%A1rmacos-novartis-aumentan-133215189.html",
-        "titulo_fuente": "Dos reveses consecutivos de fármacos de Novartis aumentan presión sobre cartera en desarrollo y CEO",
-        "capturado": "2026-09-08T09:10:07-05:00"
+        "titulo": "EE.UU. rastrea a migrantes deportados en México y Centroamérica para cobrar multas de US$423 millones",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-busca-migrantes-deportados-171054699.html",
+        "titulo_fuente": "EE.UU. busca a migrantes deportados en México y Centroamérica para cobrar US$423 millones en multas",
+        "capturado": "2026-09-08T14:16:34-05:00"
       },
       {
-        "titulo": "Fondos cotizados en bolsa y futuros de acciones operan mixtos antes de abrir el martes por alza de petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132039061.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el martes, en medio del aumento de los precios del petróleo.",
-        "capturado": "2026-09-08T09:10:07-05:00"
+        "titulo": "Reino Unido, Francia y Canadá aplican sanciones contra los asentamientos israelíes",
+        "url": "https://es.finance.yahoo.com/noticias/reino-unido-francia-canad%C3%A1-imponen-170609604.html",
+        "titulo_fuente": "Reino Unido, Francia y Canadá imponen sanciones a asentamientos israelíes",
+        "capturado": "2026-09-08T14:16:34-05:00"
       },
       {
-        "titulo": "Actualización: Futuros de acciones de EE.UU. bajan en su mayoría por alza de petróleo y aranceles de Canadá",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-registran-125554754.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses registran descensos en su mayoría, mientras los operadores evalúan el aumento del precio del petróleo y los aranceles de represalia canadienses.",
-        "capturado": "2026-09-08T09:10:07-05:00"
+        "titulo": "De la Espriella flexibiliza regulación de armas y retira suspensión de permisos en Colombia",
+        "url": "https://es.finance.yahoo.com/noticias/espriella-flexibiliza-leyes-armas-levanta-165857472.html",
+        "titulo_fuente": "De la Espriella flexibiliza leyes de armas y levanta suspensión de permisos en Colombia",
+        "capturado": "2026-09-08T14:16:34-05:00"
       }
     ]
   }
