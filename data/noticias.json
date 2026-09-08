@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-07T17:31:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-07T22:15:41-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Los motivos detrás de los millones de deudores en mora en Argentina, Duración 2,54",
+        "url": "https://www.bbc.com/mundo/articles/c0rev4rqq01o",
+        "publicacion": "PT2M54S",
+        "titulo_fuente": "Por qué hay millones de deudores morosos en Argentina, Duración 2,54",
+        "capturado": "2026-09-07T22:15:41-05:00"
+      },
+      {
         "titulo": "Así nutre la caída demográfica el éxito de la extrema derecha de AfD en Sajonia-Anhalt y el este de Alemania",
         "url": "https://www.bbc.com/mundo/articles/cvgy1jyg6dwo",
         "publicacion": "2026-09-07",
@@ -67,16 +74,21 @@
         "publicacion": "2026-09-03",
         "titulo_fuente": "La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)",
         "capturado": "2026-09-06T15:57:40-05:00"
-      },
-      {
-        "titulo": "Países Bajos traslada miles de millones en oro a Londres para prepararse ante una crisis",
-        "url": "https://www.bbc.com/mundo/articles/c14dj2vxgnro",
-        "publicacion": "2026-09-02",
-        "titulo_fuente": "Países Bajos traslada miles de millones en oro a Londres como medida de \"preparación para la crisis\"",
-        "capturado": "2026-09-06T15:57:40-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Argentina entablará acciones penales contra Navitas y sus directivos por operar en Islas Malvinas",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-denunciar%C3%A1-penalmente-navitas-directivos-233926829.html",
+        "titulo_fuente": "Argentina denunciará penalmente a Navitas y a sus directivos por operar en Islas Malvinas",
+        "capturado": "2026-09-07T22:15:41-05:00"
+      },
+      {
+        "titulo": "Huawei y Xiaomi introducen nuevos plegables antes del ingreso de Apple a esta categoría",
+        "url": "https://es.finance.yahoo.com/noticias/huawei-xiaomi-lanzan-plegables-debut-215444495.html",
+        "titulo_fuente": "Huawei y Xiaomi lanzan nuevos plegables antes del debut de Apple en la categoría",
+        "capturado": "2026-09-07T22:15:41-05:00"
+      },
       {
         "titulo": "CASA 47: Qué brinda el nuevo sitio web estatal de vivienda pública y su forma de operar",
         "url": "https://es.finance.yahoo.com/noticias/casa-47-ofrece-portal-estatal-192606257.html",
@@ -84,28 +96,16 @@
         "capturado": "2026-09-07T14:36:33-05:00"
       },
       {
+        "titulo": "Infamous 2 ya es totalmente jugable en PC mediante RPCS3 y se ejecuta en 4K sin fallas gráficas",
+        "url": "https://es-us.noticias.yahoo.com/infamous-2-completamente-jugable-pc-201300433.html",
+        "titulo_fuente": "Infamous 2 ya es completamente jugable en PC gracias a RPCS3 y además corre en 4K sin problemas gráficos",
+        "capturado": "2026-09-07T22:15:41-05:00"
+      },
+      {
         "titulo": "Alza histórica en el precio de los combustibles desata manifestaciones en Portugal",
         "url": "https://es.finance.yahoo.com/noticias/subida-r%C3%A9cord-combustibles-provoca-protestas-171738439.html",
         "titulo_fuente": "La subida récord del precio de los combustibles provoca protestas en Portugal",
         "capturado": "2026-09-07T14:36:33-05:00"
-      },
-      {
-        "titulo": "Prosigue la salida de ricos del Reino Unido: Chris Rokos se traslada a Grecia",
-        "url": "https://es.finance.yahoo.com/noticias/contin%C3%BAa-%C3%A9xodo-ricos-reino-unido-190749768.html",
-        "titulo_fuente": "Continúa el éxodo de ricos de Reino Unido: Chris Rokos se muda a Grecia",
-        "capturado": "2026-09-07T17:31:43-05:00"
-      },
-      {
-        "titulo": "Recaudo de impuestos en Colombia aumenta en julio, pero el acumulado anual continúa bajo la meta",
-        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
-        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
-        "capturado": "2026-09-07T14:36:33-05:00"
-      },
-      {
-        "titulo": "Capcom reactivará IPs inactivas tras Onimusha: Way of the Sword, con más de un millón de copias el primer día",
-        "url": "https://es-us.noticias.yahoo.com/capcom-enfocar%C3%A1-reactivar-ips-lanzamiento-170145477.html",
-        "titulo_fuente": "Capcom se enfocará en reactivar IPs que no han tenido un lanzamiento reciente después del éxito de Onimusha: Way of the Sword, que vendió más de un millón de copias en su primer día",
-        "capturado": "2026-09-07T17:31:43-05:00"
       }
     ]
   }
