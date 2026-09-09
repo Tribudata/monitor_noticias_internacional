@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T14:05:37-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-09T17:17:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "El déficit fiscal de Qatar se duplica a 5.000M€ en el segundo trimestre debido a la crisis del GNL",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-presupuestario-catar-duplica-5-120642217.html",
-        "titulo_fuente": "El déficit presupuestario de Qatar se duplica a 5.000M€ en el segundo trimestre por la crisis de GNL",
-        "capturado": "2026-09-09T09:11:03-05:00"
+        "titulo": "Fitch: presupuesto de Colombia para 2027 muestra gran desbalance y exige un esfuerzo importante",
+        "url": "https://es.finance.yahoo.com/noticias/presupuesto-colombia-2027-muestra-profundo-215552336.html",
+        "titulo_fuente": "Presupuesto de Colombia para 2027 muestra profundo desequilibrio y requiere esfuerzo significativo: Fitch",
+        "capturado": "2026-09-09T17:17:14-05:00"
       },
       {
-        "titulo": "Productores de champán usarán reservas ante la reducción de la cosecha por olas de calor",
-        "url": "https://es.finance.yahoo.com/noticias/productores-champ%C3%A1n-recurrir%C3%A1n-reservas-reducci%C3%B3n-134342506.html",
-        "titulo_fuente": "Productores de champán recurrirán a reservas tras la reducción de cosecha provocada por olas de calor",
-        "capturado": "2026-09-09T09:11:03-05:00"
+        "titulo": "Al día: Índices de EEUU caen, tasas del Tesoro suben por Bessent; guerra con Irán sube Brent a más de USD 100",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210157822.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que suben los rendimientos de los bonos del Tesoro después de que Bessent triplicara el tamaño de su programa de recompra, lo que empeora la guerra con Irán y eleva el precio del crudo Brent por encima de los 100 dólares.",
+        "capturado": "2026-09-09T17:17:14-05:00"
       },
       {
-        "titulo": "El Brent sobrepasa los 100 dólares mientras se agrava el conflicto en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/brent-supera-100-d%C3%B3lares-intensifica-130715473.html",
-        "titulo_fuente": "Brent supera 100 dólares mientras se intensifica el conflicto en Oriente Medio",
-        "capturado": "2026-09-09T09:11:03-05:00"
+        "titulo": "Secretario Rubio gestionará 45 millones de dólares en recursos de seguridad para Ecuador",
+        "url": "https://es.finance.yahoo.com/noticias/secretario-rubio-buscar%C3%A1-45-millones-200959588.html",
+        "titulo_fuente": "Secretario Rubio dice que buscará 45 millones de dólares en fondos de seguridad para Ecuador",
+        "capturado": "2026-09-09T17:17:14-05:00"
       },
       {
-        "titulo": "Fondos cotizados y futuros de acciones caen antes de abrir el miércoles; crudo Brent supera 100 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-130653573.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del miércoles, mientras el crudo Brent supera los 100 dólares por barril.",
-        "capturado": "2026-09-09T09:11:03-05:00"
+        "titulo": "Bessent respalda emplear el poder financiero de EEUU en política exterior, al igual que en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-apoya-usar-poder-financiero-181841792.html",
+        "titulo_fuente": "Bessent apoya usar poder financiero de EEUU como herramienta de política exterior, como en Argentina",
+        "capturado": "2026-09-09T17:17:14-05:00"
       },
       {
-        "titulo": "Actualización: Futuros de acciones de EE.UU. caen antes de abrir; crudo Brent supera 100 dólares por barril",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-caen-124959037.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que el crudo Brent supera los 100 dólares por barril.",
-        "capturado": "2026-09-09T09:11:03-05:00"
+        "titulo": "Al día: Índices de EEUU caen, tasas del Tesoro suben por recompras; guerra con Irán sube crudo sobre USD 100",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173635529.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el petróleo crudo supera la marca de los 100 dólares en medio del empeoramiento de la guerra con Irán, y los rendimientos se disparan después de que el Tesoro triplicara las recompras de deuda pública.",
+        "capturado": "2026-09-09T17:17:14-05:00"
       }
     ]
   }
