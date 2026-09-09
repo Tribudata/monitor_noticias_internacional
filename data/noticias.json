@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T09:11:03-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-09T14:05:37-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué Cuba no genera suficientes alimentos y depende de la importación para su población, Duración 6,10",
+        "url": "https://www.bbc.com/mundo/articles/c87veq4p7e3o",
+        "publicacion": "PT6M10S",
+        "titulo_fuente": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población, Duración 6,10",
+        "capturado": "2026-09-09T14:05:37-05:00"
+      },
+      {
         "titulo": "Compañías que definen la incorporación de nuevo personal con base en habilidades afines a Factor X",
         "url": "https://www.bbc.com/mundo/articles/ce873v599v1o",
         "publicacion": "2026-09-09",
@@ -67,13 +74,6 @@
         "publicacion": "PT2M54S",
         "titulo_fuente": "Por qué hay millones de deudores morosos en Argentina, Duración 2,54",
         "capturado": "2026-09-07T22:15:41-05:00"
-      },
-      {
-        "titulo": "Así nutre la caída demográfica el éxito de la extrema derecha de AfD en Sajonia-Anhalt y el este de Alemania",
-        "url": "https://www.bbc.com/mundo/articles/cvgy1jyg6dwo",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
-        "capturado": "2026-09-07T14:36:33-05:00"
       }
     ],
     "Yahoo": [
