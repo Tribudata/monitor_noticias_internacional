@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-08T22:18:18-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-09T03:40:33-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Entran en vigencia los aranceles de Canadá contra EEUU mientras la negociación sigue estancada",
-        "url": "https://es.finance.yahoo.com/noticias/aranceles-canad%C3%A1-represalia-eeuu-entran-215906145.html",
-        "titulo_fuente": "Los aranceles de Canadá en represalia contra EEUU entran en vigor con la negociación estancada",
-        "capturado": "2026-09-08T22:18:18-05:00"
+        "titulo": "Demandan a la UE por su plan para simplificar las normas ambientales",
+        "url": "https://es.finance.yahoo.com/noticias/ue-enfrenta-denuncia-plan-simplificar-082936914.html",
+        "titulo_fuente": "La UE se enfrenta a una denuncia en su plan para simplificar la legislación medioambiental",
+        "capturado": "2026-09-09T03:40:33-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EEUU caen tras ataques hutíes a energía de Arabia Saudita, lo que eleva el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205651630.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los ataques de los hutíes contra la infraestructura energética de Arabia Saudita, lo que impulsa el precio del petróleo crudo.",
-        "capturado": "2026-09-08T22:18:18-05:00"
+        "titulo": "El petróleo pasa nuevamente los 100$ por barril al agudizarse el conflicto entre EEUU e Irán",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-100-d%C3%B3lares-barril-081757933.html",
+        "titulo_fuente": "El petróleo vuelve a superar los 100$ por barril, se intensifica el choque EEUU-Irán",
+        "capturado": "2026-09-09T03:40:33-05:00"
       },
       {
-        "titulo": "Collective Mining gestionará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año",
-        "url": "https://es.finance.yahoo.com/noticias/collective-mining-solicitar%C3%A1-licencia-ambiental-204640062.html",
-        "titulo_fuente": "Collective Mining solicitará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año.",
-        "capturado": "2026-09-08T22:18:18-05:00"
+        "titulo": "Portugal agotará esfuerzos para proteger la capacidad de refinación en la fusión de Galp y Moeve",
+        "url": "https://es.finance.yahoo.com/noticias/portugal-har%C3%A1-proteger-capacidad-refinado-072750924.html",
+        "titulo_fuente": "Portugal hará todo lo posible para proteger la capacidad de refinado en la fusión entre Galp y Moeve",
+        "capturado": "2026-09-09T03:40:33-05:00"
       },
       {
-        "titulo": "Meta introduce Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
-        "url": "https://es.finance.yahoo.com/noticias/meta-presenta-muse-asistente-ia-203659394.html",
-        "titulo_fuente": "Meta presenta Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
-        "capturado": "2026-09-08T22:18:18-05:00"
+        "titulo": "El BCE alista un incremento de tasas al 2,5% presionado por el alza de la inflación energética",
+        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-segura-motivos-040001536.html",
+        "titulo_fuente": "El BCE prepara una subida de tipos al 2,5% impulsado por el repunte de la inflación energética",
+        "capturado": "2026-09-09T03:40:33-05:00"
       },
       {
-        "titulo": "La trilogía clásica de Donkey Kong Country para SNES tiene adaptaciones gratuitas para PC",
-        "url": "https://es-us.noticias.yahoo.com/trilog%C3%ADa-cl%C3%A1sica-donkey-kong-country-195615471.html",
-        "titulo_fuente": "La trilogía clásica de Donkey Kong Country para SNES recibe ports gratuitos para PC",
-        "capturado": "2026-09-08T22:18:18-05:00"
+        "titulo": "La compañía china DeepSeek selecciona a CITIC Securities para su salida a bolsa en Shanghái",
+        "url": "https://es.finance.yahoo.com/noticias/china-deepseek-elige-citic-securities-064147767.html",
+        "titulo_fuente": "La china DeepSeek elige a CITIC Securities para su salida a bolsa en Shanghái",
+        "capturado": "2026-09-09T03:40:33-05:00"
       }
     ]
   }
