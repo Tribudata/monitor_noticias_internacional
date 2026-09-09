@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-08T17:23:28-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-08T22:18:18-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,11 +41,25 @@
     ],
     "BBC": [
       {
+        "titulo": "Compañías que definen la incorporación de nuevo personal con base en habilidades afines a Factor X",
+        "url": "https://www.bbc.com/mundo/articles/ce873v599v1o",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "Las empresas que deciden la contratación de nuevos empleados en competencias similares a \"Factor X\"",
+        "capturado": "2026-09-08T22:18:18-05:00"
+      },
+      {
         "titulo": "Cuál es el mandatario mejor remunerado del planeta y por qué su sueldo se incrementará en US$1 millón",
         "url": "https://www.bbc.com/mundo/articles/c3v43l909n3o",
         "publicacion": "2026-09-08",
         "titulo_fuente": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
         "capturado": "2026-09-08T17:23:28-05:00"
+      },
+      {
+        "titulo": "Reino Unido oficializa sanciones a colonos israelíes en Cisjordania y desata airada reacción de Israel",
+        "url": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo",
+        "publicacion": "2026-09-08",
+        "titulo_fuente": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y provoca una airada respuesta de Israel",
+        "capturado": "2026-09-08T22:18:18-05:00"
       },
       {
         "titulo": "Los motivos detrás de los millones de deudores en mora en Argentina, Duración 2,54",
@@ -60,52 +74,38 @@
         "publicacion": "2026-09-07",
         "titulo_fuente": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
         "capturado": "2026-09-07T14:36:33-05:00"
-      },
-      {
-        "titulo": "Por qué más de 70 países custodian sus reservas de oro en el Banco de Inglaterra y qué lo distingue de otros",
-        "url": "https://www.bbc.com/mundo/articles/cvgyper4gdeo",
-        "publicacion": "2026-09-07",
-        "titulo_fuente": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
-        "capturado": "2026-09-07T10:31:34-05:00"
-      },
-      {
-        "titulo": "¿Por qué las naciones europeas están retirando sus reservas de oro de Norteamérica?",
-        "url": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o",
-        "publicacion": "2026-09-06",
-        "titulo_fuente": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
-        "capturado": "2026-09-06T15:57:40-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Demanda acusa a Amazon de discriminación sistemática contra trabajadoras en estado de embarazo",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-185633321.html",
-        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática contra empleadas embarazadas",
-        "capturado": "2026-09-08T14:16:34-05:00"
+        "titulo": "Entran en vigencia los aranceles de Canadá contra EEUU mientras la negociación sigue estancada",
+        "url": "https://es.finance.yahoo.com/noticias/aranceles-canad%C3%A1-represalia-eeuu-entran-215906145.html",
+        "titulo_fuente": "Los aranceles de Canadá en represalia contra EEUU entran en vigor con la negociación estancada",
+        "capturado": "2026-09-08T22:18:18-05:00"
       },
       {
-        "titulo": "Amazon afronta demanda que la acusa de discriminación sistemática por motivos de embarazo",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-171107100.html",
-        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática por embarazo",
-        "capturado": "2026-09-08T14:16:34-05:00"
+        "titulo": "Actualización: Índices de EEUU caen tras ataques hutíes a energía de Arabia Saudita, lo que eleva el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205651630.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los ataques de los hutíes contra la infraestructura energética de Arabia Saudita, lo que impulsa el precio del petróleo crudo.",
+        "capturado": "2026-09-08T22:18:18-05:00"
       },
       {
-        "titulo": "EE.UU. rastrea a migrantes deportados en México y Centroamérica para cobrar multas de US$423 millones",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-busca-migrantes-deportados-171054699.html",
-        "titulo_fuente": "EE.UU. busca a migrantes deportados en México y Centroamérica para cobrar US$423 millones en multas",
-        "capturado": "2026-09-08T14:16:34-05:00"
+        "titulo": "Collective Mining gestionará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año",
+        "url": "https://es.finance.yahoo.com/noticias/collective-mining-solicitar%C3%A1-licencia-ambiental-204640062.html",
+        "titulo_fuente": "Collective Mining solicitará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año.",
+        "capturado": "2026-09-08T22:18:18-05:00"
       },
       {
-        "titulo": "Reino Unido, Francia y Canadá aplican sanciones contra los asentamientos israelíes",
-        "url": "https://es.finance.yahoo.com/noticias/reino-unido-francia-canad%C3%A1-imponen-170609604.html",
-        "titulo_fuente": "Reino Unido, Francia y Canadá imponen sanciones a asentamientos israelíes",
-        "capturado": "2026-09-08T14:16:34-05:00"
+        "titulo": "Meta introduce Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
+        "url": "https://es.finance.yahoo.com/noticias/meta-presenta-muse-asistente-ia-203659394.html",
+        "titulo_fuente": "Meta presenta Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
+        "capturado": "2026-09-08T22:18:18-05:00"
       },
       {
-        "titulo": "De la Espriella flexibiliza regulación de armas y retira suspensión de permisos en Colombia",
-        "url": "https://es.finance.yahoo.com/noticias/espriella-flexibiliza-leyes-armas-levanta-165857472.html",
-        "titulo_fuente": "De la Espriella flexibiliza leyes de armas y levanta suspensión de permisos en Colombia",
-        "capturado": "2026-09-08T14:16:34-05:00"
+        "titulo": "La trilogía clásica de Donkey Kong Country para SNES tiene adaptaciones gratuitas para PC",
+        "url": "https://es-us.noticias.yahoo.com/trilog%C3%ADa-cl%C3%A1sica-donkey-kong-country-195615471.html",
+        "titulo_fuente": "La trilogía clásica de Donkey Kong Country para SNES recibe ports gratuitos para PC",
+        "capturado": "2026-09-08T22:18:18-05:00"
       }
     ]
   }
