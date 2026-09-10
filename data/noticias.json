@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-09-10T03:40:32-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-10T09:05:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Podrá la recuperación económica de Alemania superar a la AfD",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
+        "publicacion": "Thu, 10 Sep 2026 09:17:17 +0000",
+        "titulo_fuente": "Can Germany’s economic recovery outrun the AfD?",
+        "capturado": "2026-09-10T09:05:00-05:00"
+      },
+      {
+        "titulo": "El desacierto económico de los buses gratuitos",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/10/the-economic-folly-of-free-buses",
+        "publicacion": "Thu, 10 Sep 2026 09:17:11 +0000",
+        "titulo_fuente": "The economic folly of free buses",
+        "capturado": "2026-09-10T09:05:00-05:00"
+      },
       {
         "titulo": "¿Qué está impulsando la venta masiva de bonos a nivel global",
         "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
@@ -23,23 +37,16 @@
         "publicacion": "Sun, 06 Sep 2026 15:39:54 +0000",
         "titulo_fuente": "Inflation is back around the world—as is the fight against it",
         "capturado": "2026-09-06T19:38:20-05:00"
-      },
-      {
-        "titulo": "Se posterga el colapso del mercado laboral ante el auge de empleos en IA",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "publicacion": "Fri, 04 Sep 2026 18:05:02 +0000",
-        "titulo_fuente": "The jobs apocalypse is postponed. An AI jobs boom is here",
-        "capturado": "2026-09-06T19:38:20-05:00"
-      },
-      {
-        "titulo": "México afronta dificultades para ganarse la confianza de los mercados de bonos",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
-        "publicacion": "Thu, 03 Sep 2026 09:35:43 +0000",
-        "titulo_fuente": "Mexico is struggling to win over bond markets",
-        "capturado": "2026-09-06T19:38:20-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Construí de la nada un emporio de moda que me hizo multimillonaria, pero su crecimiento me llevó a la quiebra",
+        "url": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "\"Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota\"",
+        "capturado": "2026-09-10T09:05:00-05:00"
+      },
       {
         "titulo": "iPhone Duo: el costoso primer celular plegable de Apple, la jugada del nuevo líder del coloso tecnológico",
         "url": "https://www.bbc.com/mundo/articles/cgmr2k18723o",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
         "capturado": "2026-09-08T17:23:28-05:00"
-      },
-      {
-        "titulo": "Reino Unido oficializa sanciones a colonos israelíes en Cisjordania y desata airada reacción de Israel",
-        "url": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y provoca una airada respuesta de Israel",
-        "capturado": "2026-09-08T22:18:18-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Rendimientos del Tesoro de EEUU escalan ante decepción por recompra de bonos de 6.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/rendimientos-tesoro-eeuu-disparan-decepciona-081425079.html",
-        "titulo_fuente": "Rendimientos del Tesoro de EEUU se disparan, decepciona recompra de bonos de 6.000 millones",
-        "capturado": "2026-09-10T03:40:32-05:00"
+        "titulo": "Berenberg mantiene recomendación de compra para Inditex tras segundo trimestre; se reducen estimaciones",
+        "url": "https://es.finance.yahoo.com/noticias/berenberg-mantiene-recomendaci%C3%B3n-compra-inditex-133222138.html",
+        "titulo_fuente": "Berenberg mantiene su recomendación de compra para Inditex tras los resultados del segundo trimestre; las estimaciones se revisan a la baja.",
+        "capturado": "2026-09-10T09:05:00-05:00"
       },
       {
-        "titulo": "China adquiere un millón de toneladas de soya de EEUU antes de la visita de Xi, según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/china-compra-mill%C3%B3n-toneladas-soja-072339472.html",
-        "titulo_fuente": "China compra un millón de toneladas de soja de EEUU antes de la visita de Xi, según fuentes",
-        "capturado": "2026-09-10T03:40:32-05:00"
+        "titulo": "Se desploma la prima del precio del cobre en EE. UU. tras estancamiento del plan arancelario",
+        "url": "https://es.finance.yahoo.com/noticias/prima-precio-cobre-eeuu-hunde-133154345.html",
+        "titulo_fuente": "La prima del precio del cobre en EEUU se hunde tras conocerse que plan arancelario se estancó",
+        "capturado": "2026-09-10T09:05:00-05:00"
       },
       {
-        "titulo": "Expansión de la IA genera nuevos riesgos para la estabilidad financiera, según el director del BIS",
-        "url": "https://es.finance.yahoo.com/noticias/auge-ia-plantea-riesgos-estabilidad-063109048.html",
-        "titulo_fuente": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera, según director del BIS",
-        "capturado": "2026-09-10T03:40:32-05:00"
+        "titulo": "Fondos cotizados en bolsa caen y futuros de renta variable van mixtos el jueves ante inflación al productor",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131756587.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de la publicación de datos sobre la inflación de los precios al productor.",
+        "capturado": "2026-09-10T09:05:00-05:00"
       },
       {
-        "titulo": "¿Cuáles naciones europeas tienen mayor dependencia del petróleo de Ormuz?",
-        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-europeos-importan-petr%C3%B3leo-crudo-040459217.html",
-        "titulo_fuente": "¿Qué países europeos dependen más del crudo de Ormuz?",
-        "capturado": "2026-09-10T03:40:32-05:00"
+        "titulo": "Actualización: Futuros de acciones de EE. UU. bajan el jueves; operadores evalúan inflación y crudo al alza",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125840594.html",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del jueves mientras los operadores evalúan los datos de inflación en medio de precios del petróleo más altos.",
+        "capturado": "2026-09-10T09:05:00-05:00"
       },
       {
-        "titulo": "RBC ajusta pronósticos para el primer semestre postejercicio de Inditex; mantiene rendimiento superior",
-        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-previsiones-resultados-semestre-052844062.html",
-        "titulo_fuente": "RBC actualiza sus previsiones para los resultados del primer semestre posterior al ejercicio fiscal de Inditex; mantiene la recomendación de \"rendimiento superior\".",
-        "capturado": "2026-09-10T03:40:32-05:00"
+        "titulo": "El BCE eleva las tasas al 2,5% por la inflación energética en la eurozona",
+        "url": "https://es.finance.yahoo.com/noticias/bce-sube-tipos-2-5-122540006.html",
+        "titulo_fuente": "El BCE sube los tipos al 2,5% por la inflación energética en la eurozona",
+        "capturado": "2026-09-10T09:05:00-05:00"
       }
     ]
   }
