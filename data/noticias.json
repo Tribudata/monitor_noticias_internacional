@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-10T09:05:00-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-10T13:57:46-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "¿Es lícito que Trump ofrezca US$5.000 a cada estadounidense si los republicanos triunfan en noviembre?",
+        "url": "https://www.bbc.com/mundo/articles/c62jlnne88ko",
+        "publicacion": "2026-09-10",
+        "titulo_fuente": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
+        "capturado": "2026-09-10T13:57:46-05:00"
+      },
+      {
         "titulo": "Construí de la nada un emporio de moda que me hizo multimillonaria, pero su crecimiento me llevó a la quiebra",
         "url": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo",
         "publicacion": "2026-09-10",
@@ -67,13 +74,6 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "Las empresas que deciden la contratación de nuevos empleados en competencias similares a \"Factor X\"",
         "capturado": "2026-09-08T22:18:18-05:00"
-      },
-      {
-        "titulo": "Cuál es el mandatario mejor remunerado del planeta y por qué su sueldo se incrementará en US$1 millón",
-        "url": "https://www.bbc.com/mundo/articles/c3v43l909n3o",
-        "publicacion": "2026-09-08",
-        "titulo_fuente": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
-        "capturado": "2026-09-08T17:23:28-05:00"
       }
     ],
     "Yahoo": [
