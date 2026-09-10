@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T17:17:14-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-09T22:17:40-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "iPhone Duo: el costoso primer celular plegable de Apple, la jugada del nuevo líder del coloso tecnológico",
+        "url": "https://www.bbc.com/mundo/articles/cgmr2k18723o",
+        "publicacion": "2026-09-09",
+        "titulo_fuente": "iPhone Duo: el costoso primer teléfono plegable de Apple, la apuesta del nuevo jefe del gigante tecnológico",
+        "capturado": "2026-09-09T22:17:40-05:00"
+      },
+      {
         "titulo": "Por qué Cuba no genera suficientes alimentos y depende de la importación para su población, Duración 6,10",
         "url": "https://www.bbc.com/mundo/articles/c87veq4p7e3o",
         "publicacion": "PT6M10S",
@@ -67,16 +74,15 @@
         "publicacion": "2026-09-08",
         "titulo_fuente": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y provoca una airada respuesta de Israel",
         "capturado": "2026-09-08T22:18:18-05:00"
-      },
-      {
-        "titulo": "Los motivos detrás de los millones de deudores en mora en Argentina, Duración 2,54",
-        "url": "https://www.bbc.com/mundo/articles/c0rev4rqq01o",
-        "publicacion": "PT2M54S",
-        "titulo_fuente": "Por qué hay millones de deudores morosos en Argentina, Duración 2,54",
-        "capturado": "2026-09-07T22:15:41-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "DLSS 5 de NVIDIA llega al escritorio de Windows y optimiza videos, fotos y navegadores sin abrir juegos",
+        "url": "https://es-us.noticias.yahoo.com/dlss-5-nvidia-llega-escritorio-215958945.html",
+        "titulo_fuente": "DLSS 5 de NVIDIA llega al escritorio de Windows y mejora visualmente videos, fotos y navegadores sin necesidad de abrir ningún juego",
+        "capturado": "2026-09-09T22:17:40-05:00"
+      },
       {
         "titulo": "Fitch: presupuesto de Colombia para 2027 muestra gran desbalance y exige un esfuerzo importante",
         "url": "https://es.finance.yahoo.com/noticias/presupuesto-colombia-2027-muestra-profundo-215552336.html",
@@ -96,16 +102,10 @@
         "capturado": "2026-09-09T17:17:14-05:00"
       },
       {
-        "titulo": "Bessent respalda emplear el poder financiero de EEUU en política exterior, al igual que en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-apoya-usar-poder-financiero-181841792.html",
-        "titulo_fuente": "Bessent apoya usar poder financiero de EEUU como herramienta de política exterior, como en Argentina",
-        "capturado": "2026-09-09T17:17:14-05:00"
-      },
-      {
-        "titulo": "Al día: Índices de EEUU caen, tasas del Tesoro suben por recompras; guerra con Irán sube crudo sobre USD 100",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173635529.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el petróleo crudo supera la marca de los 100 dólares en medio del empeoramiento de la guerra con Irán, y los rendimientos se disparan después de que el Tesoro triplicara las recompras de deuda pública.",
-        "capturado": "2026-09-09T17:17:14-05:00"
+        "titulo": "App de NVIDIA ya muestra temperatura, velocidad y consumo del procesador al jugar sin programas de terceros",
+        "url": "https://es-us.noticias.yahoo.com/app-nvidia-muestra-pantalla-temperatura-195050311.html",
+        "titulo_fuente": "La app de NVIDIA por fin muestra en pantalla la temperatura, velocidad y consumo del procesador mientras juegas sin necesitar programas de terceros",
+        "capturado": "2026-09-09T22:17:40-05:00"
       }
     ]
   }
