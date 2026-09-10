@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-09T22:17:40-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-10T03:40:32-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "DLSS 5 de NVIDIA llega al escritorio de Windows y optimiza videos, fotos y navegadores sin abrir juegos",
-        "url": "https://es-us.noticias.yahoo.com/dlss-5-nvidia-llega-escritorio-215958945.html",
-        "titulo_fuente": "DLSS 5 de NVIDIA llega al escritorio de Windows y mejora visualmente videos, fotos y navegadores sin necesidad de abrir ningún juego",
-        "capturado": "2026-09-09T22:17:40-05:00"
+        "titulo": "Rendimientos del Tesoro de EEUU escalan ante decepción por recompra de bonos de 6.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/rendimientos-tesoro-eeuu-disparan-decepciona-081425079.html",
+        "titulo_fuente": "Rendimientos del Tesoro de EEUU se disparan, decepciona recompra de bonos de 6.000 millones",
+        "capturado": "2026-09-10T03:40:32-05:00"
       },
       {
-        "titulo": "Fitch: presupuesto de Colombia para 2027 muestra gran desbalance y exige un esfuerzo importante",
-        "url": "https://es.finance.yahoo.com/noticias/presupuesto-colombia-2027-muestra-profundo-215552336.html",
-        "titulo_fuente": "Presupuesto de Colombia para 2027 muestra profundo desequilibrio y requiere esfuerzo significativo: Fitch",
-        "capturado": "2026-09-09T17:17:14-05:00"
+        "titulo": "China adquiere un millón de toneladas de soya de EEUU antes de la visita de Xi, según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/china-compra-mill%C3%B3n-toneladas-soja-072339472.html",
+        "titulo_fuente": "China compra un millón de toneladas de soja de EEUU antes de la visita de Xi, según fuentes",
+        "capturado": "2026-09-10T03:40:32-05:00"
       },
       {
-        "titulo": "Al día: Índices de EEUU caen, tasas del Tesoro suben por Bessent; guerra con Irán sube Brent a más de USD 100",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210157822.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que suben los rendimientos de los bonos del Tesoro después de que Bessent triplicara el tamaño de su programa de recompra, lo que empeora la guerra con Irán y eleva el precio del crudo Brent por encima de los 100 dólares.",
-        "capturado": "2026-09-09T17:17:14-05:00"
+        "titulo": "Expansión de la IA genera nuevos riesgos para la estabilidad financiera, según el director del BIS",
+        "url": "https://es.finance.yahoo.com/noticias/auge-ia-plantea-riesgos-estabilidad-063109048.html",
+        "titulo_fuente": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera, según director del BIS",
+        "capturado": "2026-09-10T03:40:32-05:00"
       },
       {
-        "titulo": "Secretario Rubio gestionará 45 millones de dólares en recursos de seguridad para Ecuador",
-        "url": "https://es.finance.yahoo.com/noticias/secretario-rubio-buscar%C3%A1-45-millones-200959588.html",
-        "titulo_fuente": "Secretario Rubio dice que buscará 45 millones de dólares en fondos de seguridad para Ecuador",
-        "capturado": "2026-09-09T17:17:14-05:00"
+        "titulo": "¿Cuáles naciones europeas tienen mayor dependencia del petróleo de Ormuz?",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-europeos-importan-petr%C3%B3leo-crudo-040459217.html",
+        "titulo_fuente": "¿Qué países europeos dependen más del crudo de Ormuz?",
+        "capturado": "2026-09-10T03:40:32-05:00"
       },
       {
-        "titulo": "App de NVIDIA ya muestra temperatura, velocidad y consumo del procesador al jugar sin programas de terceros",
-        "url": "https://es-us.noticias.yahoo.com/app-nvidia-muestra-pantalla-temperatura-195050311.html",
-        "titulo_fuente": "La app de NVIDIA por fin muestra en pantalla la temperatura, velocidad y consumo del procesador mientras juegas sin necesitar programas de terceros",
-        "capturado": "2026-09-09T22:17:40-05:00"
+        "titulo": "RBC ajusta pronósticos para el primer semestre postejercicio de Inditex; mantiene rendimiento superior",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-previsiones-resultados-semestre-052844062.html",
+        "titulo_fuente": "RBC actualiza sus previsiones para los resultados del primer semestre posterior al ejercicio fiscal de Inditex; mantiene la recomendación de \"rendimiento superior\".",
+        "capturado": "2026-09-10T03:40:32-05:00"
       }
     ]
   }
