@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T03:37:04-05:00",
+  "actualizado": "2026-09-11T09:04:34-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La economía de Francia está a salvo pero se debe disminuir el déficit, según el banco central",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-corre-peligro-reducir-081108775.html",
-        "titulo_fuente": "La economía francesa no corre peligro, pero hay que reducir el déficit, afirma el banco central",
-        "capturado": "2026-09-11T03:37:04-05:00"
+        "titulo": "El costo de vida en EE UU sigue en el 3,4 % y los precios registran su mayor alza desde mayo",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-ee-uu-mantiene-3-132658356.html",
+        "titulo_fuente": "La inflación de EE UU se mantiene en el 3,4% y los precios suben al ritmo más rápido desde mayo",
+        "capturado": "2026-09-11T09:04:34-05:00"
       },
       {
-        "titulo": "Francia se queda rezagada en crecimiento frente a sus vecinos europeos",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-francia-queda-atr%C3%A1s-vecinos-074852175.html",
-        "titulo_fuente": "Crecimiento, Francia se queda atrás respecto a sus vecinos europeos",
-        "capturado": "2026-09-11T03:37:04-05:00"
+        "titulo": "Fondos cotizados y futuros de renta variable suben el viernes antes de la apertura por datos de inflación",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131424179.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable suben antes de la apertura del mercado el viernes tras la publicación de datos de inflación.",
+        "capturado": "2026-09-11T09:04:34-05:00"
       },
       {
-        "titulo": "¿Podrá el alza de tasas del BCE frenar el choque inflacionario provocado por la energía?",
-        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-frenar-shock-053543030.html",
-        "titulo_fuente": "¿Puede la subida de tipos del BCE frenar el shock inflacionista provocado por la energía?",
-        "capturado": "2026-09-11T03:37:04-05:00"
+        "titulo": "La inflación al consumidor en EE UU vuelve a subir en agosto",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-consumo-eeuu-repunta-agosto-125802534.html",
+        "titulo_fuente": "La inflación al consumo en EEUU repunta en agosto",
+        "capturado": "2026-09-11T09:04:34-05:00"
       },
       {
-        "titulo": "Anthropic señala que la IA podría generar un crecimiento del 15% y desempleo masivo en 2030",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-afirma-ia-aportar-crecimiento-050023056.html",
-        "titulo_fuente": "Anthropic afirma que la IA podría aportar un crecimiento del 15% y desempleo masivo en 2030",
-        "capturado": "2026-09-11T03:37:04-05:00"
+        "titulo": "Actualización: Futuros de acciones de EE UU suben antes de abrir al analizarse inflación y caída del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-125437705.html",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan más datos de inflación y la caída de los precios del petróleo.",
+        "capturado": "2026-09-11T09:04:34-05:00"
       },
       {
-        "titulo": "La cotización de Cardano encara un avance de 5 ondas",
-        "url": "https://es.finance.yahoo.com/noticias/precio-cardano-enfrenta-avance-5-005000594.html",
-        "titulo_fuente": "El precio de Cardano se enfrenta a un avance de 5 ondas",
-        "capturado": "2026-09-11T03:37:04-05:00"
+        "titulo": "Fondo petrolero estatal de Azerbaiyán promueve la creación del consejo de inversión China-ASEAN",
+        "url": "https://es.finance.yahoo.com/noticias/fondo-petrolero-estatal-azerbaiy%C3%A1n-impulsa-122035053.html",
+        "titulo_fuente": "El fondo petrolero estatal de Azerbaiyán impulsa la creación del consejo de inversión China-ASEAN",
+        "capturado": "2026-09-11T09:04:34-05:00"
       }
     ]
   }
