@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-10T17:17:03-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-10T22:13:08-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Berenberg mantiene recomendación de compra para Inditex tras segundo trimestre; se reducen estimaciones",
-        "url": "https://es.finance.yahoo.com/noticias/berenberg-mantiene-recomendaci%C3%B3n-compra-inditex-133222138.html",
-        "titulo_fuente": "Berenberg mantiene su recomendación de compra para Inditex tras los resultados del segundo trimestre; las estimaciones se revisan a la baja.",
-        "capturado": "2026-09-10T09:05:00-05:00"
+        "titulo": "No Man’s Sky cumple 10 años con su mayor actualización de estaciones espaciales gratis y viajan directo al sol",
+        "url": "https://es-us.noticias.yahoo.com/man-s-sky-celebra-10-214251895.html",
+        "titulo_fuente": "No Man’s Sky celebra 10 años con su mayor actualización gratuita con estaciones espaciales y jugadores ignoran todo lo nuevo para volar directo al sol",
+        "capturado": "2026-09-10T22:13:08-05:00"
       },
       {
-        "titulo": "Se desploma la prima del precio del cobre en EE. UU. tras estancamiento del plan arancelario",
-        "url": "https://es.finance.yahoo.com/noticias/prima-precio-cobre-eeuu-hunde-133154345.html",
-        "titulo_fuente": "La prima del precio del cobre en EEUU se hunde tras conocerse que plan arancelario se estancó",
-        "capturado": "2026-09-10T09:05:00-05:00"
+        "titulo": "Índices de EEUU caen, retornos de bonos del Tesoro suben por inflación mayorista e Irán amenaza el Mar Rojo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205815348.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras los rendimientos de los bonos del Tesoro se disparan en medio de un fuerte aumento de la inflación mayorista; la escalada de la guerra con Irán amenaza un punto estratégico en el Mar Rojo.",
+        "capturado": "2026-09-10T22:13:08-05:00"
       },
       {
-        "titulo": "Fondos cotizados en bolsa caen y futuros de renta variable van mixtos el jueves ante inflación al productor",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131756587.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de la publicación de datos sobre la inflación de los precios al productor.",
-        "capturado": "2026-09-10T09:05:00-05:00"
+        "titulo": "Italia extiende una semana la rebaja de tasas al gasóleo: será el último descuento general",
+        "url": "https://es.finance.yahoo.com/noticias/italia-prolonga-semana-rebaja-impuesto-165245370.html",
+        "titulo_fuente": "Italia prorroga una semana la rebaja de las tasas al gasóleo: será el último descuento general",
+        "capturado": "2026-09-10T22:13:08-05:00"
       },
       {
-        "titulo": "Actualización: Futuros de acciones de EE. UU. bajan el jueves; operadores evalúan inflación y crudo al alza",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125840594.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del jueves mientras los operadores evalúan los datos de inflación en medio de precios del petróleo más altos.",
-        "capturado": "2026-09-10T09:05:00-05:00"
+        "titulo": "Windows suma soporte para gatillos adaptativos, vibración e iluminación del DualSense de PS5 en juegos de PC",
+        "url": "https://es-us.noticias.yahoo.com/windows-a%C3%B1ade-soporte-gatillos-adaptativos-201239984.html",
+        "titulo_fuente": "Windows añade soporte para los gatillos adaptativos, vibración e iluminación del DualSense de PS5 en juegos de PC",
+        "capturado": "2026-09-10T22:13:08-05:00"
       },
       {
-        "titulo": "El BCE eleva las tasas al 2,5% por la inflación energética en la eurozona",
-        "url": "https://es.finance.yahoo.com/noticias/bce-sube-tipos-2-5-122540006.html",
-        "titulo_fuente": "El BCE sube los tipos al 2,5% por la inflación energética en la eurozona",
-        "capturado": "2026-09-10T09:05:00-05:00"
+        "titulo": "Jugadores activan FSR 4.1.1b en Radeon RX 6000 con un archivo DLL, adelantando meses los planes de AMD",
+        "url": "https://es-us.noticias.yahoo.com/jugadores-logran-activar-fsr-4-192209745.html",
+        "titulo_fuente": "Jugadores logran activar FSR 4.1.1b en tarjetas gráficas Radeon RX 6000 usando solo un archivo DLL, adelantando meses los planes de AMD",
+        "capturado": "2026-09-10T22:13:08-05:00"
       }
     ]
   }
