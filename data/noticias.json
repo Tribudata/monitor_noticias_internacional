@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-09-11T09:04:34-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-11T13:59:25-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El repunte en los rendimientos de los bonos anticipa dificultades no solo para sus inversionistas",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+        "publicacion": "Fri, 11 Sep 2026 16:02:32 +0000",
+        "titulo_fuente": "Surging bond yields presage pain—and not just for bond investors",
+        "capturado": "2026-09-11T13:59:25-05:00"
+      },
       {
         "titulo": "¿Podrá la recuperación económica de Alemania superar a la AfD",
         "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
@@ -30,13 +37,6 @@
         "publicacion": "Tue, 08 Sep 2026 16:18:35 +0000",
         "titulo_fuente": "China’s $54bn capital boost for banks falls far short",
         "capturado": "2026-09-08T14:16:34-05:00"
-      },
-      {
-        "titulo": "La inflación regresa a nivel global y se reactiva la batalla para contenerla",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
-        "publicacion": "Sun, 06 Sep 2026 15:39:54 +0000",
-        "titulo_fuente": "Inflation is back around the world—as is the fight against it",
-        "capturado": "2026-09-06T19:38:20-05:00"
       }
     ],
     "BBC": [
