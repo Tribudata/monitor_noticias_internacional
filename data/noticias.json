@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-09-11T22:19:25-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-12T03:23:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Se buscan nuevos practicantes en negocios, finanzas y economía",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
+        "publicacion": "Sat, 12 Sep 2026 08:04:14 +0000",
+        "titulo_fuente": "Wanted: new business, finance and economics interns",
+        "capturado": "2026-09-12T03:23:26-05:00"
+      },
       {
         "titulo": "El repunte en los rendimientos de los bonos anticipa dificultades no solo para sus inversionistas",
         "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
         "publicacion": "Tue, 08 Sep 2026 18:15:09 +0000",
         "titulo_fuente": "What is causing the global bond sell-off?",
-        "capturado": "2026-09-08T14:16:34-05:00"
-      },
-      {
-        "titulo": "La inyección de capital de China por US$54.000 millones para los bancos resulta muy insuficiente",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
-        "publicacion": "Tue, 08 Sep 2026 16:18:35 +0000",
-        "titulo_fuente": "China’s $54bn capital boost for banks falls far short",
         "capturado": "2026-09-08T14:16:34-05:00"
       }
     ],
