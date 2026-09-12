@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T03:23:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T08:22:05-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "El costo de vida en EE UU sigue en el 3,4 % y los precios registran su mayor alza desde mayo",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-ee-uu-mantiene-3-132658356.html",
-        "titulo_fuente": "La inflación de EE UU se mantiene en el 3,4% y los precios suben al ritmo más rápido desde mayo",
-        "capturado": "2026-09-11T09:04:34-05:00"
+        "titulo": "Trabajar más tiempo por la misma remuneración: la iniciativa del CEO de STIHL",
+        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
+        "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
+        "capturado": "2026-09-12T08:22:05-05:00"
       },
       {
-        "titulo": "Fondos cotizados y futuros de renta variable suben el viernes antes de la apertura por datos de inflación",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131424179.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable suben antes de la apertura del mercado el viernes tras la publicación de datos de inflación.",
-        "capturado": "2026-09-11T09:04:34-05:00"
+        "titulo": "Jim Cramer: el Bono del Tesoro a 30 años es el líder en este momento",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-bono-tesoro-30-084400615.html",
+        "titulo_fuente": "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
+        "capturado": "2026-09-12T08:22:05-05:00"
       },
       {
-        "titulo": "La inflación al consumidor en EE UU vuelve a subir en agosto",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-consumo-eeuu-repunta-agosto-125802534.html",
-        "titulo_fuente": "La inflación al consumo en EEUU repunta en agosto",
-        "capturado": "2026-09-11T09:04:34-05:00"
+        "titulo": "Bank of America alerta sobre el retiro de capitales en Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-advierte-salida-050000796.html",
+        "titulo_fuente": "Bank of America advierte sobre la salida de capital en Wall Street",
+        "capturado": "2026-09-12T08:22:05-05:00"
       },
       {
-        "titulo": "Actualización: Futuros de acciones de EE UU suben antes de abrir al analizarse inflación y caída del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-125437705.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan más datos de inflación y la caída de los precios del petróleo.",
-        "capturado": "2026-09-11T09:04:34-05:00"
+        "titulo": "Puntos clave y fundamentales que el Ibex 35 no debe ceder",
+        "url": "https://es.finance.yahoo.com/noticias/niveles-clave-fundamentales-ibex-35-045000417.html",
+        "titulo_fuente": "\"Niveles clave y fundamentales que el Ibex 35 no debe perder\"",
+        "capturado": "2026-09-12T08:22:05-05:00"
       },
       {
-        "titulo": "Fondo petrolero estatal de Azerbaiyán promueve la creación del consejo de inversión China-ASEAN",
-        "url": "https://es.finance.yahoo.com/noticias/fondo-petrolero-estatal-azerbaiy%C3%A1n-impulsa-122035053.html",
-        "titulo_fuente": "El fondo petrolero estatal de Azerbaiyán impulsa la creación del consejo de inversión China-ASEAN",
-        "capturado": "2026-09-11T09:04:34-05:00"
+        "titulo": "Para 2026 la meta es ser la promotora con más viviendas entregadas en la historia del país",
+        "url": "https://es.finance.yahoo.com/noticias/2026-aspiramos-convertirnos-promotor-viviendas-040000205.html",
+        "titulo_fuente": "“En 2026 aspiramos a convertirnos en el promotor que más viviendas habrá entregado en la historia de nuestro país”",
+        "capturado": "2026-09-12T08:22:05-05:00"
       }
     ]
   }
