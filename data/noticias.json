@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T15:13:45-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-12T18:46:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -84,6 +84,18 @@
         "capturado": "2026-09-12T15:13:45-05:00"
       },
       {
+        "titulo": "Blizzard: World of Warcraft Forever, 4-nov: nueva raza, 9 mazmorras, 3 zonas, beta, 2 campañas de Warcraft 3",
+        "url": "https://es-us.noticias.yahoo.com/blizzard-anuncia-world-of-warcraft-191104087.html",
+        "titulo_fuente": "Blizzard anuncia World of Warcraft Forever: llega el 4 de noviembre con nueva raza, 9 mazmorras y 3 zonas, beta la próxima semana y dos campañas nuevas para Warcraft 3",
+        "capturado": "2026-09-12T18:46:08-05:00"
+      },
+      {
+        "titulo": "StarCraft retorna en 2030 como shooter: BlizzCon mostró primer tráiler tras años de rumores y 2 cancelaciones",
+        "url": "https://es-us.noticias.yahoo.com/starcraft-vuelve-2030-shooter-blizzcon-181213069.html",
+        "titulo_fuente": "StarCraft vuelve en 2030 como shooter: en BlizzCon mostró su primer tráiler tras años de rumores y dos intentos cancelados",
+        "capturado": "2026-09-12T18:46:08-05:00"
+      },
+      {
         "titulo": "Capgemini vende su división estadounidense, objeto de críticas por su contrato con el ICE",
         "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
         "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
@@ -93,18 +105,6 @@
         "titulo": "Elon Musk: Tesla construye el Cybercab a una velocidad más de cinco veces mayor",
         "url": "https://es.finance.yahoo.com/noticias/elon-musk-tesla-fabrica-cybercab-170042576.html",
         "titulo_fuente": "Elon Musk: Tesla fabrica el Cybercab más de cinco veces más rápido",
-        "capturado": "2026-09-12T15:13:45-05:00"
-      },
-      {
-        "titulo": "Boicot canadiense a productos de EEUU obliga a supermercados a buscar nuevas fuentes de abastecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
-        "titulo_fuente": "Boicot canadiense a productos EEUU obliga a supermercados a buscar nuevas fuentes de suministro",
-        "capturado": "2026-09-12T11:46:37-05:00"
-      },
-      {
-        "titulo": "Bitcoin contra el oro: el indicio que consolida la postura optimista de Cathie Wood",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-frente-oro-se%C3%B1al-refuerza-100021532.html",
-        "titulo_fuente": "Bitcoin frente al oro: la señal que refuerza el optimismo de Cathie Wood",
         "capturado": "2026-09-12T15:13:45-05:00"
       }
     ]
