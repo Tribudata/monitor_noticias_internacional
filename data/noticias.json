@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T11:46:37-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T15:13:45-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "El elevado precio del crudo forzaría al BCE a incrementar más las tasas, declara funcionario al FT",
+        "url": "https://es.finance.yahoo.com/noticias/altos-precios-crudo-obligar-bce-193244714.html",
+        "titulo_fuente": "Altos precios del crudo podrían obligar al BCE a subir más las tasas, dice funcionario al FT",
+        "capturado": "2026-09-12T15:13:45-05:00"
+      },
+      {
+        "titulo": "Capgemini vende su división estadounidense, objeto de críticas por su contrato con el ICE",
+        "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
+        "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
+        "capturado": "2026-09-12T15:13:45-05:00"
+      },
+      {
+        "titulo": "Elon Musk: Tesla construye el Cybercab a una velocidad más de cinco veces mayor",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-tesla-fabrica-cybercab-170042576.html",
+        "titulo_fuente": "Elon Musk: Tesla fabrica el Cybercab más de cinco veces más rápido",
+        "capturado": "2026-09-12T15:13:45-05:00"
+      },
+      {
         "titulo": "Boicot canadiense a productos de EEUU obliga a supermercados a buscar nuevas fuentes de abastecimiento",
         "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
         "titulo_fuente": "Boicot canadiense a productos EEUU obliga a supermercados a buscar nuevas fuentes de suministro",
         "capturado": "2026-09-12T11:46:37-05:00"
       },
       {
-        "titulo": "Trabajar más tiempo por la misma remuneración: la iniciativa del CEO de STIHL",
-        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
-        "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
-        "capturado": "2026-09-12T08:22:05-05:00"
-      },
-      {
-        "titulo": "Jim Cramer: el Bono del Tesoro a 30 años es el líder en este momento",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-bono-tesoro-30-084400615.html",
-        "titulo_fuente": "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
-        "capturado": "2026-09-12T08:22:05-05:00"
-      },
-      {
-        "titulo": "Bank of America alerta sobre el retiro de capitales en Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-advierte-salida-050000796.html",
-        "titulo_fuente": "Bank of America advierte sobre la salida de capital en Wall Street",
-        "capturado": "2026-09-12T08:22:05-05:00"
-      },
-      {
-        "titulo": "Puntos clave y fundamentales que el Ibex 35 no debe ceder",
-        "url": "https://es.finance.yahoo.com/noticias/niveles-clave-fundamentales-ibex-35-045000417.html",
-        "titulo_fuente": "\"Niveles clave y fundamentales que el Ibex 35 no debe perder\"",
-        "capturado": "2026-09-12T08:22:05-05:00"
+        "titulo": "Bitcoin contra el oro: el indicio que consolida la postura optimista de Cathie Wood",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-frente-oro-se%C3%B1al-refuerza-100021532.html",
+        "titulo_fuente": "Bitcoin frente al oro: la señal que refuerza el optimismo de Cathie Wood",
+        "capturado": "2026-09-12T15:13:45-05:00"
       }
     ]
   }
