@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T08:22:05-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-12T11:46:37-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Boicot canadiense a productos de EEUU obliga a supermercados a buscar nuevas fuentes de abastecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
+        "titulo_fuente": "Boicot canadiense a productos EEUU obliga a supermercados a buscar nuevas fuentes de suministro",
+        "capturado": "2026-09-12T11:46:37-05:00"
+      },
+      {
         "titulo": "Trabajar más tiempo por la misma remuneración: la iniciativa del CEO de STIHL",
         "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
         "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
@@ -99,12 +105,6 @@
         "titulo": "Puntos clave y fundamentales que el Ibex 35 no debe ceder",
         "url": "https://es.finance.yahoo.com/noticias/niveles-clave-fundamentales-ibex-35-045000417.html",
         "titulo_fuente": "\"Niveles clave y fundamentales que el Ibex 35 no debe perder\"",
-        "capturado": "2026-09-12T08:22:05-05:00"
-      },
-      {
-        "titulo": "Para 2026 la meta es ser la promotora con más viviendas entregadas en la historia del país",
-        "url": "https://es.finance.yahoo.com/noticias/2026-aspiramos-convertirnos-promotor-viviendas-040000205.html",
-        "titulo_fuente": "“En 2026 aspiramos a convertirnos en el promotor que más viviendas habrá entregado en la historia de nuestro país”",
         "capturado": "2026-09-12T08:22:05-05:00"
       }
     ]
