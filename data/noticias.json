@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-13T04:00:23-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-13T09:04:42-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Suspensión en oleoducto saudí pone en riesgo el 4% del abastecimiento mundial de petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/interrupci%C3%B3n-oleoducto-saud%C3%AD-amenaza-provocar-133725227.html",
+        "titulo_fuente": "Interrupción de oleoducto saudí amenaza con provocar pérdida de 4% del suministro mundial de crudo",
+        "capturado": "2026-09-13T09:04:42-05:00"
+      },
+      {
+        "titulo": "Caroline Ellison de FTX ahora se llama Carol y trabaja de forma oculta para una organización benéfica",
+        "url": "https://es.finance.yahoo.com/noticias/caroline-ellison-ftx-carol-trabaja-110800569.html",
+        "titulo_fuente": "Caroline Ellison de FTX ahora es “Carol” y trabaja en secreto para una organización benéfica",
+        "capturado": "2026-09-13T09:04:42-05:00"
+      },
+      {
+        "titulo": "El desarrollo de la tokenización en Brasil se dinamiza con un plan de crédito de $2 mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/impulso-tokenizaci%C3%B3n-brasil-acelera-plan-085000304.html",
+        "titulo_fuente": "El impulso de la tokenización en Brasil se acelera con un plan de crédito de $2 mil millones",
+        "capturado": "2026-09-13T09:04:42-05:00"
+      },
+      {
         "titulo": "Capgemini vende su subsidiaria estadounidense, cuestionada por su contrato con el ICE",
         "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
         "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
@@ -87,24 +105,6 @@
         "titulo": "Descargue gratis Spider-Man: Edge of Time para PC con soporte nativo de teclado, mouse y DLSS 5 tras 15 años",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-spider-man-edge-231059050.html",
         "titulo_fuente": "Descarga gratis Spider-Man: Edge of Time para PC con soporte nativo para teclado, mouse y DLSS 5 opcional, 15 años después de su lanzamiento",
-        "capturado": "2026-09-12T22:24:20-05:00"
-      },
-      {
-        "titulo": "Diablo tendrá serie animada en Netflix y se anuncian adaptaciones de Overwatch y Warcraft a cine y televisión",
-        "url": "https://es-us.noticias.yahoo.com/diablo-serie-animada-netflix-anuncia-224236506.html",
-        "titulo_fuente": "Diablo tendrá serie animada en Netflix y anuncia que Overwatch y Warcraft también tendrán adaptaciones para cine y televisión",
-        "capturado": "2026-09-12T22:24:20-05:00"
-      },
-      {
-        "titulo": "¿Puede una mosca virtual hacer trading de Bitcoin? Ingeniero de Coinbase crea un escenario surrealista",
-        "url": "https://es.finance.yahoo.com/noticias/mosca-virtual-trading-bitcoin-ingeniero-222600589.html",
-        "titulo_fuente": "¿Una mosca virtual puede hacer trading de Bitcoin? Ingeniero de Coinbase crea escenario surrealista",
-        "capturado": "2026-09-12T22:24:20-05:00"
-      },
-      {
-        "titulo": "Consiguen ejecutar juegos de Nintendo Switch de forma nativa en PC sin emulación por primera vez",
-        "url": "https://es-us.noticias.yahoo.com/logran-correr-juegos-nintendo-switch-214310104.html",
-        "titulo_fuente": "Logran correr juegos de Nintendo Switch de forma nativa en PC sin emulación por primera vez",
         "capturado": "2026-09-12T22:24:20-05:00"
       }
     ]
