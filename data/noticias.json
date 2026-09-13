@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T22:24:20-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-13T04:00:23-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Capgemini vende su subsidiaria estadounidense, cuestionada por su contrato con el ICE",
+        "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
+        "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
+        "capturado": "2026-09-13T04:00:23-05:00"
+      },
+      {
         "titulo": "Descargue gratis Spider-Man: Edge of Time para PC con soporte nativo de teclado, mouse y DLSS 5 tras 15 años",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-spider-man-edge-231059050.html",
         "titulo_fuente": "Descarga gratis Spider-Man: Edge of Time para PC con soporte nativo para teclado, mouse y DLSS 5 opcional, 15 años después de su lanzamiento",
@@ -99,12 +105,6 @@
         "titulo": "Consiguen ejecutar juegos de Nintendo Switch de forma nativa en PC sin emulación por primera vez",
         "url": "https://es-us.noticias.yahoo.com/logran-correr-juegos-nintendo-switch-214310104.html",
         "titulo_fuente": "Logran correr juegos de Nintendo Switch de forma nativa en PC sin emulación por primera vez",
-        "capturado": "2026-09-12T22:24:20-05:00"
-      },
-      {
-        "titulo": "Tom Lee prevé que los próximos 12 meses serán sumamente alcistas para las criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/tom-lee-12-meses-realmente-201500975.html",
-        "titulo_fuente": "Tom Lee: los próximos 12 meses serán “realmente alcistas” para las criptomonedas",
         "capturado": "2026-09-12T22:24:20-05:00"
       }
     ]
