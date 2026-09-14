@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-13T22:35:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-14T04:36:02-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Suspensión en oleoducto saudí pone en riesgo el 4% del abastecimiento mundial de petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/interrupci%C3%B3n-oleoducto-saud%C3%AD-amenaza-provocar-133725227.html",
-        "titulo_fuente": "Interrupción de oleoducto saudí amenaza con provocar pérdida de 4% del suministro mundial de crudo",
-        "capturado": "2026-09-13T09:04:42-05:00"
+        "titulo": "Inversionistas de acciones de EE. UU. atentos a giro restrictivo de la Reserva Federal y geopolítica de Irán",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidenses-estar%C3%A1n-093051425.html",
+        "titulo_fuente": "Los inversores en renta variable estadounidenses estarán atentos a un posible giro hacia una postura más restrictiva en los anuncios de política monetaria de la Reserva Federal, centrándose esta semana en la geopolítica iraní.",
+        "capturado": "2026-09-14T04:36:02-05:00"
       },
       {
-        "titulo": "Caroline Ellison de FTX ahora se llama Carol y trabaja de forma oculta para una organización benéfica",
-        "url": "https://es.finance.yahoo.com/noticias/caroline-ellison-ftx-carol-trabaja-110800569.html",
-        "titulo_fuente": "Caroline Ellison de FTX ahora es “Carol” y trabaja en secreto para una organización benéfica",
-        "capturado": "2026-09-13T09:04:42-05:00"
+        "titulo": "APK-Inform incrementa proyección de cosecha de grano de Ucrania para 2026 y reduce exportaciones",
+        "url": "https://es.finance.yahoo.com/noticias/apk-inform-eleva-previsi%C3%B3n-cosecha-090259159.html",
+        "titulo_fuente": "APK-Inform eleva la previsión de cosecha de grano de Ucrania para 2026 y rebaja las exportaciones",
+        "capturado": "2026-09-14T04:36:02-05:00"
       },
       {
-        "titulo": "El desarrollo de la tokenización en Brasil se dinamiza con un plan de crédito de $2 mil millones",
-        "url": "https://es.finance.yahoo.com/noticias/impulso-tokenizaci%C3%B3n-brasil-acelera-plan-085000304.html",
-        "titulo_fuente": "El impulso de la tokenización en Brasil se acelera con un plan de crédito de $2 mil millones",
-        "capturado": "2026-09-13T09:04:42-05:00"
+        "titulo": "El crudo sobrepasa los 108 dólares tras recientes ataques en Ormuz y cierre de oleoducto en Arabia Saudita",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-107-d%C3%B3lares-ataque-074233267.html",
+        "titulo_fuente": "El petróleo supera los 108 dólares tras los últimos ataques en Ormuz y el cierre de oleoducto en Arabia Saudí",
+        "capturado": "2026-09-14T04:36:02-05:00"
       },
       {
-        "titulo": "Capgemini vende su subsidiaria estadounidense, cuestionada por su contrato con el ICE",
-        "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
-        "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
-        "capturado": "2026-09-13T04:00:23-05:00"
+        "titulo": "Berenberg incrementa el precio objetivo de Repsol ante la solidez de sus márgenes de refinación",
+        "url": "https://es.finance.yahoo.com/noticias/berenberg-eleva-precio-objetivo-repsol-075058522.html",
+        "titulo_fuente": "Berenberg eleva el precio objetivo de Repsol en medio de unos márgenes de refino \"sólidos\".",
+        "capturado": "2026-09-14T04:36:02-05:00"
       },
       {
-        "titulo": "Descargue gratis Spider-Man: Edge of Time para PC con soporte nativo de teclado, mouse y DLSS 5 tras 15 años",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-spider-man-edge-231059050.html",
-        "titulo_fuente": "Descarga gratis Spider-Man: Edge of Time para PC con soporte nativo para teclado, mouse y DLSS 5 opcional, 15 años después de su lanzamiento",
-        "capturado": "2026-09-12T22:24:20-05:00"
+        "titulo": "Donald Trump promete retirar el arancel del 15% al whisky irlandés",
+        "url": "https://es.finance.yahoo.com/noticias/donald-trump-promete-eliminar-arancel-030619198.html",
+        "titulo_fuente": "Donald Trump promete eliminar el arancel del 15% al whisky irlandés",
+        "capturado": "2026-09-14T04:36:02-05:00"
       }
     ]
   }
