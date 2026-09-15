@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T02:14:13-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-15T08:10:05-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Congreso de Colombia autoriza presupuesto de gastos para 2027 por 206.655 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-monto-presupuesto-231453882.html",
-        "titulo_fuente": "Congreso de Colombia aprueba monto de presupuesto de gastos para 2027 por 206.655 millones de dólares",
-        "capturado": "2026-09-14T19:19:34-05:00"
+        "titulo": "Transportadores afirman que el Danubio triplica el tiempo de tránsito del grano de Ucrania a Egipto",
+        "url": "https://es.finance.yahoo.com/noticias/danubio-triplica-tiempos-tr%C3%A1nsito-grano-125942545.html",
+        "titulo_fuente": "El Danubio triplica los tiempos de tránsito del grano de Ucrania a Egipto, según transportistas",
+        "capturado": "2026-09-15T08:10:05-05:00"
       },
       {
-        "titulo": "Actualización: Semiconductores bajan bolsas de EE. UU. y tasa de bonos del Tesoro de referencia llega al 5%",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-semiconductores-contribuyen-ca%C3%ADda-%C3%ADndices-212047887.html",
-        "titulo_fuente": "Actualización: Los semiconductores contribuyen a la caída de los índices bursátiles estadounidenses, mientras que el rendimiento de los bonos del Tesoro de referencia alcanza el 5%.",
-        "capturado": "2026-09-14T19:19:34-05:00"
+        "titulo": "Al día: Futuros de acciones de EE.UU. caen antes de abrir; bonos a 10 años superan 5% ante decisión de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-caen-125323609.html",
+        "titulo_fuente": "Actualización: Los futuros sobre acciones estadounidenses caen antes de la apertura, ya que el rendimiento de los bonos del Tesoro a 10 años supera el 5 % a la espera de la decisión de la Fed",
+        "capturado": "2026-09-15T08:10:05-05:00"
       },
       {
-        "titulo": "Tesoro de EE. UU. frena cambios de gobernanza en Citgo y sus empresas matrices",
-        "url": "https://es.finance.yahoo.com/noticias/tesoro-eeuu-bloquea-cambios-gobernanza-202558529.html",
-        "titulo_fuente": "Tesoro de EEUU bloquea cambios de gobernanza en Citgo y sus empresas matrices",
-        "capturado": "2026-09-14T19:19:34-05:00"
+        "titulo": "El BCE pide a los ciudadanos europeos elegir el diseño de los nuevos billetes de euro",
+        "url": "https://es.finance.yahoo.com/noticias/bce-invita-europeos-votar-dise%C3%B1os-112326987.html",
+        "titulo_fuente": "Así serán los nuevos billetes de euro: el BCE pide a los europeos que elijan su diseño",
+        "capturado": "2026-09-15T08:10:05-05:00"
       },
       {
-        "titulo": "Monsanto de Bayer solicita a juez de Misuri avalar pacto de 7.250 millones de dólares por Roundup",
-        "url": "https://es.finance.yahoo.com/noticias/monsanto-bayer-insta-juez-misuri-191128835.html",
-        "titulo_fuente": "Monsanto de Bayer insta a juez de Misuri a aprobar acuerdo de 7.250 millones de dólares por Roundup",
-        "capturado": "2026-09-14T19:19:34-05:00"
+        "titulo": "Francia ya paga más que Grecia por su deuda: ¿qué pasa con la economía francesa?",
+        "url": "https://es.finance.yahoo.com/noticias/grecia-financia-barato-francia-110140282.html",
+        "titulo_fuente": "Francia ya paga más que Grecia por su deuda: ¿Qué está pasando con la Economía francesa?",
+        "capturado": "2026-09-15T08:10:05-05:00"
       },
       {
-        "titulo": "RPCS3: 78% de PS3 en PC, requisitos para 2026 y admite Colección de Jak and Daxter y LittleBigPlanet Karting",
-        "url": "https://es-us.noticias.yahoo.com/rpcs3-llega-78-cat%C3%A1logo-ps3-183209321.html",
-        "titulo_fuente": "RPCS3 llega al 78% del catálogo de PS3 jugable en PC y actualiza sus requerimientos para 2026: Colección de Jak and Daxter y LittleBigPlanet Karting ya son compatibles",
-        "capturado": "2026-09-14T19:19:34-05:00"
+        "titulo": "Santander gana recurso en Reino Unido contra fallo de AXA por 912 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/santander-gana-recurso-presentado-reino-123420449.html",
+        "titulo_fuente": "Santander gana el recurso presentado en Reino Unido contra la sentencia de 912 millones de dólares de AXA",
+        "capturado": "2026-09-15T08:10:05-05:00"
       }
     ]
   }
