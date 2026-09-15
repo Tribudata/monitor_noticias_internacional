@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-09-15T12:56:28-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-15T15:59:22-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Lo que la mayor oferta pública inicial de África puede aportar a sus mercados accionarios",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+        "publicacion": "Tue, 15 Sep 2026 20:44:13 +0000",
+        "titulo_fuente": "What Africa’s biggest IPO can do for its stock markets",
+        "capturado": "2026-09-15T15:59:22-05:00"
+      },
+      {
+        "titulo": "Scott Bessent debería dejar de culpar al mercado de bonos",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
+        "publicacion": "Tue, 15 Sep 2026 19:43:54 +0000",
+        "titulo_fuente": "Scott Bessent should stop blaming the bond market",
+        "capturado": "2026-09-15T15:59:22-05:00"
+      },
       {
         "titulo": "Se buscan nuevos practicantes en negocios, finanzas y economía",
         "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
@@ -23,20 +37,6 @@
         "publicacion": "Thu, 10 Sep 2026 09:17:17 +0000",
         "titulo_fuente": "Can Germany’s economic recovery outrun the AfD?",
         "capturado": "2026-09-10T09:05:00-05:00"
-      },
-      {
-        "titulo": "El desacierto económico de los buses gratuitos",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/10/the-economic-folly-of-free-buses",
-        "publicacion": "Thu, 10 Sep 2026 09:17:11 +0000",
-        "titulo_fuente": "The economic folly of free buses",
-        "capturado": "2026-09-10T09:05:00-05:00"
-      },
-      {
-        "titulo": "¿Qué está impulsando la venta masiva de bonos a nivel global",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
-        "publicacion": "Tue, 08 Sep 2026 18:15:09 +0000",
-        "titulo_fuente": "What is causing the global bond sell-off?",
-        "capturado": "2026-09-08T14:16:34-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Transportadores afirman que el Danubio triplica el tiempo de tránsito del grano de Ucrania a Egipto",
-        "url": "https://es.finance.yahoo.com/noticias/danubio-triplica-tiempos-tr%C3%A1nsito-grano-125942545.html",
-        "titulo_fuente": "El Danubio triplica los tiempos de tránsito del grano de Ucrania a Egipto, según transportistas",
-        "capturado": "2026-09-15T08:10:05-05:00"
+        "titulo": "El Senado de EE. UU. no logra aprobar proyecto de ley de criptomonedas, en un revés para el sector",
+        "url": "https://es.finance.yahoo.com/noticias/senado-eeuu-logra-sacar-proyecto-204038680.html",
+        "titulo_fuente": "Senado EEUU no logra sacar adelante proyecto de ley sobre criptomonedas, en revés para el sector",
+        "capturado": "2026-09-15T15:59:22-05:00"
       },
       {
-        "titulo": "Al día: Futuros de acciones de EE.UU. caen antes de abrir; bonos a 10 años superan 5% ante decisión de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-caen-125323609.html",
-        "titulo_fuente": "Actualización: Los futuros sobre acciones estadounidenses caen antes de la apertura, ya que el rendimiento de los bonos del Tesoro a 10 años supera el 5 % a la espera de la decisión de la Fed",
-        "capturado": "2026-09-15T08:10:05-05:00"
+        "titulo": "Soya sube tras conocerse datos de molienda en EE. UU. y el trigo registra una recuperación",
+        "url": "https://es.finance.yahoo.com/noticias/soja-sube-datos-molienda-eeuu-185842268.html",
+        "titulo_fuente": "Soja sube tras los datos de la molienda en EEUU y el trigo se recupera",
+        "capturado": "2026-09-15T15:59:22-05:00"
       },
       {
-        "titulo": "El BCE pide a los ciudadanos europeos elegir el diseño de los nuevos billetes de euro",
-        "url": "https://es.finance.yahoo.com/noticias/bce-invita-europeos-votar-dise%C3%B1os-112326987.html",
-        "titulo_fuente": "Así serán los nuevos billetes de euro: el BCE pide a los europeos que elijan su diseño",
-        "capturado": "2026-09-15T08:10:05-05:00"
+        "titulo": "Costo de guerra en Irán llega a 38.000 millones de dólares, según oficina de presupuesto del Congreso",
+        "url": "https://es.finance.yahoo.com/noticias/costo-guerra-ir%C3%A1n-alcanza-38-183408095.html",
+        "titulo_fuente": "Costo de guerra en Irán alcanza 38.000 millones de dólares: oficina presupuesto del Congreso",
+        "capturado": "2026-09-15T15:59:22-05:00"
       },
       {
-        "titulo": "Francia ya paga más que Grecia por su deuda: ¿qué pasa con la economía francesa?",
-        "url": "https://es.finance.yahoo.com/noticias/grecia-financia-barato-francia-110140282.html",
-        "titulo_fuente": "Francia ya paga más que Grecia por su deuda: ¿Qué está pasando con la Economía francesa?",
-        "capturado": "2026-09-15T08:10:05-05:00"
+        "titulo": "Alex Saab se declara culpable por lavado de activos en un tribunal de Miami",
+        "url": "https://es.finance.yahoo.com/noticias/alex-saab-declara-culpable-lavado-174751729.html",
+        "titulo_fuente": "Alex Saab se declara culpable de lavado en un tribunal de Miami",
+        "capturado": "2026-09-15T15:59:22-05:00"
       },
       {
-        "titulo": "Santander gana recurso en Reino Unido contra fallo de AXA por 912 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/santander-gana-recurso-presentado-reino-123420449.html",
-        "titulo_fuente": "Santander gana el recurso presentado en Reino Unido contra la sentencia de 912 millones de dólares de AXA",
-        "capturado": "2026-09-15T08:10:05-05:00"
+        "titulo": "Actualización: Índices de EE. UU. caen, tasas del Tesoro en máximos de casi dos décadas y el crudo se dispara",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173735383.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro de referencia alcanza su nivel más alto en casi dos décadas y el petróleo crudo se dispara.",
+        "capturado": "2026-09-15T15:59:22-05:00"
       }
     ]
   }
