@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T23:37:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-16T05:54:28-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Cómo la hostilidad de Trump está llevando a Canadá a estrechar lazos con la Unión Europea",
+        "url": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
+        "capturado": "2026-09-16T05:54:28-05:00"
+      },
+      {
         "titulo": "Por qué las mayores petroleras de EE.UU. se marginan del mayor acuerdo histórico de Trump y Delcy Rodríguez",
         "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o",
         "publicacion": "2026-09-15",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-09",
         "titulo_fuente": "iPhone Duo: el costoso primer teléfono plegable de Apple, la apuesta del nuevo jefe del gigante tecnológico",
         "capturado": "2026-09-09T22:17:40-05:00"
-      },
-      {
-        "titulo": "Por qué Cuba no genera suficientes alimentos y depende de la importación para su población, Duración 6,10",
-        "url": "https://www.bbc.com/mundo/articles/c87veq4p7e3o",
-        "publicacion": "PT6M10S",
-        "titulo_fuente": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población, Duración 6,10",
-        "capturado": "2026-09-09T14:05:37-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Al día: Bolsas de EE. UU. caen; bonos de referencia rinden a tope de 19 años antes de alza de Fed y sube crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-205827416.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden mientras el rendimiento de los bonos de referencia alcanza su nivel más alto en 19 años antes de la subida de tipos de la Fed, al tiempo que aumentan los precios del petróleo crudo.",
-        "capturado": "2026-09-15T18:58:32-05:00"
+        "titulo": "España reporta la primera filtración de datos adjudicada a un agente de IA",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-registra-brecha-datos-atribuida-103500902.html",
+        "titulo_fuente": "España registra la primera brecha de datos atribuida a un agente de IA",
+        "capturado": "2026-09-16T05:54:28-05:00"
       },
       {
-        "titulo": "El Senado de EE. UU. no logra aprobar proyecto de ley de criptomonedas, en un revés para el sector",
-        "url": "https://es.finance.yahoo.com/noticias/senado-eeuu-logra-sacar-proyecto-204038680.html",
-        "titulo_fuente": "Senado EEUU no logra sacar adelante proyecto de ley sobre criptomonedas, en revés para el sector",
-        "capturado": "2026-09-15T15:59:22-05:00"
+        "titulo": "Google presenta su modelo de audio más desarrollado: ¿en qué consiste?",
+        "url": "https://es.finance.yahoo.com/noticias/google-lanza-modelo-audio-avanzado-091700576.html",
+        "titulo_fuente": "Google lanza su modelo de audio más avanzado: ¿De qué se trata?",
+        "capturado": "2026-09-16T05:54:28-05:00"
       },
       {
-        "titulo": "Masahiro Sakurai explica por qué los jugadores eligen lo conocido y que la originalidad pesa poco en ventas",
-        "url": "https://es-us.noticias.yahoo.com/voy-cruel-originalidad-influye-ventas-195314479.html",
-        "titulo_fuente": "“Voy a decir algo cruel, la originalidad no influye mucho en las ventas”: Masahiro Sakurai explica por qué los jugadores siempre eligen lo conocido sobre lo nuevo",
-        "capturado": "2026-09-15T18:58:32-05:00"
+        "titulo": "Bitcoin retrocede luego de que el Senado de EEUU bloqueara una ley esencial de criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-cae-senado-eeuu-bloquee-090507618.html",
+        "titulo_fuente": "Bitcoin cae después de que el Senado de EEUU bloquee una ley clave sobre criptomonedas",
+        "capturado": "2026-09-16T05:54:28-05:00"
       },
       {
-        "titulo": "Soya sube tras conocerse datos de molienda en EE. UU. y el trigo registra una recuperación",
-        "url": "https://es.finance.yahoo.com/noticias/soja-sube-datos-molienda-eeuu-185842268.html",
-        "titulo_fuente": "Soja sube tras los datos de la molienda en EEUU y el trigo se recupera",
-        "capturado": "2026-09-15T15:59:22-05:00"
+        "titulo": "XRP y Bitcoin: Ripple y Strategy reaccionan tras el tropiezo de la CLARITY Act",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-bitcoin-ripple-strategy-pronuncian-074800060.html",
+        "titulo_fuente": "XRP y Bitcoin: Ripple y Strategy se pronuncian tras revés de la CLARITY Act",
+        "capturado": "2026-09-16T05:54:28-05:00"
       },
       {
-        "titulo": "Costo de guerra en Irán llega a 38.000 millones de dólares, según oficina de presupuesto del Congreso",
-        "url": "https://es.finance.yahoo.com/noticias/costo-guerra-ir%C3%A1n-alcanza-38-183408095.html",
-        "titulo_fuente": "Costo de guerra en Irán alcanza 38.000 millones de dólares: oficina presupuesto del Congreso",
-        "capturado": "2026-09-15T15:59:22-05:00"
+        "titulo": "SK Hynix gestiona un pacto con Intel para producir chips de memoria en EEUU, según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/sk-hynix-negocia-intel-acuerdo-071955794.html",
+        "titulo_fuente": "SK Hynix negocia con Intel un acuerdo para fabricar chips de memoria en EEUU, según fuentes",
+        "capturado": "2026-09-16T05:54:28-05:00"
       }
     ]
   }
