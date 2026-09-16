@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-09-16T11:13:31-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-16T15:55:01-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Fuertes alzas en rendimientos de bonos, amplios déficits y deudas elevadas: ¿qué podría salir mal?",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+        "publicacion": "Wed, 16 Sep 2026 18:22:11 +0000",
+        "titulo_fuente": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+        "capturado": "2026-09-16T15:55:01-05:00"
+      },
       {
         "titulo": "Lo que la mayor oferta pública inicial de África puede aportar a sus mercados accionarios",
         "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
@@ -30,13 +37,6 @@
         "publicacion": "Fri, 11 Sep 2026 16:02:32 +0000",
         "titulo_fuente": "Surging bond yields presage pain—and not just for bond investors",
         "capturado": "2026-09-11T13:59:25-05:00"
-      },
-      {
-        "titulo": "¿Podrá la recuperación económica de Alemania superar a la AfD",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
-        "publicacion": "Thu, 10 Sep 2026 09:17:17 +0000",
-        "titulo_fuente": "Can Germany’s economic recovery outrun the AfD?",
-        "capturado": "2026-09-10T09:05:00-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Motivos por los que esta firma emergente alemana de IA traslada su sede de Estados Unidos a Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/emergente-empresa-alemana-ia-traslada-143900988.html",
-        "titulo_fuente": "Por qué esta emergente empresa alemana de IA traslada su matriz de Estados Unidos a Alemania",
-        "capturado": "2026-09-16T11:13:31-05:00"
+        "titulo": "Confianza de constructores de vivienda en EE. UU. cae en septiembre a su nivel más bajo en un año",
+        "url": "https://es.finance.yahoo.com/noticias/confianza-constructores-viviendas-eeuu-cae-202736624.html",
+        "titulo_fuente": "Confianza de constructores de viviendas EEUU cae en septiembre a mínimo en 12 meses",
+        "capturado": "2026-09-16T15:55:01-05:00"
       },
       {
-        "titulo": "Exein se convierte en unicornio: la start-up italiana de IA física se valora en 1.700 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/exein-convierte-unicornio-start-up-150414574.html",
-        "titulo_fuente": "Exein se convierte en unicornio, la start-up italiana de IA física vale 1.700 millones de dólares",
-        "capturado": "2026-09-16T11:13:31-05:00"
+        "titulo": "Bitcoin sobrepasa al oro como cobertura real ante la devaluación, afirma Raoul Pal",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-supera-oro-verdadera-cobertura-201500646.html",
+        "titulo_fuente": "Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal",
+        "capturado": "2026-09-16T15:55:01-05:00"
       },
       {
-        "titulo": "Francia: el combustible con descuento de TotalEnergies genera controversia entre sus competidores",
-        "url": "https://es.finance.yahoo.com/noticias/francia-combustible-rebajado-totalenergies-dispara-160222429.html",
-        "titulo_fuente": "Francia, el combustible rebajado de TotalEnergies dispara la polémica entre rivales",
-        "capturado": "2026-09-16T11:13:31-05:00"
+        "titulo": "La Fed eleva las tasas por primera vez desde 2023 en una votación unánime que desafía a Trump",
+        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tipos-2023-votaci%C3%B3n-182754433.html",
+        "titulo_fuente": "La Fed sube los tipos por primera vez desde 2023 con un voto unánime que desafía a Trump",
+        "capturado": "2026-09-16T15:55:01-05:00"
       },
       {
-        "titulo": "El secretario general de la ONU alerta sobre los riesgos de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/secretario-general-onu-voz-alarma-153657608.html",
-        "titulo_fuente": "El secretario general de la ONU da la voz de alarma sobre los riesgos de la IA",
-        "capturado": "2026-09-16T11:13:31-05:00"
+        "titulo": "Celsius demanda a BitMEX por 6.360 Bitcoin perdidos",
+        "url": "https://es.finance.yahoo.com/noticias/celsius-demanda-bitmex-6-360-185100467.html",
+        "titulo_fuente": "Celsius demanda a BitMEX por 6,360 Bitcoin perdidos",
+        "capturado": "2026-09-16T15:55:01-05:00"
       },
       {
-        "titulo": "Los inventarios de las firmas de EE. UU. aumentan más de lo esperado en julio",
-        "url": "https://es.finance.yahoo.com/noticias/inventarios-empresas-eeuu-suben-previsto-152222310.html",
-        "titulo_fuente": "Los inventarios de las empresas de EEUU suben más de lo previsto en julio",
-        "capturado": "2026-09-16T11:13:31-05:00"
+        "titulo": "Fed incrementa tasas para frenar la inflación a pesar de las presiones de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tasas-contener-inflaci%C3%B3n-181652903.html",
+        "titulo_fuente": "Fed sube tasas para contener la inflación pese a las presiones de Trump",
+        "capturado": "2026-09-16T15:55:01-05:00"
       }
     ]
   }
