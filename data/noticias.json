@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T05:54:28-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-16T11:13:31-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "España reporta la primera filtración de datos adjudicada a un agente de IA",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-registra-brecha-datos-atribuida-103500902.html",
-        "titulo_fuente": "España registra la primera brecha de datos atribuida a un agente de IA",
-        "capturado": "2026-09-16T05:54:28-05:00"
+        "titulo": "Motivos por los que esta firma emergente alemana de IA traslada su sede de Estados Unidos a Alemania",
+        "url": "https://es.finance.yahoo.com/noticias/emergente-empresa-alemana-ia-traslada-143900988.html",
+        "titulo_fuente": "Por qué esta emergente empresa alemana de IA traslada su matriz de Estados Unidos a Alemania",
+        "capturado": "2026-09-16T11:13:31-05:00"
       },
       {
-        "titulo": "Google presenta su modelo de audio más desarrollado: ¿en qué consiste?",
-        "url": "https://es.finance.yahoo.com/noticias/google-lanza-modelo-audio-avanzado-091700576.html",
-        "titulo_fuente": "Google lanza su modelo de audio más avanzado: ¿De qué se trata?",
-        "capturado": "2026-09-16T05:54:28-05:00"
+        "titulo": "Exein se convierte en unicornio: la start-up italiana de IA física se valora en 1.700 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/exein-convierte-unicornio-start-up-150414574.html",
+        "titulo_fuente": "Exein se convierte en unicornio, la start-up italiana de IA física vale 1.700 millones de dólares",
+        "capturado": "2026-09-16T11:13:31-05:00"
       },
       {
-        "titulo": "Bitcoin retrocede luego de que el Senado de EEUU bloqueara una ley esencial de criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-cae-senado-eeuu-bloquee-090507618.html",
-        "titulo_fuente": "Bitcoin cae después de que el Senado de EEUU bloquee una ley clave sobre criptomonedas",
-        "capturado": "2026-09-16T05:54:28-05:00"
+        "titulo": "Francia: el combustible con descuento de TotalEnergies genera controversia entre sus competidores",
+        "url": "https://es.finance.yahoo.com/noticias/francia-combustible-rebajado-totalenergies-dispara-160222429.html",
+        "titulo_fuente": "Francia, el combustible rebajado de TotalEnergies dispara la polémica entre rivales",
+        "capturado": "2026-09-16T11:13:31-05:00"
       },
       {
-        "titulo": "XRP y Bitcoin: Ripple y Strategy reaccionan tras el tropiezo de la CLARITY Act",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-bitcoin-ripple-strategy-pronuncian-074800060.html",
-        "titulo_fuente": "XRP y Bitcoin: Ripple y Strategy se pronuncian tras revés de la CLARITY Act",
-        "capturado": "2026-09-16T05:54:28-05:00"
+        "titulo": "El secretario general de la ONU alerta sobre los riesgos de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/secretario-general-onu-voz-alarma-153657608.html",
+        "titulo_fuente": "El secretario general de la ONU da la voz de alarma sobre los riesgos de la IA",
+        "capturado": "2026-09-16T11:13:31-05:00"
       },
       {
-        "titulo": "SK Hynix gestiona un pacto con Intel para producir chips de memoria en EEUU, según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/sk-hynix-negocia-intel-acuerdo-071955794.html",
-        "titulo_fuente": "SK Hynix negocia con Intel un acuerdo para fabricar chips de memoria en EEUU, según fuentes",
-        "capturado": "2026-09-16T05:54:28-05:00"
+        "titulo": "Los inventarios de las firmas de EE. UU. aumentan más de lo esperado en julio",
+        "url": "https://es.finance.yahoo.com/noticias/inventarios-empresas-eeuu-suben-previsto-152222310.html",
+        "titulo_fuente": "Los inventarios de las empresas de EEUU suben más de lo previsto en julio",
+        "capturado": "2026-09-16T11:13:31-05:00"
       }
     ]
   }
