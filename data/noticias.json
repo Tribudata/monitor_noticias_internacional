@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-15T15:59:22-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-15T18:58:32-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué las mayores petroleras de EE.UU. se marginan del mayor acuerdo histórico de Trump y Delcy Rodríguez",
+        "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o",
+        "publicacion": "2026-09-15",
+        "titulo_fuente": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
+        "capturado": "2026-09-15T18:58:32-05:00"
+      },
+      {
         "titulo": "¿Es lícito que Trump ofrezca US$5.000 a cada estadounidense si los republicanos triunfan en noviembre?",
         "url": "https://www.bbc.com/mundo/articles/c62jlnne88ko",
         "publicacion": "2026-09-10",
@@ -67,21 +74,26 @@
         "publicacion": "PT6M10S",
         "titulo_fuente": "Por qué Cuba no produce suficiente comida y depende del exterior para alimentar a su población, Duración 6,10",
         "capturado": "2026-09-09T14:05:37-05:00"
-      },
-      {
-        "titulo": "Compañías que definen la incorporación de nuevo personal con base en habilidades afines a Factor X",
-        "url": "https://www.bbc.com/mundo/articles/ce873v599v1o",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "Las empresas que deciden la contratación de nuevos empleados en competencias similares a \"Factor X\"",
-        "capturado": "2026-09-08T22:18:18-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Al día: Bolsas de EE. UU. caen; bonos de referencia rinden a tope de 19 años antes de alza de Fed y sube crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-205827416.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden mientras el rendimiento de los bonos de referencia alcanza su nivel más alto en 19 años antes de la subida de tipos de la Fed, al tiempo que aumentan los precios del petróleo crudo.",
+        "capturado": "2026-09-15T18:58:32-05:00"
+      },
       {
         "titulo": "El Senado de EE. UU. no logra aprobar proyecto de ley de criptomonedas, en un revés para el sector",
         "url": "https://es.finance.yahoo.com/noticias/senado-eeuu-logra-sacar-proyecto-204038680.html",
         "titulo_fuente": "Senado EEUU no logra sacar adelante proyecto de ley sobre criptomonedas, en revés para el sector",
         "capturado": "2026-09-15T15:59:22-05:00"
+      },
+      {
+        "titulo": "Masahiro Sakurai explica por qué los jugadores eligen lo conocido y que la originalidad pesa poco en ventas",
+        "url": "https://es-us.noticias.yahoo.com/voy-cruel-originalidad-influye-ventas-195314479.html",
+        "titulo_fuente": "“Voy a decir algo cruel, la originalidad no influye mucho en las ventas”: Masahiro Sakurai explica por qué los jugadores siempre eligen lo conocido sobre lo nuevo",
+        "capturado": "2026-09-15T18:58:32-05:00"
       },
       {
         "titulo": "Soya sube tras conocerse datos de molienda en EE. UU. y el trigo registra una recuperación",
@@ -93,18 +105,6 @@
         "titulo": "Costo de guerra en Irán llega a 38.000 millones de dólares, según oficina de presupuesto del Congreso",
         "url": "https://es.finance.yahoo.com/noticias/costo-guerra-ir%C3%A1n-alcanza-38-183408095.html",
         "titulo_fuente": "Costo de guerra en Irán alcanza 38.000 millones de dólares: oficina presupuesto del Congreso",
-        "capturado": "2026-09-15T15:59:22-05:00"
-      },
-      {
-        "titulo": "Alex Saab se declara culpable por lavado de activos en un tribunal de Miami",
-        "url": "https://es.finance.yahoo.com/noticias/alex-saab-declara-culpable-lavado-174751729.html",
-        "titulo_fuente": "Alex Saab se declara culpable de lavado en un tribunal de Miami",
-        "capturado": "2026-09-15T15:59:22-05:00"
-      },
-      {
-        "titulo": "Actualización: Índices de EE. UU. caen, tasas del Tesoro en máximos de casi dos décadas y el crudo se dispara",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173735383.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro de referencia alcanza su nivel más alto en casi dos décadas y el petróleo crudo se dispara.",
         "capturado": "2026-09-15T15:59:22-05:00"
       }
     ]
