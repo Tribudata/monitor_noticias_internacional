@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T16:08:09-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-17T18:54:59-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Disminuyen de forma imprevista las peticiones semanales de subsidio por desempleo en EE. UU",
-        "url": "https://es.finance.yahoo.com/noticias/solicitudes-semanales-subsidio-desempleo-eeuu-125924485.html",
-        "titulo_fuente": "Las solicitudes semanales de subsidio por desempleo en EEUU caen de forma inesperada",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo": "Al día: Bolsas de EE.UU. y tecnológicas suben al caer rendimientos del Tesoro por plan de inflación de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y las grandes tecnológicas repuntan después de que el compromiso de la Fed de controlar la inflación hiciera caer los rendimientos de los bonos del Tesoro",
+        "capturado": "2026-09-17T18:54:59-05:00"
       },
       {
-        "titulo": "Fabricantes chinos de autos buscan plantas en Europa ante nueva norma de contenido local de UE: asesor BYD",
-        "url": "https://es.finance.yahoo.com/noticias/fabricantes-autom%C3%B3viles-chinos-buscan-f%C3%A1bricas-122428937.html",
-        "titulo_fuente": "Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo": "ETF al contado de Bitcoin podrían triplicar al oro, según analista: ¿qué efecto tendría en el valor de BTC?",
+        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-triplicar-oro-212200051.html",
+        "titulo_fuente": "Los ETF spot de Bitcoin podrían triplicar al oro, según analista: ¿Qué significa para el precio de BTC?",
+        "capturado": "2026-09-17T18:54:59-05:00"
       },
       {
-        "titulo": "Futuros de acciones de EE. UU. suben antes de abrir; operadores evalúan alza de tasas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120128120.html",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan el aumento de las tasas de interés de la Reserva Federal.",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo": "Jim Cramer proyecta repunte del 40% en títulos de Palantir: ¿coincide Wall Street?",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-pronostica-rally-40-195900402.html",
+        "titulo_fuente": "Jim Cramer pronostica rally del 40% para las acciones de Palantir: ¿Está de acuerdo Wall Street?",
+        "capturado": "2026-09-17T18:54:59-05:00"
       },
       {
-        "titulo": "OpenAI declina un premio de matemáticas de $1 millón de Justin Sun",
-        "url": "https://es.finance.yahoo.com/noticias/openai-rechaza-premio-matem%C3%A1ticas-1-114800949.html",
-        "titulo_fuente": "OpenAI rechaza premio matemáticas de $1 millón de Justin Sun",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo": "Este indicador en la gráfica de XRP no se observaba desde hace 13 años",
+        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1al-gr%C3%A1fico-xrp-ve%C3%ADa-13-183600948.html",
+        "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
+        "capturado": "2026-09-17T18:54:59-05:00"
       },
       {
-        "titulo": "Revolut, blanco de un robo de datos: 700 clientes afectados y rescate de 3 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fraude-revolut-hackers-obtienen-datos-100609729.html",
-        "titulo_fuente": "Revolut, víctima de un robo de datos: 700 clientes afectados y un rescate de 3 millones de dólares",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo": "Emulador de PS5 debuta con 22 minutos de Demon’s Souls Remake a 4K sin fallas y Astro Bot a 60 FPS en PC",
+        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-muestra-22-minutos-181429997.html",
+        "titulo_fuente": "Emulador de PS5 muestra por primera vez 22 minutos de Demon’s Souls Remake en 4K sin crashear y Astro Bot corriendo a 60 FPS en PC",
+        "capturado": "2026-09-17T18:54:59-05:00"
       }
     ]
   }
