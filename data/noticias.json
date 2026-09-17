@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-09-17T08:04:17-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-17T12:56:56-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
-        "titulo": "El PIB per cápita ya no crece como en el pasado",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/17/gdp-per-person-no-longer-grows-like-it-used-to",
+        "titulo": "El menor crecimiento del PIB per cápita pone en riesgo el nivel de vida global",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
         "publicacion": "Thu, 17 Sep 2026 10:30:49 +0000",
-        "titulo_fuente": "GDP per person no longer grows like it used to",
-        "capturado": "2026-09-17T08:04:17-05:00"
+        "titulo_fuente": "The GDP-per-person slowdown threatens global living standards",
+        "capturado": "2026-09-17T12:56:56-05:00"
       },
       {
         "titulo": "La teoría del derrame económico en el boom de la IA",
@@ -41,18 +41,18 @@
     ],
     "BBC": [
       {
-        "titulo": "La Fed de EE.UU. reta a Trump y eleva las tasas de interés por primera vez en 3 años: ¿qué efectos traerá?",
-        "url": "https://www.bbc.com/mundo/articles/cmy8zy8qvqz1o",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
-        "capturado": "2026-09-16T19:07:42-05:00"
-      },
-      {
         "titulo": "Cómo la hostilidad de Trump está llevando a Canadá a estrechar lazos con la Unión Europea",
         "url": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo",
         "publicacion": "2026-09-16",
         "titulo_fuente": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
         "capturado": "2026-09-16T05:54:28-05:00"
+      },
+      {
+        "titulo": "La Fed de EE.UU. reta a Trump y eleva las tasas de interés por primera vez en 3 años: ¿qué efectos traerá?",
+        "url": "https://www.bbc.com/mundo/articles/cmy8zy8qvqz1o",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
+        "capturado": "2026-09-16T19:07:42-05:00"
       },
       {
         "titulo": "Por qué las mayores petroleras de EE.UU. se marginan del mayor acuerdo histórico de Trump y Delcy Rodríguez",
