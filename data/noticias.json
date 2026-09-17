@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T19:07:42-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-17T02:12:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Ante el vencimiento del plazo del Banco Central de Brasil, Crypto.com cancela cuenta en reales",
-        "url": "https://es.finance.yahoo.com/noticias/plazo-banco-central-brasil-acerc%C3%A1ndose-230800219.html",
-        "titulo_fuente": "Con el plazo del Banco Central de Brasil acercándose, Crypto.com cierra cuenta en reales",
-        "capturado": "2026-09-16T19:07:42-05:00"
+        "titulo": "Reducción del IRPF en Portugal: analistas avalan medidas pero advierten de un eventual deterioro",
+        "url": "https://es.finance.yahoo.com/noticias/recorte-irpf-portugal-expertos-apoyan-060925127.html",
+        "titulo_fuente": "Recorte del IRPF en Portugal: expertos apoyan las medidas pero alertan de un posible empeoramiento",
+        "capturado": "2026-09-17T02:12:35-05:00"
       },
       {
-        "titulo": "Anthropic genera ganancias, si se excluye el costo de desarrollar Claude",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-rentable-ignoras-costo-crear-214200832.html",
-        "titulo_fuente": "Anthropic es rentable, si ignoras el costo de crear Claude",
-        "capturado": "2026-09-16T19:07:42-05:00"
+        "titulo": "Armin Papperger, presidente de Rheinmetall, sostiene que los robots arribarán",
+        "url": "https://es.finance.yahoo.com/noticias/jefe-rheinmetall-papperger-robots-llegar%C3%A1n-052548709.html",
+        "titulo_fuente": "Armin Papperger, presidente de Rheinmetall: \"Los robots llegarán\"",
+        "capturado": "2026-09-17T02:12:35-05:00"
       },
       {
-        "titulo": "Al día: Índices de EEUU bajan y tasas de bonos del Tesoro suben tras primera alza de la Fed en más de 3 años",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210828454.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro se disparan tras la subida de tipos de interés de la Fed por primera vez en más de tres años",
-        "capturado": "2026-09-16T19:07:42-05:00"
+        "titulo": "El conflicto en Irán podría subir en 8.500 millones de dólares los costos de la industria española",
+        "url": "https://es.finance.yahoo.com/noticias/guerra-ir%C3%A1n-elevar-8-500-064034943.html",
+        "titulo_fuente": "La guerra en Irán podría elevar en 8.500 millones de dólares el gasto de la industria española",
+        "capturado": "2026-09-17T02:12:35-05:00"
       },
       {
-        "titulo": "Confianza de constructores de vivienda en EE. UU. cae en septiembre a su nivel más bajo en un año",
-        "url": "https://es.finance.yahoo.com/noticias/confianza-constructores-viviendas-eeuu-cae-202736624.html",
-        "titulo_fuente": "Confianza de constructores de viviendas EEUU cae en septiembre a mínimo en 12 meses",
-        "capturado": "2026-09-16T15:55:01-05:00"
+        "titulo": "GE Vernova y Vineyard Wind resuelven su pleito judicial por el complejo eólico de Nueva Inglaterra",
+        "url": "https://es.finance.yahoo.com/noticias/ge-vernova-vineyard-wind-zanjan-061025640.html",
+        "titulo_fuente": "GE Vernova y Vineyard Wind zanjan su disputa legal sobre el parque eólico de Nueva Inglaterra",
+        "capturado": "2026-09-17T02:12:35-05:00"
       },
       {
-        "titulo": "Bitcoin sobrepasa al oro como cobertura real ante la devaluación, afirma Raoul Pal",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-supera-oro-verdadera-cobertura-201500646.html",
-        "titulo_fuente": "Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal",
-        "capturado": "2026-09-16T15:55:01-05:00"
+        "titulo": "Hy24 y COFIDES comprarán el 29% del proyecto de hidrógeno verde de Moeve en España",
+        "url": "https://es.finance.yahoo.com/noticias/hy24-cofides-adquirir%C3%A1n-29-proyecto-060118750.html",
+        "titulo_fuente": "Hy24 y COFIDES adquirirán el 29% en el proyecto de hidrógeno verde de Moeve en España",
+        "capturado": "2026-09-17T02:12:35-05:00"
       }
     ]
   }
