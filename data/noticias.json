@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-16T15:55:01-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-16T19:07:42-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "La Fed de EE.UU. reta a Trump y eleva las tasas de interés por primera vez en 3 años: ¿qué efectos traerá?",
+        "url": "https://www.bbc.com/mundo/articles/cmy8zy8qvqz1o",
+        "publicacion": "2026-09-16",
+        "titulo_fuente": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
+        "capturado": "2026-09-16T19:07:42-05:00"
+      },
+      {
         "titulo": "Cómo la hostilidad de Trump está llevando a Canadá a estrechar lazos con la Unión Europea",
         "url": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo",
         "publicacion": "2026-09-16",
@@ -67,16 +74,27 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "\"Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota\"",
         "capturado": "2026-09-10T09:05:00-05:00"
-      },
-      {
-        "titulo": "iPhone Duo: el costoso primer celular plegable de Apple, la jugada del nuevo líder del coloso tecnológico",
-        "url": "https://www.bbc.com/mundo/articles/cgmr2k18723o",
-        "publicacion": "2026-09-09",
-        "titulo_fuente": "iPhone Duo: el costoso primer teléfono plegable de Apple, la apuesta del nuevo jefe del gigante tecnológico",
-        "capturado": "2026-09-09T22:17:40-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Ante el vencimiento del plazo del Banco Central de Brasil, Crypto.com cancela cuenta en reales",
+        "url": "https://es.finance.yahoo.com/noticias/plazo-banco-central-brasil-acerc%C3%A1ndose-230800219.html",
+        "titulo_fuente": "Con el plazo del Banco Central de Brasil acercándose, Crypto.com cierra cuenta en reales",
+        "capturado": "2026-09-16T19:07:42-05:00"
+      },
+      {
+        "titulo": "Anthropic genera ganancias, si se excluye el costo de desarrollar Claude",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-rentable-ignoras-costo-crear-214200832.html",
+        "titulo_fuente": "Anthropic es rentable, si ignoras el costo de crear Claude",
+        "capturado": "2026-09-16T19:07:42-05:00"
+      },
+      {
+        "titulo": "Al día: Índices de EEUU bajan y tasas de bonos del Tesoro suben tras primera alza de la Fed en más de 3 años",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210828454.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro se disparan tras la subida de tipos de interés de la Fed por primera vez en más de tres años",
+        "capturado": "2026-09-16T19:07:42-05:00"
+      },
       {
         "titulo": "Confianza de constructores de vivienda en EE. UU. cae en septiembre a su nivel más bajo en un año",
         "url": "https://es.finance.yahoo.com/noticias/confianza-constructores-viviendas-eeuu-cae-202736624.html",
@@ -87,24 +105,6 @@
         "titulo": "Bitcoin sobrepasa al oro como cobertura real ante la devaluación, afirma Raoul Pal",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-supera-oro-verdadera-cobertura-201500646.html",
         "titulo_fuente": "Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal",
-        "capturado": "2026-09-16T15:55:01-05:00"
-      },
-      {
-        "titulo": "La Fed eleva las tasas por primera vez desde 2023 en una votación unánime que desafía a Trump",
-        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tipos-2023-votaci%C3%B3n-182754433.html",
-        "titulo_fuente": "La Fed sube los tipos por primera vez desde 2023 con un voto unánime que desafía a Trump",
-        "capturado": "2026-09-16T15:55:01-05:00"
-      },
-      {
-        "titulo": "Celsius demanda a BitMEX por 6.360 Bitcoin perdidos",
-        "url": "https://es.finance.yahoo.com/noticias/celsius-demanda-bitmex-6-360-185100467.html",
-        "titulo_fuente": "Celsius demanda a BitMEX por 6,360 Bitcoin perdidos",
-        "capturado": "2026-09-16T15:55:01-05:00"
-      },
-      {
-        "titulo": "Fed incrementa tasas para frenar la inflación a pesar de las presiones de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tasas-contener-inflaci%C3%B3n-181652903.html",
-        "titulo_fuente": "Fed sube tasas para contener la inflación pese a las presiones de Trump",
         "capturado": "2026-09-16T15:55:01-05:00"
       }
     ]
