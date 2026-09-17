@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T12:56:56-05:00",
+  "actualizado": "2026-09-17T16:08:09-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Funcionamiento de los elevadores de agua del Canal de Panamá y el impacto de El Niño, Duración 6,05",
+        "url": "https://www.bbc.com/mundo/articles/c61mvjpdedlvo",
+        "publicacion": "PT6M5S",
+        "titulo_fuente": "Cómo funcionan los \"ascensores de agua\" del Canal de Panamá y por qué El Niño los afecta, Duración 6,05",
+        "capturado": "2026-09-17T16:08:09-05:00"
+      },
+      {
         "titulo": "Cómo la hostilidad de Trump está llevando a Canadá a estrechar lazos con la Unión Europea",
         "url": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo",
         "publicacion": "2026-09-16",
@@ -67,13 +74,6 @@
         "publicacion": "2026-09-10",
         "titulo_fuente": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
         "capturado": "2026-09-10T13:57:46-05:00"
-      },
-      {
-        "titulo": "Construí de la nada un emporio de moda que me hizo multimillonaria, pero su crecimiento me llevó a la quiebra",
-        "url": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "\"Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota\"",
-        "capturado": "2026-09-10T09:05:00-05:00"
       }
     ],
     "Yahoo": [
