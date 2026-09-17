@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-09-17T02:12:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-17T08:04:17-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El PIB per cápita ya no crece como en el pasado",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/17/gdp-per-person-no-longer-grows-like-it-used-to",
+        "publicacion": "Thu, 17 Sep 2026 10:30:49 +0000",
+        "titulo_fuente": "GDP per person no longer grows like it used to",
+        "capturado": "2026-09-17T08:04:17-05:00"
+      },
+      {
+        "titulo": "La teoría del derrame económico en el boom de la IA",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+        "publicacion": "Thu, 17 Sep 2026 09:27:11 +0000",
+        "titulo_fuente": "The trickle-down economics of the AI boom",
+        "capturado": "2026-09-17T08:04:17-05:00"
+      },
+      {
+        "titulo": "Ricardo Reis fue demasiado directo para el FMI",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/17/ricardo-reis-was-too-frank-for-the-imf",
+        "publicacion": "Thu, 17 Sep 2026 09:24:30 +0000",
+        "titulo_fuente": "Ricardo Reis was too frank for the IMF",
+        "capturado": "2026-09-17T08:04:17-05:00"
+      },
       {
         "titulo": "Fuertes alzas en rendimientos de bonos, amplios déficits y deudas elevadas: ¿qué podría salir mal?",
         "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
@@ -16,27 +37,6 @@
         "publicacion": "Tue, 15 Sep 2026 20:44:13 +0000",
         "titulo_fuente": "What Africa’s biggest IPO can do for its stock markets",
         "capturado": "2026-09-15T15:59:22-05:00"
-      },
-      {
-        "titulo": "Scott Bessent debería dejar de culpar al mercado de bonos",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
-        "publicacion": "Tue, 15 Sep 2026 19:43:54 +0000",
-        "titulo_fuente": "Scott Bessent should stop blaming the bond market",
-        "capturado": "2026-09-15T15:59:22-05:00"
-      },
-      {
-        "titulo": "Se buscan nuevos practicantes en negocios, finanzas y economía",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
-        "publicacion": "Sat, 12 Sep 2026 08:04:14 +0000",
-        "titulo_fuente": "Wanted: new business, finance and economics interns",
-        "capturado": "2026-09-12T03:23:26-05:00"
-      },
-      {
-        "titulo": "El repunte en los rendimientos de los bonos anticipa dificultades no solo para sus inversionistas",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
-        "publicacion": "Fri, 11 Sep 2026 16:02:32 +0000",
-        "titulo_fuente": "Surging bond yields presage pain—and not just for bond investors",
-        "capturado": "2026-09-11T13:59:25-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Reducción del IRPF en Portugal: analistas avalan medidas pero advierten de un eventual deterioro",
-        "url": "https://es.finance.yahoo.com/noticias/recorte-irpf-portugal-expertos-apoyan-060925127.html",
-        "titulo_fuente": "Recorte del IRPF en Portugal: expertos apoyan las medidas pero alertan de un posible empeoramiento",
-        "capturado": "2026-09-17T02:12:35-05:00"
+        "titulo": "Disminuyen de forma imprevista las peticiones semanales de subsidio por desempleo en EE. UU",
+        "url": "https://es.finance.yahoo.com/noticias/solicitudes-semanales-subsidio-desempleo-eeuu-125924485.html",
+        "titulo_fuente": "Las solicitudes semanales de subsidio por desempleo en EEUU caen de forma inesperada",
+        "capturado": "2026-09-17T08:04:17-05:00"
       },
       {
-        "titulo": "Armin Papperger, presidente de Rheinmetall, sostiene que los robots arribarán",
-        "url": "https://es.finance.yahoo.com/noticias/jefe-rheinmetall-papperger-robots-llegar%C3%A1n-052548709.html",
-        "titulo_fuente": "Armin Papperger, presidente de Rheinmetall: \"Los robots llegarán\"",
-        "capturado": "2026-09-17T02:12:35-05:00"
+        "titulo": "Fabricantes chinos de autos buscan plantas en Europa ante nueva norma de contenido local de UE: asesor BYD",
+        "url": "https://es.finance.yahoo.com/noticias/fabricantes-autom%C3%B3viles-chinos-buscan-f%C3%A1bricas-122428937.html",
+        "titulo_fuente": "Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD",
+        "capturado": "2026-09-17T08:04:17-05:00"
       },
       {
-        "titulo": "El conflicto en Irán podría subir en 8.500 millones de dólares los costos de la industria española",
-        "url": "https://es.finance.yahoo.com/noticias/guerra-ir%C3%A1n-elevar-8-500-064034943.html",
-        "titulo_fuente": "La guerra en Irán podría elevar en 8.500 millones de dólares el gasto de la industria española",
-        "capturado": "2026-09-17T02:12:35-05:00"
+        "titulo": "Futuros de acciones de EE. UU. suben antes de abrir; operadores evalúan alza de tasas de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120128120.html",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan el aumento de las tasas de interés de la Reserva Federal.",
+        "capturado": "2026-09-17T08:04:17-05:00"
       },
       {
-        "titulo": "GE Vernova y Vineyard Wind resuelven su pleito judicial por el complejo eólico de Nueva Inglaterra",
-        "url": "https://es.finance.yahoo.com/noticias/ge-vernova-vineyard-wind-zanjan-061025640.html",
-        "titulo_fuente": "GE Vernova y Vineyard Wind zanjan su disputa legal sobre el parque eólico de Nueva Inglaterra",
-        "capturado": "2026-09-17T02:12:35-05:00"
+        "titulo": "OpenAI declina un premio de matemáticas de $1 millón de Justin Sun",
+        "url": "https://es.finance.yahoo.com/noticias/openai-rechaza-premio-matem%C3%A1ticas-1-114800949.html",
+        "titulo_fuente": "OpenAI rechaza premio matemáticas de $1 millón de Justin Sun",
+        "capturado": "2026-09-17T08:04:17-05:00"
       },
       {
-        "titulo": "Hy24 y COFIDES comprarán el 29% del proyecto de hidrógeno verde de Moeve en España",
-        "url": "https://es.finance.yahoo.com/noticias/hy24-cofides-adquirir%C3%A1n-29-proyecto-060118750.html",
-        "titulo_fuente": "Hy24 y COFIDES adquirirán el 29% en el proyecto de hidrógeno verde de Moeve en España",
-        "capturado": "2026-09-17T02:12:35-05:00"
+        "titulo": "Revolut, blanco de un robo de datos: 700 clientes afectados y rescate de 3 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/fraude-revolut-hackers-obtienen-datos-100609729.html",
+        "titulo_fuente": "Revolut, víctima de un robo de datos: 700 clientes afectados y un rescate de 3 millones de dólares",
+        "capturado": "2026-09-17T08:04:17-05:00"
       }
     ]
   }
