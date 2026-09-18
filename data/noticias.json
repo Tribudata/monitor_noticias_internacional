@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T18:54:59-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-17T22:23:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Carlos Augusto Suárez es designado presidente de la junta directiva de la colombiana Ecopetrol",
+        "url": "https://es.finance.yahoo.com/noticias/nombran-carlos-augusto-su%C3%A1rez-presidente-004650920.html",
+        "titulo_fuente": "Nombran a Carlos Augusto Suárez como presidente de junta directiva de colombiano Ecopetrol",
+        "capturado": "2026-09-17T22:23:58-05:00"
+      },
+      {
         "titulo": "Al día: Bolsas de EE.UU. y tecnológicas suben al caer rendimientos del Tesoro por plan de inflación de la Fed",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y las grandes tecnológicas repuntan después de que el compromiso de la Fed de controlar la inflación hiciera caer los rendimientos de los bonos del Tesoro",
@@ -99,12 +105,6 @@
         "titulo": "Este indicador en la gráfica de XRP no se observaba desde hace 13 años",
         "url": "https://es.finance.yahoo.com/noticias/se%C3%B1al-gr%C3%A1fico-xrp-ve%C3%ADa-13-183600948.html",
         "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
-        "capturado": "2026-09-17T18:54:59-05:00"
-      },
-      {
-        "titulo": "Emulador de PS5 debuta con 22 minutos de Demon’s Souls Remake a 4K sin fallas y Astro Bot a 60 FPS en PC",
-        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-muestra-22-minutos-181429997.html",
-        "titulo_fuente": "Emulador de PS5 muestra por primera vez 22 minutos de Demon’s Souls Remake en 4K sin crashear y Astro Bot corriendo a 60 FPS en PC",
         "capturado": "2026-09-17T18:54:59-05:00"
       }
     ]
