@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T03:47:17-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-18T09:07:16-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Así logró el peso colombiano posicionarse entre las divisas más fuertes del mundo en 2026",
+        "url": "https://www.bbc.com/mundo/articles/cm1wxz8d3dj5o",
+        "publicacion": "2026-09-18",
+        "titulo_fuente": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
+        "capturado": "2026-09-18T09:07:16-05:00"
+      },
+      {
         "titulo": "Funcionamiento de los elevadores de agua del Canal de Panamá y el impacto de El Niño, Duración 6,05",
         "url": "https://www.bbc.com/mundo/articles/c61mvjpdedlvo",
         "publicacion": "PT6M5S",
@@ -67,13 +74,6 @@
         "publicacion": "2026-09-15",
         "titulo_fuente": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
         "capturado": "2026-09-15T18:58:32-05:00"
-      },
-      {
-        "titulo": "¿Es lícito que Trump ofrezca US$5.000 a cada estadounidense si los republicanos triunfan en noviembre?",
-        "url": "https://www.bbc.com/mundo/articles/c62jlnne88ko",
-        "publicacion": "2026-09-10",
-        "titulo_fuente": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
-        "capturado": "2026-09-10T13:57:46-05:00"
       }
     ],
     "Yahoo": [
