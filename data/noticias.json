@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-17T22:23:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-18T03:47:17-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Carlos Augusto Suárez es designado presidente de la junta directiva de la colombiana Ecopetrol",
-        "url": "https://es.finance.yahoo.com/noticias/nombran-carlos-augusto-su%C3%A1rez-presidente-004650920.html",
-        "titulo_fuente": "Nombran a Carlos Augusto Suárez como presidente de junta directiva de colombiano Ecopetrol",
-        "capturado": "2026-09-17T22:23:58-05:00"
+        "titulo": "Ventas externas de equipos solares de China caen 39% interanual en su cuarto descenso consecutivo",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-chinas-equipos-solares-bajan-081711217.html",
+        "titulo_fuente": "Las exportaciones chinas de equipos solares bajan un 39% interanual, la cuarta caída consecutiva",
+        "capturado": "2026-09-18T03:47:17-05:00"
       },
       {
-        "titulo": "Al día: Bolsas de EE.UU. y tecnológicas suben al caer rendimientos del Tesoro por plan de inflación de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y las grandes tecnológicas repuntan después de que el compromiso de la Fed de controlar la inflación hiciera caer los rendimientos de los bonos del Tesoro",
-        "capturado": "2026-09-17T18:54:59-05:00"
+        "titulo": "Primer ministro portugués presenta un plan contra el alza en el costo de vida sin modificar el IVA",
+        "url": "https://es.finance.yahoo.com/noticias/ministro-portugu%C3%A9s-detalla-plan-aumento-081055986.html",
+        "titulo_fuente": "El primer ministro portugués detalla un plan contra el aumento del coste de la vida, sin tocar IVA",
+        "capturado": "2026-09-18T03:47:17-05:00"
       },
       {
-        "titulo": "ETF al contado de Bitcoin podrían triplicar al oro, según analista: ¿qué efecto tendría en el valor de BTC?",
-        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-triplicar-oro-212200051.html",
-        "titulo_fuente": "Los ETF spot de Bitcoin podrían triplicar al oro, según analista: ¿Qué significa para el precio de BTC?",
-        "capturado": "2026-09-17T18:54:59-05:00"
+        "titulo": "Grayscale descarta variaciones significativas en el mercado cripto tras el alza de tasas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-descarta-cambios-mercado-cripto-075200017.html",
+        "titulo_fuente": "Grayscale descarta grandes cambios en el mercado cripto tras aumento de tasas de la Fed",
+        "capturado": "2026-09-18T03:47:17-05:00"
       },
       {
-        "titulo": "Jim Cramer proyecta repunte del 40% en títulos de Palantir: ¿coincide Wall Street?",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-pronostica-rally-40-195900402.html",
-        "titulo_fuente": "Jim Cramer pronostica rally del 40% para las acciones de Palantir: ¿Está de acuerdo Wall Street?",
-        "capturado": "2026-09-17T18:54:59-05:00"
+        "titulo": "Venezuela finaliza un acuerdo para trasladar reservas de oro a Nueva York, según el FT",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-ultima-acuerdo-mover-reservas-062611885.html",
+        "titulo_fuente": "Venezuela ultima un acuerdo para mover reservas de oro a Nueva York, según el FT",
+        "capturado": "2026-09-18T03:47:17-05:00"
       },
       {
-        "titulo": "Este indicador en la gráfica de XRP no se observaba desde hace 13 años",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1al-gr%C3%A1fico-xrp-ve%C3%ADa-13-183600948.html",
-        "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
-        "capturado": "2026-09-17T18:54:59-05:00"
+        "titulo": "Las bolsas de Asia siguen el alza de Wall Street mientras disminuye el precio del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-siguen-subida-wall-055542054.html",
+        "titulo_fuente": "Las bolsas asiáticas siguen la subida de Wall Street mientras cae el precio del petróleo",
+        "capturado": "2026-09-18T03:47:17-05:00"
       }
     ]
   }
