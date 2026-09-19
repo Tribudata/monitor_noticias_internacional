@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T15:06:42-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-19T18:54:48-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Motivos del súbito interés de la banca por las stablecoins y su relevancia para los usuarios",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
+        "titulo_fuente": "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
+        "capturado": "2026-09-19T18:54:48-05:00"
+      },
+      {
+        "titulo": "Los argumentos de Charles Hoskinson sobre por qué las criptomonedas absorberán la IA",
+        "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
+        "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
+        "capturado": "2026-09-19T18:54:48-05:00"
+      },
+      {
         "titulo": "Elon Musk asegura que la IA duplicará el crecimiento de EEUU: ¿es factible?",
         "url": "https://es.finance.yahoo.com/noticias/elon-musk-ia-duplicar%C3%A1-crecimiento-193900567.html",
         "titulo_fuente": "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?",
@@ -93,18 +105,6 @@
         "titulo": "Bolivia retira subsidios al precio del diésel para enfrentar el desabastecimiento",
         "url": "https://es.finance.yahoo.com/noticias/bolivia-elimina-subsidios-precio-di%C3%A9sel-185715252.html",
         "titulo_fuente": "Bolivia elimina subsidios a precio del diésel para combatir desabastecimiento",
-        "capturado": "2026-09-19T15:06:42-05:00"
-      },
-      {
-        "titulo": "La ruta de Anthropic hacia la IPO capta 2 nuevos acontecimientos",
-        "url": "https://es.finance.yahoo.com/noticias/camino-anthropic-ipo-atrae-2-172800790.html",
-        "titulo_fuente": "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos",
-        "capturado": "2026-09-19T15:06:42-05:00"
-      },
-      {
-        "titulo": "¿Qué ETF de criptomonedas captó más capital esta semana? No fue Bitcoin ni Ethereum",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-etf-criptomonedas-atrajo-dinero-151700552.html",
-        "titulo_fuente": "¿Cuál ETF de criptomonedas atrajo más dinero esta semana? No fue Bitcoin, ni Ethereum",
         "capturado": "2026-09-19T15:06:42-05:00"
       }
     ]
