@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T08:57:58-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-20T12:22:46-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Reporte semanal de Bitcoin y criptomonedas en España y América Latina del 20 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
+        "capturado": "2026-09-20T12:22:46-05:00"
+      },
+      {
+        "titulo": "Aficionados venezolanos asisten a taller de capacitación sobre criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/entusiastas-venezolanos-participan-taller-formativo-140900862.html",
+        "titulo_fuente": "Entusiastas venezolanos participan en taller formativo sobre criptomonedas",
+        "capturado": "2026-09-20T12:22:46-05:00"
+      },
+      {
         "titulo": "¿Baja de criptomonedas anticipa el mañana? Hutíes apuntan a Riad y Trump analiza medidas sobre Irán",
         "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-criptomonedas-anticipo-ma%C3%B1ana-hut%C3%ADes-114300564.html",
         "titulo_fuente": "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
@@ -94,18 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
         "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
         "capturado": "2026-09-20T04:05:42-05:00"
-      },
-      {
-        "titulo": "Firmas cotizadas de España adaptan su valor al 4% del bono ¿de qué forma se calcula?",
-        "url": "https://es.finance.yahoo.com/noticias/cotizadas-espa%C3%B1olas-ajustan-valoraci%C3%B3n-4-043000146.html",
-        "titulo_fuente": "Las cotizadas españolas ajustan valoración al 4% del bono ¿cómo se calcula?",
-        "capturado": "2026-09-20T08:57:58-05:00"
-      },
-      {
-        "titulo": "El punto de partida de la inteligencia artificial es donde finaliza el algoritmo",
-        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-empieza-termina-algoritmo-040000790.html",
-        "titulo_fuente": "La inteligencia artificial empieza donde termina el algoritmo",
-        "capturado": "2026-09-20T08:57:58-05:00"
       }
     ]
   }
