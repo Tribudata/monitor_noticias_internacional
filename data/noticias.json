@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T18:54:48-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-19T22:37:20-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -84,6 +84,12 @@
         "capturado": "2026-09-19T18:54:48-05:00"
       },
       {
+        "titulo": "Beta de World of Warcraft supera previsiones de Blizzard: las cifras más sorprendentes en 17 años de labores",
+        "url": "https://es-us.noticias.yahoo.com/beta-world-of-warcraft-resultando-231016704.html",
+        "titulo_fuente": "Beta de World of Warcraft está resultando mucho más popular de lo que Blizzard esperaba: “los números más locos que he visto en 17 años trabajando”",
+        "capturado": "2026-09-19T22:37:20-05:00"
+      },
+      {
         "titulo": "Los argumentos de Charles Hoskinson sobre por qué las criptomonedas absorberán la IA",
         "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
         "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
@@ -99,12 +105,6 @@
         "titulo": "Trump anuncia que designará a un nuevo asesor en inteligencia artificial",
         "url": "https://es.finance.yahoo.com/noticias/trump-nombrar%C3%A1-asesor-materia-inteligencia-192344425.html",
         "titulo_fuente": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
-        "capturado": "2026-09-19T15:06:42-05:00"
-      },
-      {
-        "titulo": "Bolivia retira subsidios al precio del diésel para enfrentar el desabastecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/bolivia-elimina-subsidios-precio-di%C3%A9sel-185715252.html",
-        "titulo_fuente": "Bolivia elimina subsidios a precio del diésel para combatir desabastecimiento",
         "capturado": "2026-09-19T15:06:42-05:00"
       }
     ]
