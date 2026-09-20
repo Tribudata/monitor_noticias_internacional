@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-09-20T04:05:42-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-20T08:57:58-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Los precios de la vivienda resistieron la última alza de tasas de interés ¿lo harán esta vez?",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+        "publicacion": "Sun, 20 Sep 2026 09:05:41 +0000",
+        "titulo_fuente": "House prices survived the last interest-rate rise. Will they this time?",
+        "capturado": "2026-09-20T08:57:58-05:00"
+      },
       {
         "titulo": "El menor crecimiento del PIB per cápita pone en riesgo el nivel de vida global",
         "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
@@ -30,13 +37,6 @@
         "publicacion": "Wed, 16 Sep 2026 18:22:11 +0000",
         "titulo_fuente": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
         "capturado": "2026-09-16T15:55:01-05:00"
-      },
-      {
-        "titulo": "Lo que la mayor oferta pública inicial de África puede aportar a sus mercados accionarios",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
-        "publicacion": "Tue, 15 Sep 2026 20:44:13 +0000",
-        "titulo_fuente": "What Africa’s biggest IPO can do for its stock markets",
-        "capturado": "2026-09-15T15:59:22-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Baja de criptomonedas anticipa el mañana? Hutíes apuntan a Riad y Trump analiza medidas sobre Irán",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-criptomonedas-anticipo-ma%C3%B1ana-hut%C3%ADes-114300564.html",
+        "titulo_fuente": "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
+        "capturado": "2026-09-20T08:57:58-05:00"
+      },
+      {
+        "titulo": "¿En dónde se encuentran verdaderamente los dólares de América Latina?",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-residen-realmente-d%C3%B3lares-latinoam%C3%A9rica-091100105.html",
+        "titulo_fuente": "¿Dónde residen realmente los dólares de Latinoamérica?",
+        "capturado": "2026-09-20T08:57:58-05:00"
+      },
+      {
         "titulo": "El costo de tener un bebé en Europa: ¿dónde son más económicos los artículos esenciales",
         "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
         "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
         "capturado": "2026-09-20T04:05:42-05:00"
       },
       {
-        "titulo": "NVIDIA rechaza garantía de RTX 5090 por número de serie borrado en uso normal y no admite caja ni factura",
-        "url": "https://es-us.noticias.yahoo.com/nvidia-niega-garant%C3%ADa-rtx-5090-003255539.html",
-        "titulo_fuente": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa",
-        "capturado": "2026-09-20T04:05:42-05:00"
+        "titulo": "Firmas cotizadas de España adaptan su valor al 4% del bono ¿de qué forma se calcula?",
+        "url": "https://es.finance.yahoo.com/noticias/cotizadas-espa%C3%B1olas-ajustan-valoraci%C3%B3n-4-043000146.html",
+        "titulo_fuente": "Las cotizadas españolas ajustan valoración al 4% del bono ¿cómo se calcula?",
+        "capturado": "2026-09-20T08:57:58-05:00"
       },
       {
-        "titulo": "Motivos del súbito interés de la banca por las stablecoins y su relevancia para los usuarios",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
-        "titulo_fuente": "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
-        "capturado": "2026-09-19T18:54:48-05:00"
-      },
-      {
-        "titulo": "Beta de World of Warcraft supera previsiones de Blizzard: las cifras más sorprendentes en 17 años de labores",
-        "url": "https://es-us.noticias.yahoo.com/beta-world-of-warcraft-resultando-231016704.html",
-        "titulo_fuente": "Beta de World of Warcraft está resultando mucho más popular de lo que Blizzard esperaba: “los números más locos que he visto en 17 años trabajando”",
-        "capturado": "2026-09-19T22:37:20-05:00"
-      },
-      {
-        "titulo": "Los argumentos de Charles Hoskinson sobre por qué las criptomonedas absorberán la IA",
-        "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
-        "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
-        "capturado": "2026-09-19T18:54:48-05:00"
+        "titulo": "El punto de partida de la inteligencia artificial es donde finaliza el algoritmo",
+        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-empieza-termina-algoritmo-040000790.html",
+        "titulo_fuente": "La inteligencia artificial empieza donde termina el algoritmo",
+        "capturado": "2026-09-20T08:57:58-05:00"
       }
     ]
   }
