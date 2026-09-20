@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T15:23:05-05:00",
+  "actualizado": "2026-09-20T18:52:07-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Próximamente se podrá tener exposición pre-IPO en Binance Wallet, pero bajo una condición",
+        "url": "https://es.finance.yahoo.com/noticias/pronto-podr%C3%A1s-obtener-exposici%C3%B3n-pre-212200369.html",
+        "titulo_fuente": "Pronto podrás obtener exposición pre-IPO en Binance Wallet, pero hay una condición",
+        "capturado": "2026-09-20T18:52:07-05:00"
+      },
+      {
         "titulo": "Seis galardonados con el Nobel de Economía contra Ripple: la disputa por el impuesto de California",
         "url": "https://es.finance.yahoo.com/noticias/seis-premios-nobel-econom%C3%ADa-vs-185700446.html",
         "titulo_fuente": "Seis Premios Nobel de Economía vs. Ripple: la pelea por el impuesto californiano",
@@ -99,12 +105,6 @@
         "titulo": "¿Baja de criptomonedas anticipa el mañana? Hutíes apuntan a Riad y Trump analiza medidas sobre Irán",
         "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-criptomonedas-anticipo-ma%C3%B1ana-hut%C3%ADes-114300564.html",
         "titulo_fuente": "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
-        "capturado": "2026-09-20T08:57:58-05:00"
-      },
-      {
-        "titulo": "¿En dónde se encuentran verdaderamente los dólares de América Latina?",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-residen-realmente-d%C3%B3lares-latinoam%C3%A9rica-091100105.html",
-        "titulo_fuente": "¿Dónde residen realmente los dólares de Latinoamérica?",
         "capturado": "2026-09-20T08:57:58-05:00"
       }
     ]
