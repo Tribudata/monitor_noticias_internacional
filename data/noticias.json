@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-19T22:37:20-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-20T04:05:42-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "El costo de tener un bebé en Europa: ¿dónde son más económicos los artículos esenciales",
+        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
+        "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
+        "capturado": "2026-09-20T04:05:42-05:00"
+      },
+      {
+        "titulo": "NVIDIA rechaza garantía de RTX 5090 por número de serie borrado en uso normal y no admite caja ni factura",
+        "url": "https://es-us.noticias.yahoo.com/nvidia-niega-garant%C3%ADa-rtx-5090-003255539.html",
+        "titulo_fuente": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa",
+        "capturado": "2026-09-20T04:05:42-05:00"
+      },
+      {
         "titulo": "Motivos del súbito interés de la banca por las stablecoins y su relevancia para los usuarios",
         "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
         "titulo_fuente": "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
@@ -94,18 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
         "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
         "capturado": "2026-09-19T18:54:48-05:00"
-      },
-      {
-        "titulo": "Elon Musk asegura que la IA duplicará el crecimiento de EEUU: ¿es factible?",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-ia-duplicar%C3%A1-crecimiento-193900567.html",
-        "titulo_fuente": "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?",
-        "capturado": "2026-09-19T15:06:42-05:00"
-      },
-      {
-        "titulo": "Trump anuncia que designará a un nuevo asesor en inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/trump-nombrar%C3%A1-asesor-materia-inteligencia-192344425.html",
-        "titulo_fuente": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
-        "capturado": "2026-09-19T15:06:42-05:00"
       }
     ]
   }
