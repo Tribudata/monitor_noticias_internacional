@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T12:22:46-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-20T15:23:05-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Seis galardonados con el Nobel de Economía contra Ripple: la disputa por el impuesto de California",
+        "url": "https://es.finance.yahoo.com/noticias/seis-premios-nobel-econom%C3%ADa-vs-185700446.html",
+        "titulo_fuente": "Seis Premios Nobel de Economía vs. Ripple: la pelea por el impuesto californiano",
+        "capturado": "2026-09-20T15:23:05-05:00"
+      },
+      {
         "titulo": "Reporte semanal de Bitcoin y criptomonedas en España y América Latina del 20 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
         "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-residen-realmente-d%C3%B3lares-latinoam%C3%A9rica-091100105.html",
         "titulo_fuente": "¿Dónde residen realmente los dólares de Latinoamérica?",
         "capturado": "2026-09-20T08:57:58-05:00"
-      },
-      {
-        "titulo": "El costo de tener un bebé en Europa: ¿dónde son más económicos los artículos esenciales",
-        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
-        "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
-        "capturado": "2026-09-20T04:05:42-05:00"
       }
     ]
   }
