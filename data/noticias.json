@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-20T22:32:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-21T04:37:56-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "EEUU inicia competencia cuántica de $215 millones: ¿debería inquietarse Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-lanza-carrera-cu%C3%A1ntica-215-233600073.html",
-        "titulo_fuente": "EEUU lanza carrera cuántica por $215 millones: ¿Debería preocuparse Bitcoin?",
-        "capturado": "2026-09-20T22:32:07-05:00"
+        "titulo": "El diésel francés supera los 2,40€ por litro mientras el combustible de Europa registra máximos",
+        "url": "https://es.finance.yahoo.com/noticias/gas%C3%B3leo-franc%C3%A9s-supera-2-40-092050890.html",
+        "titulo_fuente": "El gasóleo francés supera los 2,40€/litro mientras el carburante europeo marca récords",
+        "capturado": "2026-09-21T04:37:56-05:00"
       },
       {
-        "titulo": "Próximamente se podrá tener exposición pre-IPO en Binance Wallet, pero bajo una condición",
-        "url": "https://es.finance.yahoo.com/noticias/pronto-podr%C3%A1s-obtener-exposici%C3%B3n-pre-212200369.html",
-        "titulo_fuente": "Pronto podrás obtener exposición pre-IPO en Binance Wallet, pero hay una condición",
-        "capturado": "2026-09-20T18:52:07-05:00"
+        "titulo": "¿Finalizó la tendencia bajista de Bitcoin? Reaparece un indicador que no se veía hace 45 semanas",
+        "url": "https://es.finance.yahoo.com/noticias/termin%C3%B3-mercado-bajista-bitcoin-regresa-091600919.html",
+        "titulo_fuente": "¿Terminó el mercado bajista de Bitcoin? Regresa una señal no vista en 45 semanas",
+        "capturado": "2026-09-21T04:37:56-05:00"
       },
       {
-        "titulo": "Seis galardonados con el Nobel de Economía contra Ripple: la disputa por el impuesto de California",
-        "url": "https://es.finance.yahoo.com/noticias/seis-premios-nobel-econom%C3%ADa-vs-185700446.html",
-        "titulo_fuente": "Seis Premios Nobel de Economía vs. Ripple: la pelea por el impuesto californiano",
-        "capturado": "2026-09-20T15:23:05-05:00"
+        "titulo": "Volvo designa al líder de Skoda, Klaus Zellmer, para reemplazar a Håkan Samuelsson",
+        "url": "https://es.finance.yahoo.com/noticias/volvo-cars-nombra-jefe-koda-075430412.html",
+        "titulo_fuente": "Volvo elige al jefe de Skoda, Klaus Zellmer, como sucesor de Håkan Samuelsson",
+        "capturado": "2026-09-21T04:37:56-05:00"
       },
       {
-        "titulo": "Reporte semanal de Bitcoin y criptomonedas en España y América Latina del 20 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
-        "capturado": "2026-09-20T12:22:46-05:00"
+        "titulo": "El reparto de las ganancias de la IA definirá la inflación, según Panetta del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/distribuci%C3%B3n-beneficios-ia-determinar%C3%A1-inflaci%C3%B3n-082301166.html",
+        "titulo_fuente": "La distribución de los beneficios de la IA determinará la inflación, dice Panetta, del BCE",
+        "capturado": "2026-09-21T04:37:56-05:00"
       },
       {
-        "titulo": "Aficionados venezolanos asisten a taller de capacitación sobre criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/entusiastas-venezolanos-participan-taller-formativo-140900862.html",
-        "titulo_fuente": "Entusiastas venezolanos participan en taller formativo sobre criptomonedas",
-        "capturado": "2026-09-20T12:22:46-05:00"
+        "titulo": "¿Debería confiar su dinero a un chatbot de IA? Una prueba con 10.000 respuestas arroja un veredicto",
+        "url": "https://es.finance.yahoo.com/noticias/deber%C3%ADas-confiarle-tu-dinero-chatbot-075400838.html",
+        "titulo_fuente": "¿Deberías confiarle tu dinero a un chatbot de IA? Un test con 10,000 respuestas tiene un veredicto",
+        "capturado": "2026-09-21T04:37:56-05:00"
       }
     ]
   }
