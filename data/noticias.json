@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T18:52:07-05:00",
+  "actualizado": "2026-09-20T22:32:07-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "EEUU inicia competencia cuántica de $215 millones: ¿debería inquietarse Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-lanza-carrera-cu%C3%A1ntica-215-233600073.html",
+        "titulo_fuente": "EEUU lanza carrera cuántica por $215 millones: ¿Debería preocuparse Bitcoin?",
+        "capturado": "2026-09-20T22:32:07-05:00"
+      },
+      {
         "titulo": "Próximamente se podrá tener exposición pre-IPO en Binance Wallet, pero bajo una condición",
         "url": "https://es.finance.yahoo.com/noticias/pronto-podr%C3%A1s-obtener-exposici%C3%B3n-pre-212200369.html",
         "titulo_fuente": "Pronto podrás obtener exposición pre-IPO en Binance Wallet, pero hay una condición",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/entusiastas-venezolanos-participan-taller-formativo-140900862.html",
         "titulo_fuente": "Entusiastas venezolanos participan en taller formativo sobre criptomonedas",
         "capturado": "2026-09-20T12:22:46-05:00"
-      },
-      {
-        "titulo": "¿Baja de criptomonedas anticipa el mañana? Hutíes apuntan a Riad y Trump analiza medidas sobre Irán",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-criptomonedas-anticipo-ma%C3%B1ana-hut%C3%ADes-114300564.html",
-        "titulo_fuente": "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
-        "capturado": "2026-09-20T08:57:58-05:00"
       }
     ]
   }
