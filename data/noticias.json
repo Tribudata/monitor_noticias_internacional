@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T04:37:56-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-21T11:13:34-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Así afecta la IA la selección de personal: 5 claves que debe conocer antes de postularse a una vacante",
+        "url": "https://www.bbc.com/mundo/articles/c79gpqxyyd1o",
+        "publicacion": "2026-09-21",
+        "titulo_fuente": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
+        "capturado": "2026-09-21T11:13:34-05:00"
+      },
+      {
         "titulo": "Así logró el peso colombiano posicionarse entre las divisas más fuertes del mundo en 2026",
         "url": "https://www.bbc.com/mundo/articles/cm1wxz8d3dj5o",
         "publicacion": "2026-09-18",
@@ -67,13 +74,6 @@
         "publicacion": "2026-09-16",
         "titulo_fuente": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
         "capturado": "2026-09-16T19:07:42-05:00"
-      },
-      {
-        "titulo": "Por qué las mayores petroleras de EE.UU. se marginan del mayor acuerdo histórico de Trump y Delcy Rodríguez",
-        "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o",
-        "publicacion": "2026-09-15",
-        "titulo_fuente": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
-        "capturado": "2026-09-15T18:58:32-05:00"
       }
     ],
     "Yahoo": [
