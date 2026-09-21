@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-21T11:13:34-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-21T16:44:20-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "El diésel francés supera los 2,40€ por litro mientras el combustible de Europa registra máximos",
-        "url": "https://es.finance.yahoo.com/noticias/gas%C3%B3leo-franc%C3%A9s-supera-2-40-092050890.html",
-        "titulo_fuente": "El gasóleo francés supera los 2,40€/litro mientras el carburante europeo marca récords",
-        "capturado": "2026-09-21T04:37:56-05:00"
+        "titulo": "Actualización: Tecnológicas y de comunicación elevan bolsas de EE. UU. al caer crudo y rendimientos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-pesos-pesados-servicios-comunicaci%C3%B3n-210945431.html",
+        "titulo_fuente": "Actualización: Los pesos pesados de los servicios de comunicación y la tecnología impulsan al alza los índices bursátiles estadounidenses mientras el petróleo crudo cae junto con los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-09-21T16:44:20-05:00"
       },
       {
-        "titulo": "¿Finalizó la tendencia bajista de Bitcoin? Reaparece un indicador que no se veía hace 45 semanas",
-        "url": "https://es.finance.yahoo.com/noticias/termin%C3%B3-mercado-bajista-bitcoin-regresa-091600919.html",
-        "titulo_fuente": "¿Terminó el mercado bajista de Bitcoin? Regresa una señal no vista en 45 semanas",
-        "capturado": "2026-09-21T04:37:56-05:00"
+        "titulo": "Arriendo de habitaciones crece en España ante los altos precios de alquiler de apartamentos",
+        "url": "https://es.finance.yahoo.com/noticias/alquiler-habitaciones-crece-espa%C3%B1a-impulsado-201707986.html",
+        "titulo_fuente": "El alquiler de habitaciones crece en España impulsado por los altos precios de los arrendamientos de piso",
+        "capturado": "2026-09-21T16:44:20-05:00"
       },
       {
-        "titulo": "Volvo designa al líder de Skoda, Klaus Zellmer, para reemplazar a Håkan Samuelsson",
-        "url": "https://es.finance.yahoo.com/noticias/volvo-cars-nombra-jefe-koda-075430412.html",
-        "titulo_fuente": "Volvo elige al jefe de Skoda, Klaus Zellmer, como sucesor de Håkan Samuelsson",
-        "capturado": "2026-09-21T04:37:56-05:00"
+        "titulo": "OpenAI y Anthropic evaluaron pruebas mutuas de IA: CEO de Palantir dice que una no saldría a bolsa",
+        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-consideraron-pruebas-ia-202000763.html",
+        "titulo_fuente": "OpenAI y Anthropic consideraron pruebas de IA mutuas: el CEO de Palantir dice que una puede que nunca salga a bolsa",
+        "capturado": "2026-09-21T16:44:20-05:00"
       },
       {
-        "titulo": "El reparto de las ganancias de la IA definirá la inflación, según Panetta del BCE",
-        "url": "https://es.finance.yahoo.com/noticias/distribuci%C3%B3n-beneficios-ia-determinar%C3%A1-inflaci%C3%B3n-082301166.html",
-        "titulo_fuente": "La distribución de los beneficios de la IA determinará la inflación, dice Panetta, del BCE",
-        "capturado": "2026-09-21T04:37:56-05:00"
+        "titulo": "Polo pasa a ser huracán y amenaza a poblaciones turísticas del Pacífico mexicano",
+        "url": "https://es.finance.yahoo.com/noticias/polo-convierte-hurac%C3%A1n-amenaza-localidades-194026574.html",
+        "titulo_fuente": "Polo se convierte en huracán y amenaza a localidades turísticas del Pacífico mexicano",
+        "capturado": "2026-09-21T16:44:20-05:00"
       },
       {
-        "titulo": "¿Debería confiar su dinero a un chatbot de IA? Una prueba con 10.000 respuestas arroja un veredicto",
-        "url": "https://es.finance.yahoo.com/noticias/deber%C3%ADas-confiarle-tu-dinero-chatbot-075400838.html",
-        "titulo_fuente": "¿Deberías confiarle tu dinero a un chatbot de IA? Un test con 10,000 respuestas tiene un veredicto",
-        "capturado": "2026-09-21T04:37:56-05:00"
+        "titulo": "Musalem señala que la Fed podría requerir más subidas de tasas para contener la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesitar-alzas-tasas-191805553.html",
+        "titulo_fuente": "Musalem dice que la Fed podría necesitar más alzas de tasas para frenar la inflación",
+        "capturado": "2026-09-21T16:44:20-05:00"
       }
     ]
   }
