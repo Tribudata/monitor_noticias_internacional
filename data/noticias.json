@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T19:01:13-05:00",
+  "actualizado": "2026-09-23T02:23:31-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Goldman Sachs y Deutsche Bank coinciden en que el alza del S&P 500 continuará",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-deutsche-bank-acuerdo-223800902.html",
-        "titulo_fuente": "Goldman Sachs y Deutsche Bank están de acuerdo: el rally del S&P 500 no ha terminado",
-        "capturado": "2026-09-22T19:01:13-05:00"
+        "titulo": "EE. UU. respaldará con 7.000 millones proyectos de minería y energía en Argentina, según documento",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-financiar%C3%A1-proyectos-mineros-energ%C3%A9ticos-061937785.html",
+        "titulo_fuente": "EEUU financiará proyectos mineros y energéticos en Argentina con 7.000 millones, según documento",
+        "capturado": "2026-09-23T02:23:31-05:00"
       },
       {
-        "titulo": "Trump respalda vetar la exportación de diésel en medio de precios máximos históricos",
-        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-prohibici%C3%B3n-exportaci%C3%B3n-di%C3%A9sel-214408867.html",
-        "titulo_fuente": "Trump apoya una prohibición a la exportación de diésel mientras los precios alcanzan récords",
-        "capturado": "2026-09-22T19:01:13-05:00"
+        "titulo": "Europa evitaría un fuerte desabastecimiento de queroseno, pero aeropuertos pequeños siguen bajo amenaza",
+        "url": "https://es.finance.yahoo.com/noticias/europa-evitar-escasez-queroseno-aeropuertos-053025657.html",
+        "titulo_fuente": "Europa podría evitar escasez mayor de queroseno, pero los aeropuertos pequeños siguen en riesgo",
+        "capturado": "2026-09-23T02:23:31-05:00"
       },
       {
-        "titulo": "CEO de Strategy asegura que Jamie Dimon es bitcoiner en privado",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-strategy-jamie-dimon-bitcoiner-212300623.html",
-        "titulo_fuente": "CEO de Strategy dice que Jamie Dimon es bitcoiner en privado",
-        "capturado": "2026-09-22T19:01:13-05:00"
+        "titulo": "Crisis generacional: la población joven en Europa se queda sin opciones para adquirir una vivienda",
+        "url": "https://es.finance.yahoo.com/noticias/j%C3%B3venes-europeos-acceso-vivienda-comprar-043046195.html",
+        "titulo_fuente": "Crisis generacional: los jóvenes europeos se quedan sin poder acceder a una vivienda",
+        "capturado": "2026-09-23T02:23:31-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. cierran mixtos mientras caen rendimientos del Tesoro y petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-210204600.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, mientras que los rendimientos de los bonos del Tesoro retroceden junto con el petróleo crudo.",
-        "capturado": "2026-09-22T19:01:13-05:00"
+        "titulo": "El valor del crudo disminuye luego del acercamiento de Estados Unidos e Irán en el marco de la ONU",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-cae-debajo-100-d%C3%B3lares-053912509.html",
+        "titulo_fuente": "El precio del petróleo cae tras el acercamiento entre Estados Unidos e Irán en la ONU",
+        "capturado": "2026-09-23T02:23:31-05:00"
       },
       {
-        "titulo": "OpenAI y Anthropic presentan nuevos modelos de IA: estos son los detalles",
-        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-lanzan-modelos-ia-204948637.html",
-        "titulo_fuente": "OpenAI y Anthropic lanzan nuevos modelos de IA: conozca los detalles",
-        "capturado": "2026-09-22T19:01:13-05:00"
+        "titulo": "B3 estrena futuros de Bitcoin en USD y expande sus alternativas en la bolsa",
+        "url": "https://es.finance.yahoo.com/noticias/b3-lanza-futuros-bitcoin-usd-232700689.html",
+        "titulo_fuente": "B3 lanza futuros de Bitcoin en USD y amplía estrategias en la bolsa",
+        "capturado": "2026-09-23T02:23:31-05:00"
       }
     ]
   }
