@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-22T16:07:32-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-22T19:01:13-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Declaración patrimonial revela que Trump adquirió y vendió acciones de SpaceX, firma de Musk, en julio",
-        "url": "https://es.finance.yahoo.com/noticias/trump-compr%C3%B3-vendi%C3%B3-acciones-spacex-192307191.html",
-        "titulo_fuente": "Trump compró y vendió acciones de SpaceX, la empresa de Musk, en julio, según declaración patrimonial",
-        "capturado": "2026-09-22T16:07:32-05:00"
+        "titulo": "Goldman Sachs y Deutsche Bank coinciden en que el alza del S&P 500 continuará",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-deutsche-bank-acuerdo-223800902.html",
+        "titulo_fuente": "Goldman Sachs y Deutsche Bank están de acuerdo: el rally del S&P 500 no ha terminado",
+        "capturado": "2026-09-22T19:01:13-05:00"
       },
       {
-        "titulo": "Futuros de la soya cotizan estables a la expectativa de la cumbre entre EEUU y China",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-soja-cotizan-estables-espera-183521393.html",
-        "titulo_fuente": "Futuros de la soja cotizan estables a la espera de la cumbre entre EEUU y China",
-        "capturado": "2026-09-22T16:07:32-05:00"
+        "titulo": "Trump respalda vetar la exportación de diésel en medio de precios máximos históricos",
+        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-prohibici%C3%B3n-exportaci%C3%B3n-di%C3%A9sel-214408867.html",
+        "titulo_fuente": "Trump apoya una prohibición a la exportación de diésel mientras los precios alcanzan récords",
+        "capturado": "2026-09-22T19:01:13-05:00"
       },
       {
-        "titulo": "Trump asegura que EEUU e Irán tuvieron un encuentro muy productivo en Nueva York",
-        "url": "https://es.finance.yahoo.com/noticias/trump-ee-uu-ir%C3%A1n-sostuvieron-180831978.html",
-        "titulo_fuente": "Trump dice que EE.UU. e Irán sostuvieron una reunión “muy productiva” en Nueva York",
-        "capturado": "2026-09-22T16:07:32-05:00"
+        "titulo": "CEO de Strategy asegura que Jamie Dimon es bitcoiner en privado",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-strategy-jamie-dimon-bitcoiner-212300623.html",
+        "titulo_fuente": "CEO de Strategy dice que Jamie Dimon es bitcoiner en privado",
+        "capturado": "2026-09-22T19:01:13-05:00"
       },
       {
-        "titulo": "Actualización: Indicadores de las bolsas de EEUU registran un comportamiento mixto a mitad de jornada",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-175933469.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a media jornada.",
-        "capturado": "2026-09-22T16:07:32-05:00"
+        "titulo": "Actualización: Índices de EE. UU. cierran mixtos mientras caen rendimientos del Tesoro y petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-210204600.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, mientras que los rendimientos de los bonos del Tesoro retroceden junto con el petróleo crudo.",
+        "capturado": "2026-09-22T19:01:13-05:00"
       },
       {
-        "titulo": "Apple diseña un monitor de rendimiento físico para competir con Whoop",
-        "url": "https://es.finance.yahoo.com/noticias/apple-desarrolla-monitor-actividad-f%C3%ADsica-172937568.html",
-        "titulo_fuente": "Apple desarrolla un monitor de actividad física para competir con Whoop",
-        "capturado": "2026-09-22T16:07:32-05:00"
+        "titulo": "OpenAI y Anthropic presentan nuevos modelos de IA: estos son los detalles",
+        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-lanzan-modelos-ia-204948637.html",
+        "titulo_fuente": "OpenAI y Anthropic lanzan nuevos modelos de IA: conozca los detalles",
+        "capturado": "2026-09-22T19:01:13-05:00"
       }
     ]
   }
