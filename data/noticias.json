@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-23T17:42:29-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-23T22:21:43-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Razones por las que decidí gastar mis recursos en lugar de heredárselos a mis hijos",
+        "url": "https://www.bbc.com/mundo/articles/cqwyzd6g18y3o",
+        "publicacion": "2026-09-23",
+        "titulo_fuente": "Por qué decidí gastarme el dinero en lugar de dejarlo en herencia a mis hijos",
+        "capturado": "2026-09-23T22:21:43-05:00"
+      },
+      {
         "titulo": "DoorDash pagará una elevada compensación en Nueva York tras admitir que pagó menos a sus repartidores",
         "url": "https://www.bbc.com/mundo/articles/cmz6zvv08zxwo",
         "publicacion": "2026-09-23",
@@ -67,13 +74,6 @@
         "publicacion": "PT6M5S",
         "titulo_fuente": "Cómo funcionan los \"ascensores de agua\" del Canal de Panamá y por qué El Niño los afecta, Duración 6,05",
         "capturado": "2026-09-17T16:08:09-05:00"
-      },
-      {
-        "titulo": "Cómo la hostilidad de Trump está llevando a Canadá a estrechar lazos con la Unión Europea",
-        "url": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo",
-        "publicacion": "2026-09-16",
-        "titulo_fuente": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
-        "capturado": "2026-09-16T05:54:28-05:00"
       }
     ],
     "Yahoo": [
