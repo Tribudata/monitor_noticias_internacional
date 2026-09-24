@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T04:01:34-05:00",
+  "actualizado": "2026-09-24T09:38:44-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Crisis de combustibles en Francia, alza de precios y malestar marcan la campaña presidencial",
-        "url": "https://es.finance.yahoo.com/noticias/francia-precios-combustible-alza-enfado-164158030.html",
-        "titulo_fuente": "Crisis del combustible en Francia, precios al alza y enfado marcan la campaña presidencial",
-        "capturado": "2026-09-24T04:01:34-05:00"
+        "titulo": "Paulson de la Fed afirma que se requerirían nuevos incrementos de tasas para contener la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/paulson-fed-ser-necesarias-alzas-142732622.html",
+        "titulo_fuente": "Paulson, de la Fed, dice que podrían ser necesarias más alzas de tasas para frenar la inflación",
+        "capturado": "2026-09-24T09:38:44-05:00"
       },
       {
-        "titulo": "Sustraen $20 millones en XRP de miles de hardware wallets",
-        "url": "https://es.finance.yahoo.com/noticias/20-millones-xrp-robados-miles-074600026.html",
-        "titulo_fuente": "$20 millones en XRP son robados de miles de hardware wallets",
-        "capturado": "2026-09-24T04:01:34-05:00"
+        "titulo": "Rusia inicia exportaciones del proyecto Vostok Oil en el Ártico, impulsando la producción a largo plazo",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-inicia-exportaciones-proyecto-vostok-142510974.html",
+        "titulo_fuente": "Rusia inicia exportaciones proyecto Vostok Oil en Ártico, lo que supone impulso para producción a largo plazo",
+        "capturado": "2026-09-24T09:38:44-05:00"
       },
       {
-        "titulo": "Binance añade Hyperliquid (HYPE) con 3 pares spot que entran en operación hoy",
-        "url": "https://es.finance.yahoo.com/noticias/binance-lista-hyperliquid-hype-3-074623957.html",
-        "titulo_fuente": "Binance lista Hyperliquid (HYPE) con 3 pares spot que se activan hoy",
-        "capturado": "2026-09-24T04:01:34-05:00"
+        "titulo": "Hammack de la Fed alerta que las presiones de la inflación continúan con tendencia alcista",
+        "url": "https://es.finance.yahoo.com/noticias/hammack-fed-advierte-presiones-inflacionarias-142427770.html",
+        "titulo_fuente": "Hammack de Fed advierte de que las presiones inflacionarias siguen apuntando al alza",
+        "capturado": "2026-09-24T09:38:44-05:00"
       },
       {
-        "titulo": "UE alcanza máximos en precios de combustible; BCE proyecta pico del margen del diésel en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/ue-marca-r%C3%A9cords-precio-combustible-050017541.html",
-        "titulo_fuente": "La UE marca récords en el precio del combustible, el BCE prevé pico del margen del diésel en octubre",
-        "capturado": "2026-09-24T04:01:34-05:00"
+        "titulo": "Bentley presenta su primer vehículo eléctrico, que podría ser su modelo más económico",
+        "url": "https://es.finance.yahoo.com/noticias/bentley-lanza-coche-el%C3%A9ctrico-ser-141016109.html",
+        "titulo_fuente": "Bentley lanza su primer coche eléctrico, podría ser su modelo más barato",
+        "capturado": "2026-09-24T09:38:44-05:00"
       },
       {
-        "titulo": "Mercados operan con tendencia mixta ante volatilidad del petróleo y la deuda estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-muestran-mixtos-volatilidad-petr%C3%B3leo-061308641.html",
-        "titulo_fuente": "Los mercados se muestran mixtos ante la volatilidad del petróleo y la deuda estadounidense",
-        "capturado": "2026-09-24T04:01:34-05:00"
+        "titulo": "El tránsito marítimo por el estrecho de Ormuz continúa bajo el promedio de 10 días, revelan datos",
+        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-mar%C3%ADtimo-estrecho-ormuz-mantiene-140143117.html",
+        "titulo_fuente": "Tráfico marítimo por el estrecho de Ormuz se mantiene bajo el promedio de 10 días, muestran datos",
+        "capturado": "2026-09-24T09:38:44-05:00"
       }
     ]
   }
