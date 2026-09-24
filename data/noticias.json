@@ -1,45 +1,52 @@
 {
-  "actualizado": "2026-09-24T09:38:44-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-24T14:48:39-05:00",
+  "nuevos_en_esta_corrida": 10,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "La manera en que la Fed debería medir la inflación",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
+        "publicacion": "Thu, 24 Sep 2026 09:44:07 +0000",
+        "titulo_fuente": "How the Fed should measure inflation",
+        "capturado": "2026-09-24T14:48:39-05:00"
+      },
+      {
+        "titulo": "La economía de guerra de Israel se encuentra en auge",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
+        "publicacion": "Thu, 24 Sep 2026 09:43:14 +0000",
+        "titulo_fuente": "Israel’s war economy is thriving",
+        "capturado": "2026-09-24T14:48:39-05:00"
+      },
+      {
+        "titulo": "La disputa entre las bolsas de valores de India se intensifica nuevamente",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again",
+        "publicacion": "Thu, 24 Sep 2026 09:42:29 +0000",
+        "titulo_fuente": "The battle between India’s stock exchanges is heating up again",
+        "capturado": "2026-09-24T14:48:39-05:00"
+      },
+      {
+        "titulo": "El descalabro de los fondos de inversión de Turquía",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/24/turkeys-investment-fund-fiasco",
+        "publicacion": "Thu, 24 Sep 2026 09:40:24 +0000",
+        "titulo_fuente": "Turkey’s investment-fund fiasco",
+        "capturado": "2026-09-24T14:48:39-05:00"
+      },
       {
         "titulo": "No es posible protegerse del apocalipsis de la AI solo con operaciones de mercado",
         "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
         "publicacion": "Tue, 22 Sep 2026 19:51:26 +0000",
         "titulo_fuente": "You can’t trade your way through the AI apocalypse",
         "capturado": "2026-09-22T16:07:32-05:00"
-      },
-      {
-        "titulo": "Los centros de datos están generando una fuerte presión sobre el mercado de seguros",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market",
-        "publicacion": "Tue, 22 Sep 2026 17:36:59 +0000",
-        "titulo_fuente": "Data centres are straining the insurance market",
-        "capturado": "2026-09-22T16:07:32-05:00"
-      },
-      {
-        "titulo": "Los precios de la vivienda resistieron la última alza de tasas de interés ¿lo harán esta vez?",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
-        "publicacion": "Sun, 20 Sep 2026 09:05:41 +0000",
-        "titulo_fuente": "House prices survived the last interest-rate rise. Will they this time?",
-        "capturado": "2026-09-20T08:57:58-05:00"
-      },
-      {
-        "titulo": "El menor crecimiento del PIB per cápita pone en riesgo el nivel de vida global",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
-        "publicacion": "Thu, 17 Sep 2026 10:30:49 +0000",
-        "titulo_fuente": "The GDP-per-person slowdown threatens global living standards",
-        "capturado": "2026-09-17T12:56:56-05:00"
-      },
-      {
-        "titulo": "La teoría del derrame económico en el boom de la IA",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
-        "publicacion": "Thu, 17 Sep 2026 09:27:11 +0000",
-        "titulo_fuente": "The trickle-down economics of the AI boom",
-        "capturado": "2026-09-17T08:04:17-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Qué es y cómo funciona Urbagestión, la firma tras desalojar a la anciana Maricarmen de 87 años en Madrid",
+        "url": "https://www.bbc.com/mundo/articles/c68xknvz71e1o",
+        "publicacion": "2026-09-24",
+        "titulo_fuente": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
+        "capturado": "2026-09-24T14:48:39-05:00"
+      },
       {
         "titulo": "Razones por las que decidí gastar mis recursos en lugar de heredárselos a mis hijos",
         "url": "https://www.bbc.com/mundo/articles/cqwyzd6g18y3o",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-18",
         "titulo_fuente": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
         "capturado": "2026-09-18T09:07:16-05:00"
-      },
-      {
-        "titulo": "Funcionamiento de los elevadores de agua del Canal de Panamá y el impacto de El Niño, Duración 6,05",
-        "url": "https://www.bbc.com/mundo/articles/c61mvjpdedlvo",
-        "publicacion": "PT6M5S",
-        "titulo_fuente": "Cómo funcionan los \"ascensores de agua\" del Canal de Panamá y por qué El Niño los afecta, Duración 6,05",
-        "capturado": "2026-09-17T16:08:09-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Paulson de la Fed afirma que se requerirían nuevos incrementos de tasas para contener la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/paulson-fed-ser-necesarias-alzas-142732622.html",
-        "titulo_fuente": "Paulson, de la Fed, dice que podrían ser necesarias más alzas de tasas para frenar la inflación",
-        "capturado": "2026-09-24T09:38:44-05:00"
+        "titulo": "Joaquín Gutiérrez es designado presidente del grupo energético colombiano Ecopetrol",
+        "url": "https://es.finance.yahoo.com/noticias/nombran-presidente-conglomerado-energ%C3%A9tico-colombiano-193705780.html",
+        "titulo_fuente": "Nombran como presidente de conglomerado energético colombiano Ecopetrol a Joaquín Gutiérrez",
+        "capturado": "2026-09-24T14:48:39-05:00"
       },
       {
-        "titulo": "Rusia inicia exportaciones del proyecto Vostok Oil en el Ártico, impulsando la producción a largo plazo",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-inicia-exportaciones-proyecto-vostok-142510974.html",
-        "titulo_fuente": "Rusia inicia exportaciones proyecto Vostok Oil en Ártico, lo que supone impulso para producción a largo plazo",
-        "capturado": "2026-09-24T09:38:44-05:00"
+        "titulo": "Declaraciones y entrevistas del BCE mueven los mercados al igual que sus decisiones, según un estudio",
+        "url": "https://es.finance.yahoo.com/noticias/discursos-entrevistas-bce-mueven-mercados-190617051.html",
+        "titulo_fuente": "Los discursos y entrevistas del BCE mueven los mercados como las decisiones, según un estudio",
+        "capturado": "2026-09-24T14:48:39-05:00"
       },
       {
-        "titulo": "Hammack de la Fed alerta que las presiones de la inflación continúan con tendencia alcista",
-        "url": "https://es.finance.yahoo.com/noticias/hammack-fed-advierte-presiones-inflacionarias-142427770.html",
-        "titulo_fuente": "Hammack de Fed advierte de que las presiones inflacionarias siguen apuntando al alza",
-        "capturado": "2026-09-24T09:38:44-05:00"
+        "titulo": "XRP presenta 3 señales de alza previo a un octubre históricamente débil",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-muestra-3-se%C3%B1ales-alcistas-190100564.html",
+        "titulo_fuente": "XRP muestra 3 señales alcistas antes de un octubre históricamente débil",
+        "capturado": "2026-09-24T14:48:39-05:00"
       },
       {
-        "titulo": "Bentley presenta su primer vehículo eléctrico, que podría ser su modelo más económico",
-        "url": "https://es.finance.yahoo.com/noticias/bentley-lanza-coche-el%C3%A9ctrico-ser-141016109.html",
-        "titulo_fuente": "Bentley lanza su primer coche eléctrico, podría ser su modelo más barato",
-        "capturado": "2026-09-24T09:38:44-05:00"
+        "titulo": "Actualización: Índices de EE. UU. caen, bonos del Tesoro a 30 años rinden máximo de dos décadas y crudo sube",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175735733.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro a 30 años alcanza su nivel más alto en dos décadas y el petróleo crudo extiende sus ganancias.",
+        "capturado": "2026-09-24T14:48:39-05:00"
       },
       {
-        "titulo": "El tránsito marítimo por el estrecho de Ormuz continúa bajo el promedio de 10 días, revelan datos",
-        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-mar%C3%ADtimo-estrecho-ormuz-mantiene-140143117.html",
-        "titulo_fuente": "Tráfico marítimo por el estrecho de Ormuz se mantiene bajo el promedio de 10 días, muestran datos",
-        "capturado": "2026-09-24T09:38:44-05:00"
+        "titulo": "Xi informó la llegada de dos pandas al zoológico de Atlanta",
+        "url": "https://es.finance.yahoo.com/noticias/xi-anunci%C3%B3-llegada-pandas-zool%C3%B3gico-174444916.html",
+        "titulo_fuente": "Xi anunció la llegada de dos pandas al zoológico de Atlanta",
+        "capturado": "2026-09-24T14:48:39-05:00"
       }
     ]
   }
