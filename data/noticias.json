@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-24T18:01:38-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-24T22:38:56-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "De qué manera la amenaza de guerra puede salvar a los grandes fabricantes de vehículos europeos",
+        "url": "https://www.bbc.com/mundo/articles/cwj3d6v53376o",
+        "publicacion": "2026-09-25",
+        "titulo_fuente": "Cómo la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
+        "capturado": "2026-09-24T22:38:56-05:00"
+      },
+      {
         "titulo": "Qué es y cómo funciona Urbagestión, la firma tras desalojar a la anciana Maricarmen de 87 años en Madrid",
         "url": "https://www.bbc.com/mundo/articles/c68xknvz71e1o",
         "publicacion": "2026-09-24",
@@ -67,16 +74,21 @@
         "publicacion": "2026-09-21",
         "titulo_fuente": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
         "capturado": "2026-09-21T11:13:34-05:00"
-      },
-      {
-        "titulo": "Así logró el peso colombiano posicionarse entre las divisas más fuertes del mundo en 2026",
-        "url": "https://www.bbc.com/mundo/articles/cm1wxz8d3dj5o",
-        "publicacion": "2026-09-18",
-        "titulo_fuente": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
-        "capturado": "2026-09-18T09:07:16-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "BHP declara que trabajos en la chilena Escondida se reactivan conforme avanzan revisiones tras accidente",
+        "url": "https://es.finance.yahoo.com/noticias/bhp-labores-chilena-escondida-reanudan-000754577.html",
+        "titulo_fuente": "BHP dice labores en chilena Escondida se reanudan a medida que avanzan evaluaciones tras accidente",
+        "capturado": "2026-09-24T22:38:56-05:00"
+      },
+      {
+        "titulo": "Usuarios de Revolut experimentan otra fuga de información: la segunda en un mes",
+        "url": "https://es.finance.yahoo.com/noticias/clientes-revolut-sufren-filtraci%C3%B3n-datos-224611652.html",
+        "titulo_fuente": "Clientes de Revolut sufren nueva filtración de datos: la segunda en un mes",
+        "capturado": "2026-09-24T22:38:56-05:00"
+      },
       {
         "titulo": "Aliados de Trump aumentan la presión contra el CEO de Anthropic, Dario Amodei: ¿por qué",
         "url": "https://es.finance.yahoo.com/noticias/aliados-trump-escalan-presi%C3%B3n-ceo-201900070.html",
@@ -93,18 +105,6 @@
         "titulo": "Informe: Ciberataque al exchange Bitget supera los 170 millones de dólares",
         "url": "https://es.finance.yahoo.com/noticias/reporta-exchange-bitget-hackeado-170-205821818.html",
         "titulo_fuente": "Reporte: Hackean el exchange Bitget por más de 170 millones de dólares",
-        "capturado": "2026-09-24T18:01:38-05:00"
-      },
-      {
-        "titulo": "Banco Mundial otorga 200 millones de dólares adicionales a Colombia para responder a terremoto",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-aprueba-200-millones-203847855.html",
-        "titulo_fuente": "Banco Mundial aprueba 200 millones de dólares de financiación adicional a Colombia para atender terremoto",
-        "capturado": "2026-09-24T18:01:38-05:00"
-      },
-      {
-        "titulo": "El MIT detalla qué podría pasar si la burbuja de la IA llega a estallar",
-        "url": "https://es.finance.yahoo.com/noticias/mit-explica-suceder-burbuja-ia-201900341.html",
-        "titulo_fuente": "MIT explica qué podría suceder cuando la burbuja de la IA estalle",
         "capturado": "2026-09-24T18:01:38-05:00"
       }
     ]
