@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T09:08:46-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-26T14:02:28-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Por qué aumenta la compra de carros eléctricos chinos en Noruega a pesar del creciente escepticismo",
-        "url": "https://es.finance.yahoo.com/noticias/noruegos-compran-coches-el%C3%A9ctricos-chinos-050045803.html",
-        "titulo_fuente": "Por qué los noruegos compran más coches eléctricos chinos pese al creciente escepticismo",
-        "capturado": "2026-09-26T04:09:46-05:00"
+        "titulo": "Grandes tenedores compran USD 724 millones en XRP y ETF acumulan 11 semanas consecutivas de ingresos",
+        "url": "https://es.finance.yahoo.com/noticias/ballenas-compran-724-millones-xrp-164700217.html",
+        "titulo_fuente": "Ballenas compran $724 millones en XRP mientras los ETF registran 11 semanas consecutivas de entradas",
+        "capturado": "2026-09-26T14:02:28-05:00"
       },
       {
-        "titulo": "Las 3 principales altcoins para seguir este fin de semana | 26-27 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-230800117.html",
-        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 26-27 de septiembre",
-        "capturado": "2026-09-25T22:44:48-05:00"
+        "titulo": "Cuba mantiene su disposición de dialogar con Estados Unidos para resolver discrepancias bilaterales",
+        "url": "https://es.finance.yahoo.com/noticias/cuba-dispuesta-di%C3%A1logo-estados-unidos-161948376.html",
+        "titulo_fuente": "Cuba sigue dispuesta a diálogo con Estados Unidos para solucionar diferencias bilaterales",
+        "capturado": "2026-09-26T14:02:28-05:00"
       },
       {
-        "titulo": "Tribunal de EE. UU. revela uso de Claude en la captura de Maduro",
-        "url": "https://es.finance.yahoo.com/noticias/corte-eeuu-expone-uso-claude-220514714.html",
-        "titulo_fuente": "Corte de EEUU expone uso de Claude en la captura de Maduro",
-        "capturado": "2026-09-25T22:44:48-05:00"
+        "titulo": "Brasil extiende el subsidio al diésel en su nivel actual por la volatilidad en precios del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-prorroga-subvenci%C3%B3n-gas%C3%B3leo-nivel-155526452.html",
+        "titulo_fuente": "Brasil prorroga subvención al gasóleo en su nivel actual, alegando volatilidad precios del petróleo",
+        "capturado": "2026-09-26T14:02:28-05:00"
       },
       {
-        "titulo": "¿Es el cobre el nuevo oro? Récords históricos sobresaldrán en 2026",
-        "url": "https://es.finance.yahoo.com/noticias/cobre-oro-m%C3%A1ximos-hist%C3%B3ricos-destacan-214500517.html",
-        "titulo_fuente": "¿El cobre es el nuevo oro? Máximos históricos destacan en 2026",
-        "capturado": "2026-09-25T22:44:48-05:00"
+        "titulo": "Trump descarta cese al fuego con Irán, lo que impacta al Bitcoin y al petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/trump-rechaza-alto-fuego-ir%C3%A1n-141900725.html",
+        "titulo_fuente": "Trump rechaza alto el fuego con Irán: impacto en Bitcoin el petróleo",
+        "capturado": "2026-09-26T14:02:28-05:00"
       },
       {
-        "titulo": "Lula prohíbe las apuestas virtuales en Brasil durante la campaña electoral",
-        "url": "https://es.finance.yahoo.com/noticias/lula-proh%C3%ADbe-apuestas-l%C3%ADnea-brasil-213548120.html",
-        "titulo_fuente": "Lula prohíbe las apuestas en línea en Brasil en medio de la campaña electoral",
-        "capturado": "2026-09-25T22:44:48-05:00"
+        "titulo": "Presidenta interina de Venezuela regresa de EE. UU. sin concretar acuerdos ni fecha para elecciones",
+        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-vuelve-eeuu-132706613.html",
+        "titulo_fuente": "Presidenta encargada de Venezuela vuelve de EEUU sin acuerdos ni fecha para elecciones",
+        "capturado": "2026-09-26T14:02:28-05:00"
       }
     ]
   }
