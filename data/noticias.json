@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T14:02:28-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T17:23:15-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Claude descubre un novedoso sistema enzimático ignorado por expertos y de utilidad aún desconocida",
+        "url": "https://es.finance.yahoo.com/noticias/claude-sistema-enzimas-novedoso-expertos-213600144.html",
+        "titulo_fuente": "Claude encuentra sistema de enzimas novedoso que los expertos pasaron por alto, y nadie sabe para qué sirve",
+        "capturado": "2026-09-26T17:23:15-05:00"
+      },
+      {
+        "titulo": "China y EEUU convienen dialogar sobre IA y rebajar aranceles durante la visita de Xi",
+        "url": "https://es.finance.yahoo.com/noticias/china-eeuu-acuerdan-entablar-di%C3%A1logo-194803367.html",
+        "titulo_fuente": "China y EEUU acuerdan entablar diálogo sobre IA y reducir aranceles durante visita de Xi",
+        "capturado": "2026-09-26T17:23:15-05:00"
+      },
+      {
+        "titulo": "La SEC precisa las nuevas normas para el staking de Ethereum",
+        "url": "https://es.finance.yahoo.com/noticias/sec-aclara-reglas-staking-ethereum-191100589.html",
+        "titulo_fuente": "La SEC aclara nuevas reglas para el staking de Ethereum",
+        "capturado": "2026-09-26T17:23:15-05:00"
+      },
+      {
         "titulo": "Grandes tenedores compran USD 724 millones en XRP y ETF acumulan 11 semanas consecutivas de ingresos",
         "url": "https://es.finance.yahoo.com/noticias/ballenas-compran-724-millones-xrp-164700217.html",
         "titulo_fuente": "Ballenas compran $724 millones en XRP mientras los ETF registran 11 semanas consecutivas de entradas",
@@ -87,24 +105,6 @@
         "titulo": "Cuba mantiene su disposición de dialogar con Estados Unidos para resolver discrepancias bilaterales",
         "url": "https://es.finance.yahoo.com/noticias/cuba-dispuesta-di%C3%A1logo-estados-unidos-161948376.html",
         "titulo_fuente": "Cuba sigue dispuesta a diálogo con Estados Unidos para solucionar diferencias bilaterales",
-        "capturado": "2026-09-26T14:02:28-05:00"
-      },
-      {
-        "titulo": "Brasil extiende el subsidio al diésel en su nivel actual por la volatilidad en precios del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-prorroga-subvenci%C3%B3n-gas%C3%B3leo-nivel-155526452.html",
-        "titulo_fuente": "Brasil prorroga subvención al gasóleo en su nivel actual, alegando volatilidad precios del petróleo",
-        "capturado": "2026-09-26T14:02:28-05:00"
-      },
-      {
-        "titulo": "Trump descarta cese al fuego con Irán, lo que impacta al Bitcoin y al petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/trump-rechaza-alto-fuego-ir%C3%A1n-141900725.html",
-        "titulo_fuente": "Trump rechaza alto el fuego con Irán: impacto en Bitcoin el petróleo",
-        "capturado": "2026-09-26T14:02:28-05:00"
-      },
-      {
-        "titulo": "Presidenta interina de Venezuela regresa de EE. UU. sin concretar acuerdos ni fecha para elecciones",
-        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-vuelve-eeuu-132706613.html",
-        "titulo_fuente": "Presidenta encargada de Venezuela vuelve de EEUU sin acuerdos ni fecha para elecciones",
         "capturado": "2026-09-26T14:02:28-05:00"
       }
     ]
