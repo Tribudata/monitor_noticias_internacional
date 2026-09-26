@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-25T22:44:48-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T04:09:46-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Por qué aumenta la compra de carros eléctricos chinos en Noruega a pesar del creciente escepticismo",
+        "url": "https://es.finance.yahoo.com/noticias/noruegos-compran-coches-el%C3%A9ctricos-chinos-050045803.html",
+        "titulo_fuente": "Por qué los noruegos compran más coches eléctricos chinos pese al creciente escepticismo",
+        "capturado": "2026-09-26T04:09:46-05:00"
+      },
+      {
         "titulo": "Las 3 principales altcoins para seguir este fin de semana | 26-27 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-230800117.html",
         "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 26-27 de septiembre",
@@ -99,12 +105,6 @@
         "titulo": "Lula prohíbe las apuestas virtuales en Brasil durante la campaña electoral",
         "url": "https://es.finance.yahoo.com/noticias/lula-proh%C3%ADbe-apuestas-l%C3%ADnea-brasil-213548120.html",
         "titulo_fuente": "Lula prohíbe las apuestas en línea en Brasil en medio de la campaña electoral",
-        "capturado": "2026-09-25T22:44:48-05:00"
-      },
-      {
-        "titulo": "Al día: Índices de EE. UU. suben y el crudo cae tras plan condicional de Irán para reabrir el paso de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-204115219.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras el petróleo crudo cae tras el plan condicional de Irán para reabrir el paso de Ormuz.",
         "capturado": "2026-09-25T22:44:48-05:00"
       }
     ]
