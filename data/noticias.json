@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T14:33:38-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-27T17:50:11-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,10 +78,16 @@
     ],
     "Yahoo": [
       {
-        "titulo": "¿Bitcoin a $100.000? Se activa indicador de Fidelity: los detalles",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
-        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
-        "capturado": "2026-09-27T14:33:38-05:00"
+        "titulo": "Bill Gates se une a las solicitudes de adoptar medidas de protección frente a la IA",
+        "url": "https://es.finance.yahoo.com/noticias/bill-gates-suma-llamados-medidas-220930341.html",
+        "titulo_fuente": "Bill Gates se suma a los llamados sobre medidas de protección frente a la IA",
+        "capturado": "2026-09-27T17:50:11-05:00"
+      },
+      {
+        "titulo": "THORChain rechaza congelar los activos relacionados con el hackeo a Bitget",
+        "url": "https://es.finance.yahoo.com/noticias/thorchain-niega-bloquear-activos-vinculados-205900037.html",
+        "titulo_fuente": "THORChain se niega a bloquear activos vinculados al hack de Bitget",
+        "capturado": "2026-09-27T17:50:11-05:00"
       },
       {
         "titulo": "Altos precios de combustibles en Italia: Socar interviene y topa tarifas en la red IP",
@@ -90,21 +96,15 @@
         "capturado": "2026-09-27T14:33:38-05:00"
       },
       {
+        "titulo": "¿Bitcoin a $100.000? Se activa indicador de Fidelity: los detalles",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
+        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
+        "capturado": "2026-09-27T14:33:38-05:00"
+      },
+      {
         "titulo": "Compendio semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700161.html",
         "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
-        "capturado": "2026-09-27T14:33:38-05:00"
-      },
-      {
-        "titulo": "Huracán Polo de categoría 3 pone en riesgo costa de México; proyectan que toque tierra el lunes",
-        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-polo-categor%C3%ADa-3-amenaza-161147648.html",
-        "titulo_fuente": "Huracán Polo, de categoría 3, amenaza la costa de México; se espera que toque tierra el lunes",
-        "capturado": "2026-09-27T14:33:38-05:00"
-      },
-      {
-        "titulo": "ETF de Dogecoin logran récord semanal luego de anuncio de Bitwise: ¿reaccionará la cotización?",
-        "url": "https://es.finance.yahoo.com/noticias/etf-dogecoin-alcanzan-r%C3%A9cord-semanal-135500429.html",
-        "titulo_fuente": "ETF de Dogecoin alcanzan récord semanal tras anuncio de Bitwise: ¿Reaccionará el precio?",
         "capturado": "2026-09-27T14:33:38-05:00"
       }
     ]
