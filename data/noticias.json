@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T09:59:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-27T14:33:38-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Quién es el hombre más acaudalado de África y por qué busca vender partes de su conglomerado",
+        "url": "https://www.bbc.com/mundo/articles/c6n9wp843nylo",
+        "publicacion": "2026-09-27",
+        "titulo_fuente": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
+        "capturado": "2026-09-27T14:33:38-05:00"
+      },
+      {
         "titulo": "De qué manera la amenaza de guerra puede salvar a los grandes fabricantes de vehículos europeos",
         "url": "https://www.bbc.com/mundo/articles/cwj3d6v53376o",
         "publicacion": "2026-09-25",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-23",
         "titulo_fuente": "\"Metimos la pata\": la enorme compensación que tendrá que desembolsar DoorDash tras admitir que pagó menos de lo debido a sus repartidores en Nueva York",
         "capturado": "2026-09-23T08:22:58-05:00"
-      },
-      {
-        "titulo": "Así afecta la IA la selección de personal: 5 claves que debe conocer antes de postularse a una vacante",
-        "url": "https://www.bbc.com/mundo/articles/c79gpqxyyd1o",
-        "publicacion": "2026-09-21",
-        "titulo_fuente": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
-        "capturado": "2026-09-21T11:13:34-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "La seguridad en criptoactivos ahora trasciende las billeteras y alcanza la dirección del cliente",
-        "url": "https://es.finance.yahoo.com/noticias/seguridad-cripto-extiende-all%C3%A1-wallets-090600214.html",
-        "titulo_fuente": "La seguridad cripto ahora se extiende más allá de las wallets hasta la dirección del cliente",
-        "capturado": "2026-09-27T04:50:51-05:00"
+        "titulo": "¿Bitcoin a $100.000? Se activa indicador de Fidelity: los detalles",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
+        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
+        "capturado": "2026-09-27T14:33:38-05:00"
       },
       {
-        "titulo": "Precios de alimentos y salario mínimo: en qué lugares de Europa resiste el poder adquisitivo",
-        "url": "https://es.finance.yahoo.com/noticias/precios-alimentos-salario-m%C3%ADnimo-d%C3%B3nde-050051522.html",
-        "titulo_fuente": "Precios de los alimentos y salario mínimo, dónde aguanta el poder adquisitivo en Europa",
-        "capturado": "2026-09-27T04:50:51-05:00"
+        "titulo": "Altos precios de combustibles en Italia: Socar interviene y topa tarifas en la red IP",
+        "url": "https://es.finance.yahoo.com/noticias/carburantes-caros-italia-socar-interviene-160054762.html",
+        "titulo_fuente": "Carburantes caros en Italia, Socar también interviene y limita los precios en la red IP",
+        "capturado": "2026-09-27T14:33:38-05:00"
       },
       {
-        "titulo": "Línea de tiempo del hackeo a Bitget: ¿Cómo su propia plataforma autorizó el robo de $387 millones",
-        "url": "https://es.finance.yahoo.com/noticias/cronolog%C3%ADa-hack-bitget-sistema-aprob%C3%B3-230900297.html",
-        "titulo_fuente": "Cronología del hack de Bitget: ¿Cómo su propio sistema aprobó un robo de $387 millones?",
-        "capturado": "2026-09-26T22:53:54-05:00"
+        "titulo": "Compendio semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700161.html",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
+        "capturado": "2026-09-27T14:33:38-05:00"
       },
       {
-        "titulo": "ETF al contado de Bitcoin captan cifra récord de $2.39 mil millones: ¿Qué explica esta demanda",
-        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-atraen-r%C3%A9cord-221800911.html",
-        "titulo_fuente": "ETF spot de Bitcoin atraen récord de $2.39 mil millones: ¿Qué hay detrás de esta demanda?",
-        "capturado": "2026-09-26T22:53:54-05:00"
+        "titulo": "Huracán Polo de categoría 3 pone en riesgo costa de México; proyectan que toque tierra el lunes",
+        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-polo-categor%C3%ADa-3-amenaza-161147648.html",
+        "titulo_fuente": "Huracán Polo, de categoría 3, amenaza la costa de México; se espera que toque tierra el lunes",
+        "capturado": "2026-09-27T14:33:38-05:00"
       },
       {
-        "titulo": "Claude descubre un novedoso sistema enzimático ignorado por expertos y de utilidad aún desconocida",
-        "url": "https://es.finance.yahoo.com/noticias/claude-sistema-enzimas-novedoso-expertos-213600144.html",
-        "titulo_fuente": "Claude encuentra sistema de enzimas novedoso que los expertos pasaron por alto, y nadie sabe para qué sirve",
-        "capturado": "2026-09-26T17:23:15-05:00"
+        "titulo": "ETF de Dogecoin logran récord semanal luego de anuncio de Bitwise: ¿reaccionará la cotización?",
+        "url": "https://es.finance.yahoo.com/noticias/etf-dogecoin-alcanzan-r%C3%A9cord-semanal-135500429.html",
+        "titulo_fuente": "ETF de Dogecoin alcanzan récord semanal tras anuncio de Bitwise: ¿Reaccionará el precio?",
+        "capturado": "2026-09-27T14:33:38-05:00"
       }
     ]
   }
