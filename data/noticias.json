@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T19:12:19-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T02:55:25-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "5 cifras que evidencian la crisis habitacional en España, duración 2,11",
+        "url": "https://www.bbc.com/mundo/articles/c3vgyx8qgqndo",
+        "publicacion": "PT2M11S",
+        "titulo_fuente": "5 datos que revelan la crisis de vivienda en España, Duración 2,11",
+        "capturado": "2026-09-29T02:55:25-05:00"
+      },
+      {
+        "titulo": "Motivos del cierre de miles de empresas en Argentina y lo que revela de la economía en la era Milei",
+        "url": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o",
+        "publicacion": "2026-09-28",
+        "titulo_fuente": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
+        "capturado": "2026-09-29T02:55:25-05:00"
+      },
+      {
         "titulo": "Quién es el hombre más acaudalado de África y por qué busca vender partes de su conglomerado",
         "url": "https://www.bbc.com/mundo/articles/c6n9wp843nylo",
         "publicacion": "2026-09-27",
@@ -60,52 +74,38 @@
         "publicacion": "2026-09-24",
         "titulo_fuente": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
         "capturado": "2026-09-24T14:48:39-05:00"
-      },
-      {
-        "titulo": "Razones por las que decidí gastar mis recursos en lugar de heredárselos a mis hijos",
-        "url": "https://www.bbc.com/mundo/articles/cqwyzd6g18y3o",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "Por qué decidí gastarme el dinero en lugar de dejarlo en herencia a mis hijos",
-        "capturado": "2026-09-23T22:21:43-05:00"
-      },
-      {
-        "titulo": "DoorDash pagará una elevada compensación en Nueva York tras admitir que pagó menos a sus repartidores",
-        "url": "https://www.bbc.com/mundo/articles/cmz6zvv08zxwo",
-        "publicacion": "2026-09-23",
-        "titulo_fuente": "\"Metimos la pata\": la enorme compensación que tendrá que desembolsar DoorDash tras admitir que pagó menos de lo debido a sus repartidores en Nueva York",
-        "capturado": "2026-09-23T08:22:58-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Presidente de Colombia ordenó diálogos con el FMI para buscar soluciones a la crisis fiscal",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-colombia-instrucciones-conversaciones-fmi-015506828.html",
-        "titulo_fuente": "Presidente de Colombia dio instrucciones para conversaciones con el FMI para buscar salida a crisis fiscal",
-        "capturado": "2026-09-27T22:53:56-05:00"
+        "titulo": "La empresa china Gotion destina 1.100 millones de euros a fábrica de baterías de Volkswagen en España",
+        "url": "https://es.finance.yahoo.com/noticias/china-gotion-invierte-1-100-064947008.html",
+        "titulo_fuente": "La china Gotion invierte 1.100 millones de euros en una planta de baterías de Volkswagen en España",
+        "capturado": "2026-09-29T02:55:25-05:00"
       },
       {
-        "titulo": "Bill Gates se une a las solicitudes de adoptar medidas de protección frente a la IA",
-        "url": "https://es.finance.yahoo.com/noticias/bill-gates-suma-llamados-medidas-220930341.html",
-        "titulo_fuente": "Bill Gates se suma a los llamados sobre medidas de protección frente a la IA",
-        "capturado": "2026-09-27T17:50:11-05:00"
+        "titulo": "El banco central de Australia incrementa las tasas de interés y advierte sobre riesgo de nuevas alzas",
+        "url": "https://es.finance.yahoo.com/noticias/banco-central-australia-sube-tasas-064745725.html",
+        "titulo_fuente": "El banco central de Australia sube las tasas y señala el riesgo de nuevas subidas",
+        "capturado": "2026-09-29T02:55:25-05:00"
       },
       {
-        "titulo": "THORChain rechaza congelar los activos relacionados con el hackeo a Bitget",
-        "url": "https://es.finance.yahoo.com/noticias/thorchain-niega-bloquear-activos-vinculados-205900037.html",
-        "titulo_fuente": "THORChain se niega a bloquear activos vinculados al hack de Bitget",
-        "capturado": "2026-09-27T17:50:11-05:00"
+        "titulo": "Firmas europeas en dificultades: quiénes se ven más afectados por las altas tasas de interés",
+        "url": "https://es.finance.yahoo.com/noticias/empresas-europeas-apuros-sufre-altos-061619255.html",
+        "titulo_fuente": "Las empresas europeas, en apuros: quién sufre más por los altos tipos de interés",
+        "capturado": "2026-09-29T02:55:25-05:00"
       },
       {
-        "titulo": "Altos precios de combustibles en Italia: Socar interviene y topa tarifas en la red IP",
-        "url": "https://es.finance.yahoo.com/noticias/carburantes-caros-italia-socar-interviene-160054762.html",
-        "titulo_fuente": "Carburantes caros en Italia, Socar también interviene y limita los precios en la red IP",
-        "capturado": "2026-09-27T14:33:38-05:00"
+        "titulo": "El valor del petróleo aumenta y la venta masiva de bonos impacta los mercados mundiales",
+        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-venta-masiva-060706103.html",
+        "titulo_fuente": "El precio del petróleo sube y la venta masiva de bonos sacude los mercados mundiales",
+        "capturado": "2026-09-29T02:55:25-05:00"
       },
       {
-        "titulo": "¿Bitcoin a $100.000? Se activa indicador de Fidelity: los detalles",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
-        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
-        "capturado": "2026-09-27T14:33:38-05:00"
+        "titulo": "Cinco millones de robots ya operan en fábricas mientras se modera el entusiasmo por los humanoides",
+        "url": "https://es.finance.yahoo.com/noticias/millones-robots-trabajan-f%C3%A1bricas-fiebre-044806348.html",
+        "titulo_fuente": "Cinco millones de robots trabajan ya en fábricas mientras la fiebre por los humanoides se enfría",
+        "capturado": "2026-09-29T02:55:25-05:00"
       }
     ]
   }
