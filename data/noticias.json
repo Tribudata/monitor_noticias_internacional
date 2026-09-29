@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-09-29T09:39:03-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-29T15:27:41-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Invertir para bebés implica dilemas financieros complejos",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
+        "publicacion": "Tue, 29 Sep 2026 17:28:26 +0000",
+        "titulo_fuente": "Investing for babies involves knotty trade-offs",
+        "capturado": "2026-09-29T15:27:41-05:00"
+      },
+      {
+        "titulo": "El auge de la IA coincide con una nueva modalidad de estafa con criptomonedas",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+        "publicacion": "Tue, 29 Sep 2026 16:05:58 +0000",
+        "titulo_fuente": "The AI boom meets a new kind of crypto scam",
+        "capturado": "2026-09-29T15:27:41-05:00"
+      },
+      {
+        "titulo": "De qué forma el auge de la IA podría agravar la crisis fiscal del mundo rico",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
+        "publicacion": "Tue, 29 Sep 2026 15:55:44 +0000",
+        "titulo_fuente": "How the AI boom could worsen the rich world’s fiscal crunch",
+        "capturado": "2026-09-29T15:27:41-05:00"
+      },
       {
         "titulo": "La manera en que la Fed debería medir la inflación",
         "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
@@ -16,27 +37,6 @@
         "publicacion": "Thu, 24 Sep 2026 09:43:14 +0000",
         "titulo_fuente": "Israel’s war economy is thriving",
         "capturado": "2026-09-24T14:48:39-05:00"
-      },
-      {
-        "titulo": "La disputa entre las bolsas de valores de India se intensifica nuevamente",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again",
-        "publicacion": "Thu, 24 Sep 2026 09:42:29 +0000",
-        "titulo_fuente": "The battle between India’s stock exchanges is heating up again",
-        "capturado": "2026-09-24T14:48:39-05:00"
-      },
-      {
-        "titulo": "El descalabro de los fondos de inversión de Turquía",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/24/turkeys-investment-fund-fiasco",
-        "publicacion": "Thu, 24 Sep 2026 09:40:24 +0000",
-        "titulo_fuente": "Turkey’s investment-fund fiasco",
-        "capturado": "2026-09-24T14:48:39-05:00"
-      },
-      {
-        "titulo": "No es posible protegerse del apocalipsis de la AI solo con operaciones de mercado",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
-        "publicacion": "Tue, 22 Sep 2026 19:51:26 +0000",
-        "titulo_fuente": "You can’t trade your way through the AI apocalypse",
-        "capturado": "2026-09-22T16:07:32-05:00"
       }
     ],
     "BBC": [
