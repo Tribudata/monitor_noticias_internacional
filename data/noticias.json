@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-29T15:27:41-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-29T20:06:22-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La empresa china Gotion destina 1.100 millones de euros a fábrica de baterías de Volkswagen en España",
-        "url": "https://es.finance.yahoo.com/noticias/china-gotion-invierte-1-100-064947008.html",
-        "titulo_fuente": "La china Gotion invierte 1.100 millones de euros en una planta de baterías de Volkswagen en España",
-        "capturado": "2026-09-29T02:55:25-05:00"
+        "titulo": "El XRP Binance Scarcity Index registra una variación relevante en la oferta del token",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-binance-scarcity-index-se%C3%B1ala-225400050.html",
+        "titulo_fuente": "El XRP Binance Scarcity Index señala un cambio importante en el suministro del token",
+        "capturado": "2026-09-29T20:06:22-05:00"
       },
       {
-        "titulo": "El banco central de Australia incrementa las tasas de interés y advierte sobre riesgo de nuevas alzas",
-        "url": "https://es.finance.yahoo.com/noticias/banco-central-australia-sube-tasas-064745725.html",
-        "titulo_fuente": "El banco central de Australia sube las tasas y señala el riesgo de nuevas subidas",
-        "capturado": "2026-09-29T02:55:25-05:00"
+        "titulo": "Grayscale identifica 4 criptomonedas con aplicación real como divisas digitales",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-nombra-4-criptomonedas-uso-214800163.html",
+        "titulo_fuente": "Grayscale nombra 4 criptomonedas con uso real como monedas digitales",
+        "capturado": "2026-09-29T20:06:22-05:00"
       },
       {
-        "titulo": "Firmas europeas en dificultades: quiénes se ven más afectados por las altas tasas de interés",
-        "url": "https://es.finance.yahoo.com/noticias/empresas-europeas-apuros-sufre-altos-061619255.html",
-        "titulo_fuente": "Las empresas europeas, en apuros: quién sufre más por los altos tipos de interés",
-        "capturado": "2026-09-29T02:55:25-05:00"
+        "titulo": "Actualización: Bolsas de EE. UU. caen y Michael Barr reitera alzas de tasas ante baja confianza del consumidor",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-204555477.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras Michael Barr reitera nuevas subidas de tipos de interés en medio de la menguante confianza del consumidor.",
+        "capturado": "2026-09-29T20:06:22-05:00"
       },
       {
-        "titulo": "El valor del petróleo aumenta y la venta masiva de bonos impacta los mercados mundiales",
-        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-venta-masiva-060706103.html",
-        "titulo_fuente": "El precio del petróleo sube y la venta masiva de bonos sacude los mercados mundiales",
-        "capturado": "2026-09-29T02:55:25-05:00"
+        "titulo": "JPMorgan señala un umbral de precio determinante para los mineros de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-revela-nivel-precio-cr%C3%ADtico-202600318.html",
+        "titulo_fuente": "JPMorgan revela nivel de precio crítico para los mineros de Bitcoin",
+        "capturado": "2026-09-29T20:06:22-05:00"
       },
       {
-        "titulo": "Cinco millones de robots ya operan en fábricas mientras se modera el entusiasmo por los humanoides",
-        "url": "https://es.finance.yahoo.com/noticias/millones-robots-trabajan-f%C3%A1bricas-fiebre-044806348.html",
-        "titulo_fuente": "Cinco millones de robots trabajan ya en fábricas mientras la fiebre por los humanoides se enfría",
-        "capturado": "2026-09-29T02:55:25-05:00"
+        "titulo": "Firmas tecnológicas lograrán que las comunidades estén conformes con los centros de datos: Trump",
+        "url": "https://es.finance.yahoo.com/noticias/trump-recibir%C3%A1-l%C3%ADderes-anthropic-nvidia-152102139.html",
+        "titulo_fuente": "Empresas tecnológicas harán que comunidades estén satisfechas con centros de datos: Trump",
+        "capturado": "2026-09-29T20:06:22-05:00"
       }
     ]
   }
