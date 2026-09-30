@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T03:03:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-30T11:16:31-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,27 @@
     ],
     "BBC": [
       {
+        "titulo": "Así pasó España del auge de la construcción a una aguda crisis de vivienda, Duración 6,05",
+        "url": "https://www.bbc.com/mundo/articles/c8207q9xqp43o",
+        "publicacion": "PT6M5S",
+        "titulo_fuente": "Cómo España pasó de un boom de la construcción a enfrentar una grave crisis de la vivienda, Duración 6,05",
+        "capturado": "2026-09-30T11:16:31-05:00"
+      },
+      {
+        "titulo": "La anciana Maricarmen retornará a su hogar tras el desalojo que evidenció la crisis de vivienda en España",
+        "url": "https://www.bbc.com/mundo/articles/c9gk5lxv7kx4o",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
+        "capturado": "2026-09-30T11:16:31-05:00"
+      },
+      {
+        "titulo": "Datos del Corredor Andes-Atlántico, plan de EE. UU. para captar recursos de Argentina y competir con China",
+        "url": "https://www.bbc.com/mundo/articles/c6n9wrpdje2ro",
+        "publicacion": "2026-09-29",
+        "titulo_fuente": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
+        "capturado": "2026-09-30T11:16:31-05:00"
+      },
+      {
         "titulo": "5 cifras que evidencian la crisis habitacional en España, duración 2,11",
         "url": "https://www.bbc.com/mundo/articles/c3vgyx8qgqndo",
         "publicacion": "PT2M11S",
@@ -53,59 +74,38 @@
         "publicacion": "2026-09-28",
         "titulo_fuente": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
         "capturado": "2026-09-29T02:55:25-05:00"
-      },
-      {
-        "titulo": "Quién es el hombre más acaudalado de África y por qué busca vender partes de su conglomerado",
-        "url": "https://www.bbc.com/mundo/articles/c6n9wp843nylo",
-        "publicacion": "2026-09-27",
-        "titulo_fuente": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
-        "capturado": "2026-09-27T14:33:38-05:00"
-      },
-      {
-        "titulo": "De qué manera la amenaza de guerra puede salvar a los grandes fabricantes de vehículos europeos",
-        "url": "https://www.bbc.com/mundo/articles/cwj3d6v53376o",
-        "publicacion": "2026-09-25",
-        "titulo_fuente": "Cómo la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
-        "capturado": "2026-09-24T22:38:56-05:00"
-      },
-      {
-        "titulo": "Qué es y cómo funciona Urbagestión, la firma tras desalojar a la anciana Maricarmen de 87 años en Madrid",
-        "url": "https://www.bbc.com/mundo/articles/c68xknvz71e1o",
-        "publicacion": "2026-09-24",
-        "titulo_fuente": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
-        "capturado": "2026-09-24T14:48:39-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "El XRP Binance Scarcity Index registra una variación relevante en la oferta del token",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-binance-scarcity-index-se%C3%B1ala-225400050.html",
-        "titulo_fuente": "El XRP Binance Scarcity Index señala un cambio importante en el suministro del token",
-        "capturado": "2026-09-29T20:06:22-05:00"
+        "titulo": "La FTC comienza indagación a grandes empresas de IA, entre ellas Anthropic y OpenAI",
+        "url": "https://es.finance.yahoo.com/noticias/ftc-inicia-investigaci%C3%B3n-gigantes-ia-155612646.html",
+        "titulo_fuente": "La FTC inicia investigación a gigantes de la IA, incluidos Anthropic y OpenAI",
+        "capturado": "2026-09-30T11:16:31-05:00"
       },
       {
-        "titulo": "Grayscale identifica 4 criptomonedas con aplicación real como divisas digitales",
-        "url": "https://es.finance.yahoo.com/noticias/grayscale-nombra-4-criptomonedas-uso-214800163.html",
-        "titulo_fuente": "Grayscale nombra 4 criptomonedas con uso real como monedas digitales",
-        "capturado": "2026-09-29T20:06:22-05:00"
+        "titulo": "Precipitaciones relacionadas con El Niño alivian la preocupación por las cosechas de Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/lluvias-vinculadas-ni%C3%B1o-despejan-temores-151230880.html",
+        "titulo_fuente": "Lluvias vinculadas a El Niño despejan temores sobre cosechas de Argentina",
+        "capturado": "2026-09-30T11:16:31-05:00"
       },
       {
-        "titulo": "Actualización: Bolsas de EE. UU. caen y Michael Barr reitera alzas de tasas ante baja confianza del consumidor",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-204555477.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras Michael Barr reitera nuevas subidas de tipos de interés en medio de la menguante confianza del consumidor.",
-        "capturado": "2026-09-29T20:06:22-05:00"
+        "titulo": "Medicamento combinado experimental de Lilly aventaja a Zepbound en prueba clínica para perder peso",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-combinado-experimental-lilly-supera-144602207.html",
+        "titulo_fuente": "Fármaco combinado experimental de Lilly supera a Zepbound en ensayo clínico para pérdida de peso",
+        "capturado": "2026-09-30T11:16:31-05:00"
       },
       {
-        "titulo": "JPMorgan señala un umbral de precio determinante para los mineros de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-revela-nivel-precio-cr%C3%ADtico-202600318.html",
-        "titulo_fuente": "JPMorgan revela nivel de precio crítico para los mineros de Bitcoin",
-        "capturado": "2026-09-29T20:06:22-05:00"
+        "titulo": "Mercados financieros de Argentina finalizan un septiembre complicado",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-financieros-argentina-cierran-septiembre-144534652.html",
+        "titulo_fuente": "Mercados financieros de Argentina cierran un septiembre complejo",
+        "capturado": "2026-09-30T11:16:31-05:00"
       },
       {
-        "titulo": "Firmas tecnológicas lograrán que las comunidades estén conformes con los centros de datos: Trump",
-        "url": "https://es.finance.yahoo.com/noticias/trump-recibir%C3%A1-l%C3%ADderes-anthropic-nvidia-152102139.html",
-        "titulo_fuente": "Empresas tecnológicas harán que comunidades estén satisfechas con centros de datos: Trump",
-        "capturado": "2026-09-29T20:06:22-05:00"
+        "titulo": "ETF de Ethereum detienen racha de 7 días de ingresos mientras los fondos de Bitcoin siguen adquiriendo",
+        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-rompen-racha-7-144100937.html",
+        "titulo_fuente": "ETF de Ethereum rompen racha de 7 días de entradas mientras los fondos de Bitcoin siguen comprando",
+        "capturado": "2026-09-30T11:16:31-05:00"
       }
     ]
   }
