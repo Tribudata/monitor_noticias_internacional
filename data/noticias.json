@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T11:16:31-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-30T16:54:42-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La FTC comienza indagación a grandes empresas de IA, entre ellas Anthropic y OpenAI",
-        "url": "https://es.finance.yahoo.com/noticias/ftc-inicia-investigaci%C3%B3n-gigantes-ia-155612646.html",
-        "titulo_fuente": "La FTC inicia investigación a gigantes de la IA, incluidos Anthropic y OpenAI",
-        "capturado": "2026-09-30T11:16:31-05:00"
+        "titulo": "Al día: Índices de EE. UU. mixtos por presión de bonos del Tesoro tras mayor consumo e inflación moderada",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-211043690.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los rendimientos de los bonos del Tesoro ejercen presión tras un aumento del gasto de los consumidores que acompaña a una inflación moderada.",
+        "capturado": "2026-09-30T16:54:42-05:00"
       },
       {
-        "titulo": "Precipitaciones relacionadas con El Niño alivian la preocupación por las cosechas de Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/lluvias-vinculadas-ni%C3%B1o-despejan-temores-151230880.html",
-        "titulo_fuente": "Lluvias vinculadas a El Niño despejan temores sobre cosechas de Argentina",
-        "capturado": "2026-09-30T11:16:31-05:00"
+        "titulo": "Google presenta Gemini 4, su modelo de IA de referencia, tras registrar meses de retrasos",
+        "url": "https://es.finance.yahoo.com/noticias/google-anuncia-modelo-insignia-ia-201520910.html",
+        "titulo_fuente": "Google anuncia su modelo insignia de IA, Gemini 4, tras meses de retrasos",
+        "capturado": "2026-09-30T16:54:42-05:00"
       },
       {
-        "titulo": "Medicamento combinado experimental de Lilly aventaja a Zepbound en prueba clínica para perder peso",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-combinado-experimental-lilly-supera-144602207.html",
-        "titulo_fuente": "Fármaco combinado experimental de Lilly supera a Zepbound en ensayo clínico para pérdida de peso",
-        "capturado": "2026-09-30T11:16:31-05:00"
+        "titulo": "El BAII reitera en Doha su compromiso de saldar el déficit global de financiación en infraestructura",
+        "url": "https://es.finance.yahoo.com/noticias/aiib-reafirma-doha-compromiso-cerrar-173426208.html",
+        "titulo_fuente": "El BAII reafirma en Doha su compromiso de cerrar déficit global de financiación de infraestructuras",
+        "capturado": "2026-09-30T16:54:42-05:00"
       },
       {
-        "titulo": "Mercados financieros de Argentina finalizan un septiembre complicado",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-financieros-argentina-cierran-septiembre-144534652.html",
-        "titulo_fuente": "Mercados financieros de Argentina cierran un septiembre complejo",
-        "capturado": "2026-09-30T11:16:31-05:00"
+        "titulo": "TAP: Air France-KLM y Lufthansa ya han presentado sus ofertas definitivas",
+        "url": "https://es.finance.yahoo.com/noticias/tap-air-france-klm-lufthansa-180909550.html",
+        "titulo_fuente": "TAP: Air France-KLM y Lufthansa ya han entregado sus propuestas finales",
+        "capturado": "2026-09-30T16:54:42-05:00"
       },
       {
-        "titulo": "ETF de Ethereum detienen racha de 7 días de ingresos mientras los fondos de Bitcoin siguen adquiriendo",
-        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-rompen-racha-7-144100937.html",
-        "titulo_fuente": "ETF de Ethereum rompen racha de 7 días de entradas mientras los fondos de Bitcoin siguen comprando",
-        "capturado": "2026-09-30T11:16:31-05:00"
+        "titulo": "Plan de BMW: reducción de empleos, IA y apuesta de 2.000 millones en 'Made in Germany'",
+        "url": "https://es.finance.yahoo.com/noticias/estrategia-bmw-recortes-empleo-ia-141006614.html",
+        "titulo_fuente": "La estrategia de BMW: recortes de empleo, IA y apuesta de 2.000 millones en 'Made in Germany'",
+        "capturado": "2026-09-30T16:54:42-05:00"
       }
     ]
   }
