@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-10-01T03:21:45-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-01T11:53:45-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Gobiernos prefieren mantener acciones de Estados Unidos antes que sus títulos de deuda",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
+        "publicacion": "Thu, 01 Oct 2026 09:08:56 +0000",
+        "titulo_fuente": "Governments want to hold America’s shares more than its debts",
+        "capturado": "2026-10-01T11:53:45-05:00"
+      },
+      {
+        "titulo": "Un estudio sobre burócratas codiciosos genera sorpresa en Singapur",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
+        "publicacion": "Thu, 01 Oct 2026 09:07:03 +0000",
+        "titulo_fuente": "Research on grasping bureaucrats startles Singapore",
+        "capturado": "2026-10-01T11:53:45-05:00"
+      },
+      {
+        "titulo": "La astrología financiera representa un negocio serio en India",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india",
+        "publicacion": "Thu, 01 Oct 2026 09:05:52 +0000",
+        "titulo_fuente": "Financial astrology is a serious business in India",
+        "capturado": "2026-10-01T11:53:45-05:00"
+      },
       {
         "titulo": "Invertir para bebés implica dilemas financieros complejos",
         "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
@@ -16,27 +37,6 @@
         "publicacion": "Tue, 29 Sep 2026 16:05:58 +0000",
         "titulo_fuente": "The AI boom meets a new kind of crypto scam",
         "capturado": "2026-09-29T15:27:41-05:00"
-      },
-      {
-        "titulo": "De qué forma el auge de la IA podría agravar la crisis fiscal del mundo rico",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
-        "publicacion": "Tue, 29 Sep 2026 15:55:44 +0000",
-        "titulo_fuente": "How the AI boom could worsen the rich world’s fiscal crunch",
-        "capturado": "2026-09-29T15:27:41-05:00"
-      },
-      {
-        "titulo": "La manera en que la Fed debería medir la inflación",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
-        "publicacion": "Thu, 24 Sep 2026 09:44:07 +0000",
-        "titulo_fuente": "How the Fed should measure inflation",
-        "capturado": "2026-09-24T14:48:39-05:00"
-      },
-      {
-        "titulo": "La economía de guerra de Israel se encuentra en auge",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
-        "publicacion": "Thu, 24 Sep 2026 09:43:14 +0000",
-        "titulo_fuente": "Israel’s war economy is thriving",
-        "capturado": "2026-09-24T14:48:39-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Al día: Índices de EE. UU. mixtos por presión de bonos del Tesoro tras mayor consumo e inflación moderada",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-211043690.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los rendimientos de los bonos del Tesoro ejercen presión tras un aumento del gasto de los consumidores que acompaña a una inflación moderada.",
-        "capturado": "2026-09-30T16:54:42-05:00"
+        "titulo": "La CPI y la aseguradora AXA terminan su relación en medio de la campaña de Trump contra el tribunal",
+        "url": "https://es.finance.yahoo.com/noticias/cpi-aseguradora-axa-rompen-v%C3%ADnculos-162252713.html",
+        "titulo_fuente": "La CPI y la aseguradora AXA rompen vínculos en medio de campaña de Trump contra el tribunal",
+        "capturado": "2026-10-01T11:53:45-05:00"
       },
       {
-        "titulo": "Google presenta Gemini 4, su modelo de IA de referencia, tras registrar meses de retrasos",
-        "url": "https://es.finance.yahoo.com/noticias/google-anuncia-modelo-insignia-ia-201520910.html",
-        "titulo_fuente": "Google anuncia su modelo insignia de IA, Gemini 4, tras meses de retrasos",
-        "capturado": "2026-09-30T16:54:42-05:00"
+        "titulo": "Remesas a México caen en agosto e interrumpen racha de seis meses de alzas, según Banxico",
+        "url": "https://es.finance.yahoo.com/noticias/remesas-m%C3%A9xico-caen-agosto-rompen-151957141.html",
+        "titulo_fuente": "Remesas a México caen en agosto, rompen racha de seis meses al alza: Banxico",
+        "capturado": "2026-10-01T11:53:45-05:00"
       },
       {
-        "titulo": "El BAII reitera en Doha su compromiso de saldar el déficit global de financiación en infraestructura",
-        "url": "https://es.finance.yahoo.com/noticias/aiib-reafirma-doha-compromiso-cerrar-173426208.html",
-        "titulo_fuente": "El BAII reafirma en Doha su compromiso de cerrar déficit global de financiación de infraestructuras",
-        "capturado": "2026-09-30T16:54:42-05:00"
+        "titulo": "El gasto en construcción en EEUU registró un incremento durante agosto",
+        "url": "https://es.finance.yahoo.com/noticias/gasto-construcci%C3%B3n-eeuu-aumenta-agosto-145230577.html",
+        "titulo_fuente": "Gasto en construcción en EEUU aumenta en agosto",
+        "capturado": "2026-10-01T11:53:45-05:00"
       },
       {
-        "titulo": "TAP: Air France-KLM y Lufthansa ya han presentado sus ofertas definitivas",
-        "url": "https://es.finance.yahoo.com/noticias/tap-air-france-klm-lufthansa-180909550.html",
-        "titulo_fuente": "TAP: Air France-KLM y Lufthansa ya han entregado sus propuestas finales",
-        "capturado": "2026-09-30T16:54:42-05:00"
+        "titulo": "Rendimientos de bonos del Tesoro de EEUU alcanzan máximo de 24 años y se acelera venta de deuda global",
+        "url": "https://es.finance.yahoo.com/noticias/retornos-bonos-tesoro-eeuu-tocan-144832976.html",
+        "titulo_fuente": "Retornos de bonos Tesoro EEUU tocan máximo en 24 años, se profundiza liquidación de deuda global",
+        "capturado": "2026-10-01T11:53:45-05:00"
       },
       {
-        "titulo": "Plan de BMW: reducción de empleos, IA y apuesta de 2.000 millones en 'Made in Germany'",
-        "url": "https://es.finance.yahoo.com/noticias/estrategia-bmw-recortes-empleo-ia-141006614.html",
-        "titulo_fuente": "La estrategia de BMW: recortes de empleo, IA y apuesta de 2.000 millones en 'Made in Germany'",
-        "capturado": "2026-09-30T16:54:42-05:00"
+        "titulo": "El mercado financiero de Argentina aumenta su liquidez al comenzar octubre",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-expande-liquidez-142959287.html",
+        "titulo_fuente": "Plaza financiera de Argentina expande liquidez con inicio de octubre",
+        "capturado": "2026-10-01T11:53:45-05:00"
       }
     ]
   }
