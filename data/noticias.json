@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T20:04:36-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-01T03:21:45-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Cómo España transitó de construir viviendas en exceso a padecer una grave crisis habitacional",
+        "url": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo",
+        "publicacion": "2026-10-01",
+        "titulo_fuente": "Cómo España pasó de construir más casas de las que necesitaba a enfrentar una grave crisis de vivienda",
+        "capturado": "2026-10-01T03:21:45-05:00"
+      },
+      {
         "titulo": "Así pasó España del auge de la construcción a una aguda crisis de vivienda, Duración 6,05",
         "url": "https://www.bbc.com/mundo/articles/c8207q9xqp43o",
         "publicacion": "PT6M5S",
@@ -66,13 +73,6 @@
         "url": "https://www.bbc.com/mundo/articles/c3vgyx8qgqndo",
         "publicacion": "PT2M11S",
         "titulo_fuente": "5 datos que revelan la crisis de vivienda en España, Duración 2,11",
-        "capturado": "2026-09-29T02:55:25-05:00"
-      },
-      {
-        "titulo": "Motivos del cierre de miles de empresas en Argentina y lo que revela de la economía en la era Milei",
-        "url": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o",
-        "publicacion": "2026-09-28",
-        "titulo_fuente": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
         "capturado": "2026-09-29T02:55:25-05:00"
       }
     ],
