@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T11:53:45-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-01T17:22:58-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La CPI y la aseguradora AXA terminan su relación en medio de la campaña de Trump contra el tribunal",
-        "url": "https://es.finance.yahoo.com/noticias/cpi-aseguradora-axa-rompen-v%C3%ADnculos-162252713.html",
-        "titulo_fuente": "La CPI y la aseguradora AXA rompen vínculos en medio de campaña de Trump contra el tribunal",
-        "capturado": "2026-10-01T11:53:45-05:00"
+        "titulo": "Índices EE.UU. suben algo al caer tasas del Tesoro desde pico de 2 décadas por menor alza de Fed en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212442221.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
+        "capturado": "2026-10-01T17:22:58-05:00"
       },
       {
-        "titulo": "Remesas a México caen en agosto e interrumpen racha de seis meses de alzas, según Banxico",
-        "url": "https://es.finance.yahoo.com/noticias/remesas-m%C3%A9xico-caen-agosto-rompen-151957141.html",
-        "titulo_fuente": "Remesas a México caen en agosto, rompen racha de seis meses al alza: Banxico",
-        "capturado": "2026-10-01T11:53:45-05:00"
+        "titulo": "Binance aprovecha vacíos legales para operar en Europa: esto señalan los reguladores",
+        "url": "https://es.finance.yahoo.com/noticias/binance-usa-vac%C3%ADos-legales-operar-210600775.html",
+        "titulo_fuente": "Binance usa vacíos legales para operar en Europa: esto dicen los reguladores",
+        "capturado": "2026-10-01T17:22:58-05:00"
       },
       {
-        "titulo": "El gasto en construcción en EEUU registró un incremento durante agosto",
-        "url": "https://es.finance.yahoo.com/noticias/gasto-construcci%C3%B3n-eeuu-aumenta-agosto-145230577.html",
-        "titulo_fuente": "Gasto en construcción en EEUU aumenta en agosto",
-        "capturado": "2026-10-01T11:53:45-05:00"
+        "titulo": "Miembros de la Fed moderan las expectativas de un alza de tasas en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/autoridades-fed-enfr%C3%ADan-expectativas-subida-202032485.html",
+        "titulo_fuente": "Autoridades de la Fed enfrían las expectativas de una subida de tasas en octubre",
+        "capturado": "2026-10-01T17:22:58-05:00"
       },
       {
-        "titulo": "Rendimientos de bonos del Tesoro de EEUU alcanzan máximo de 24 años y se acelera venta de deuda global",
-        "url": "https://es.finance.yahoo.com/noticias/retornos-bonos-tesoro-eeuu-tocan-144832976.html",
-        "titulo_fuente": "Retornos de bonos Tesoro EEUU tocan máximo en 24 años, se profundiza liquidación de deuda global",
-        "capturado": "2026-10-01T11:53:45-05:00"
+        "titulo": "Wall Street sube mientras los Treasuries rebotan y calman el temor por las tasas",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ee-uu-suben-pese-111652872.html",
+        "titulo_fuente": "Wall Street avanza mientras Treasuries rebotan y alivian temores por las tasas",
+        "capturado": "2026-10-01T17:22:58-05:00"
       },
       {
-        "titulo": "El mercado financiero de Argentina aumenta su liquidez al comenzar octubre",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-expande-liquidez-142959287.html",
-        "titulo_fuente": "Plaza financiera de Argentina expande liquidez con inicio de octubre",
-        "capturado": "2026-10-01T11:53:45-05:00"
+        "titulo": "El precio del diésel supera su récord histórico en Europa al alcanzar los 2,24€/l",
+        "url": "https://es.finance.yahoo.com/noticias/respiro-gasolineras-di%C3%A9sel-ue-marca-125708807.html",
+        "titulo_fuente": "El precio del diésel rompe su techo histórico en Europa tras escalar hasta los 2,24€/l",
+        "capturado": "2026-10-01T17:22:58-05:00"
       }
     ]
   }
