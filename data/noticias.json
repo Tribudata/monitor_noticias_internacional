@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T17:22:58-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-01T23:16:21-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Elon Musk retorna a Washington pese a la saga de DOGE",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-regresa-washington-saga-231300140.html",
+        "titulo_fuente": "Elon Musk regresa a Washington a pesar de la saga DOGE",
+        "capturado": "2026-10-01T23:16:21-05:00"
+      },
+      {
+        "titulo": "La SEC admite el rezago regulatorio frente a Bitcoin y propone nuevas normas de custodia",
+        "url": "https://es.finance.yahoo.com/noticias/sec-admite-regulaci%C3%B3n-quedado-atr%C3%A1s-220436266.html",
+        "titulo_fuente": "La SEC admite que la regulación se ha quedado atrás respecto a Bitcoin y propone nuevas reglas de custodia",
+        "capturado": "2026-10-01T23:16:21-05:00"
+      },
+      {
         "titulo": "Índices EE.UU. suben algo al caer tasas del Tesoro desde pico de 2 décadas por menor alza de Fed en octubre",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212442221.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
@@ -93,18 +105,6 @@
         "titulo": "Miembros de la Fed moderan las expectativas de un alza de tasas en octubre",
         "url": "https://es.finance.yahoo.com/noticias/autoridades-fed-enfr%C3%ADan-expectativas-subida-202032485.html",
         "titulo_fuente": "Autoridades de la Fed enfrían las expectativas de una subida de tasas en octubre",
-        "capturado": "2026-10-01T17:22:58-05:00"
-      },
-      {
-        "titulo": "Wall Street sube mientras los Treasuries rebotan y calman el temor por las tasas",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-ee-uu-suben-pese-111652872.html",
-        "titulo_fuente": "Wall Street avanza mientras Treasuries rebotan y alivian temores por las tasas",
-        "capturado": "2026-10-01T17:22:58-05:00"
-      },
-      {
-        "titulo": "El precio del diésel supera su récord histórico en Europa al alcanzar los 2,24€/l",
-        "url": "https://es.finance.yahoo.com/noticias/respiro-gasolineras-di%C3%A9sel-ue-marca-125708807.html",
-        "titulo_fuente": "El precio del diésel rompe su techo histórico en Europa tras escalar hasta los 2,24€/l",
         "capturado": "2026-10-01T17:22:58-05:00"
       }
     ]
