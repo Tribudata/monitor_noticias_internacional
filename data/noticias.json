@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T23:16:21-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-02T06:57:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Elon Musk retorna a Washington pese a la saga de DOGE",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-regresa-washington-saga-231300140.html",
-        "titulo_fuente": "Elon Musk regresa a Washington a pesar de la saga DOGE",
-        "capturado": "2026-10-01T23:16:21-05:00"
+        "titulo": "Documento señala que Anthropic advierte que posturas de gobiernos podrían afectar relaciones con clientes",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-advierte-actitudes-gobiernos-da%C3%B1ar-114847483.html",
+        "titulo_fuente": "Anthropic advierte que actitudes de gobiernos podrían dañar relaciones con clientes, muestra documento",
+        "capturado": "2026-10-02T06:57:14-05:00"
       },
       {
-        "titulo": "La SEC admite el rezago regulatorio frente a Bitcoin y propone nuevas normas de custodia",
-        "url": "https://es.finance.yahoo.com/noticias/sec-admite-regulaci%C3%B3n-quedado-atr%C3%A1s-220436266.html",
-        "titulo_fuente": "La SEC admite que la regulación se ha quedado atrás respecto a Bitcoin y propone nuevas reglas de custodia",
-        "capturado": "2026-10-01T23:16:21-05:00"
+        "titulo": "Futuros de acciones de EE. UU. suben antes de abrir; operadores vigilan crudo y esperan empleo de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-114835885.html",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores monitorean los precios del petróleo y esperan el informe de empleo de septiembre.",
+        "capturado": "2026-10-02T06:57:14-05:00"
       },
       {
-        "titulo": "Índices EE.UU. suben algo al caer tasas del Tesoro desde pico de 2 décadas por menor alza de Fed en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212442221.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
-        "capturado": "2026-10-01T17:22:58-05:00"
+        "titulo": "Fuentes: OPEP+ posterga revisión de capacidad petrolera por afectación en planes de expansión",
+        "url": "https://es.finance.yahoo.com/noticias/opep-aplaza-revisi%C3%B3n-capacidad-petrolera-114127990.html",
+        "titulo_fuente": "OPEP+ aplaza revisión de capacidad petrolera por planes de expansión afectados: fuentes",
+        "capturado": "2026-10-02T06:57:14-05:00"
       },
       {
-        "titulo": "Binance aprovecha vacíos legales para operar en Europa: esto señalan los reguladores",
-        "url": "https://es.finance.yahoo.com/noticias/binance-usa-vac%C3%ADos-legales-operar-210600775.html",
-        "titulo_fuente": "Binance usa vacíos legales para operar en Europa: esto dicen los reguladores",
-        "capturado": "2026-10-01T17:22:58-05:00"
+        "titulo": "Ministro de Agricultura: siembra de trigo de invierno y exportaciones de Ucrania podrían disminuir",
+        "url": "https://es.finance.yahoo.com/noticias/siembra-trigo-invierno-exportaciones-ucrania-111245205.html",
+        "titulo_fuente": "Siembra de trigo de invierno y exportaciones de Ucrania podrían descender, dice ministro de Agricultura",
+        "capturado": "2026-10-02T06:57:14-05:00"
       },
       {
-        "titulo": "Miembros de la Fed moderan las expectativas de un alza de tasas en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/autoridades-fed-enfr%C3%ADan-expectativas-subida-202032485.html",
-        "titulo_fuente": "Autoridades de la Fed enfrían las expectativas de una subida de tasas en octubre",
-        "capturado": "2026-10-01T17:22:58-05:00"
+        "titulo": "Baja en rendimientos de bonos y crudo sostiene a Wall Street antes de abrir; Asia baja y Europa sube",
+        "url": "https://es.finance.yahoo.com/noticias/bajada-rendimientos-bonos-precios-petr%C3%B3leo-111028334.html",
+        "titulo_fuente": "La bajada de los rendimientos de los bonos y los precios del petróleo sustentan a Wall Street antes de la apertura; Asia baja, Europa sube.",
+        "capturado": "2026-10-02T06:57:14-05:00"
       }
     ]
   }
