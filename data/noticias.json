@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T08:03:59-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-03T12:47:54-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "En imágenes: masivas manifestaciones en España contra la crisis habitacional",
+        "url": "https://www.bbc.com/mundo/articles/cjkgewp3p3qqo",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
+        "capturado": "2026-10-03T12:47:54-05:00"
+      },
+      {
         "titulo": "Thomas Piketty: la tensión actual en Washington se debe a que EE.UU. está perdiendo el control del mundo",
         "url": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o",
         "publicacion": "2026-10-03",
@@ -67,45 +74,38 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
         "capturado": "2026-09-30T11:16:31-05:00"
-      },
-      {
-        "titulo": "Datos del Corredor Andes-Atlántico, plan de EE. UU. para captar recursos de Argentina y competir con China",
-        "url": "https://www.bbc.com/mundo/articles/c6n9wrpdje2ro",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
-        "capturado": "2026-09-30T11:16:31-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Estas 4 altcoins registran alzas de dos dígitos en medio de la caída general del mercado",
-        "url": "https://es.finance.yahoo.com/noticias/4-altcoins-registran-ganancias-doble-122400461.html",
-        "titulo_fuente": "Estas 4 altcoins registran ganancias de doble dígito mientras el mercado se desangra",
-        "capturado": "2026-10-03T08:03:59-05:00"
+        "titulo": "Adversario de Ripple (XRP) podría ser el nuevo \"Zar de IA\" en la Casa Blanca: detalles",
+        "url": "https://es.finance.yahoo.com/noticias/n%C3%A9mesis-ripple-xrp-ser-zar-163000165.html",
+        "titulo_fuente": "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
+        "capturado": "2026-10-03T12:47:54-05:00"
       },
       {
-        "titulo": "NVIDIA alcanza un máximo histórico y Wall Street aún proyecta hasta 99% de potencial alcista",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-registra-m%C3%A1ximo-hist%C3%B3rico-wall-103500161.html",
-        "titulo_fuente": "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
-        "capturado": "2026-10-03T08:03:59-05:00"
+        "titulo": "Jim Cramer hace una advertencia a los inversionistas para octubre",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-lanza-advertencia-inversores-160200023.html",
+        "titulo_fuente": "Jim Cramer lanza advertencia para los inversores en octubre",
+        "capturado": "2026-10-03T12:47:54-05:00"
       },
       {
-        "titulo": "El valor de la vivienda continúa al alza en Europa: qué naciones lideran los incrementos y sus causas",
-        "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
-        "titulo_fuente": "Los precios de la vivienda siguen subiendo en Europa: qué países lideran las subidas y por qué?",
-        "capturado": "2026-10-03T02:38:23-05:00"
+        "titulo": "El ETF de Zcash registró pérdidas de más de $93 millones esta semana: ¿acabó el rally para ZEC?",
+        "url": "https://es.finance.yahoo.com/noticias/etf-zcash-perdi%C3%B3-93-millones-143800901.html",
+        "titulo_fuente": "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
+        "capturado": "2026-10-03T12:47:54-05:00"
       },
       {
-        "titulo": "Bitcoin quiebra un patrón de 13 años: qué viene ahora",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-rompe-patr%C3%B3n-13-a%C3%B1os-084600879.html",
-        "titulo_fuente": "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
-        "capturado": "2026-10-03T08:03:59-05:00"
+        "titulo": "El Banco Central informa que la inflación de Venezuela en septiembre cerró en 8,4%",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-venezuela-septiembre-cierra-8-142842275.html",
+        "titulo_fuente": "Inflación de Venezuela en septiembre cierra en 8,4%: Banco Central",
+        "capturado": "2026-10-03T12:47:54-05:00"
       },
       {
-        "titulo": "Reguladores de la UE indagan a Binance por sus actividades sin licencia en territorio europeo",
-        "url": "https://es.finance.yahoo.com/noticias/supervisores-ue-cuestionan-binance-operaciones-120433209.html",
-        "titulo_fuente": "Los reguladores de la UE cuestionan a Binance por sus operaciones europeas sin licencia",
-        "capturado": "2026-10-03T08:03:59-05:00"
+        "titulo": "Es extraditado desde Venezuela el hacker más buscado por el FBI: detalles",
+        "url": "https://es.finance.yahoo.com/noticias/extraditan-venezuela-hacker-buscado-fbi-135619493.html",
+        "titulo_fuente": "Extraditan desde Venezuela al hacker más buscado del FBI: detalles",
+        "capturado": "2026-10-03T12:47:54-05:00"
       }
     ]
   }
