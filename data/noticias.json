@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T02:38:23-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-03T08:03:59-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Estas 4 altcoins registran alzas de dos dígitos en medio de la caída general del mercado",
+        "url": "https://es.finance.yahoo.com/noticias/4-altcoins-registran-ganancias-doble-122400461.html",
+        "titulo_fuente": "Estas 4 altcoins registran ganancias de doble dígito mientras el mercado se desangra",
+        "capturado": "2026-10-03T08:03:59-05:00"
+      },
+      {
+        "titulo": "NVIDIA alcanza un máximo histórico y Wall Street aún proyecta hasta 99% de potencial alcista",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-registra-m%C3%A1ximo-hist%C3%B3rico-wall-103500161.html",
+        "titulo_fuente": "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
+        "capturado": "2026-10-03T08:03:59-05:00"
+      },
+      {
         "titulo": "El valor de la vivienda continúa al alza en Europa: qué naciones lideran los incrementos y sus causas",
         "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
         "titulo_fuente": "Los precios de la vivienda siguen subiendo en Europa: qué países lideran las subidas y por qué?",
         "capturado": "2026-10-03T02:38:23-05:00"
       },
       {
-        "titulo": "Las 3 principales altcoins para seguir este fin de semana | 3 y 4 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-203800930.html",
-        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 3-4 de octubre",
-        "capturado": "2026-10-02T16:51:56-05:00"
+        "titulo": "Bitcoin quiebra un patrón de 13 años: qué viene ahora",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-rompe-patr%C3%B3n-13-a%C3%B1os-084600879.html",
+        "titulo_fuente": "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
+        "capturado": "2026-10-03T08:03:59-05:00"
       },
       {
-        "titulo": "FDA de EE. UU. finaliza indagación sobre parásito en lechuga y asocia brote con planta en México",
-        "url": "https://es.finance.yahoo.com/noticias/fda-eeuu-cierra-investigaci%C3%B3n-par%C3%A1sito-203419498.html",
-        "titulo_fuente": "FDA de EEUU cierra investigación sobre parásito de lechuga y vincula brote con planta en México",
-        "capturado": "2026-10-02T16:51:56-05:00"
-      },
-      {
-        "titulo": "Actualización: Índices de EE. UU. suben al moderar el empleo no agrícola la política restrictiva de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-202543208.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que las cifras negativas de empleo no agrícola moderan las perspectivas de política monetaria restrictiva de la Reserva Federal.",
-        "capturado": "2026-10-02T16:51:56-05:00"
-      },
-      {
-        "titulo": "Índices de EE. UU. cierran mixtos ante bonos del Tesoro en máximos de 20 años y desplome de alzas en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cerraron-resultados-202356617.html",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cerraron con resultados mixtos esta semana, ya que los rendimientos de los bonos del Tesoro se acercaron a su nivel más alto en dos décadas, mientras que las expectativas de una subida de tipos en octubre se desplomaron.",
-        "capturado": "2026-10-02T16:51:56-05:00"
+        "titulo": "Reguladores de la UE indagan a Binance por sus actividades sin licencia en territorio europeo",
+        "url": "https://es.finance.yahoo.com/noticias/supervisores-ue-cuestionan-binance-operaciones-120433209.html",
+        "titulo_fuente": "Los reguladores de la UE cuestionan a Binance por sus operaciones europeas sin licencia",
+        "capturado": "2026-10-03T08:03:59-05:00"
       }
     ]
   }
