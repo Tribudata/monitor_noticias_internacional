@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T12:47:54-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-03T15:38:52-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Discusión en la sede de la ONU sobre computación cuántica: ¿cómo se alistan los sistemas financieros?",
+        "url": "https://es.finance.yahoo.com/noticias/debate-computaci%C3%B3n-cu%C3%A1ntica-sede-onu-194100262.html",
+        "titulo_fuente": "Debate sobre la computación cuántica en la sede de la ONU: ¿Cómo se están preparando los sistemas financieros?",
+        "capturado": "2026-10-03T15:38:52-05:00"
+      },
+      {
+        "titulo": "El precio del cobre capta el interés con miras a octubre: este es el motivo",
+        "url": "https://es.finance.yahoo.com/noticias/precio-cobre-atrae-atenci%C3%B3n-cara-175300113.html",
+        "titulo_fuente": "El precio del cobre atrae la atención de cara a octubre: esta es la razón",
+        "capturado": "2026-10-03T15:38:52-05:00"
+      },
+      {
         "titulo": "Adversario de Ripple (XRP) podría ser el nuevo \"Zar de IA\" en la Casa Blanca: detalles",
         "url": "https://es.finance.yahoo.com/noticias/n%C3%A9mesis-ripple-xrp-ser-zar-163000165.html",
         "titulo_fuente": "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
@@ -93,18 +105,6 @@
         "titulo": "El ETF de Zcash registró pérdidas de más de $93 millones esta semana: ¿acabó el rally para ZEC?",
         "url": "https://es.finance.yahoo.com/noticias/etf-zcash-perdi%C3%B3-93-millones-143800901.html",
         "titulo_fuente": "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
-        "capturado": "2026-10-03T12:47:54-05:00"
-      },
-      {
-        "titulo": "El Banco Central informa que la inflación de Venezuela en septiembre cerró en 8,4%",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-venezuela-septiembre-cierra-8-142842275.html",
-        "titulo_fuente": "Inflación de Venezuela en septiembre cierra en 8,4%: Banco Central",
-        "capturado": "2026-10-03T12:47:54-05:00"
-      },
-      {
-        "titulo": "Es extraditado desde Venezuela el hacker más buscado por el FBI: detalles",
-        "url": "https://es.finance.yahoo.com/noticias/extraditan-venezuela-hacker-buscado-fbi-135619493.html",
-        "titulo_fuente": "Extraditan desde Venezuela al hacker más buscado del FBI: detalles",
         "capturado": "2026-10-03T12:47:54-05:00"
       }
     ]
