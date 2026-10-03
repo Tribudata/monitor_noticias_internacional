@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T19:57:03-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-03T02:38:23-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Thomas Piketty: la tensión actual en Washington se debe a que EE.UU. está perdiendo el control del mundo",
+        "url": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o",
+        "publicacion": "2026-10-03",
+        "titulo_fuente": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
+        "capturado": "2026-10-03T02:38:23-05:00"
+      },
+      {
         "titulo": "Cómo España transitó de construir viviendas en exceso a padecer una grave crisis habitacional",
         "url": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo",
         "publicacion": "2026-10-01",
@@ -67,16 +74,15 @@
         "publicacion": "2026-09-29",
         "titulo_fuente": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
         "capturado": "2026-09-30T11:16:31-05:00"
-      },
-      {
-        "titulo": "5 cifras que evidencian la crisis habitacional en España, duración 2,11",
-        "url": "https://www.bbc.com/mundo/articles/c3vgyx8qgqndo",
-        "publicacion": "PT2M11S",
-        "titulo_fuente": "5 datos que revelan la crisis de vivienda en España, Duración 2,11",
-        "capturado": "2026-09-29T02:55:25-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "El valor de la vivienda continúa al alza en Europa: qué naciones lideran los incrementos y sus causas",
+        "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
+        "titulo_fuente": "Los precios de la vivienda siguen subiendo en Europa: qué países lideran las subidas y por qué?",
+        "capturado": "2026-10-03T02:38:23-05:00"
+      },
       {
         "titulo": "Las 3 principales altcoins para seguir este fin de semana | 3 y 4 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-203800930.html",
@@ -99,12 +105,6 @@
         "titulo": "Índices de EE. UU. cierran mixtos ante bonos del Tesoro en máximos de 20 años y desplome de alzas en octubre",
         "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cerraron-resultados-202356617.html",
         "titulo_fuente": "Los índices bursátiles estadounidenses cerraron con resultados mixtos esta semana, ya que los rendimientos de los bonos del Tesoro se acercaron a su nivel más alto en dos décadas, mientras que las expectativas de una subida de tipos en octubre se desplomaron.",
-        "capturado": "2026-10-02T16:51:56-05:00"
-      },
-      {
-        "titulo": "Justicia de EE. UU. no reabrirá investigación penal contra el expresidente de la Fed Powell: vocero",
-        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-eeuu-reabrir%C3%A1-investigaci%C3%B3n-200513811.html",
-        "titulo_fuente": "Departamento Justicia EEUU no reabrirá investigación penal sobre expresidente Fed Powell: portavoz",
         "capturado": "2026-10-02T16:51:56-05:00"
       }
     ]
