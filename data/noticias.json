@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-04T02:48:18-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-04T08:42:52-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Están en peligro sus Bitcoin en Lightning? Todo depende de quién maneje el nodo",
+        "url": "https://es.finance.yahoo.com/noticias/tus-bitcoin-lightning-riesgo-depende-113800926.html",
+        "titulo_fuente": "¿Tus Bitcoin en Lightning está en riesgo? Depende de quién opere el nodo",
+        "capturado": "2026-10-04T08:42:52-05:00"
+      },
+      {
+        "titulo": "CEO de Phemex: ¿Por qué las tarjetas de criptoactivos deben operar como la infraestructura de trading?",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-phemex-tarjetas-criptomonedas-deber%C3%ADan-090600876.html",
+        "titulo_fuente": "CEO de Phemex: ¿Por qué las tarjetas de criptomonedas deberían funcionar como la infraestructura de trading?",
+        "capturado": "2026-10-04T08:42:52-05:00"
+      },
+      {
+        "titulo": "¿Qué ocurre con la crisis habitacional en España? Puntos clave de las manifestaciones por Maricarmen",
+        "url": "https://es.finance.yahoo.com/noticias/pasando-crisis-vivienda-espa%C3%B1a-claves-134318153.html",
+        "titulo_fuente": "¿Qué está pasando con la crisis de vivienda en España? Las claves tras las protestas por Maricarmen",
+        "capturado": "2026-10-04T08:42:52-05:00"
+      },
+      {
         "titulo": "El principal destino para pensionarse en el exterior ya no queda en Europa, pero 6 de los 10 primeros sí",
         "url": "https://es.finance.yahoo.com/noticias/jubilarse-extranjero-europa-6-10-050050753.html",
         "titulo_fuente": "El mejor lugar para jubilarse en el extranjero ya no está en Europa, pero 6 de los 10 primeros sí",
         "capturado": "2026-10-04T02:48:18-05:00"
       },
       {
-        "titulo": "Elecciones en Brasil: posturas de los candidatos sobre las criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/elecciones-brasil-opinan-candidatos-criptomonedas-231900086.html",
-        "titulo_fuente": "Elecciones en Brasil: ¿Qué opinan los candidatos sobre las criptomonedas?",
-        "capturado": "2026-10-03T19:21:57-05:00"
-      },
-      {
-        "titulo": "Más allá del podio: de qué manera KuCoin integra su visión a largo plazo con el impacto social",
-        "url": "https://es.finance.yahoo.com/noticias/all%C3%A1-podio-kucoin-une-visi%C3%B3n-213000392.html",
-        "titulo_fuente": "Más allá del podio: ¿Cómo KuCoin une su visión a largo plazo con el impacto social?",
-        "capturado": "2026-10-03T19:21:57-05:00"
-      },
-      {
-        "titulo": "Renault destinará más de 10.000 millones de euros en Francia a vehículos eléctricos y carros asequibles: CEO",
-        "url": "https://es.finance.yahoo.com/noticias/renault-invertir%C3%A1-10-000-millones-203308943.html",
-        "titulo_fuente": "Renault invertirá más de 10.000 millones de euros en Francia en vehículos eléctricos y coches asequibles: CEO",
-        "capturado": "2026-10-03T19:21:57-05:00"
-      },
-      {
-        "titulo": "Irak asegura haber transportado 2 millones de barriles de crudo por el estrecho de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/irak-afirma-transportado-2-millones-203114860.html",
-        "titulo_fuente": "Irak afirma haber transportado 2 millones de barriles de crudo a través del estrecho de Ormuz",
-        "capturado": "2026-10-03T19:21:57-05:00"
+        "titulo": "El endeudamiento global inicia otra etapa: EEUU, Europa y emergentes asumen refinanciación más costosa",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-mundial-entra-fase-eeuu-043000996.html",
+        "titulo_fuente": "La deuda mundial entra en una nueva fase: EEUU, Europa y los emergentes afrontan una refinanciación mucho más cara",
+        "capturado": "2026-10-04T08:42:52-05:00"
       }
     ]
   }
