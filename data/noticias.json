@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-04T08:42:52-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-04T12:59:06-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Circulación y desorganización",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/04/flow-and-disorder",
+        "publicacion": "Sun, 04 Oct 2026 17:11:12 +0000",
+        "titulo_fuente": "Flow and disorder",
+        "capturado": "2026-10-04T12:59:06-05:00"
+      },
       {
         "titulo": "Gobiernos prefieren mantener acciones de Estados Unidos antes que sus títulos de deuda",
         "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
         "publicacion": "Tue, 29 Sep 2026 17:28:26 +0000",
         "titulo_fuente": "Investing for babies involves knotty trade-offs",
-        "capturado": "2026-09-29T15:27:41-05:00"
-      },
-      {
-        "titulo": "El auge de la IA coincide con una nueva modalidad de estafa con criptomonedas",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
-        "publicacion": "Tue, 29 Sep 2026 16:05:58 +0000",
-        "titulo_fuente": "The AI boom meets a new kind of crypto scam",
         "capturado": "2026-09-29T15:27:41-05:00"
       }
     ],
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "¿Están en peligro sus Bitcoin en Lightning? Todo depende de quién maneje el nodo",
-        "url": "https://es.finance.yahoo.com/noticias/tus-bitcoin-lightning-riesgo-depende-113800926.html",
-        "titulo_fuente": "¿Tus Bitcoin en Lightning está en riesgo? Depende de quién opere el nodo",
-        "capturado": "2026-10-04T08:42:52-05:00"
+        "titulo": "Reporte semanal de Bitcoin y criptomonedas para España y América Latina del 4 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700926.html",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
+        "capturado": "2026-10-04T12:59:06-05:00"
       },
       {
-        "titulo": "CEO de Phemex: ¿Por qué las tarjetas de criptoactivos deben operar como la infraestructura de trading?",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-phemex-tarjetas-criptomonedas-deber%C3%ADan-090600876.html",
-        "titulo_fuente": "CEO de Phemex: ¿Por qué las tarjetas de criptomonedas deberían funcionar como la infraestructura de trading?",
-        "capturado": "2026-10-04T08:42:52-05:00"
+        "titulo": "Irán asegura que el estrecho de Ormuz no será reabierto hasta cumplirse las condiciones",
+        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-estrecho-ormuz-reabrir%C3%A1-cumplan-160425225.html",
+        "titulo_fuente": "Irán dice que el estrecho de Ormuz no se reabrirá hasta que se cumplan las condiciones",
+        "capturado": "2026-10-04T12:59:06-05:00"
       },
       {
-        "titulo": "¿Qué ocurre con la crisis habitacional en España? Puntos clave de las manifestaciones por Maricarmen",
-        "url": "https://es.finance.yahoo.com/noticias/pasando-crisis-vivienda-espa%C3%B1a-claves-134318153.html",
-        "titulo_fuente": "¿Qué está pasando con la crisis de vivienda en España? Las claves tras las protestas por Maricarmen",
-        "capturado": "2026-10-04T08:42:52-05:00"
+        "titulo": "OPEP+ pacta sostener sin modificaciones las metas de producción de petróleo para noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-mantener-cambios-objetivos-155040921.html",
+        "titulo_fuente": "OPEP+ acuerda mantener sin cambios los objetivos de producción de petróleo para noviembre",
+        "capturado": "2026-10-04T12:59:06-05:00"
       },
       {
-        "titulo": "El principal destino para pensionarse en el exterior ya no queda en Europa, pero 6 de los 10 primeros sí",
-        "url": "https://es.finance.yahoo.com/noticias/jubilarse-extranjero-europa-6-10-050050753.html",
-        "titulo_fuente": "El mejor lugar para jubilarse en el extranjero ya no está en Europa, pero 6 de los 10 primeros sí",
-        "capturado": "2026-10-04T02:48:18-05:00"
+        "titulo": "Trump designa al jefe de inteligencia Clayton como zar de la IA para liderar grupo de trabajo",
+        "url": "https://es.finance.yahoo.com/noticias/trump-nombra-jefe-inteligencia-clayton-151334480.html",
+        "titulo_fuente": "Trump nombra al jefe de inteligencia Clayton como zar de la IA, liderará grupo de trabajo",
+        "capturado": "2026-10-04T12:59:06-05:00"
       },
       {
-        "titulo": "El endeudamiento global inicia otra etapa: EEUU, Europa y emergentes asumen refinanciación más costosa",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-mundial-entra-fase-eeuu-043000996.html",
-        "titulo_fuente": "La deuda mundial entra en una nueva fase: EEUU, Europa y los emergentes afrontan una refinanciación mucho más cara",
-        "capturado": "2026-10-04T08:42:52-05:00"
+        "titulo": "Brasileños acuden a votar en unas elecciones caracterizadas por la polarización",
+        "url": "https://es.finance.yahoo.com/noticias/brasile%C3%B1os-acuden-urnas-elecciones-marcadas-140607992.html",
+        "titulo_fuente": "Brasileños acuden a las urnas en unas elecciones marcadas por la polarización",
+        "capturado": "2026-10-04T12:59:06-05:00"
       }
     ]
   }
