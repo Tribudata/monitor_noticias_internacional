@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T19:21:57-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-04T02:48:18-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Mitbestimmung: cómo Alemania exige a grandes firmas incluir empleados en decisiones y su impacto económico",
+        "url": "https://www.bbc.com/mundo/articles/cp3rxlq1nlno",
+        "publicacion": "2026-10-04",
+        "titulo_fuente": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
+        "capturado": "2026-10-04T02:48:18-05:00"
+      },
+      {
         "titulo": "En imágenes: masivas manifestaciones en España contra la crisis habitacional",
         "url": "https://www.bbc.com/mundo/articles/cjkgewp3p3qqo",
         "publicacion": "2026-10-03",
@@ -67,16 +74,15 @@
         "publicacion": "PT6M5S",
         "titulo_fuente": "Cómo España pasó de un boom de la construcción a enfrentar una grave crisis de la vivienda, Duración 6,05",
         "capturado": "2026-09-30T11:16:31-05:00"
-      },
-      {
-        "titulo": "La anciana Maricarmen retornará a su hogar tras el desalojo que evidenció la crisis de vivienda en España",
-        "url": "https://www.bbc.com/mundo/articles/c9gk5lxv7kx4o",
-        "publicacion": "2026-09-29",
-        "titulo_fuente": "La anciana Maricarmen podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
-        "capturado": "2026-09-30T11:16:31-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "El principal destino para pensionarse en el exterior ya no queda en Europa, pero 6 de los 10 primeros sí",
+        "url": "https://es.finance.yahoo.com/noticias/jubilarse-extranjero-europa-6-10-050050753.html",
+        "titulo_fuente": "El mejor lugar para jubilarse en el extranjero ya no está en Europa, pero 6 de los 10 primeros sí",
+        "capturado": "2026-10-04T02:48:18-05:00"
+      },
       {
         "titulo": "Elecciones en Brasil: posturas de los candidatos sobre las criptomonedas",
         "url": "https://es.finance.yahoo.com/noticias/elecciones-brasil-opinan-candidatos-criptomonedas-231900086.html",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/irak-afirma-transportado-2-millones-203114860.html",
         "titulo_fuente": "Irak afirma haber transportado 2 millones de barriles de crudo a través del estrecho de Ormuz",
         "capturado": "2026-10-03T19:21:57-05:00"
-      },
-      {
-        "titulo": "Discusión en la sede de la ONU sobre computación cuántica: ¿cómo se alistan los sistemas financieros?",
-        "url": "https://es.finance.yahoo.com/noticias/debate-computaci%C3%B3n-cu%C3%A1ntica-sede-onu-194100262.html",
-        "titulo_fuente": "Debate sobre la computación cuántica en la sede de la ONU: ¿Cómo se están preparando los sistemas financieros?",
-        "capturado": "2026-10-03T15:38:52-05:00"
       }
     ]
   }
