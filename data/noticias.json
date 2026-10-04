@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-03T15:38:52-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-03T19:21:57-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Elecciones en Brasil: posturas de los candidatos sobre las criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/elecciones-brasil-opinan-candidatos-criptomonedas-231900086.html",
+        "titulo_fuente": "Elecciones en Brasil: ¿Qué opinan los candidatos sobre las criptomonedas?",
+        "capturado": "2026-10-03T19:21:57-05:00"
+      },
+      {
+        "titulo": "Más allá del podio: de qué manera KuCoin integra su visión a largo plazo con el impacto social",
+        "url": "https://es.finance.yahoo.com/noticias/all%C3%A1-podio-kucoin-une-visi%C3%B3n-213000392.html",
+        "titulo_fuente": "Más allá del podio: ¿Cómo KuCoin une su visión a largo plazo con el impacto social?",
+        "capturado": "2026-10-03T19:21:57-05:00"
+      },
+      {
+        "titulo": "Renault destinará más de 10.000 millones de euros en Francia a vehículos eléctricos y carros asequibles: CEO",
+        "url": "https://es.finance.yahoo.com/noticias/renault-invertir%C3%A1-10-000-millones-203308943.html",
+        "titulo_fuente": "Renault invertirá más de 10.000 millones de euros en Francia en vehículos eléctricos y coches asequibles: CEO",
+        "capturado": "2026-10-03T19:21:57-05:00"
+      },
+      {
+        "titulo": "Irak asegura haber transportado 2 millones de barriles de crudo por el estrecho de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/irak-afirma-transportado-2-millones-203114860.html",
+        "titulo_fuente": "Irak afirma haber transportado 2 millones de barriles de crudo a través del estrecho de Ormuz",
+        "capturado": "2026-10-03T19:21:57-05:00"
+      },
+      {
         "titulo": "Discusión en la sede de la ONU sobre computación cuántica: ¿cómo se alistan los sistemas financieros?",
         "url": "https://es.finance.yahoo.com/noticias/debate-computaci%C3%B3n-cu%C3%A1ntica-sede-onu-194100262.html",
         "titulo_fuente": "Debate sobre la computación cuántica en la sede de la ONU: ¿Cómo se están preparando los sistemas financieros?",
         "capturado": "2026-10-03T15:38:52-05:00"
-      },
-      {
-        "titulo": "El precio del cobre capta el interés con miras a octubre: este es el motivo",
-        "url": "https://es.finance.yahoo.com/noticias/precio-cobre-atrae-atenci%C3%B3n-cara-175300113.html",
-        "titulo_fuente": "El precio del cobre atrae la atención de cara a octubre: esta es la razón",
-        "capturado": "2026-10-03T15:38:52-05:00"
-      },
-      {
-        "titulo": "Adversario de Ripple (XRP) podría ser el nuevo \"Zar de IA\" en la Casa Blanca: detalles",
-        "url": "https://es.finance.yahoo.com/noticias/n%C3%A9mesis-ripple-xrp-ser-zar-163000165.html",
-        "titulo_fuente": "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
-        "capturado": "2026-10-03T12:47:54-05:00"
-      },
-      {
-        "titulo": "Jim Cramer hace una advertencia a los inversionistas para octubre",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-lanza-advertencia-inversores-160200023.html",
-        "titulo_fuente": "Jim Cramer lanza advertencia para los inversores en octubre",
-        "capturado": "2026-10-03T12:47:54-05:00"
-      },
-      {
-        "titulo": "El ETF de Zcash registró pérdidas de más de $93 millones esta semana: ¿acabó el rally para ZEC?",
-        "url": "https://es.finance.yahoo.com/noticias/etf-zcash-perdi%C3%B3-93-millones-143800901.html",
-        "titulo_fuente": "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
-        "capturado": "2026-10-03T12:47:54-05:00"
       }
     ]
   }
