@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T03:25:20-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-05T14:04:31-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Millonarios de origen cubano en Miami se alistan para ir de inmediato si cae el gobierno de la isla",
+        "url": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "\"Estamos listos para ir de inmediato\": los millonarios de origen cubano que se están preparando en Miami para cuando caiga el gobierno de la isla",
+        "capturado": "2026-10-05T14:04:31-05:00"
+      },
+      {
+        "titulo": "Qué falló en Nike, la gran compañía que perdió el liderazgo mundial en ropa deportiva",
+        "url": "https://www.bbc.com/mundo/articles/c6pwg8rxyq7go",
+        "publicacion": "2026-10-05",
+        "titulo_fuente": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+        "capturado": "2026-10-05T14:04:31-05:00"
+      },
+      {
         "titulo": "Mitbestimmung: cómo Alemania exige a grandes firmas incluir empleados en decisiones y su impacto económico",
         "url": "https://www.bbc.com/mundo/articles/cp3rxlq1nlno",
         "publicacion": "2026-10-04",
@@ -60,52 +74,38 @@
         "publicacion": "2026-10-03",
         "titulo_fuente": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
         "capturado": "2026-10-03T02:38:23-05:00"
-      },
-      {
-        "titulo": "Cómo España transitó de construir viviendas en exceso a padecer una grave crisis habitacional",
-        "url": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo",
-        "publicacion": "2026-10-01",
-        "titulo_fuente": "Cómo España pasó de construir más casas de las que necesitaba a enfrentar una grave crisis de vivienda",
-        "capturado": "2026-10-01T03:21:45-05:00"
-      },
-      {
-        "titulo": "Así pasó España del auge de la construcción a una aguda crisis de vivienda, Duración 6,05",
-        "url": "https://www.bbc.com/mundo/articles/c8207q9xqp43o",
-        "publicacion": "PT6M5S",
-        "titulo_fuente": "Cómo España pasó de un boom de la construcción a enfrentar una grave crisis de la vivienda, Duración 6,05",
-        "capturado": "2026-09-30T11:16:31-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Robert Kiyosaki revela una cruda realidad para quienes poseen oro, plata o Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/tienes-oro-plata-bitcoin-robert-075200197.html",
-        "titulo_fuente": "¿Tienes oro, plata o Bitcoin? Robert Kiyosaki revela una dura verdad",
-        "capturado": "2026-10-05T03:25:20-05:00"
+        "titulo": "Actualización: Índices de EE. UU. suben con retornos del Tesoro en máximos de dos décadas y caída del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-171711215.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en un contexto en el que los rendimientos de los bonos del Tesoro alcanzan su nivel más alto en dos décadas y el precio del petróleo crudo cae.",
+        "capturado": "2026-10-05T14:04:31-05:00"
       },
       {
-        "titulo": "Ventas de vehículos eléctricos en Europa registran un nuevo máximo histórico, según un estudio",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-veh%C3%ADculos-el%C3%A9ctricos-europa-alcanzan-070629538.html",
-        "titulo_fuente": "Las ventas de vehículos eléctricos en Europa alcanzan un nuevo récord, según estudio",
-        "capturado": "2026-10-05T03:25:20-05:00"
+        "titulo": "Los fondos cotizados en bolsa suben y las acciones de EE. UU. registran ganancias después del mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171005207.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben y las acciones estadounidenses registran ganancias tras el mediodía.",
+        "capturado": "2026-10-05T14:04:31-05:00"
       },
       {
-        "titulo": "Negociaciones comerciales entre India y EEUU están paralizadas, según la ministra de Finanzas india",
-        "url": "https://es.finance.yahoo.com/noticias/india-eeuu-estancan-negociaciones-comerciales-065208439.html",
-        "titulo_fuente": "India y EEUU se estancan en las negociaciones comerciales, según la ministra de Finanzas india",
-        "capturado": "2026-10-05T03:25:20-05:00"
+        "titulo": "La Bolsa de São Paulo registra fuerte alza luego de la victoria de Bolsonaro",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-s%C3%A3o-paulo-dispara-ventaja-162517270.html",
+        "titulo_fuente": "La Bolsa de São Paulo se dispara tras la victoria de Bolsonaro",
+        "capturado": "2026-10-05T14:04:31-05:00"
       },
       {
-        "titulo": "Razones por las que el inversionista particular queda por fuera del auge de la robótica",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-particulares-cuesta-subirse-boom-061726953.html",
-        "titulo_fuente": "Por qué el inversor particular se queda fuera del boom de la robótica",
-        "capturado": "2026-10-05T03:25:20-05:00"
+        "titulo": "Cuando el crecimiento no es suficiente: vivienda e inflación, los retos de Sánchez para las elecciones",
+        "url": "https://es.finance.yahoo.com/noticias/crecimiento-basta-vivienda-inflaci%C3%B3n-retos-161340908.html",
+        "titulo_fuente": "Cuando el crecimiento no basta: vivienda e inflación, los grandes retos de Sánchez de cara a las elecciones",
+        "capturado": "2026-10-05T14:04:31-05:00"
       },
       {
-        "titulo": "Este sector aporta 65.000 millones de euros a la economía europea, pero ¿es merecida su mala fama?",
-        "url": "https://es.finance.yahoo.com/noticias/industria-aporta-65-000-millones-044758673.html",
-        "titulo_fuente": "Esta industria aporta 65.000 millones de euros a la economía europea, pero ¿merece su mala fama?",
-        "capturado": "2026-10-05T03:25:20-05:00"
+        "titulo": "Argenta Silver confirma un nuevo sector de oro y cobre en el proyecto El Quevar en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/argenta-silver-confirma-presencia-zona-161601768.html",
+        "titulo_fuente": "Argenta Silver confirma la presencia de una nueva zona de oro y cobre en el proyecto El Quevar en Argentina.",
+        "capturado": "2026-10-05T14:04:31-05:00"
       }
     ]
   }
