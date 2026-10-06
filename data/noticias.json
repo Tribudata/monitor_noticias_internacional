@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-05T14:04:31-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-05T20:08:05-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "La venta masiva en el mercado de bonos beneficia al dólar",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+        "publicacion": "Mon, 05 Oct 2026 19:31:48 +0000",
+        "titulo_fuente": "The bond market sell-off is helping the dollar",
+        "capturado": "2026-10-05T20:08:05-05:00"
+      },
       {
         "titulo": "El mundo afronta una severa escasez de GNL",
         "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
@@ -30,13 +37,6 @@
         "publicacion": "Thu, 01 Oct 2026 09:05:52 +0000",
         "titulo_fuente": "Financial astrology is a serious business in India",
         "capturado": "2026-10-01T11:53:45-05:00"
-      },
-      {
-        "titulo": "Invertir para bebés implica dilemas financieros complejos",
-        "url": "https://www.economist.com/finance-and-economics/2026/09/29/investing-for-babies-involves-knotty-trade-offs",
-        "publicacion": "Tue, 29 Sep 2026 17:28:26 +0000",
-        "titulo_fuente": "Investing for babies involves knotty trade-offs",
-        "capturado": "2026-09-29T15:27:41-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Índices de EE. UU. suben con retornos del Tesoro en máximos de dos décadas y caída del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-171711215.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en un contexto en el que los rendimientos de los bonos del Tesoro alcanzan su nivel más alto en dos décadas y el precio del petróleo crudo cae.",
-        "capturado": "2026-10-05T14:04:31-05:00"
+        "titulo": "¿Podría esta aplicación de debates tipo TikTok resolver la falta de confianza en internet",
+        "url": "https://es.finance.yahoo.com/noticias/app-debates-estilo-tiktok-solucionar-230900782.html",
+        "titulo_fuente": "¿Puede esta app de debates al estilo TikTok solucionar el problema de confianza en Internet?",
+        "capturado": "2026-10-05T20:08:05-05:00"
       },
       {
-        "titulo": "Los fondos cotizados en bolsa suben y las acciones de EE. UU. registran ganancias después del mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171005207.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben y las acciones estadounidenses registran ganancias tras el mediodía.",
-        "capturado": "2026-10-05T14:04:31-05:00"
+        "titulo": "Las 3 principales altcoins para tener en cuenta durante la primera semana de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-1ra-223000821.html",
+        "titulo_fuente": "Top 3 altcoins a observar: 1ra semana de octubre de 2026",
+        "capturado": "2026-10-05T20:08:05-05:00"
       },
       {
-        "titulo": "La Bolsa de São Paulo registra fuerte alza luego de la victoria de Bolsonaro",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-s%C3%A3o-paulo-dispara-ventaja-162517270.html",
-        "titulo_fuente": "La Bolsa de São Paulo se dispara tras la victoria de Bolsonaro",
-        "capturado": "2026-10-05T14:04:31-05:00"
+        "titulo": "Las 8 principales señales de alerta sobre la IPO de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/top-8-banderas-rojas-ipo-214600603.html",
+        "titulo_fuente": "Top 8 banderas rojas sobre la IPO de Anthropic",
+        "capturado": "2026-10-05T20:08:05-05:00"
       },
       {
-        "titulo": "Cuando el crecimiento no es suficiente: vivienda e inflación, los retos de Sánchez para las elecciones",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-basta-vivienda-inflaci%C3%B3n-retos-161340908.html",
-        "titulo_fuente": "Cuando el crecimiento no basta: vivienda e inflación, los grandes retos de Sánchez de cara a las elecciones",
-        "capturado": "2026-10-05T14:04:31-05:00"
+        "titulo": "Actualización: Nasdaq compuesto logra récord y rendimientos de bonos del Tesoro tocan máximos de dos décadas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndice-compuesto-nasdaq-alcanza-205144064.html",
+        "titulo_fuente": "Actualización: El índice compuesto Nasdaq alcanza un máximo histórico, mientras que los rendimientos de los bonos del Tesoro tocan su nivel más alto en dos décadas.",
+        "capturado": "2026-10-05T20:08:05-05:00"
       },
       {
-        "titulo": "Argenta Silver confirma un nuevo sector de oro y cobre en el proyecto El Quevar en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/argenta-silver-confirma-presencia-zona-161601768.html",
-        "titulo_fuente": "Argenta Silver confirma la presencia de una nueva zona de oro y cobre en el proyecto El Quevar en Argentina.",
-        "capturado": "2026-10-05T14:04:31-05:00"
+        "titulo": "¿Está perdiendo EE. UU. su liderazgo en IA frente a China? La diferencia actual es del 3%",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-perdiendo-liderazgo-ia-frente-202300805.html",
+        "titulo_fuente": "¿EEUU está perdiendo su liderazgo en IA frente a China? La diferencia es ahora del 3%",
+        "capturado": "2026-10-05T20:08:05-05:00"
       }
     ]
   }
