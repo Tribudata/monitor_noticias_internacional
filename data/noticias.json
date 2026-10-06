@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-06T11:30:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-06T17:22:35-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Estrategia de inversionistas estadounidenses para reducir impuestos: registrar pérdidas",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
+        "publicacion": "Tue, 06 Oct 2026 17:41:20 +0000",
+        "titulo_fuente": "American investors’ trick to lower taxes: lose money",
+        "capturado": "2026-10-06T17:22:35-05:00"
+      },
       {
         "titulo": "La venta masiva en el mercado de bonos beneficia al dólar",
         "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
         "publicacion": "Thu, 01 Oct 2026 09:07:03 +0000",
         "titulo_fuente": "Research on grasping bureaucrats startles Singapore",
-        "capturado": "2026-10-01T11:53:45-05:00"
-      },
-      {
-        "titulo": "La astrología financiera representa un negocio serio en India",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/01/financial-astrology-is-a-serious-business-in-india",
-        "publicacion": "Thu, 01 Oct 2026 09:05:52 +0000",
-        "titulo_fuente": "Financial astrology is a serious business in India",
         "capturado": "2026-10-01T11:53:45-05:00"
       }
     ],
