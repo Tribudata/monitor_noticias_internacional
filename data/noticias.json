@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-07T07:43:52-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-07T14:45:03-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Por qué las acciones se convirtieron en la nueva finca raíz",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
+        "publicacion": "Wed, 07 Oct 2026 18:47:53 +0000",
+        "titulo_fuente": "Why shares are the new bricks and mortar",
+        "capturado": "2026-10-07T14:45:03-05:00"
+      },
       {
         "titulo": "Estrategia de inversionistas estadounidenses para reducir impuestos: registrar pérdidas",
         "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
@@ -30,16 +37,23 @@
         "publicacion": "Thu, 01 Oct 2026 09:08:56 +0000",
         "titulo_fuente": "Governments want to hold America’s shares more than its debts",
         "capturado": "2026-10-01T11:53:45-05:00"
-      },
-      {
-        "titulo": "Un estudio sobre burócratas codiciosos genera sorpresa en Singapur",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/01/research-on-grasping-bureaucrats-startles-singapore",
-        "publicacion": "Thu, 01 Oct 2026 09:07:03 +0000",
-        "titulo_fuente": "Research on grasping bureaucrats startles Singapore",
-        "capturado": "2026-10-01T11:53:45-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Fallece Maricarmen Abascal, de 87 años, cuyo desalojo desató protestas en España por la crisis de vivienda",
+        "url": "https://www.bbc.com/mundo/articles/c5djvg3nvj7yo",
+        "publicacion": "2026-10-07",
+        "titulo_fuente": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desahucio provocó una ola de protestas en España por la crisis de la vivienda",
+        "capturado": "2026-10-07T14:45:03-05:00"
+      },
+      {
+        "titulo": "Por qué están cerrando miles de empresas en Argentina, Duración 6,11",
+        "url": "https://www.bbc.com/mundo/articles/c60qkd7l21g2o",
+        "publicacion": "PT6M11S",
+        "titulo_fuente": "Por qué cierran miles de empresas en Argentina, Duración 6,11",
+        "capturado": "2026-10-07T14:45:03-05:00"
+      },
       {
         "titulo": "Millonarios de origen cubano en Miami se alistan para ir de inmediato si cae el gobierno de la isla",
         "url": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo",
@@ -60,52 +74,38 @@
         "publicacion": "2026-10-04",
         "titulo_fuente": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
         "capturado": "2026-10-04T02:48:18-05:00"
-      },
-      {
-        "titulo": "En imágenes: masivas manifestaciones en España contra la crisis habitacional",
-        "url": "https://www.bbc.com/mundo/articles/cjkgewp3p3qqo",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
-        "capturado": "2026-10-03T12:47:54-05:00"
-      },
-      {
-        "titulo": "Thomas Piketty: la tensión actual en Washington se debe a que EE.UU. está perdiendo el control del mundo",
-        "url": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o",
-        "publicacion": "2026-10-03",
-        "titulo_fuente": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
-        "capturado": "2026-10-03T02:38:23-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Ofensivas en Ormuz agitan los mercados: Morning Briefing Español",
-        "url": "https://es.finance.yahoo.com/noticias/ataques-ormuz-sacuden-mercados-morning-120219779.html",
-        "titulo_fuente": "Ataques en Ormuz sacuden mercados: Morning Briefing Español",
-        "capturado": "2026-10-07T07:43:52-05:00"
+        "titulo": "Trump afirma que la Junta de la Reserva Federal quiere que al país le vaya mal",
+        "url": "https://es.finance.yahoo.com/noticias/trump-junta-reserva-federal-gustar%C3%ADa-191529969.html",
+        "titulo_fuente": "Trump dice que a la Junta de la Reserva Federal le gustaría que al país le fuera mal",
+        "capturado": "2026-10-07T14:45:03-05:00"
       },
       {
-        "titulo": "¿Se repetirá el 10-10 en el mercado cripto? Las cifras dan la respuesta",
-        "url": "https://es.finance.yahoo.com/noticias/mercado-cripto-repetir%C3%A1-10-10-120200487.html",
-        "titulo_fuente": "¿El mercado cripto repetirá el 10-10? Los datos responden",
-        "capturado": "2026-10-07T07:43:52-05:00"
+        "titulo": "Esta acción de IA subió 600% en un año y superó a NVIDIA y Micron",
+        "url": "https://es.finance.yahoo.com/noticias/acci%C3%B3n-ia-subi%C3%B3-600-a%C3%B1o-185100771.html",
+        "titulo_fuente": "Esta acción de IA subió 600% en un año: superó a NVIDIA y Micron",
+        "capturado": "2026-10-07T14:45:03-05:00"
       },
       {
-        "titulo": "Futuros de acciones de EE. UU. caen antes de abrir mientras operadores esperan actas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-bajan-apertura-120146098.html",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado mientras los operadores esperan las actas de la Reserva Federal.",
-        "capturado": "2026-10-07T07:43:52-05:00"
+        "titulo": "Microsoft integra más inteligencia artificial a los computadores para competir con Apple",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-incorpora-inteligencia-artificial-pc-183437458.html",
+        "titulo_fuente": "Microsoft incorpora más inteligencia artificial a los PC en su desafío a Apple",
+        "capturado": "2026-10-07T14:45:03-05:00"
       },
       {
-        "titulo": "Acciones y bonos descienden mientras el petróleo sube por nuevos ataques en Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-bonos-caen-crudo-sube-114127835.html",
-        "titulo_fuente": "Acciones y bonos caen, crudo sube ante nuevos ataques en Ormuz",
-        "capturado": "2026-10-07T07:43:52-05:00"
+        "titulo": "Actas de la Fed prevén otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/actas-fed-se%C3%B1alan-subida-tipos-180521024.html",
+        "titulo_fuente": "Las minutas de la Fed señalan otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
+        "capturado": "2026-10-07T14:45:03-05:00"
       },
       {
-        "titulo": "Alemania frena la venta de una firma de logística a la compañía china Cosco",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-bloquea-venta-empresa-log%C3%ADstica-113830073.html",
-        "titulo_fuente": "Alemania bloquea la venta de una empresa de logística a la china Cosco",
-        "capturado": "2026-10-07T07:43:52-05:00"
+        "titulo": "Actualización: Índices de EE. UU. caen y bonos del Tesoro operan mixtos antes de actas de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175755120.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro presentan resultados mixtos antes de la publicación de las actas de la Reserva Federal.",
+        "capturado": "2026-10-07T14:45:03-05:00"
       }
     ]
   }
