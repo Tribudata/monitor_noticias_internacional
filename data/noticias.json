@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T12:12:50-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-10-08T17:58:09-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Lituania gestiona ante la UE la prohibición al transporte de cereales rusos",
-        "url": "https://es.finance.yahoo.com/noticias/lituania-busca-ue-proh%C3%ADba-tr%C3%A1nsito-164705447.html",
-        "titulo_fuente": "Lituania busca que la UE prohíba el tránsito de granos rusos",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "Méliuz suspende la compraventa de Bitcoin en su aplicación pero conserva sus reservas de BTC",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9liuz-cesa-compra-venta-bitcoin-213900172.html",
+        "titulo_fuente": "Méliuz cesa compra y venta de Bitcoin dentro de la app, pero mantiene su tesorería de BTC",
+        "capturado": "2026-10-08T17:58:09-05:00"
       },
       {
-        "titulo": "Elon Musk exalta a Jeff Bezos tras inversión de $28 mil millones en Blue Origin",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-elogia-jeff-bezos-161800118.html",
-        "titulo_fuente": "Elon Musk elogia a Jeff Bezos tras apuesta de $28 mil millones en Blue Origin",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "Actualización: Índices de EE. UU. caen por venta de semiconductores que hunde tecnología y alza del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210851765.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que la venta masiva de semiconductores hunde al sector tecnológico y el petróleo crudo se dispara.",
+        "capturado": "2026-10-08T17:58:09-05:00"
       },
       {
-        "titulo": "Ucrania señala que atacó la refinería de petróleo de mayor tamaño en Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/ucrania-atacado-refiner%C3%ADa-petr%C3%B3leo-rusia-160904214.html",
-        "titulo_fuente": "Ucrania dice haber atacado la mayor refinería de petróleo de Rusia",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "¿El gobierno de EE. UU. vendió 1.000 millones de dólares en Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-eeuu-vendi%C3%B3-1-mil-202100912.html",
+        "titulo_fuente": "¿El gobierno de EEUU vendió $1 mil millones en Bitcoin?",
+        "capturado": "2026-10-08T17:58:09-05:00"
       },
       {
-        "titulo": "EEUU aparta a Microsoft y otras grandes compañías tecnológicas del programa de residencia permanente",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-excluye-microsoft-empresas-tecnolog%C3%ADa-155240723.html",
-        "titulo_fuente": "EEUU excluye a Microsoft y otras grandes empresas de tecnología de programa de residencia permanente",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "Taylor Farms detendrá los envíos de lechuga mexicana debido a un brote de Cyclospora",
+        "url": "https://es.finance.yahoo.com/noticias/taylor-farms-suspender%C3%A1-env%C3%ADos-lechuga-195905825.html",
+        "titulo_fuente": "Taylor Farms suspenderá envíos de lechuga mexicana tras brote de Cyclospora",
+        "capturado": "2026-10-08T17:58:09-05:00"
       },
       {
-        "titulo": "Ucrania pretende usar puertos alemanes para la exportación de bienes agrícolas, señala ministro",
-        "url": "https://es.finance.yahoo.com/noticias/ucrania-usar-puertos-alemanes-exportar-152908088.html",
-        "titulo_fuente": "Ucrania quiere usar puertos alemanes para exportar productos agrícolas, dice ministro",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "La tasa hipotecaria a 30 años en EE. UU. asciende al 7,40% y podría afectar al sector vivienda",
+        "url": "https://es.finance.yahoo.com/noticias/tasa-hipotecaria-30-a%C3%B1os-eeuu-194251792.html",
+        "titulo_fuente": "La tasa hipotecaria a 30 años de EEUU sube al 7,40%, y probablemente golpee a la vivienda",
+        "capturado": "2026-10-08T17:58:09-05:00"
       }
     ]
   }
