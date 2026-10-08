@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T19:01:27-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-08T03:27:32-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Trump afirma que la Junta de la Reserva Federal quiere que al país le vaya mal",
-        "url": "https://es.finance.yahoo.com/noticias/trump-junta-reserva-federal-gustar%C3%ADa-191529969.html",
-        "titulo_fuente": "Trump dice que a la Junta de la Reserva Federal le gustaría que al país le fuera mal",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "Nueva norma de Cardano faculta a emisores para retener y decomisar tokens: ¿está a salvo su ADA?",
+        "url": "https://es.finance.yahoo.com/noticias/est%C3%A1ndar-cardano-permite-emisores-congelar-074800291.html",
+        "titulo_fuente": "Nuevo estándar de Cardano permite a emisores congelar y confiscar tokens: ¿Están seguros tu ADA?",
+        "capturado": "2026-10-08T03:27:32-05:00"
       },
       {
-        "titulo": "Esta acción de IA subió 600% en un año y superó a NVIDIA y Micron",
-        "url": "https://es.finance.yahoo.com/noticias/acci%C3%B3n-ia-subi%C3%B3-600-a%C3%B1o-185100771.html",
-        "titulo_fuente": "Esta acción de IA subió 600% en un año: superó a NVIDIA y Micron",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "La cotización del petróleo sube por el temor a una escalada militar en Irán",
+        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-temor-guerra-063715653.html",
+        "titulo_fuente": "El precio del petróleo sube ante el temor a una escalada bélica en Irán",
+        "capturado": "2026-10-08T03:27:32-05:00"
       },
       {
-        "titulo": "Microsoft integra más inteligencia artificial a los computadores para competir con Apple",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-incorpora-inteligencia-artificial-pc-183437458.html",
-        "titulo_fuente": "Microsoft incorpora más inteligencia artificial a los PC en su desafío a Apple",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "Bezos anuncia debut bursátil de Blue Origin luego de recaudar 10.000 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/bezos-revela-planes-salida-bolsa-063535120.html",
+        "titulo_fuente": "Bezos revela planes de salida a bolsa para Blue Origin tras captar 10.000 millones de dólares",
+        "capturado": "2026-10-08T03:27:32-05:00"
       },
       {
-        "titulo": "Actas de la Fed prevén otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/actas-fed-se%C3%B1alan-subida-tipos-180521024.html",
-        "titulo_fuente": "Las minutas de la Fed señalan otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "El tráfico por Ormuz cae a su nivel más bajo en más de dos meses tras ataques, según datos",
+        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1nsitos-ormuz-caen-m%C3%ADnimo-meses-061513478.html",
+        "titulo_fuente": "Los tránsitos por Ormuz caen a su mínimo en más de dos meses tras ataques, según datos",
+        "capturado": "2026-10-08T03:27:32-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. caen y bonos del Tesoro operan mixtos antes de actas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175755120.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro presentan resultados mixtos antes de la publicación de las actas de la Reserva Federal.",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "Washington y Moscú evalúan una potencial inversión de EEUU en los gasoductos Nord Stream",
+        "url": "https://es.finance.yahoo.com/noticias/washington-mosc%C3%BA-debaten-inversi%C3%B3n-eeuu-061356080.html",
+        "titulo_fuente": "Washington y Moscú debaten posible inversión de EEUU en los gasoductos Nord Stream",
+        "capturado": "2026-10-08T03:27:32-05:00"
       }
     ]
   }
