@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-10-08T03:27:32-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-08T12:12:50-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Gobiernos gestionan de manera inadecuada la crisis de asequibilidad",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+        "publicacion": "Thu, 08 Oct 2026 09:26:41 +0000",
+        "titulo_fuente": "Governments are mishandling the affordability crisis",
+        "capturado": "2026-10-08T12:12:50-05:00"
+      },
+      {
+        "titulo": "Las festividades en la India serán más costosas este año",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
+        "publicacion": "Thu, 08 Oct 2026 09:25:56 +0000",
+        "titulo_fuente": "Indian celebrations will be more expensive this year",
+        "capturado": "2026-10-08T12:12:50-05:00"
+      },
       {
         "titulo": "Por qué las acciones se convirtieron en la nueva finca raíz",
         "url": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
@@ -11,11 +25,11 @@
         "capturado": "2026-10-07T14:45:03-05:00"
       },
       {
-        "titulo": "Estrategia de inversionistas estadounidenses para reducir impuestos: registrar pérdidas",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/06/american-investors-trick-to-lower-taxes-lose-money",
+        "titulo": "En la búsqueda del alfa tributario",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha",
         "publicacion": "Tue, 06 Oct 2026 17:41:20 +0000",
-        "titulo_fuente": "American investors’ trick to lower taxes: lose money",
-        "capturado": "2026-10-06T17:22:35-05:00"
+        "titulo_fuente": "In search of tax alpha",
+        "capturado": "2026-10-08T12:12:50-05:00"
       },
       {
         "titulo": "La venta masiva en el mercado de bonos beneficia al dólar",
@@ -23,23 +37,16 @@
         "publicacion": "Mon, 05 Oct 2026 19:31:48 +0000",
         "titulo_fuente": "The bond market sell-off is helping the dollar",
         "capturado": "2026-10-05T20:08:05-05:00"
-      },
-      {
-        "titulo": "El mundo afronta una severa escasez de GNL",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
-        "publicacion": "Sun, 04 Oct 2026 17:11:12 +0000",
-        "titulo_fuente": "The world is facing an almighty LNG crunch",
-        "capturado": "2026-10-04T16:14:19-05:00"
-      },
-      {
-        "titulo": "Gobiernos prefieren mantener acciones de Estados Unidos antes que sus títulos de deuda",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
-        "publicacion": "Thu, 01 Oct 2026 09:08:56 +0000",
-        "titulo_fuente": "Governments want to hold America’s shares more than its debts",
-        "capturado": "2026-10-01T11:53:45-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "El origen de la alta deuda pública de Colombia y por qué De la Espriella tendrá que incrementarla",
+        "url": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo",
+        "publicacion": "2026-10-08",
+        "titulo_fuente": "Cómo llegó Colombia a tener una deuda pública tan alta (y por qué De la Espriella tendrá que aumentarla)",
+        "capturado": "2026-10-08T12:12:50-05:00"
+      },
       {
         "titulo": "Fallece Maricarmen Abascal, de 87 años, cuyo desalojo desató protestas en España por la crisis de vivienda",
         "url": "https://www.bbc.com/mundo/articles/c5djvg3nvj7yo",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
         "capturado": "2026-10-05T14:04:31-05:00"
-      },
-      {
-        "titulo": "Mitbestimmung: cómo Alemania exige a grandes firmas incluir empleados en decisiones y su impacto económico",
-        "url": "https://www.bbc.com/mundo/articles/cp3rxlq1nlno",
-        "publicacion": "2026-10-04",
-        "titulo_fuente": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
-        "capturado": "2026-10-04T02:48:18-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Nueva norma de Cardano faculta a emisores para retener y decomisar tokens: ¿está a salvo su ADA?",
-        "url": "https://es.finance.yahoo.com/noticias/est%C3%A1ndar-cardano-permite-emisores-congelar-074800291.html",
-        "titulo_fuente": "Nuevo estándar de Cardano permite a emisores congelar y confiscar tokens: ¿Están seguros tu ADA?",
-        "capturado": "2026-10-08T03:27:32-05:00"
+        "titulo": "Lituania gestiona ante la UE la prohibición al transporte de cereales rusos",
+        "url": "https://es.finance.yahoo.com/noticias/lituania-busca-ue-proh%C3%ADba-tr%C3%A1nsito-164705447.html",
+        "titulo_fuente": "Lituania busca que la UE prohíba el tránsito de granos rusos",
+        "capturado": "2026-10-08T12:12:50-05:00"
       },
       {
-        "titulo": "La cotización del petróleo sube por el temor a una escalada militar en Irán",
-        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-temor-guerra-063715653.html",
-        "titulo_fuente": "El precio del petróleo sube ante el temor a una escalada bélica en Irán",
-        "capturado": "2026-10-08T03:27:32-05:00"
+        "titulo": "Elon Musk exalta a Jeff Bezos tras inversión de $28 mil millones en Blue Origin",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-elogia-jeff-bezos-161800118.html",
+        "titulo_fuente": "Elon Musk elogia a Jeff Bezos tras apuesta de $28 mil millones en Blue Origin",
+        "capturado": "2026-10-08T12:12:50-05:00"
       },
       {
-        "titulo": "Bezos anuncia debut bursátil de Blue Origin luego de recaudar 10.000 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/bezos-revela-planes-salida-bolsa-063535120.html",
-        "titulo_fuente": "Bezos revela planes de salida a bolsa para Blue Origin tras captar 10.000 millones de dólares",
-        "capturado": "2026-10-08T03:27:32-05:00"
+        "titulo": "Ucrania señala que atacó la refinería de petróleo de mayor tamaño en Rusia",
+        "url": "https://es.finance.yahoo.com/noticias/ucrania-atacado-refiner%C3%ADa-petr%C3%B3leo-rusia-160904214.html",
+        "titulo_fuente": "Ucrania dice haber atacado la mayor refinería de petróleo de Rusia",
+        "capturado": "2026-10-08T12:12:50-05:00"
       },
       {
-        "titulo": "El tráfico por Ormuz cae a su nivel más bajo en más de dos meses tras ataques, según datos",
-        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1nsitos-ormuz-caen-m%C3%ADnimo-meses-061513478.html",
-        "titulo_fuente": "Los tránsitos por Ormuz caen a su mínimo en más de dos meses tras ataques, según datos",
-        "capturado": "2026-10-08T03:27:32-05:00"
+        "titulo": "EEUU aparta a Microsoft y otras grandes compañías tecnológicas del programa de residencia permanente",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-excluye-microsoft-empresas-tecnolog%C3%ADa-155240723.html",
+        "titulo_fuente": "EEUU excluye a Microsoft y otras grandes empresas de tecnología de programa de residencia permanente",
+        "capturado": "2026-10-08T12:12:50-05:00"
       },
       {
-        "titulo": "Washington y Moscú evalúan una potencial inversión de EEUU en los gasoductos Nord Stream",
-        "url": "https://es.finance.yahoo.com/noticias/washington-mosc%C3%BA-debaten-inversi%C3%B3n-eeuu-061356080.html",
-        "titulo_fuente": "Washington y Moscú debaten posible inversión de EEUU en los gasoductos Nord Stream",
-        "capturado": "2026-10-08T03:27:32-05:00"
+        "titulo": "Ucrania pretende usar puertos alemanes para la exportación de bienes agrícolas, señala ministro",
+        "url": "https://es.finance.yahoo.com/noticias/ucrania-usar-puertos-alemanes-exportar-152908088.html",
+        "titulo_fuente": "Ucrania quiere usar puertos alemanes para exportar productos agrícolas, dice ministro",
+        "capturado": "2026-10-08T12:12:50-05:00"
       }
     ]
   }
