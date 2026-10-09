@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T14:16:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-09T18:49:33-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Trump revela un pacto con Putin para que Rusia suministre miles de toneladas de diésel al mercado mundial",
+        "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
+        "capturado": "2026-10-09T18:49:33-05:00"
+      },
+      {
         "titulo": "La Casa Blanca señala a Microsoft por fraude con visas H1B para vincular profesionales del exterior",
         "url": "https://www.bbc.com/mundo/articles/cmx2q7jx3jn8o",
         "publicacion": "2026-10-09",
@@ -67,45 +74,38 @@
         "publicacion": "PT6M11S",
         "titulo_fuente": "Por qué cierran miles de empresas en Argentina, Duración 6,11",
         "capturado": "2026-10-07T14:45:03-05:00"
-      },
-      {
-        "titulo": "Millonarios de origen cubano en Miami se alistan para ir de inmediato si cae el gobierno de la isla",
-        "url": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "\"Estamos listos para ir de inmediato\": los millonarios de origen cubano que se están preparando en Miami para cuando caiga el gobierno de la isla",
-        "capturado": "2026-10-05T14:04:31-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Impulso eléctrico y expansión de marcas chinas: el Salón del Automóvil de París comienza el lunes",
-        "url": "https://es.finance.yahoo.com/noticias/electrificaci%C3%B3n-avance-marcas-chinas-sal%C3%B3n-123305225.html",
-        "titulo_fuente": "Electrificación y avance de las marcas chinas: el Salón del Automóvil de París arranca el lunes",
-        "capturado": "2026-10-09T07:38:51-05:00"
+        "titulo": "Colombia sella nueve acuerdos mineros con inversiones previstas por 16,8 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-firma-nueve-contratos-mineros-224048490.html",
+        "titulo_fuente": "Colombia firma nueve contratos mineros con inversiones proyectadas de 16,8 millones de dólares",
+        "capturado": "2026-10-09T18:49:33-05:00"
       },
       {
-        "titulo": "La firma logística alemana Rhenus proyecta hasta 14 terminales en el Corredor Medio",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-log%C3%ADstico-alem%C3%A1n-rhenus-prev%C3%A9-093641149.html",
-        "titulo_fuente": "El grupo logístico alemán Rhenus prevé hasta 14 terminales en el Corredor Medio",
-        "capturado": "2026-10-09T07:38:51-05:00"
+        "titulo": "Las tres causas principales de la fuerte caída del mercado cripto y qué se puede esperar ahora",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-razones-detr%C3%A1s-agresiva-221600774.html",
+        "titulo_fuente": "Top 3 razones detrás de la agresiva caída del mercado cripto: ¿Qué esperar ahora?",
+        "capturado": "2026-10-09T18:49:33-05:00"
       },
       {
-        "titulo": "OpenAI reduce en 20.000 millones su proyección de ingresos e impacta el mercado de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/openai-revisa-baja-20-000-120817967.html",
-        "titulo_fuente": "OpenAI revisa a la baja en 20.000 millones su estimación de ingresos y agita el mercado de la IA",
-        "capturado": "2026-10-09T07:38:51-05:00"
+        "titulo": "El ETF con mejor desempeño de 2026 sube un 5,000%: ¿qué viene después?",
+        "url": "https://es.finance.yahoo.com/noticias/etf-rendimiento-2026-sube-5-204800408.html",
+        "titulo_fuente": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
+        "capturado": "2026-10-09T18:49:33-05:00"
       },
       {
-        "titulo": "Al productor toscano de vinos Antinori le hurtan botellas valoradas en 6 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/viticultor-toscano-antinori-sufre-robo-120448761.html",
-        "titulo_fuente": "El viticultor toscano Antinori sufre robo de botellas por valor de 6 millones de dólares",
-        "capturado": "2026-10-09T07:38:51-05:00"
+        "titulo": "Actualización: Índices de EE. UU. suben por el avance de grandes tecnológicas en un repunte general",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-203657402.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
+        "capturado": "2026-10-09T18:49:33-05:00"
       },
       {
-        "titulo": "Futuros de acciones de EE. UU. suben antes de la apertura mientras operadores evalúan ingresos de OpenAI",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120124826.html",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las actualizaciones de ingresos de OpenAI.",
-        "capturado": "2026-10-09T07:38:51-05:00"
+        "titulo": "Índices de EE. UU. suben esta semana por repunte que compensa bajas tecnológicas; tasas del Tesoro elevadas",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-semana-202315256.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
+        "capturado": "2026-10-09T18:49:33-05:00"
       }
     ]
   }
