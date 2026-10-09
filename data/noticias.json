@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T17:58:09-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-08T23:46:20-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "La Casa Blanca señala a Microsoft por fraude con visas H1B para vincular profesionales del exterior",
+        "url": "https://www.bbc.com/mundo/articles/cmx2q7jx3jn8o",
+        "publicacion": "2026-10-09",
+        "titulo_fuente": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
+        "capturado": "2026-10-08T23:46:20-05:00"
+      },
+      {
         "titulo": "El origen de la alta deuda pública de Colombia y por qué De la Espriella tendrá que incrementarla",
         "url": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo",
         "publicacion": "2026-10-08",
@@ -67,16 +74,15 @@
         "publicacion": "2026-10-05",
         "titulo_fuente": "\"Estamos listos para ir de inmediato\": los millonarios de origen cubano que se están preparando en Miami para cuando caiga el gobierno de la isla",
         "capturado": "2026-10-05T14:04:31-05:00"
-      },
-      {
-        "titulo": "Qué falló en Nike, la gran compañía que perdió el liderazgo mundial en ropa deportiva",
-        "url": "https://www.bbc.com/mundo/articles/c6pwg8rxyq7go",
-        "publicacion": "2026-10-05",
-        "titulo_fuente": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
-        "capturado": "2026-10-05T14:04:31-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "¿Por qué Amazon restringe los agentes de compras con IA?",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-bloquea-agentes-compras-ia-231000410.html",
+        "titulo_fuente": "Amazon bloquea agentes de compras con IA: ¿Por qué?",
+        "capturado": "2026-10-08T23:46:20-05:00"
+      },
       {
         "titulo": "Méliuz suspende la compraventa de Bitcoin en su aplicación pero conserva sus reservas de BTC",
         "url": "https://es.finance.yahoo.com/noticias/m%C3%A9liuz-cesa-compra-venta-bitcoin-213900172.html",
@@ -99,12 +105,6 @@
         "titulo": "Taylor Farms detendrá los envíos de lechuga mexicana debido a un brote de Cyclospora",
         "url": "https://es.finance.yahoo.com/noticias/taylor-farms-suspender%C3%A1-env%C3%ADos-lechuga-195905825.html",
         "titulo_fuente": "Taylor Farms suspenderá envíos de lechuga mexicana tras brote de Cyclospora",
-        "capturado": "2026-10-08T17:58:09-05:00"
-      },
-      {
-        "titulo": "La tasa hipotecaria a 30 años en EE. UU. asciende al 7,40% y podría afectar al sector vivienda",
-        "url": "https://es.finance.yahoo.com/noticias/tasa-hipotecaria-30-a%C3%B1os-eeuu-194251792.html",
-        "titulo_fuente": "La tasa hipotecaria a 30 años de EEUU sube al 7,40%, y probablemente golpee a la vivienda",
         "capturado": "2026-10-08T17:58:09-05:00"
       }
     ]
