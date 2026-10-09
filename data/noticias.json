@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T23:46:20-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-09T07:38:51-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "¿Por qué Amazon restringe los agentes de compras con IA?",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-bloquea-agentes-compras-ia-231000410.html",
-        "titulo_fuente": "Amazon bloquea agentes de compras con IA: ¿Por qué?",
-        "capturado": "2026-10-08T23:46:20-05:00"
+        "titulo": "Impulso eléctrico y expansión de marcas chinas: el Salón del Automóvil de París comienza el lunes",
+        "url": "https://es.finance.yahoo.com/noticias/electrificaci%C3%B3n-avance-marcas-chinas-sal%C3%B3n-123305225.html",
+        "titulo_fuente": "Electrificación y avance de las marcas chinas: el Salón del Automóvil de París arranca el lunes",
+        "capturado": "2026-10-09T07:38:51-05:00"
       },
       {
-        "titulo": "Méliuz suspende la compraventa de Bitcoin en su aplicación pero conserva sus reservas de BTC",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9liuz-cesa-compra-venta-bitcoin-213900172.html",
-        "titulo_fuente": "Méliuz cesa compra y venta de Bitcoin dentro de la app, pero mantiene su tesorería de BTC",
-        "capturado": "2026-10-08T17:58:09-05:00"
+        "titulo": "La firma logística alemana Rhenus proyecta hasta 14 terminales en el Corredor Medio",
+        "url": "https://es.finance.yahoo.com/noticias/grupo-log%C3%ADstico-alem%C3%A1n-rhenus-prev%C3%A9-093641149.html",
+        "titulo_fuente": "El grupo logístico alemán Rhenus prevé hasta 14 terminales en el Corredor Medio",
+        "capturado": "2026-10-09T07:38:51-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. caen por venta de semiconductores que hunde tecnología y alza del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210851765.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que la venta masiva de semiconductores hunde al sector tecnológico y el petróleo crudo se dispara.",
-        "capturado": "2026-10-08T17:58:09-05:00"
+        "titulo": "OpenAI reduce en 20.000 millones su proyección de ingresos e impacta el mercado de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/openai-revisa-baja-20-000-120817967.html",
+        "titulo_fuente": "OpenAI revisa a la baja en 20.000 millones su estimación de ingresos y agita el mercado de la IA",
+        "capturado": "2026-10-09T07:38:51-05:00"
       },
       {
-        "titulo": "¿El gobierno de EE. UU. vendió 1.000 millones de dólares en Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-eeuu-vendi%C3%B3-1-mil-202100912.html",
-        "titulo_fuente": "¿El gobierno de EEUU vendió $1 mil millones en Bitcoin?",
-        "capturado": "2026-10-08T17:58:09-05:00"
+        "titulo": "Al productor toscano de vinos Antinori le hurtan botellas valoradas en 6 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/viticultor-toscano-antinori-sufre-robo-120448761.html",
+        "titulo_fuente": "El viticultor toscano Antinori sufre robo de botellas por valor de 6 millones de dólares",
+        "capturado": "2026-10-09T07:38:51-05:00"
       },
       {
-        "titulo": "Taylor Farms detendrá los envíos de lechuga mexicana debido a un brote de Cyclospora",
-        "url": "https://es.finance.yahoo.com/noticias/taylor-farms-suspender%C3%A1-env%C3%ADos-lechuga-195905825.html",
-        "titulo_fuente": "Taylor Farms suspenderá envíos de lechuga mexicana tras brote de Cyclospora",
-        "capturado": "2026-10-08T17:58:09-05:00"
+        "titulo": "Futuros de acciones de EE. UU. suben antes de la apertura mientras operadores evalúan ingresos de OpenAI",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120124826.html",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las actualizaciones de ingresos de OpenAI.",
+        "capturado": "2026-10-09T07:38:51-05:00"
       }
     ]
   }
