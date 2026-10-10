@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-09T18:49:33-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-09T23:31:52-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -90,6 +90,12 @@
         "capturado": "2026-10-09T18:49:33-05:00"
       },
       {
+        "titulo": "Panamá registra un sismo de gran intensidad que activa alertas de tsunami",
+        "url": "https://es.finance.yahoo.com/noticias/panam%C3%A1-sufre-fuerte-terremoto-desencadena-190624109.html",
+        "titulo_fuente": "Panamá sufre fuerte un terremoto que desencadena alertas de tsunami",
+        "capturado": "2026-10-09T23:31:52-05:00"
+      },
+      {
         "titulo": "El ETF con mejor desempeño de 2026 sube un 5,000%: ¿qué viene después?",
         "url": "https://es.finance.yahoo.com/noticias/etf-rendimiento-2026-sube-5-204800408.html",
         "titulo_fuente": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
@@ -99,12 +105,6 @@
         "titulo": "Actualización: Índices de EE. UU. suben por el avance de grandes tecnológicas en un repunte general",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-203657402.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
-        "capturado": "2026-10-09T18:49:33-05:00"
-      },
-      {
-        "titulo": "Índices de EE. UU. suben esta semana por repunte que compensa bajas tecnológicas; tasas del Tesoro elevadas",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-semana-202315256.html",
-        "titulo_fuente": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
         "capturado": "2026-10-09T18:49:33-05:00"
       }
     ]
