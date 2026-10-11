@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-11T11:09:16-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-11T16:32:39-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Salón Mundial del Automóvil: Macron respalda la prioridad de Europa ante China",
+        "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
+        "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
+        "capturado": "2026-10-11T16:32:39-05:00"
+      },
+      {
         "titulo": "China crea una red blockchain nacional: ¿de qué manera encaja Bitcoin?",
         "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
         "titulo_fuente": "China desarrolla red blockchain nacional: ¿Dónde encaja Bitcoin?",
@@ -99,12 +105,6 @@
         "titulo": "Bank of America advierte: inversionistas acumulan efectivo al ritmo más alto desde la pandemia",
         "url": "https://es.finance.yahoo.com/noticias/bank-of-america-alerta-inversores-052000652.html",
         "titulo_fuente": "Bank of America alerta: los inversores acumulan efectivo al mayor ritmo desde la pandemia",
-        "capturado": "2026-10-11T11:09:16-05:00"
-      },
-      {
-        "titulo": "Pautas para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios de ahorro",
-        "url": "https://es.finance.yahoo.com/noticias/claves-invertir-mercado-incierto-renta-050000465.html",
-        "titulo_fuente": "Claves para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios para el ahorro",
         "capturado": "2026-10-11T11:09:16-05:00"
       }
     ]
