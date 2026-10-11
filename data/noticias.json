@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-10T19:41:18-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T03:19:46-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "El director general de la ESA presenta un plan de 10.000 millones para viajar al espacio sin la NASA",
+        "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
+        "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
+        "capturado": "2026-10-11T03:19:46-05:00"
+      },
+      {
+        "titulo": "Exjefe de PlayStation prefiere juegos de 20 a 25 horas sobre los de 100 pues no todas son horas de calidad",
+        "url": "https://es-us.noticias.yahoo.com/exjefe-playstation-prefiere-juegos-20-185439218.html",
+        "titulo_fuente": "Exjefe de PlayStation prefiere los “buenos juegos de 20 a 25 horas” antes que los de 100, porque en esos “no todas son horas de calidad”",
+        "capturado": "2026-10-11T03:19:46-05:00"
+      },
+      {
+        "titulo": "Consiguen correr la interfaz de PlayStation 5 en PC, primer paso para usar juegos de PS5 sin la consola",
+        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-interfaz-playstation-5-153840656.html",
+        "titulo_fuente": "Logran ejecutar la interfaz de PlayStation 5 en un PC, el primer paso para jugar juegos de PS5 sin la consola",
+        "capturado": "2026-10-11T03:19:46-05:00"
+      },
+      {
         "titulo": "El Departamento de Justicia volverá a investigar a Binance: ¿habrá nuevas multas?",
         "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-investigar%C3%A1-binance-avecinan-150900811.html",
         "titulo_fuente": "Departamento de Justicia investigará de nuevo a Binance: ¿Se avecinan más multas?",
         "capturado": "2026-10-10T12:16:42-05:00"
       },
       {
-        "titulo": "Presidencia irlandesa de la UE busca recortar 8% la propuesta de presupuesto para 2028-2034",
-        "url": "https://es.finance.yahoo.com/noticias/presidencia-irlandesa-ue-recorte-8-130706346.html",
-        "titulo_fuente": "La presidencia irlandesa de la UE quiere un recorte del 8% al proyecto de presupuesto para 2028-2034",
-        "capturado": "2026-10-10T12:16:42-05:00"
-      },
-      {
-        "titulo": "Venezuela aprueba a Starlink y finaliza la era de disputa entre Musk y Maduro",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-luz-verde-starlink-cierra-124500117.html",
-        "titulo_fuente": "Venezuela da luz verde a Starlink y cierra la era de la disputa Musk-Maduro",
-        "capturado": "2026-10-10T12:16:42-05:00"
-      },
-      {
-        "titulo": "El suministro de XRP estuvo a punto de verse comprometido por un error de 10 años",
-        "url": "https://es.finance.yahoo.com/noticias/suministro-xrp-comprometido-bug-10-105800348.html",
-        "titulo_fuente": "El suministro de XRP casi fue comprometido por un bug de 10 años",
-        "capturado": "2026-10-10T12:16:42-05:00"
-      },
-      {
-        "titulo": "CLERHP proyecta ingresos de 700 millones de euros y 225 millones de EBITDA en su Plan de Negocio 2026–28",
-        "url": "https://es.finance.yahoo.com/noticias/clerhp-presenta-plan-negocio-2026-090000844.html",
-        "titulo_fuente": "CLERHP presenta su Plan de Negocio 2026–28 con una previsión de 700 millones de euros en ingresos y 225 millones de EBITDA.",
-        "capturado": "2026-10-10T12:16:42-05:00"
+        "titulo": "Gratis en navegador +20 clásicos PC/consola: Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
+        "url": "https://es-us.noticias.yahoo.com/juega-gratis-navegador-20-cl%C3%A1sicos-141215170.html",
+        "titulo_fuente": "Juega gratis en el navegador más de 20 clásicos de PC y consola, como Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
+        "capturado": "2026-10-11T03:19:46-05:00"
       }
     ]
   }
