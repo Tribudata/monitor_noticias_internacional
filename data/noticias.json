@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-11T03:19:46-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-11T11:09:16-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "No sienta compasión por los millennials: en la actualidad están disfrutando al máximo",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
+        "publicacion": "Sun, 11 Oct 2026 15:27:00 +0000",
+        "titulo_fuente": "Don’t feel sorry for millennials. They are living it up now",
+        "capturado": "2026-10-11T11:09:16-05:00"
+      },
       {
         "titulo": "Gobiernos gestionan de manera inadecuada la crisis de asequibilidad",
         "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
@@ -30,13 +37,6 @@
         "publicacion": "Tue, 06 Oct 2026 17:41:20 +0000",
         "titulo_fuente": "In search of tax alpha",
         "capturado": "2026-10-08T12:12:50-05:00"
-      },
-      {
-        "titulo": "La venta masiva en el mercado de bonos beneficia al dólar",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
-        "publicacion": "Mon, 05 Oct 2026 19:31:48 +0000",
-        "titulo_fuente": "The bond market sell-off is helping the dollar",
-        "capturado": "2026-10-05T20:08:05-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "China crea una red blockchain nacional: ¿de qué manera encaja Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
+        "titulo_fuente": "China desarrolla red blockchain nacional: ¿Dónde encaja Bitcoin?",
+        "capturado": "2026-10-11T11:09:16-05:00"
+      },
+      {
+        "titulo": "Bitget transforma el negocio institucional de criptomonedas: de esta manera",
+        "url": "https://es.finance.yahoo.com/noticias/bitget-cambia-negocios-institucionales-criptomonedas-090200841.html",
+        "titulo_fuente": "Bitget cambia los negocios institucionales de criptomonedas: así es como",
+        "capturado": "2026-10-11T11:09:16-05:00"
+      },
+      {
         "titulo": "El director general de la ESA presenta un plan de 10.000 millones para viajar al espacio sin la NASA",
         "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
         "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
         "capturado": "2026-10-11T03:19:46-05:00"
       },
       {
-        "titulo": "Exjefe de PlayStation prefiere juegos de 20 a 25 horas sobre los de 100 pues no todas son horas de calidad",
-        "url": "https://es-us.noticias.yahoo.com/exjefe-playstation-prefiere-juegos-20-185439218.html",
-        "titulo_fuente": "Exjefe de PlayStation prefiere los “buenos juegos de 20 a 25 horas” antes que los de 100, porque en esos “no todas son horas de calidad”",
-        "capturado": "2026-10-11T03:19:46-05:00"
+        "titulo": "Bank of America advierte: inversionistas acumulan efectivo al ritmo más alto desde la pandemia",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-alerta-inversores-052000652.html",
+        "titulo_fuente": "Bank of America alerta: los inversores acumulan efectivo al mayor ritmo desde la pandemia",
+        "capturado": "2026-10-11T11:09:16-05:00"
       },
       {
-        "titulo": "Consiguen correr la interfaz de PlayStation 5 en PC, primer paso para usar juegos de PS5 sin la consola",
-        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-interfaz-playstation-5-153840656.html",
-        "titulo_fuente": "Logran ejecutar la interfaz de PlayStation 5 en un PC, el primer paso para jugar juegos de PS5 sin la consola",
-        "capturado": "2026-10-11T03:19:46-05:00"
-      },
-      {
-        "titulo": "El Departamento de Justicia volverá a investigar a Binance: ¿habrá nuevas multas?",
-        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-investigar%C3%A1-binance-avecinan-150900811.html",
-        "titulo_fuente": "Departamento de Justicia investigará de nuevo a Binance: ¿Se avecinan más multas?",
-        "capturado": "2026-10-10T12:16:42-05:00"
-      },
-      {
-        "titulo": "Gratis en navegador +20 clásicos PC/consola: Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
-        "url": "https://es-us.noticias.yahoo.com/juega-gratis-navegador-20-cl%C3%A1sicos-141215170.html",
-        "titulo_fuente": "Juega gratis en el navegador más de 20 clásicos de PC y consola, como Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
-        "capturado": "2026-10-11T03:19:46-05:00"
+        "titulo": "Pautas para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios de ahorro",
+        "url": "https://es.finance.yahoo.com/noticias/claves-invertir-mercado-incierto-renta-050000465.html",
+        "titulo_fuente": "Claves para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios para el ahorro",
+        "capturado": "2026-10-11T11:09:16-05:00"
       }
     ]
   }
