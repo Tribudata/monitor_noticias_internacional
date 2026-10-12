@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-12T03:40:36-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-12T14:38:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Un Premio Nobel sobre cómo conservar la estabilidad de las economías",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel",
+        "publicacion": "Mon, 12 Oct 2026 16:29:06 +0000",
+        "titulo_fuente": "A Nobel prize for how to keep economies on an even keel",
+        "capturado": "2026-10-12T14:38:07-05:00"
+      },
       {
         "titulo": "No sienta compasión por los millennials: en la actualidad están disfrutando al máximo",
         "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
@@ -30,13 +37,6 @@
         "publicacion": "Wed, 07 Oct 2026 18:47:53 +0000",
         "titulo_fuente": "Why shares are the new bricks and mortar",
         "capturado": "2026-10-07T14:45:03-05:00"
-      },
-      {
-        "titulo": "En la búsqueda del alfa tributario",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/06/in-search-of-tax-alpha",
-        "publicacion": "Tue, 06 Oct 2026 17:41:20 +0000",
-        "titulo_fuente": "In search of tax alpha",
-        "capturado": "2026-10-08T12:12:50-05:00"
       }
     ],
     "BBC": [
