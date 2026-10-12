@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T16:32:39-05:00",
+  "actualizado": "2026-10-11T20:01:24-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "La firma chilena Codelco informa un derrumbe en la mina El Teniente con tres empleados afectados",
+        "url": "https://es.finance.yahoo.com/noticias/chilena-codelco-reporta-alud-mina-220433614.html",
+        "titulo_fuente": "Chilena Codelco reporta alud en mina El Teniente; tres trabajadores afectados",
+        "capturado": "2026-10-11T20:01:24-05:00"
+      },
+      {
         "titulo": "Salón Mundial del Automóvil: Macron respalda la prioridad de Europa ante China",
         "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
         "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
         "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
         "capturado": "2026-10-11T03:19:46-05:00"
-      },
-      {
-        "titulo": "Bank of America advierte: inversionistas acumulan efectivo al ritmo más alto desde la pandemia",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-alerta-inversores-052000652.html",
-        "titulo_fuente": "Bank of America alerta: los inversores acumulan efectivo al mayor ritmo desde la pandemia",
-        "capturado": "2026-10-11T11:09:16-05:00"
       }
     ]
   }
