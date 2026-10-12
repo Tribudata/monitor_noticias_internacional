@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-11T20:01:24-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-12T03:40:36-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La firma chilena Codelco informa un derrumbe en la mina El Teniente con tres empleados afectados",
-        "url": "https://es.finance.yahoo.com/noticias/chilena-codelco-reporta-alud-mina-220433614.html",
-        "titulo_fuente": "Chilena Codelco reporta alud en mina El Teniente; tres trabajadores afectados",
-        "capturado": "2026-10-11T20:01:24-05:00"
+        "titulo": "Georgieva del FMI pide a países miembros agilizar acciones frente a deuda e inflación",
+        "url": "https://es.finance.yahoo.com/noticias/georgieva-fmi-insta-pa%C3%ADses-miembros-083027844.html",
+        "titulo_fuente": "Georgieva, del FMI, insta a los países miembros a actuar con rapidez en materia de deuda e inflación",
+        "capturado": "2026-10-12T03:40:36-05:00"
       },
       {
-        "titulo": "Salón Mundial del Automóvil: Macron respalda la prioridad de Europa ante China",
-        "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
-        "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
-        "capturado": "2026-10-11T16:32:39-05:00"
+        "titulo": "Encuesta señala que el respaldo a Trump cae al 34% a tres semanas de las midterms",
+        "url": "https://es.finance.yahoo.com/noticias/aprobaci%C3%B3n-trump-cae-34-semanas-074900893.html",
+        "titulo_fuente": "Aprobación de Trump cae a 34% a tres semanas de las “midterms”, según encuesta",
+        "capturado": "2026-10-12T03:40:36-05:00"
       },
       {
-        "titulo": "China crea una red blockchain nacional: ¿de qué manera encaja Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
-        "titulo_fuente": "China desarrolla red blockchain nacional: ¿Dónde encaja Bitcoin?",
-        "capturado": "2026-10-11T11:09:16-05:00"
+        "titulo": "Ministro británico de Economía pedirá a las grandes economías contener su endeudamiento",
+        "url": "https://es.finance.yahoo.com/noticias/ministro-econom%C3%ADa-brit%C3%A1nico-pedir%C3%A1-econom%C3%ADas-070603238.html",
+        "titulo_fuente": "El ministro de Economía británico pedirá a las grandes economías que controlen su endeudamiento",
+        "capturado": "2026-10-12T03:40:36-05:00"
       },
       {
-        "titulo": "Bitget transforma el negocio institucional de criptomonedas: de esta manera",
-        "url": "https://es.finance.yahoo.com/noticias/bitget-cambia-negocios-institucionales-criptomonedas-090200841.html",
-        "titulo_fuente": "Bitget cambia los negocios institucionales de criptomonedas: así es como",
-        "capturado": "2026-10-11T11:09:16-05:00"
+        "titulo": "China y la UE afianzan la cooperación comercial en el sector de vehículos híbridos",
+        "url": "https://es.finance.yahoo.com/noticias/china-ue-refuerzan-cooperaci%C3%B3n-comercial-063319540.html",
+        "titulo_fuente": "China y la UE refuerzan la cooperación comercial en el sector de los vehículos híbridos",
+        "capturado": "2026-10-12T03:40:36-05:00"
       },
       {
-        "titulo": "El director general de la ESA presenta un plan de 10.000 millones para viajar al espacio sin la NASA",
-        "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
-        "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
-        "capturado": "2026-10-11T03:19:46-05:00"
+        "titulo": "Según el FMI la inversión en IA mantiene el crecimiento global alrededor del 3%",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-inversi%C3%B3n-ia-mantiene-crecimiento-062444838.html",
+        "titulo_fuente": "El FMI dice que la inversión en IA mantiene el crecimiento mundial en torno al 3%",
+        "capturado": "2026-10-12T03:40:36-05:00"
       }
     ]
   }
