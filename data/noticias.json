@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T03:53:58-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-15T09:40:56-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Georgieva del FMI pide a países miembros agilizar acciones frente a deuda e inflación",
-        "url": "https://es.finance.yahoo.com/noticias/georgieva-fmi-insta-pa%C3%ADses-miembros-083027844.html",
-        "titulo_fuente": "Georgieva, del FMI, insta a los países miembros a actuar con rapidez en materia de deuda e inflación",
-        "capturado": "2026-10-12T03:40:36-05:00"
+        "titulo": "Precios al productor en EEUU anotan en septiembre su alza más alta en cuatro años y medio",
+        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-registran-septiembre-142126907.html",
+        "titulo_fuente": "Precios al productor EEUU registran en septiembre su mayor avance en cuatro años y medio",
+        "capturado": "2026-10-15T09:40:56-05:00"
       },
       {
-        "titulo": "Encuesta señala que el respaldo a Trump cae al 34% a tres semanas de las midterms",
-        "url": "https://es.finance.yahoo.com/noticias/aprobaci%C3%B3n-trump-cae-34-semanas-074900893.html",
-        "titulo_fuente": "Aprobación de Trump cae a 34% a tres semanas de las “midterms”, según encuesta",
-        "capturado": "2026-10-12T03:40:36-05:00"
+        "titulo": "La baja de CoreWeave evidencia la deuda existente detrás del crecimiento de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-coreweave-pone-relieve-deuda-141805509.html",
+        "titulo_fuente": "La caída de CoreWeave pone de relieve la deuda que hay detrás del auge de la IA",
+        "capturado": "2026-10-15T09:40:56-05:00"
       },
       {
-        "titulo": "Ministro británico de Economía pedirá a las grandes economías contener su endeudamiento",
-        "url": "https://es.finance.yahoo.com/noticias/ministro-econom%C3%ADa-brit%C3%A1nico-pedir%C3%A1-econom%C3%ADas-070603238.html",
-        "titulo_fuente": "El ministro de Economía británico pedirá a las grandes economías que controlen su endeudamiento",
-        "capturado": "2026-10-12T03:40:36-05:00"
+        "titulo": "A.Latina anota un fuerte avance comercial en 2026 por auge de materias primas y nexo con Asia: CEPAL",
+        "url": "https://es.finance.yahoo.com/noticias/latina-registra-fuerte-auge-comercial-141523144.html",
+        "titulo_fuente": "A.Latina registra fuerte auge comercial en 2026 por 'boom' de materias primas y mayor vínculo con Asia: CEPAL",
+        "capturado": "2026-10-15T09:40:56-05:00"
       },
       {
-        "titulo": "China y la UE afianzan la cooperación comercial en el sector de vehículos híbridos",
-        "url": "https://es.finance.yahoo.com/noticias/china-ue-refuerzan-cooperaci%C3%B3n-comercial-063319540.html",
-        "titulo_fuente": "China y la UE refuerzan la cooperación comercial en el sector de los vehículos híbridos",
-        "capturado": "2026-10-12T03:40:36-05:00"
+        "titulo": "Noruega evalúa permitir que su fondo de 2 billones de euros invierta en armas nucleares",
+        "url": "https://es.finance.yahoo.com/noticias/noruega-abrir-fondo-2-billones-132514392.html",
+        "titulo_fuente": "Noruega plantea abrir su fondo de 2 billones de euros a invertir en armas nucleares",
+        "capturado": "2026-10-15T09:40:56-05:00"
       },
       {
-        "titulo": "Según el FMI la inversión en IA mantiene el crecimiento global alrededor del 3%",
-        "url": "https://es.finance.yahoo.com/noticias/fmi-inversi%C3%B3n-ia-mantiene-crecimiento-062444838.html",
-        "titulo_fuente": "El FMI dice que la inversión en IA mantiene el crecimiento mundial en torno al 3%",
-        "capturado": "2026-10-12T03:40:36-05:00"
+        "titulo": "El euro retrocede a nuevos mínimos ante el dólar y la libra a pesar de las alzas de tipos del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/euro-cae-m%C3%ADnimos-frente-d%C3%B3lar-122721799.html",
+        "titulo_fuente": "El euro cae a nuevos mínimos frente al dólar y la libra pese a las subidas de tipos del BCE",
+        "capturado": "2026-10-15T09:40:56-05:00"
       }
     ]
   }
