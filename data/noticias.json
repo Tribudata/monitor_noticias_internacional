@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-10-14T22:23:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-15T03:53:58-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El descenso del crédito de consumo representa otra señal de alerta para la economía de China",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+        "publicacion": "Wed, 14 Oct 2026 17:52:55 +0000",
+        "titulo_fuente": "Another warning sign for China’s economy: falling consumer credit",
+        "capturado": "2026-10-15T03:53:58-05:00"
+      },
+      {
+        "titulo": "La forma de perder dinero al realizar apuestas en contra de Europa",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
+        "publicacion": "Tue, 13 Oct 2026 17:01:13 +0000",
+        "titulo_fuente": "How to lose money betting against Europe",
+        "capturado": "2026-10-15T03:53:58-05:00"
+      },
       {
         "titulo": "Un Premio Nobel sobre cómo conservar la estabilidad de las economías",
         "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel",
@@ -23,20 +37,6 @@
         "publicacion": "Thu, 08 Oct 2026 09:26:41 +0000",
         "titulo_fuente": "Governments are mishandling the affordability crisis",
         "capturado": "2026-10-08T12:12:50-05:00"
-      },
-      {
-        "titulo": "Las festividades en la India serán más costosas este año",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
-        "publicacion": "Thu, 08 Oct 2026 09:25:56 +0000",
-        "titulo_fuente": "Indian celebrations will be more expensive this year",
-        "capturado": "2026-10-08T12:12:50-05:00"
-      },
-      {
-        "titulo": "Por qué las acciones se convirtieron en la nueva finca raíz",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
-        "publicacion": "Wed, 07 Oct 2026 18:47:53 +0000",
-        "titulo_fuente": "Why shares are the new bricks and mortar",
-        "capturado": "2026-10-07T14:45:03-05:00"
       }
     ],
     "BBC": [
