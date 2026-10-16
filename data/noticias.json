@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-10-15T17:54:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-15T22:19:36-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Cómo opera el banco más grande de Ucrania en medio de una zona de guerra",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
+        "publicacion": "Thu, 15 Oct 2026 09:34:30 +0000",
+        "titulo_fuente": "How Ukraine’s biggest bank is run in a war zone",
+        "capturado": "2026-10-15T22:19:36-05:00"
+      },
+      {
+        "titulo": "La escasez de azufre podría perjudicar a las minas y fincas en todo el mundo",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
+        "publicacion": "Thu, 15 Oct 2026 09:32:42 +0000",
+        "titulo_fuente": "A shortage of sulphur could hurt mines and farms everywhere",
+        "capturado": "2026-10-15T22:19:36-05:00"
+      },
       {
         "titulo": "El descenso del crédito de consumo representa otra señal de alerta para la economía de China",
         "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
@@ -18,25 +32,11 @@
         "capturado": "2026-10-15T03:53:58-05:00"
       },
       {
-        "titulo": "Un Premio Nobel sobre cómo conservar la estabilidad de las economías",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel",
+        "titulo": "Un Premio Nobel por explicar cómo mantener las economías en equilibrio",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-even-keel",
         "publicacion": "Mon, 12 Oct 2026 16:29:06 +0000",
-        "titulo_fuente": "A Nobel prize for how to keep economies on an even keel",
-        "capturado": "2026-10-12T14:38:07-05:00"
-      },
-      {
-        "titulo": "No sienta compasión por los millennials: en la actualidad están disfrutando al máximo",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
-        "publicacion": "Sun, 11 Oct 2026 15:27:00 +0000",
-        "titulo_fuente": "Don’t feel sorry for millennials. They are living it up now",
-        "capturado": "2026-10-11T11:09:16-05:00"
-      },
-      {
-        "titulo": "Gobiernos gestionan de manera inadecuada la crisis de asequibilidad",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
-        "publicacion": "Thu, 08 Oct 2026 09:26:41 +0000",
-        "titulo_fuente": "Governments are mishandling the affordability crisis",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo_fuente": "A Nobel prize for how to keep economies on even keel",
+        "capturado": "2026-10-15T22:19:36-05:00"
       }
     ],
     "BBC": [
