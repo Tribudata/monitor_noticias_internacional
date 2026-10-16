@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T22:19:36-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-16T03:46:16-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Precios al productor en EEUU anotan en septiembre su alza más alta en cuatro años y medio",
-        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-registran-septiembre-142126907.html",
-        "titulo_fuente": "Precios al productor EEUU registran en septiembre su mayor avance en cuatro años y medio",
-        "capturado": "2026-10-15T09:40:56-05:00"
+        "titulo": "Warsh de la Fed nota solidez económica en EE. UU. pero no anticipa decisiones sobre las tasas",
+        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-ve-fortaleza-econ%C3%B3mica-061948090.html",
+        "titulo_fuente": "Warsh, de la Fed, ve fortaleza económica en EEUU, pero no adelanta decisión sobre tasas",
+        "capturado": "2026-10-16T03:46:16-05:00"
       },
       {
-        "titulo": "La baja de CoreWeave evidencia la deuda existente detrás del crecimiento de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-coreweave-pone-relieve-deuda-141805509.html",
-        "titulo_fuente": "La caída de CoreWeave pone de relieve la deuda que hay detrás del auge de la IA",
-        "capturado": "2026-10-15T09:40:56-05:00"
+        "titulo": "Banga señala que el Banco Mundial busca quintuplicar la financiación de minerales críticos a 2030",
+        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-quintuplicar-financiaci%C3%B3n-minerales-081825568.html",
+        "titulo_fuente": "El Banco Mundial quiere quintuplicar la financiación para minerales críticos para 2030, dice Banga",
+        "capturado": "2026-10-16T03:46:16-05:00"
       },
       {
-        "titulo": "A.Latina anota un fuerte avance comercial en 2026 por auge de materias primas y nexo con Asia: CEPAL",
-        "url": "https://es.finance.yahoo.com/noticias/latina-registra-fuerte-auge-comercial-141523144.html",
-        "titulo_fuente": "A.Latina registra fuerte auge comercial en 2026 por 'boom' de materias primas y mayor vínculo con Asia: CEPAL",
-        "capturado": "2026-10-15T09:40:56-05:00"
+        "titulo": "La Bolsa de Indonesia retrocede 11% por propuesta de MSCI para bajar su condición de mercado emergente",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-indonesia-cae-11-propuesta-081455223.html",
+        "titulo_fuente": "La Bolsa de Indonesia cae un 11% tras propuesta de MSCI de degradar su estatus de mercado emergente",
+        "capturado": "2026-10-16T03:46:16-05:00"
       },
       {
-        "titulo": "Noruega evalúa permitir que su fondo de 2 billones de euros invierta en armas nucleares",
-        "url": "https://es.finance.yahoo.com/noticias/noruega-abrir-fondo-2-billones-132514392.html",
-        "titulo_fuente": "Noruega plantea abrir su fondo de 2 billones de euros a invertir en armas nucleares",
-        "capturado": "2026-10-15T09:40:56-05:00"
+        "titulo": "El nuevo Roadster de Tesla gira en el aire usando propulsores de SpaceX",
+        "url": "https://es.finance.yahoo.com/noticias/roadster-tesla-vuelta-aire-gracias-075516426.html",
+        "titulo_fuente": "El nuevo Roadster de Tesla se da la vuelta en el aire gracias a propulsores de SpaceX",
+        "capturado": "2026-10-16T03:46:16-05:00"
       },
       {
-        "titulo": "El euro retrocede a nuevos mínimos ante el dólar y la libra a pesar de las alzas de tipos del BCE",
-        "url": "https://es.finance.yahoo.com/noticias/euro-cae-m%C3%ADnimos-frente-d%C3%B3lar-122721799.html",
-        "titulo_fuente": "El euro cae a nuevos mínimos frente al dólar y la libra pese a las subidas de tipos del BCE",
-        "capturado": "2026-10-15T09:40:56-05:00"
+        "titulo": "El vicepresidente económico de Venezuela indica que Centerview mantiene la asesoría financiera del país",
+        "url": "https://es.finance.yahoo.com/noticias/vicepresidente-econ%C3%B3mico-venezuela-centerview-asesor-075441611.html",
+        "titulo_fuente": "El vicepresidente económico de Venezuela dice que Centerview sigue siendo el asesor financiero del país",
+        "capturado": "2026-10-16T03:46:16-05:00"
       }
     ]
   }
