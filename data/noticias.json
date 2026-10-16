@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-16T09:33:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T14:20:25-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "No solo es Commerzbank: inversionistas italianos adquieren empresas en Alemania",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+        "publicacion": "Fri, 16 Oct 2026 17:58:53 +0000",
+        "titulo_fuente": "It’s not just Commerzbank: Italians are eating up German business",
+        "capturado": "2026-10-16T14:20:25-05:00"
+      },
       {
         "titulo": "Cómo opera el banco más grande de Ucrania en medio de una zona de guerra",
         "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
@@ -30,50 +37,43 @@
         "publicacion": "Tue, 13 Oct 2026 17:01:13 +0000",
         "titulo_fuente": "How to lose money betting against Europe",
         "capturado": "2026-10-15T03:53:58-05:00"
-      },
-      {
-        "titulo": "Un Premio Nobel por explicar cómo mantener las economías en equilibrio",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-even-keel",
-        "publicacion": "Mon, 12 Oct 2026 16:29:06 +0000",
-        "titulo_fuente": "A Nobel prize for how to keep economies on even keel",
-        "capturado": "2026-10-15T22:19:36-05:00"
       }
     ],
     "BBC": [
       {
-        "titulo": "Trump revela un pacto con Putin para que Rusia suministre miles de toneladas de diésel al mercado mundial",
-        "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
-        "capturado": "2026-10-09T18:49:33-05:00"
+        "titulo": "Kyiv es el frente de combate: la nueva táctica de Putin para hacer invivibles las ciudades de Ucrania",
+        "url": "https://www.bbc.com/mundo/articles/c3lyl1ykqjv4o",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania",
+        "capturado": "2026-10-16T14:20:25-05:00"
       },
       {
-        "titulo": "La Casa Blanca señala a Microsoft por fraude con visas H1B para vincular profesionales del exterior",
-        "url": "https://www.bbc.com/mundo/articles/cmx2q7jx3jn8o",
-        "publicacion": "2026-10-09",
-        "titulo_fuente": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
-        "capturado": "2026-10-08T23:46:20-05:00"
+        "titulo": "Rancheros de Nebraska, clave bastión del presidente, dudan de haber dado su respaldo a Trump",
+        "url": "https://www.bbc.com/mundo/articles/cwm235lgg69lo",
+        "publicacion": "2026-10-15",
+        "titulo_fuente": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente",
+        "capturado": "2026-10-16T14:20:25-05:00"
       },
       {
-        "titulo": "El origen de la alta deuda pública de Colombia y por qué De la Espriella tendrá que incrementarla",
-        "url": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo",
-        "publicacion": "2026-10-08",
-        "titulo_fuente": "Cómo llegó Colombia a tener una deuda pública tan alta (y por qué De la Espriella tendrá que aumentarla)",
-        "capturado": "2026-10-08T12:12:50-05:00"
+        "titulo": "Razones del récord en exportaciones de EE.UU. a Cuba pese al mayor embargo del gobierno de Trump",
+        "url": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo",
+        "publicacion": "2026-10-14",
+        "titulo_fuente": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
+        "capturado": "2026-10-16T14:20:25-05:00"
       },
       {
-        "titulo": "Fallece Maricarmen Abascal, de 87 años, cuyo desalojo desató protestas en España por la crisis de vivienda",
-        "url": "https://www.bbc.com/mundo/articles/c5djvg3nvj7yo",
-        "publicacion": "2026-10-07",
-        "titulo_fuente": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desahucio provocó una ola de protestas en España por la crisis de la vivienda",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "No es posible negar el sesgo de género en los premios Nobel pues la estadística confirma que existe",
+        "url": "https://www.bbc.com/mundo/articles/cr1exnelj2vxo",
+        "publicacion": "2026-10-13",
+        "titulo_fuente": "\"No podemos seguir diciendo que no existe un sesgo de género en los premios Nobel, porque estadísticamente sí existe\"",
+        "capturado": "2026-10-16T14:20:25-05:00"
       },
       {
-        "titulo": "Por qué están cerrando miles de empresas en Argentina, Duración 6,11",
-        "url": "https://www.bbc.com/mundo/articles/c60qkd7l21g2o",
-        "publicacion": "PT6M11S",
-        "titulo_fuente": "Por qué cierran miles de empresas en Argentina, Duración 6,11",
-        "capturado": "2026-10-07T14:45:03-05:00"
+        "titulo": "Qué sucedió con la prueba de Bukele para hacer de El Salvador el país del bitcoin",
+        "url": "https://www.bbc.com/mundo/articles/c8ly0ewg93ddo",
+        "publicacion": "2026-10-12",
+        "titulo_fuente": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
+        "capturado": "2026-10-16T14:20:25-05:00"
       }
     ],
     "Yahoo": [
