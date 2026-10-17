@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-16T17:34:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-16T22:09:59-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "EE. UU. retira limitaciones a compañías aéreas mexicanas luego de conflicto aeronáutico",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-levanta-restricciones-aerol%C3%ADneas-mexicanas-000833379.html",
+        "titulo_fuente": "EEUU levanta restricciones a aerolíneas mexicanas tras disputa en sector aviación",
+        "capturado": "2026-10-16T22:09:59-05:00"
+      },
+      {
         "titulo": "Las 3 altcoins principales a seguir este fin de semana, 17 y 18 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-210100309.html",
         "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 17-18 de octubre",
@@ -99,12 +105,6 @@
         "titulo": "Google sobrepasa barrera clave en informática cuántica: ¿Qué implicación tiene sobre Bitcoin?",
         "url": "https://es.finance.yahoo.com/noticias/google-supera-obst%C3%A1culo-clave-computaci%C3%B3n-194600463.html",
         "titulo_fuente": "Google supera obstáculo clave en la computación cuántica: ¿Qué significa para Bitcoin?",
-        "capturado": "2026-10-16T17:34:01-05:00"
-      },
-      {
-        "titulo": "Vocera de prensa de la Casa Blanca abandona su cargo tras apenas cinco días",
-        "url": "https://es.finance.yahoo.com/noticias/secretaria-prensa-casa-blanca-deja-190234121.html",
-        "titulo_fuente": "Secretaria de prensa de la Casa Blanca deja cargo tras solo cinco días",
         "capturado": "2026-10-16T17:34:01-05:00"
       }
     ]
