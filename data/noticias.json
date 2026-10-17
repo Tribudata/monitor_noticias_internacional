@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T08:28:17-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-17T11:51:20-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Según analistas, emergen por todas partes señales de alza para Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
+        "titulo_fuente": "Señales alcistas de Bitcoin aparecen por todos lados, según analistas",
+        "capturado": "2026-10-17T11:51:20-05:00"
+      },
+      {
+        "titulo": "Exasesor de Ripple advierte que el reto más grande para XRP aún no llega",
+        "url": "https://es.finance.yahoo.com/noticias/prueba-xrp-venir-advierte-exasesor-130700155.html",
+        "titulo_fuente": "La mayor prueba para XRP aún está por venir, advierte exasesor de Ripple",
+        "capturado": "2026-10-17T11:51:20-05:00"
+      },
+      {
         "titulo": "La CNMV española alerta sobre 4 empresas de criptomonedas sin la licencia MiCA",
         "url": "https://es.finance.yahoo.com/noticias/cnmv-espa%C3%B1a-advierte-4-firmas-115307194.html",
         "titulo_fuente": "CNMV de España advierte sobre 4 firmas de criptomonedas sin licencia MiCA",
@@ -93,18 +105,6 @@
         "titulo": "Nuevo producto en USD de KuCoin otorga hasta 6% en stablecoins: ¿conviene utilizarlo?",
         "url": "https://es.finance.yahoo.com/noticias/activo-usd-kucoin-paga-6-084400918.html",
         "titulo_fuente": "Nuevo activo en USD de KuCoin paga hasta 6% en stablecoins: ¿Vale la pena usarlo?",
-        "capturado": "2026-10-17T08:28:17-05:00"
-      },
-      {
-        "titulo": "Pandora se expande y disminuye emisiones en Vietnam con la mayor planta de joyería fina",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
-        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
-        "capturado": "2026-10-17T03:16:55-05:00"
-      },
-      {
-        "titulo": "Los bonos rivalizan de nuevo con la Bolsa: ¿qué rendimiento debe dar una acción ante el riesgo?",
-        "url": "https://es.finance.yahoo.com/noticias/bonos-vuelven-competir-bolsa-rentabilidad-043000278.html",
-        "titulo_fuente": "Los bonos vuelven a competir con la Bolsa: ¿qué rentabilidad debe ofrecer ahora una acción para compensar el riesgo?",
         "capturado": "2026-10-17T08:28:17-05:00"
       }
     ]
