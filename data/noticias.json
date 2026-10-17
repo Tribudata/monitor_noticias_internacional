@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T11:51:20-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T15:11:44-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Cifras del ciclo ofrecen pistas sobre cuándo el valor de Bitcoin retornará a su récord histórico",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
+        "titulo_fuente": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
+        "capturado": "2026-10-17T15:11:44-05:00"
+      },
+      {
+        "titulo": "Vitalik Buterin expone las razones por las cuales la IA desplazaría a los mineros de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
+        "titulo_fuente": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
+        "capturado": "2026-10-17T15:11:44-05:00"
+      },
+      {
+        "titulo": "Un hallazgo de Claude sobre la NSA genera discusión acerca de si Satoshi erró con Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/satoshi-equivoc%C3%B3-bitcoin-hallazgo-claude-172900013.html",
+        "titulo_fuente": "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
+        "capturado": "2026-10-17T15:11:44-05:00"
+      },
+      {
         "titulo": "Según analistas, emergen por todas partes señales de alza para Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
         "titulo_fuente": "Señales alcistas de Bitcoin aparecen por todos lados, según analistas",
@@ -88,24 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/prueba-xrp-venir-advierte-exasesor-130700155.html",
         "titulo_fuente": "La mayor prueba para XRP aún está por venir, advierte exasesor de Ripple",
         "capturado": "2026-10-17T11:51:20-05:00"
-      },
-      {
-        "titulo": "La CNMV española alerta sobre 4 empresas de criptomonedas sin la licencia MiCA",
-        "url": "https://es.finance.yahoo.com/noticias/cnmv-espa%C3%B1a-advierte-4-firmas-115307194.html",
-        "titulo_fuente": "CNMV de España advierte sobre 4 firmas de criptomonedas sin licencia MiCA",
-        "capturado": "2026-10-17T08:28:17-05:00"
-      },
-      {
-        "titulo": "Raoul Pal posee Bitcoin, Solana y Ethereum, pero señala que uno está extremadamente subvalorado",
-        "url": "https://es.finance.yahoo.com/noticias/raoul-pal-bitcoin-solana-ethereum-105600979.html",
-        "titulo_fuente": "Raoul Pal tiene Bitcoin, Solana y Ethereum, pero dice que uno está extremadamente infravalorado",
-        "capturado": "2026-10-17T08:28:17-05:00"
-      },
-      {
-        "titulo": "Nuevo producto en USD de KuCoin otorga hasta 6% en stablecoins: ¿conviene utilizarlo?",
-        "url": "https://es.finance.yahoo.com/noticias/activo-usd-kucoin-paga-6-084400918.html",
-        "titulo_fuente": "Nuevo activo en USD de KuCoin paga hasta 6% en stablecoins: ¿Vale la pena usarlo?",
-        "capturado": "2026-10-17T08:28:17-05:00"
       }
     ]
   }
