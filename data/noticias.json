@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T15:11:44-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-17T18:46:06-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Afecta la IA el empleo juvenil? El FMI emite una advertencia de gran relevancia",
+        "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
+        "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
+        "capturado": "2026-10-17T18:46:06-05:00"
+      },
+      {
+        "titulo": "El colectivo cripto de Brasil ejerce presión sobre aspirantes a la presidencia previo al balotaje",
+        "url": "https://es.finance.yahoo.com/noticias/comunidad-cripto-brasil-presiona-candidatos-214400621.html",
+        "titulo_fuente": "Comunidad cripto de Brasil presiona a candidatos presidenciales antes de la segunda vuelta",
+        "capturado": "2026-10-17T18:46:06-05:00"
+      },
+      {
         "titulo": "Cifras del ciclo ofrecen pistas sobre cuándo el valor de Bitcoin retornará a su récord histórico",
         "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
         "titulo_fuente": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
@@ -94,18 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/satoshi-equivoc%C3%B3-bitcoin-hallazgo-claude-172900013.html",
         "titulo_fuente": "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
         "capturado": "2026-10-17T15:11:44-05:00"
-      },
-      {
-        "titulo": "Según analistas, emergen por todas partes señales de alza para Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
-        "titulo_fuente": "Señales alcistas de Bitcoin aparecen por todos lados, según analistas",
-        "capturado": "2026-10-17T11:51:20-05:00"
-      },
-      {
-        "titulo": "Exasesor de Ripple advierte que el reto más grande para XRP aún no llega",
-        "url": "https://es.finance.yahoo.com/noticias/prueba-xrp-venir-advierte-exasesor-130700155.html",
-        "titulo_fuente": "La mayor prueba para XRP aún está por venir, advierte exasesor de Ripple",
-        "capturado": "2026-10-17T11:51:20-05:00"
       }
     ]
   }
