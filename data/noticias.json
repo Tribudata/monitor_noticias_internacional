@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T22:09:59-05:00",
+  "actualizado": "2026-10-17T03:16:55-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Pandora se expande y disminuye emisiones en Vietnam con la mayor planta de joyería fina",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
+        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
+        "capturado": "2026-10-17T03:16:55-05:00"
+      },
+      {
         "titulo": "EE. UU. retira limitaciones a compañías aéreas mexicanas luego de conflicto aeronáutico",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-levanta-restricciones-aerol%C3%ADneas-mexicanas-000833379.html",
         "titulo_fuente": "EEUU levanta restricciones a aerolíneas mexicanas tras disputa en sector aviación",
@@ -99,12 +105,6 @@
         "titulo": "Índices de EE. UU. cerraron dispares esta semana: CoreWeave altera la IA y rota a sectores menos tecnológicos",
         "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-mostraron-resultados-202931194.html",
         "titulo_fuente": "Los índices bursátiles estadounidenses mostraron resultados mixtos esta semana, ya que CoreWeave sacude el comercio de IA y provoca una rotación hacia sectores menos tecnológicos.",
-        "capturado": "2026-10-16T17:34:01-05:00"
-      },
-      {
-        "titulo": "Google sobrepasa barrera clave en informática cuántica: ¿Qué implicación tiene sobre Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/google-supera-obst%C3%A1culo-clave-computaci%C3%B3n-194600463.html",
-        "titulo_fuente": "Google supera obstáculo clave en la computación cuántica: ¿Qué significa para Bitcoin?",
         "capturado": "2026-10-16T17:34:01-05:00"
       }
     ]
