@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T12:05:09-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-18T15:09:38-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Está preparado Bitcoin para las computadoras cuánticas? El nuevo plan de Coinbase lo revela",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-listo-computadoras-cu%C3%A1nticas-muestra-181400366.html",
+        "titulo_fuente": "¿Bitcoin está listo para las computadoras cuánticas? Lo que muestra el nuevo plan de Coinbase",
+        "capturado": "2026-10-18T15:09:38-05:00"
+      },
+      {
         "titulo": "Panorama semanal de Bitcoin y criptomonedas en España y América Latina al 18 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-162200209.html",
         "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre",
@@ -99,12 +105,6 @@
         "titulo": "Michael Burry proyecta un gran estallido en el mercado bursátil",
         "url": "https://es.finance.yahoo.com/noticias/michael-burry-prev%C3%A9-supervolc%C3%A1n-mercado-111800204.html",
         "titulo_fuente": "Michael Burry prevé un “supervolcán” en el mercado de acciones",
-        "capturado": "2026-10-18T08:46:42-05:00"
-      },
-      {
-        "titulo": "Jamie Dimon anticipa mayor peligro de turbulencia que Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/jamie-dimon-ve-riesgo-turbulencias-100014428.html",
-        "titulo_fuente": "Jamie Dimon ve más riesgo de turbulencias que Wall Street",
         "capturado": "2026-10-18T08:46:42-05:00"
       }
     ]
