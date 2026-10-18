@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T03:34:22-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-18T08:46:42-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Aporte económico de la provincia de Alberta a Canadá y efectos de su eventual independencia",
+        "url": "https://www.bbc.com/mundo/articles/c95yng8me7vmo",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
+        "capturado": "2026-10-18T08:46:42-05:00"
+      },
+      {
+        "titulo": "Tras perder mi cabello por quimioterapia ahora diseño pelucas usadas por las estrellas",
+        "url": "https://www.bbc.com/mundo/articles/cq5yngv748zko",
+        "publicacion": "2026-10-18",
+        "titulo_fuente": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño",
+        "capturado": "2026-10-18T08:46:42-05:00"
+      },
+      {
         "titulo": "Kyiv es el frente de combate: la nueva táctica de Putin para hacer invivibles las ciudades de Ucrania",
         "url": "https://www.bbc.com/mundo/articles/c3lyl1ykqjv4o",
         "publicacion": "2026-10-15",
@@ -60,23 +74,27 @@
         "publicacion": "2026-10-14",
         "titulo_fuente": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
         "capturado": "2026-10-16T14:20:25-05:00"
-      },
-      {
-        "titulo": "No es posible negar el sesgo de género en los premios Nobel pues la estadística confirma que existe",
-        "url": "https://www.bbc.com/mundo/articles/cr1exnelj2vxo",
-        "publicacion": "2026-10-13",
-        "titulo_fuente": "\"No podemos seguir diciendo que no existe un sesgo de género en los premios Nobel, porque estadísticamente sí existe\"",
-        "capturado": "2026-10-16T14:20:25-05:00"
-      },
-      {
-        "titulo": "Qué sucedió con la prueba de Bukele para hacer de El Salvador el país del bitcoin",
-        "url": "https://www.bbc.com/mundo/articles/c8ly0ewg93ddo",
-        "publicacion": "2026-10-12",
-        "titulo_fuente": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
-        "capturado": "2026-10-16T14:20:25-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Michael Burry proyecta un gran estallido en el mercado bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/michael-burry-prev%C3%A9-supervolc%C3%A1n-mercado-111800204.html",
+        "titulo_fuente": "Michael Burry prevé un “supervolcán” en el mercado de acciones",
+        "capturado": "2026-10-18T08:46:42-05:00"
+      },
+      {
+        "titulo": "Jamie Dimon anticipa mayor peligro de turbulencia que Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/jamie-dimon-ve-riesgo-turbulencias-100014428.html",
+        "titulo_fuente": "Jamie Dimon ve más riesgo de turbulencias que Wall Street",
+        "capturado": "2026-10-18T08:46:42-05:00"
+      },
+      {
+        "titulo": "Robert Kiyosaki emite una alerta que podría proteger tu porvenir financiero",
+        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-lanza-advertencia-salvar-085600193.html",
+        "titulo_fuente": "Robert Kiyosaki lanza advertencia que podría salvar tu futuro financiero",
+        "capturado": "2026-10-18T08:46:42-05:00"
+      },
       {
         "titulo": "1 de cada 8 personas en la UE no accede al ocio: ¿cuál país registra la peor situación?",
         "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
@@ -84,28 +102,10 @@
         "capturado": "2026-10-18T03:34:22-05:00"
       },
       {
-        "titulo": "¿Afecta la IA el empleo juvenil? El FMI emite una advertencia de gran relevancia",
-        "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
-        "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
-        "capturado": "2026-10-17T18:46:06-05:00"
-      },
-      {
-        "titulo": "El colectivo cripto de Brasil ejerce presión sobre aspirantes a la presidencia previo al balotaje",
-        "url": "https://es.finance.yahoo.com/noticias/comunidad-cripto-brasil-presiona-candidatos-214400621.html",
-        "titulo_fuente": "Comunidad cripto de Brasil presiona a candidatos presidenciales antes de la segunda vuelta",
-        "capturado": "2026-10-17T18:46:06-05:00"
-      },
-      {
-        "titulo": "Cifras del ciclo ofrecen pistas sobre cuándo el valor de Bitcoin retornará a su récord histórico",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
-        "titulo_fuente": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
-        "capturado": "2026-10-17T15:11:44-05:00"
-      },
-      {
-        "titulo": "Vitalik Buterin expone las razones por las cuales la IA desplazaría a los mineros de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
-        "titulo_fuente": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
-        "capturado": "2026-10-17T15:11:44-05:00"
+        "titulo": "Santander y Telefónica atentos a Brasil sondeos recientes aumentan la tensión previa a la segunda vuelta",
+        "url": "https://es.finance.yahoo.com/noticias/santander-telef%C3%B3nica-pendientes-brasil-encuestas-044000942.html",
+        "titulo_fuente": "Santander y Telefónica, pendientes de Brasil: las últimas encuestas elevan la tensión antes de la segunda vuelta electoral",
+        "capturado": "2026-10-18T08:46:42-05:00"
       }
     ]
   }
