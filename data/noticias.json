@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-18T08:46:42-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-18T12:05:09-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Panorama semanal de Bitcoin y criptomonedas en España y América Latina al 18 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-162200209.html",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre",
+        "capturado": "2026-10-18T12:05:09-05:00"
+      },
+      {
+        "titulo": "¿Bitcoin podría caer a $10,000? Analista de Bloomberg emite una dramática advertencia",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-desplomarse-10-000-analista-153144200.html",
+        "titulo_fuente": "¿Bitcoin podría desplomarse a $10,000? Analista de Bloomberg lanza una advertencia dramática",
+        "capturado": "2026-10-18T12:05:09-05:00"
+      },
+      {
+        "titulo": "BofA establece una nueva meta para la cotización del oro a finales de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/bofa-fija-objetivo-precio-oro-133900129.html",
+        "titulo_fuente": "BofA fija nuevo objetivo para el precio del oro para finales de 2026",
+        "capturado": "2026-10-18T12:05:09-05:00"
+      },
+      {
         "titulo": "Michael Burry proyecta un gran estallido en el mercado bursátil",
         "url": "https://es.finance.yahoo.com/noticias/michael-burry-prev%C3%A9-supervolc%C3%A1n-mercado-111800204.html",
         "titulo_fuente": "Michael Burry prevé un “supervolcán” en el mercado de acciones",
@@ -87,24 +105,6 @@
         "titulo": "Jamie Dimon anticipa mayor peligro de turbulencia que Wall Street",
         "url": "https://es.finance.yahoo.com/noticias/jamie-dimon-ve-riesgo-turbulencias-100014428.html",
         "titulo_fuente": "Jamie Dimon ve más riesgo de turbulencias que Wall Street",
-        "capturado": "2026-10-18T08:46:42-05:00"
-      },
-      {
-        "titulo": "Robert Kiyosaki emite una alerta que podría proteger tu porvenir financiero",
-        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-lanza-advertencia-salvar-085600193.html",
-        "titulo_fuente": "Robert Kiyosaki lanza advertencia que podría salvar tu futuro financiero",
-        "capturado": "2026-10-18T08:46:42-05:00"
-      },
-      {
-        "titulo": "1 de cada 8 personas en la UE no accede al ocio: ¿cuál país registra la peor situación?",
-        "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
-        "titulo_fuente": "El ocio es´tá fuera del alcance de 1 de cada 8 personas en la UE: ¿En qué país hay peor situación?",
-        "capturado": "2026-10-18T03:34:22-05:00"
-      },
-      {
-        "titulo": "Santander y Telefónica atentos a Brasil sondeos recientes aumentan la tensión previa a la segunda vuelta",
-        "url": "https://es.finance.yahoo.com/noticias/santander-telef%C3%B3nica-pendientes-brasil-encuestas-044000942.html",
-        "titulo_fuente": "Santander y Telefónica, pendientes de Brasil: las últimas encuestas elevan la tensión antes de la segunda vuelta electoral",
         "capturado": "2026-10-18T08:46:42-05:00"
       }
     ]
