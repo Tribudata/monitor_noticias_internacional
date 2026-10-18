@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-17T22:13:27-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-18T03:34:22-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "1 de cada 8 personas en la UE no accede al ocio: ¿cuál país registra la peor situación?",
+        "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
+        "titulo_fuente": "El ocio es´tá fuera del alcance de 1 de cada 8 personas en la UE: ¿En qué país hay peor situación?",
+        "capturado": "2026-10-18T03:34:22-05:00"
+      },
+      {
         "titulo": "¿Afecta la IA el empleo juvenil? El FMI emite una advertencia de gran relevancia",
         "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
         "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
@@ -99,12 +105,6 @@
         "titulo": "Vitalik Buterin expone las razones por las cuales la IA desplazaría a los mineros de Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
         "titulo_fuente": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
-        "capturado": "2026-10-17T15:11:44-05:00"
-      },
-      {
-        "titulo": "Un hallazgo de Claude sobre la NSA genera discusión acerca de si Satoshi erró con Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/satoshi-equivoc%C3%B3-bitcoin-hallazgo-claude-172900013.html",
-        "titulo_fuente": "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
         "capturado": "2026-10-17T15:11:44-05:00"
       }
     ]
