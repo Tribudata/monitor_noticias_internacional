@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T04:37:17-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-19T11:48:22-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La difícil realidad tras el 90 % de las transacciones con IA",
-        "url": "https://es.finance.yahoo.com/noticias/inc%C3%B3moda-verdad-detr%C3%A1s-90-pagos-224000638.html",
-        "titulo_fuente": "La incómoda verdad detrás del 90% de los pagos con IA",
-        "capturado": "2026-10-18T18:55:59-05:00"
+        "titulo": "En un predio avícola de pavos al sur de Brasil se identificó la afección de Newcastle",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-enfermedad-newcastle-granja-162618087.html",
+        "titulo_fuente": "Brasil detecta la enfermedad de Newcastle en una granja de pavos de un estado del sur",
+        "capturado": "2026-10-19T11:48:22-05:00"
       },
       {
-        "titulo": "Anthropic asignará un 5 % de participación a un reciente fondo de beneficio público",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-destinar%C3%A1-participaci%C3%B3n-5-fondo-204144959.html",
-        "titulo_fuente": "Anthropic destinará una participación del 5 % a un nuevo fondo de interés público",
-        "capturado": "2026-10-18T18:55:59-05:00"
+        "titulo": "Mercado cambiario de Argentina continúa bajo control con monitoreo del banco central",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-cambiaria-argentina-mantiene-controlada-153103976.html",
+        "titulo_fuente": "Plaza cambiaria argentina se mantiene controlada con seguimiento de banco central",
+        "capturado": "2026-10-19T11:48:22-05:00"
       },
       {
-        "titulo": "Rubio señala que Trump se tomará hasta 60 días para evaluar las sanciones a Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/rubio-afirma-trump-tardar%C3%A1-60-204010868.html",
-        "titulo_fuente": "Rubio afirma que Trump tardará hasta 60 días en valorar las sanciones a Rusia",
-        "capturado": "2026-10-18T18:55:59-05:00"
+        "titulo": "Crece la inquietud por liquidación de XRP al tiempo que un indicador clave alcanza pico del año",
+        "url": "https://es.finance.yahoo.com/noticias/aumentan-temores-venta-xrp-m%C3%A9trica-151100041.html",
+        "titulo_fuente": "Aumentan temores de venta de XRP mientras una métrica clave registra máximo anual",
+        "capturado": "2026-10-19T11:48:22-05:00"
       },
       {
-        "titulo": "La moneda estable de Cardano brinda un 50 % de APR, pero existe una salvedad",
-        "url": "https://es.finance.yahoo.com/noticias/stablecoin-cardano-ofrece-50-apr-202700392.html",
-        "titulo_fuente": "Stablecoin de Cardano ofrece 50% de APR, pero hay un detalle",
-        "capturado": "2026-10-18T18:55:59-05:00"
+        "titulo": "Musk ofrece títulos de SpaceX para todos los niños de EE.UU. en un obsequio de 10.700 millones",
+        "url": "https://es.finance.yahoo.com/noticias/musk-promete-acciones-spacex-ni%C3%B1o-144210884.html",
+        "titulo_fuente": "Musk promete acciones de SpaceX a cada niño de EE.UU.: el regalo ascendería a 10.700 millones",
+        "capturado": "2026-10-19T11:48:22-05:00"
       },
       {
-        "titulo": "¿Está preparado Bitcoin para las computadoras cuánticas? El nuevo plan de Coinbase lo revela",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-listo-computadoras-cu%C3%A1nticas-muestra-181400366.html",
-        "titulo_fuente": "¿Bitcoin está listo para las computadoras cuánticas? Lo que muestra el nuevo plan de Coinbase",
-        "capturado": "2026-10-18T15:09:38-05:00"
+        "titulo": "Francia cerca a una crisis de deuda mientras la fricción política activa alertas en mercados",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-empujar-italia-recesi%C3%B3n-142151981.html",
+        "titulo_fuente": "Francia, al borde de una crisis de deuda: la tensión política dispara las alarmas en los mercados",
+        "capturado": "2026-10-19T11:48:22-05:00"
       }
     ]
   }
