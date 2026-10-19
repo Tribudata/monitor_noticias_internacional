@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T11:48:22-05:00",
+  "actualizado": "2026-10-19T17:01:41-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "En un predio avícola de pavos al sur de Brasil se identificó la afección de Newcastle",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-enfermedad-newcastle-granja-162618087.html",
-        "titulo_fuente": "Brasil detecta la enfermedad de Newcastle en una granja de pavos de un estado del sur",
-        "capturado": "2026-10-19T11:48:22-05:00"
+        "titulo": "Reporte: Índices de EE. UU. cierran dispares con poco volumen; lideran consumo discrecional y tecnología",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-213108798.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos en medio de bajos volúmenes de negociación, con los sectores de consumo discrecional y tecnología liderando las listas sectoriales.",
+        "capturado": "2026-10-19T17:01:41-05:00"
       },
       {
-        "titulo": "Mercado cambiario de Argentina continúa bajo control con monitoreo del banco central",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-cambiaria-argentina-mantiene-controlada-153103976.html",
-        "titulo_fuente": "Plaza cambiaria argentina se mantiene controlada con seguimiento de banco central",
-        "capturado": "2026-10-19T11:48:22-05:00"
+        "titulo": "Swaps sin comisiones: la trampa que disminuye ingresos en billeteras pequeñas de criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/swaps-comisiones-trampa-reduce-ingresos-210700832.html",
+        "titulo_fuente": "Swaps sin comisiones: la trampa que reduce los ingresos de las wallets pequeñas de criptomonedas",
+        "capturado": "2026-10-19T17:01:41-05:00"
       },
       {
-        "titulo": "Crece la inquietud por liquidación de XRP al tiempo que un indicador clave alcanza pico del año",
-        "url": "https://es.finance.yahoo.com/noticias/aumentan-temores-venta-xrp-m%C3%A9trica-151100041.html",
-        "titulo_fuente": "Aumentan temores de venta de XRP mientras una métrica clave registra máximo anual",
-        "capturado": "2026-10-19T11:48:22-05:00"
+        "titulo": "Aeroméxico prevé rutas a EE. UU. tras la retirada de restricciones de Washington en Ciudad de México",
+        "url": "https://es.finance.yahoo.com/noticias/aerom%C3%A9xico-contempla-vuelos-eeuu-levantamiento-205418532.html",
+        "titulo_fuente": "Aeroméxico contempla nuevos vuelos a EEUU tras levantamiento restricciones de Washington en Ciudad México",
+        "capturado": "2026-10-19T17:01:41-05:00"
       },
       {
-        "titulo": "Musk ofrece títulos de SpaceX para todos los niños de EE.UU. en un obsequio de 10.700 millones",
-        "url": "https://es.finance.yahoo.com/noticias/musk-promete-acciones-spacex-ni%C3%B1o-144210884.html",
-        "titulo_fuente": "Musk promete acciones de SpaceX a cada niño de EE.UU.: el regalo ascendería a 10.700 millones",
-        "capturado": "2026-10-19T11:48:22-05:00"
+        "titulo": "Los videojuegos con IA darán paso a una nueva edad de oro, de acuerdo con Elon Musk",
+        "url": "https://es.finance.yahoo.com/noticias/gaming-ia-traer%C3%A1-edad-oro-204300506.html",
+        "titulo_fuente": "El gaming con IA traerá una “nueva edad de oro”, según Elon Musk",
+        "capturado": "2026-10-19T17:01:41-05:00"
       },
       {
-        "titulo": "Francia cerca a una crisis de deuda mientras la fricción política activa alertas en mercados",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-empujar-italia-recesi%C3%B3n-142151981.html",
-        "titulo_fuente": "Francia, al borde de una crisis de deuda: la tensión política dispara las alarmas en los mercados",
-        "capturado": "2026-10-19T11:48:22-05:00"
+        "titulo": "¿De qué manera un atacante desocupó 1,404 billeteras de Qubic sin vulnerar la blockchain?",
+        "url": "https://es.finance.yahoo.com/noticias/atacante-vaci%C3%B3-1-404-wallets-192000265.html",
+        "titulo_fuente": "¿Cómo un atacante vació 1,404 wallets de Qubic sin romper la blockchain?",
+        "capturado": "2026-10-19T17:01:41-05:00"
       }
     ]
   }
