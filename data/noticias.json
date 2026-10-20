@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-19T17:01:41-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-19T22:35:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Quién adquirirá los nuevos bonos del gobierno japonés por 120.000 millones de dólares?",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+        "publicacion": "Mon, 19 Oct 2026 18:11:37 +0000",
+        "titulo_fuente": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+        "capturado": "2026-10-19T22:35:58-05:00"
+      },
       {
         "titulo": "No solo es Commerzbank: inversionistas italianos adquieren empresas en Alemania",
         "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
         "publicacion": "Wed, 14 Oct 2026 17:52:55 +0000",
         "titulo_fuente": "Another warning sign for China’s economy: falling consumer credit",
-        "capturado": "2026-10-15T03:53:58-05:00"
-      },
-      {
-        "titulo": "La forma de perder dinero al realizar apuestas en contra de Europa",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
-        "publicacion": "Tue, 13 Oct 2026 17:01:13 +0000",
-        "titulo_fuente": "How to lose money betting against Europe",
         "capturado": "2026-10-15T03:53:58-05:00"
       }
     ],
