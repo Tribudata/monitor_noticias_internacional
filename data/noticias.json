@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-20T09:41:56-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-20T14:50:14-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El fallecido Perry Mehrling expuso la jerarquía del dinero",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+        "publicacion": "Tue, 20 Oct 2026 18:32:09 +0000",
+        "titulo_fuente": "The late Perry Mehrling explained the hierarchy of money",
+        "capturado": "2026-10-20T14:50:14-05:00"
+      },
       {
         "titulo": "¿Quién adquirirá los nuevos bonos del gobierno japonés por 120.000 millones de dólares?",
         "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
@@ -30,16 +37,16 @@
         "publicacion": "Thu, 15 Oct 2026 09:32:42 +0000",
         "titulo_fuente": "A shortage of sulphur could hurt mines and farms everywhere",
         "capturado": "2026-10-15T22:19:36-05:00"
-      },
-      {
-        "titulo": "El descenso del crédito de consumo representa otra señal de alerta para la economía de China",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
-        "publicacion": "Wed, 14 Oct 2026 17:52:55 +0000",
-        "titulo_fuente": "Another warning sign for China’s economy: falling consumer credit",
-        "capturado": "2026-10-15T03:53:58-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Análisis: los separatistas de Alberta reciben un gran golpe pero la tirantez con Canadá continuará",
+        "url": "https://www.bbc.com/mundo/articles/cxyvr6508relo",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
+        "capturado": "2026-10-20T14:50:14-05:00"
+      },
       {
         "titulo": "Razones de la crisis económica y el desempleo récord en Chile bajo la austeridad de Kast",
         "url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o",
@@ -67,13 +74,6 @@
         "publicacion": "2026-10-18",
         "titulo_fuente": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño",
         "capturado": "2026-10-18T08:46:42-05:00"
-      },
-      {
-        "titulo": "Kyiv es el frente de combate: la nueva táctica de Putin para hacer invivibles las ciudades de Ucrania",
-        "url": "https://www.bbc.com/mundo/articles/c3lyl1ykqjv4o",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania",
-        "capturado": "2026-10-16T14:20:25-05:00"
       }
     ],
     "Yahoo": [
