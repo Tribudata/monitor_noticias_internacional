@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T04:09:34-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-20T09:41:56-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Razones de la crisis económica y el desempleo récord en Chile bajo la austeridad de Kast",
+        "url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+        "capturado": "2026-10-20T09:41:56-05:00"
+      },
+      {
+        "titulo": "De Medellín a Ho Chi Minh: 5 ciudades en expansión que los viajeros no deberían perderse",
+        "url": "https://www.bbc.com/mundo/articles/c6n4ewzkn45go",
+        "publicacion": "2026-10-20",
+        "titulo_fuente": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
+        "capturado": "2026-10-20T09:41:56-05:00"
+      },
+      {
         "titulo": "Aporte económico de la provincia de Alberta a Canadá y efectos de su eventual independencia",
         "url": "https://www.bbc.com/mundo/articles/c95yng8me7vmo",
         "publicacion": "2026-10-18",
@@ -60,52 +74,38 @@
         "publicacion": "2026-10-15",
         "titulo_fuente": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania",
         "capturado": "2026-10-16T14:20:25-05:00"
-      },
-      {
-        "titulo": "Rancheros de Nebraska, clave bastión del presidente, dudan de haber dado su respaldo a Trump",
-        "url": "https://www.bbc.com/mundo/articles/cwm235lgg69lo",
-        "publicacion": "2026-10-15",
-        "titulo_fuente": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente",
-        "capturado": "2026-10-16T14:20:25-05:00"
-      },
-      {
-        "titulo": "Razones del récord en exportaciones de EE.UU. a Cuba pese al mayor embargo del gobierno de Trump",
-        "url": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo",
-        "publicacion": "2026-10-14",
-        "titulo_fuente": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
-        "capturado": "2026-10-16T14:20:25-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Francia pide a Vinted, Amazon y eBay retirar publicaciones de bienes hurtados en los disturbios",
-        "url": "https://es.finance.yahoo.com/noticias/francia-insta-plataformas-reventa-retirar-073121037.html",
-        "titulo_fuente": "Francia exige a Vinted, Amazon y eBay retirar anuncios de productos robados durante los disturbios",
-        "capturado": "2026-10-20T04:09:34-05:00"
+        "titulo": "Ventas pendientes de casas en EEUU caen a nivel mínimo histórico en septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-pendientes-eeuu-caen-141523903.html",
+        "titulo_fuente": "Ventas de viviendas pendientes en EEUU caen a un mínimo histórico en septiembre",
+        "capturado": "2026-10-20T09:41:56-05:00"
       },
       {
-        "titulo": "El petróleo sube a 110 dólares ante el miedo a nuevos ataques de Irán y los mercados bursátiles caen",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
-        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
-        "capturado": "2026-10-20T04:09:34-05:00"
+        "titulo": "Todo acerca del nuevo gravamen alemán a las bebidas azucaradas",
+        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
+        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
+        "capturado": "2026-10-20T09:41:56-05:00"
       },
       {
-        "titulo": "Títulos del Nasdaq caerían un 30% de suceder esto, advierte un especialista de WisdomTree",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-nasdaq-caer-30-ocurre-075200352.html",
-        "titulo_fuente": "Las acciones del Nasdaq podrían caer un 30% si esto ocurre, advierte experto de WisdomTree",
-        "capturado": "2026-10-20T04:09:34-05:00"
+        "titulo": "Goldman Sachs nombra 23 acciones defensivas para inversores inquietos por el sector de IA",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-nombra-23-acciones-132100989.html",
+        "titulo_fuente": "Goldman Sachs nombra 23 acciones defensivas para inversores preocupados por el sector de IA",
+        "capturado": "2026-10-20T09:41:56-05:00"
       },
       {
-        "titulo": "Accionistas de Nexfibre tildan de viciado el informe del regulador británico sobre el trato con Netomnia",
-        "url": "https://es.finance.yahoo.com/noticias/accionistas-nexfibre-afirman-informe-organismo-070731190.html",
-        "titulo_fuente": "Los accionistas de Nexfibre afirman que el informe del organismo regulador británico sobre el acuerdo con Netomnia está \"fundamentalmente viciado\".",
-        "capturado": "2026-10-20T04:09:34-05:00"
+        "titulo": "Caída en Google Cloud interrumpe servicios bancarios en Reino Unido",
+        "url": "https://es.finance.yahoo.com/noticias/apag%C3%B3n-google-cloud-interrumpe-servicios-125721453.html",
+        "titulo_fuente": "Apagón en Google Cloud interrumpe servicios bancarios en Reino Unido",
+        "capturado": "2026-10-20T09:41:56-05:00"
       },
       {
-        "titulo": "China incrementa las importaciones de soya estadounidense luego de la guerra comercial",
-        "url": "https://es.finance.yahoo.com/noticias/china-eleva-importaciones-soja-estadounidense-061125171.html",
-        "titulo_fuente": "China eleva las importaciones de soja estadounidense tras la guerra comercial",
-        "capturado": "2026-10-20T04:09:34-05:00"
+        "titulo": "Fondos cotizados en bolsa y futuros de renta variable caen el martes previo a abrir; IA baja y petróleo sube",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-130913747.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del mercado el martes, mientras que las acciones de IA retroceden y los precios del petróleo suben.",
+        "capturado": "2026-10-20T09:41:56-05:00"
       }
     ]
   }
