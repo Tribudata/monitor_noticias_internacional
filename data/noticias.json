@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-19T22:35:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-20T04:09:34-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Reporte: Índices de EE. UU. cierran dispares con poco volumen; lideran consumo discrecional y tecnología",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-213108798.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos en medio de bajos volúmenes de negociación, con los sectores de consumo discrecional y tecnología liderando las listas sectoriales.",
-        "capturado": "2026-10-19T17:01:41-05:00"
+        "titulo": "Francia pide a Vinted, Amazon y eBay retirar publicaciones de bienes hurtados en los disturbios",
+        "url": "https://es.finance.yahoo.com/noticias/francia-insta-plataformas-reventa-retirar-073121037.html",
+        "titulo_fuente": "Francia exige a Vinted, Amazon y eBay retirar anuncios de productos robados durante los disturbios",
+        "capturado": "2026-10-20T04:09:34-05:00"
       },
       {
-        "titulo": "Swaps sin comisiones: la trampa que disminuye ingresos en billeteras pequeñas de criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/swaps-comisiones-trampa-reduce-ingresos-210700832.html",
-        "titulo_fuente": "Swaps sin comisiones: la trampa que reduce los ingresos de las wallets pequeñas de criptomonedas",
-        "capturado": "2026-10-19T17:01:41-05:00"
+        "titulo": "El petróleo sube a 110 dólares ante el miedo a nuevos ataques de Irán y los mercados bursátiles caen",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
+        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
+        "capturado": "2026-10-20T04:09:34-05:00"
       },
       {
-        "titulo": "Aeroméxico prevé rutas a EE. UU. tras la retirada de restricciones de Washington en Ciudad de México",
-        "url": "https://es.finance.yahoo.com/noticias/aerom%C3%A9xico-contempla-vuelos-eeuu-levantamiento-205418532.html",
-        "titulo_fuente": "Aeroméxico contempla nuevos vuelos a EEUU tras levantamiento restricciones de Washington en Ciudad México",
-        "capturado": "2026-10-19T17:01:41-05:00"
+        "titulo": "Títulos del Nasdaq caerían un 30% de suceder esto, advierte un especialista de WisdomTree",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-nasdaq-caer-30-ocurre-075200352.html",
+        "titulo_fuente": "Las acciones del Nasdaq podrían caer un 30% si esto ocurre, advierte experto de WisdomTree",
+        "capturado": "2026-10-20T04:09:34-05:00"
       },
       {
-        "titulo": "Los videojuegos con IA darán paso a una nueva edad de oro, de acuerdo con Elon Musk",
-        "url": "https://es.finance.yahoo.com/noticias/gaming-ia-traer%C3%A1-edad-oro-204300506.html",
-        "titulo_fuente": "El gaming con IA traerá una “nueva edad de oro”, según Elon Musk",
-        "capturado": "2026-10-19T17:01:41-05:00"
+        "titulo": "Accionistas de Nexfibre tildan de viciado el informe del regulador británico sobre el trato con Netomnia",
+        "url": "https://es.finance.yahoo.com/noticias/accionistas-nexfibre-afirman-informe-organismo-070731190.html",
+        "titulo_fuente": "Los accionistas de Nexfibre afirman que el informe del organismo regulador británico sobre el acuerdo con Netomnia está \"fundamentalmente viciado\".",
+        "capturado": "2026-10-20T04:09:34-05:00"
       },
       {
-        "titulo": "¿De qué manera un atacante desocupó 1,404 billeteras de Qubic sin vulnerar la blockchain?",
-        "url": "https://es.finance.yahoo.com/noticias/atacante-vaci%C3%B3-1-404-wallets-192000265.html",
-        "titulo_fuente": "¿Cómo un atacante vació 1,404 wallets de Qubic sin romper la blockchain?",
-        "capturado": "2026-10-19T17:01:41-05:00"
+        "titulo": "China incrementa las importaciones de soya estadounidense luego de la guerra comercial",
+        "url": "https://es.finance.yahoo.com/noticias/china-eleva-importaciones-soja-estadounidense-061125171.html",
+        "titulo_fuente": "China eleva las importaciones de soja estadounidense tras la guerra comercial",
+        "capturado": "2026-10-20T04:09:34-05:00"
       }
     ]
   }
