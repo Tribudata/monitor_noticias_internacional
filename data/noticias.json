@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-20T22:29:12-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-21T04:08:35-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Qué implica el efecto bola de nieve de la deuda y su rol en la crisis económica que impulsa protestas en Francia",
+        "url": "https://www.bbc.com/mundo/articles/c65ynve23xj7o",
+        "publicacion": "2026-10-21",
+        "titulo_fuente": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
+        "capturado": "2026-10-21T04:08:35-05:00"
+      },
+      {
         "titulo": "Análisis: los separatistas de Alberta reciben un gran golpe pero la tirantez con Canadá continuará",
         "url": "https://www.bbc.com/mundo/articles/cxyvr6508relo",
         "publicacion": "2026-10-20",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-18",
         "titulo_fuente": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
         "capturado": "2026-10-18T08:46:42-05:00"
-      },
-      {
-        "titulo": "Tras perder mi cabello por quimioterapia ahora diseño pelucas usadas por las estrellas",
-        "url": "https://www.bbc.com/mundo/articles/cq5yngv748zko",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño",
-        "capturado": "2026-10-18T08:46:42-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Ventas pendientes de casas en EEUU caen a nivel mínimo histórico en septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-pendientes-eeuu-caen-141523903.html",
-        "titulo_fuente": "Ventas de viviendas pendientes en EEUU caen a un mínimo histórico en septiembre",
-        "capturado": "2026-10-20T09:41:56-05:00"
+        "titulo": "Aumento de inflación en Reino Unido supera proyecciones y refuerza previsión de alza en las tasas",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-reino-unido-sube-previsto-085539591.html",
+        "titulo_fuente": "La inflación en Reino Unido sube más de lo previsto y aviva expectativas de subida de tipos",
+        "capturado": "2026-10-21T04:08:35-05:00"
       },
       {
-        "titulo": "Todo acerca del nuevo gravamen alemán a las bebidas azucaradas",
-        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
-        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
-        "capturado": "2026-10-20T09:41:56-05:00"
+        "titulo": "Von der Leyen afirma que la UE planteará nuevos mecanismos para blindar el mercado",
+        "url": "https://es.finance.yahoo.com/noticias/ue-propondr%C3%A1-herramientas-proteger-mercado-082325325.html",
+        "titulo_fuente": "La UE propondrá nuevas herramientas para proteger el mercado, dice Von der Leyen",
+        "capturado": "2026-10-21T04:08:35-05:00"
       },
       {
-        "titulo": "Goldman Sachs nombra 23 acciones defensivas para inversores inquietos por el sector de IA",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-nombra-23-acciones-132100989.html",
-        "titulo_fuente": "Goldman Sachs nombra 23 acciones defensivas para inversores preocupados por el sector de IA",
-        "capturado": "2026-10-20T09:41:56-05:00"
+        "titulo": "China sugiere que rechazará las tarifas a tecnologías limpias durante la COP31",
+        "url": "https://es.finance.yahoo.com/noticias/china-amaga-oponerse-aranceles-tecnolog%C3%ADas-080813544.html",
+        "titulo_fuente": "China amaga con oponerse a los aranceles sobre tecnologías limpias en la COP31",
+        "capturado": "2026-10-21T04:08:35-05:00"
       },
       {
-        "titulo": "Caída en Google Cloud interrumpe servicios bancarios en Reino Unido",
-        "url": "https://es.finance.yahoo.com/noticias/apag%C3%B3n-google-cloud-interrumpe-servicios-125721453.html",
-        "titulo_fuente": "Apagón en Google Cloud interrumpe servicios bancarios en Reino Unido",
-        "capturado": "2026-10-20T09:41:56-05:00"
+        "titulo": "Elon Musk insinúa un valor de $1 billón para SpaceX y su unión con Tesla",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-insin%C3%BAa-hito-1-075300128.html",
+        "titulo_fuente": "Elon Musk insinúa hito de $1 billón para SpaceX y fusión con Tesla",
+        "capturado": "2026-10-21T04:08:35-05:00"
       },
       {
-        "titulo": "Fondos cotizados en bolsa y futuros de renta variable caen el martes previo a abrir; IA baja y petróleo sube",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-130913747.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del mercado el martes, mientras que las acciones de IA retroceden y los precios del petróleo suben.",
-        "capturado": "2026-10-20T09:41:56-05:00"
+        "titulo": "Trump plantea que las firmas deben abonar un dividendo a comunidades por centros de datos",
+        "url": "https://es.finance.yahoo.com/noticias/trump-empresas-deber%C3%ADan-pagar-dividendo-073737999.html",
+        "titulo_fuente": "Trump dice que las empresas deberían pagar un \"dividendo\" a las comunidades por los centros de datos",
+        "capturado": "2026-10-21T04:08:35-05:00"
       }
     ]
   }
