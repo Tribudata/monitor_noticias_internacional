@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T14:55:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-21T18:02:37-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La mayor planta de joyería fina: Pandora se expande y baja emisiones en Vietnam",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
-        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
-        "capturado": "2026-10-21T09:52:17-05:00"
+        "titulo": "Reporte: Bolsas de EEUU suben por SpaceX y el primer trimestre de Super Micro Computer, impulsando la IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213900057.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
+        "capturado": "2026-10-21T18:02:37-05:00"
       },
       {
-        "titulo": "Una vacante laboral revela que la firma china Moonshot AI funcionará en Singapur",
-        "url": "https://es.finance.yahoo.com/noticias/china-moonshot-ai-operar%C3%A1-singapur-135758816.html",
-        "titulo_fuente": "La china Moonshot AI operará en Singapur, muestra una oferta de empleo",
-        "capturado": "2026-10-21T09:52:17-05:00"
+        "titulo": "La inversión más sencilla en IA no es una acción de chips, afirma inversionista de riesgo",
+        "url": "https://es.finance.yahoo.com/noticias/apuesta-simple-ia-acci%C3%B3n-chips-213700862.html",
+        "titulo_fuente": "La apuesta más simple es IA no es una acción de chips, sugiere capitalista de riesgo",
+        "capturado": "2026-10-21T18:02:37-05:00"
       },
       {
-        "titulo": "Doctor Profit advierte sobre una intensa liquidación de Monero (XMR)",
-        "url": "https://es.finance.yahoo.com/noticias/doctor-profit-alerta-fuerte-liquidaci%C3%B3n-132400330.html",
-        "titulo_fuente": "Doctor Profit alerta sobre una fuerte liquidación de Monero (XMR)",
-        "capturado": "2026-10-21T09:52:17-05:00"
+        "titulo": "Facebook afronta sanción histórica de $25 mil millones: ¿Se desplomarán los títulos de Meta?",
+        "url": "https://es.finance.yahoo.com/noticias/facebook-recibe-multa-r%C3%A9cord-25-200300798.html",
+        "titulo_fuente": "Facebook recibe multa récord de $25 mil millones: ¿Se desplomarán las acciones de Meta?",
+        "capturado": "2026-10-21T18:02:37-05:00"
       },
       {
-        "titulo": "Musk contempla integrar Tesla y SpaceX luego del incremento en las ganancias de su firma espacial",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-respalda-fusi%C3%B3n-spacex-043844253.html",
-        "titulo_fuente": "Musk abre la puerta a fusionar Tesla y SpaceX tras el aumento de los beneficios de su empresa espacial",
-        "capturado": "2026-10-21T09:52:17-05:00"
+        "titulo": "Inversionistas aguardarán las elecciones en Venezuela, según el multimillonario británico Branson",
+        "url": "https://es.finance.yahoo.com/noticias/multimillonario-brit%C3%A1nico-branson-inversionistas-esperar%C3%A1n-194847107.html",
+        "titulo_fuente": "Multimillonario británico Branson dice que inversionistas esperarán a elecciones en Venezuela",
+        "capturado": "2026-10-21T18:02:37-05:00"
       },
       {
-        "titulo": "ETF y futuros de renta variable subieron el miércoles previo al mercado tras alza en IA y resultados",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131151945.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el miércoles antes de la apertura del mercado, impulsados por el repunte de las acciones de IA en medio de los resultados corporativos.",
-        "capturado": "2026-10-21T09:52:17-05:00"
+        "titulo": "Protestas en Francia: el sector turístico teme la pérdida de visitantes internacionales",
+        "url": "https://es.finance.yahoo.com/noticias/disturbios-francia-turismo-teme-perder-180648743.html",
+        "titulo_fuente": "Disturbios en Francia: el turismo teme perder a los visitantes extranjeros",
+        "capturado": "2026-10-21T18:02:37-05:00"
       }
     ]
   }
