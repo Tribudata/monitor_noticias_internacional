@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T09:52:17-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-21T14:55:47-05:00",
+  "nuevos_en_esta_corrida": 0,
   "secciones": {
     "Economist": [
       {
@@ -78,15 +78,15 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Una vacante laboral revela que la firma china Moonshot AI funcionará en Singapur",
-        "url": "https://es.finance.yahoo.com/noticias/china-moonshot-ai-operar%C3%A1-singapur-135758816.html",
-        "titulo_fuente": "La china Moonshot AI operará en Singapur, muestra una oferta de empleo",
-        "capturado": "2026-10-21T09:52:17-05:00"
-      },
-      {
         "titulo": "La mayor planta de joyería fina: Pandora se expande y baja emisiones en Vietnam",
         "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
         "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
+        "capturado": "2026-10-21T09:52:17-05:00"
+      },
+      {
+        "titulo": "Una vacante laboral revela que la firma china Moonshot AI funcionará en Singapur",
+        "url": "https://es.finance.yahoo.com/noticias/china-moonshot-ai-operar%C3%A1-singapur-135758816.html",
+        "titulo_fuente": "La china Moonshot AI operará en Singapur, muestra una oferta de empleo",
         "capturado": "2026-10-21T09:52:17-05:00"
       },
       {
