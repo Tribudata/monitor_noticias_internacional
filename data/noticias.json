@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T04:08:35-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-21T09:52:17-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Aumento de inflación en Reino Unido supera proyecciones y refuerza previsión de alza en las tasas",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-reino-unido-sube-previsto-085539591.html",
-        "titulo_fuente": "La inflación en Reino Unido sube más de lo previsto y aviva expectativas de subida de tipos",
-        "capturado": "2026-10-21T04:08:35-05:00"
+        "titulo": "Una vacante laboral revela que la firma china Moonshot AI funcionará en Singapur",
+        "url": "https://es.finance.yahoo.com/noticias/china-moonshot-ai-operar%C3%A1-singapur-135758816.html",
+        "titulo_fuente": "La china Moonshot AI operará en Singapur, muestra una oferta de empleo",
+        "capturado": "2026-10-21T09:52:17-05:00"
       },
       {
-        "titulo": "Von der Leyen afirma que la UE planteará nuevos mecanismos para blindar el mercado",
-        "url": "https://es.finance.yahoo.com/noticias/ue-propondr%C3%A1-herramientas-proteger-mercado-082325325.html",
-        "titulo_fuente": "La UE propondrá nuevas herramientas para proteger el mercado, dice Von der Leyen",
-        "capturado": "2026-10-21T04:08:35-05:00"
+        "titulo": "La mayor planta de joyería fina: Pandora se expande y baja emisiones en Vietnam",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
+        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
+        "capturado": "2026-10-21T09:52:17-05:00"
       },
       {
-        "titulo": "China sugiere que rechazará las tarifas a tecnologías limpias durante la COP31",
-        "url": "https://es.finance.yahoo.com/noticias/china-amaga-oponerse-aranceles-tecnolog%C3%ADas-080813544.html",
-        "titulo_fuente": "China amaga con oponerse a los aranceles sobre tecnologías limpias en la COP31",
-        "capturado": "2026-10-21T04:08:35-05:00"
+        "titulo": "Doctor Profit advierte sobre una intensa liquidación de Monero (XMR)",
+        "url": "https://es.finance.yahoo.com/noticias/doctor-profit-alerta-fuerte-liquidaci%C3%B3n-132400330.html",
+        "titulo_fuente": "Doctor Profit alerta sobre una fuerte liquidación de Monero (XMR)",
+        "capturado": "2026-10-21T09:52:17-05:00"
       },
       {
-        "titulo": "Elon Musk insinúa un valor de $1 billón para SpaceX y su unión con Tesla",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-insin%C3%BAa-hito-1-075300128.html",
-        "titulo_fuente": "Elon Musk insinúa hito de $1 billón para SpaceX y fusión con Tesla",
-        "capturado": "2026-10-21T04:08:35-05:00"
+        "titulo": "Musk contempla integrar Tesla y SpaceX luego del incremento en las ganancias de su firma espacial",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-respalda-fusi%C3%B3n-spacex-043844253.html",
+        "titulo_fuente": "Musk abre la puerta a fusionar Tesla y SpaceX tras el aumento de los beneficios de su empresa espacial",
+        "capturado": "2026-10-21T09:52:17-05:00"
       },
       {
-        "titulo": "Trump plantea que las firmas deben abonar un dividendo a comunidades por centros de datos",
-        "url": "https://es.finance.yahoo.com/noticias/trump-empresas-deber%C3%ADan-pagar-dividendo-073737999.html",
-        "titulo_fuente": "Trump dice que las empresas deberían pagar un \"dividendo\" a las comunidades por los centros de datos",
-        "capturado": "2026-10-21T04:08:35-05:00"
+        "titulo": "ETF y futuros de renta variable subieron el miércoles previo al mercado tras alza en IA y resultados",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131151945.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el miércoles antes de la apertura del mercado, impulsados por el repunte de las acciones de IA en medio de los resultados corporativos.",
+        "capturado": "2026-10-21T09:52:17-05:00"
       }
     ]
   }
