@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-22T09:52:59-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-22T14:45:40-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Sam Bankman-Fried asegura que ya saldó sus deudas",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+        "publicacion": "Thu, 22 Oct 2026 15:51:39 +0000",
+        "titulo_fuente": "Sam Bankman-Fried says he has paid his debts",
+        "capturado": "2026-10-22T14:45:40-05:00"
+      },
       {
         "titulo": "Una nueva investigación busca mitigar el impacto del choque de China",
         "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
@@ -30,13 +37,6 @@
         "publicacion": "Tue, 20 Oct 2026 18:32:09 +0000",
         "titulo_fuente": "The late Perry Mehrling explained the hierarchy of money",
         "capturado": "2026-10-20T14:50:14-05:00"
-      },
-      {
-        "titulo": "¿Quién adquirirá los nuevos bonos del gobierno japonés por 120.000 millones de dólares?",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
-        "publicacion": "Mon, 19 Oct 2026 18:11:37 +0000",
-        "titulo_fuente": "Who will buy $120bn-worth of fresh Japanese government bonds?",
-        "capturado": "2026-10-19T22:35:58-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Bolsa de Rosario sube a 23,8 millones de toneladas la estimación de cosecha de trigo en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/estimaci%C3%B3n-cosecha-trigo-argentina-sube-234118229.html",
-        "titulo_fuente": "Estimación cosecha trigo de Argentina sube a 23,8 million tons: Bolsa Rosario",
-        "capturado": "2026-10-21T22:28:20-05:00"
+        "titulo": "Bancos de EE. UU. identifican agentes de IA no permitidos operando en cuentas de usuarios",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-eeuu-detectan-agentes-ia-192900898.html",
+        "titulo_fuente": "Bancos de EEUU detectan agentes de IA no autorizados operando dentro de las cuentas de clientes",
+        "capturado": "2026-10-22T14:45:40-05:00"
       },
       {
-        "titulo": "¿Por qué motivo la Unión Europea solicita el cierre de ciertos sitios web?",
-        "url": "https://es.finance.yahoo.com/noticias/uni%C3%B3n-europea-insta-cierre-sitios-230600597.html",
-        "titulo_fuente": "¿Por qué la Unión Europea insta al cierre de algunos sitios web?",
-        "capturado": "2026-10-21T22:28:20-05:00"
+        "titulo": "Vacuna de Merck/Moderna disminuye más del 40% el riesgo de muerte o reaparición del melanoma",
+        "url": "https://es.finance.yahoo.com/noticias/vacuna-merck-moderna-reduce-40-192636460.html",
+        "titulo_fuente": "Vacuna de Merck/Moderna reduce más de 40% el riesgo de muerte o recurrencia de melanoma",
+        "capturado": "2026-10-22T14:45:40-05:00"
       },
       {
-        "titulo": "Exchange de criptomonedas advierte que una falla crítica en PHP compromete sitios de pago",
-        "url": "https://es.finance.yahoo.com/noticias/advertencia-exchange-criptomonedas-falla-cr%C3%ADtica-224238020.html",
-        "titulo_fuente": "Advertencia de exchange de criptomonedas: una falla crítica en PHP pone en riesgo los sitios de pago",
-        "capturado": "2026-10-21T22:28:20-05:00"
+        "titulo": "Heladas extemporáneas generan mermas de hasta 15% en campos de trigo de Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/heladas-tard%C3%ADas-causan-p%C3%A9rdidas-15-190639561.html",
+        "titulo_fuente": "Heladas tardías causan pérdidas de hasta 15% en áreas de trigo de Argentina",
+        "capturado": "2026-10-22T14:45:40-05:00"
       },
       {
-        "titulo": "Reporte: Bolsas de EEUU suben por SpaceX y el primer trimestre de Super Micro Computer, impulsando la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213900057.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
-        "capturado": "2026-10-21T18:02:37-05:00"
+        "titulo": "Transportadores del sur de Italia atenúan protestas tras la aprobación de ayudas del Gobierno",
+        "url": "https://es.finance.yahoo.com/noticias/camioneros-sur-italia-suavizan-protestas-185415841.html",
+        "titulo_fuente": "Camioneros del sur de Italia suavizan protestas tras aprobación de ayudas por parte del Gobierno",
+        "capturado": "2026-10-22T14:45:40-05:00"
       },
       {
-        "titulo": "La inversión más sencilla en IA no es una acción de chips, afirma inversionista de riesgo",
-        "url": "https://es.finance.yahoo.com/noticias/apuesta-simple-ia-acci%C3%B3n-chips-213700862.html",
-        "titulo_fuente": "La apuesta más simple es IA no es una acción de chips, sugiere capitalista de riesgo",
-        "capturado": "2026-10-21T18:02:37-05:00"
+        "titulo": "Fireblocks rechaza versiones sobre su adquisición por parte de Visa en $2.5 mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/fireblocks-niega-afirmaciones-compra-2-180600449.html",
+        "titulo_fuente": "Fireblocks niega afirmaciones sobre compra por $2.5 mil millones por parte de Visa",
+        "capturado": "2026-10-22T14:45:40-05:00"
       }
     ]
   }
