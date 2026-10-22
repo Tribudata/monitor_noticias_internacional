@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-21T18:02:37-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-21T22:28:20-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Bolsa de Rosario sube a 23,8 millones de toneladas la estimación de cosecha de trigo en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/estimaci%C3%B3n-cosecha-trigo-argentina-sube-234118229.html",
+        "titulo_fuente": "Estimación cosecha trigo de Argentina sube a 23,8 million tons: Bolsa Rosario",
+        "capturado": "2026-10-21T22:28:20-05:00"
+      },
+      {
+        "titulo": "¿Por qué motivo la Unión Europea solicita el cierre de ciertos sitios web?",
+        "url": "https://es.finance.yahoo.com/noticias/uni%C3%B3n-europea-insta-cierre-sitios-230600597.html",
+        "titulo_fuente": "¿Por qué la Unión Europea insta al cierre de algunos sitios web?",
+        "capturado": "2026-10-21T22:28:20-05:00"
+      },
+      {
+        "titulo": "Exchange de criptomonedas advierte que una falla crítica en PHP compromete sitios de pago",
+        "url": "https://es.finance.yahoo.com/noticias/advertencia-exchange-criptomonedas-falla-cr%C3%ADtica-224238020.html",
+        "titulo_fuente": "Advertencia de exchange de criptomonedas: una falla crítica en PHP pone en riesgo los sitios de pago",
+        "capturado": "2026-10-21T22:28:20-05:00"
+      },
+      {
         "titulo": "Reporte: Bolsas de EEUU suben por SpaceX y el primer trimestre de Super Micro Computer, impulsando la IA",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213900057.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
@@ -87,24 +105,6 @@
         "titulo": "La inversión más sencilla en IA no es una acción de chips, afirma inversionista de riesgo",
         "url": "https://es.finance.yahoo.com/noticias/apuesta-simple-ia-acci%C3%B3n-chips-213700862.html",
         "titulo_fuente": "La apuesta más simple es IA no es una acción de chips, sugiere capitalista de riesgo",
-        "capturado": "2026-10-21T18:02:37-05:00"
-      },
-      {
-        "titulo": "Facebook afronta sanción histórica de $25 mil millones: ¿Se desplomarán los títulos de Meta?",
-        "url": "https://es.finance.yahoo.com/noticias/facebook-recibe-multa-r%C3%A9cord-25-200300798.html",
-        "titulo_fuente": "Facebook recibe multa récord de $25 mil millones: ¿Se desplomarán las acciones de Meta?",
-        "capturado": "2026-10-21T18:02:37-05:00"
-      },
-      {
-        "titulo": "Inversionistas aguardarán las elecciones en Venezuela, según el multimillonario británico Branson",
-        "url": "https://es.finance.yahoo.com/noticias/multimillonario-brit%C3%A1nico-branson-inversionistas-esperar%C3%A1n-194847107.html",
-        "titulo_fuente": "Multimillonario británico Branson dice que inversionistas esperarán a elecciones en Venezuela",
-        "capturado": "2026-10-21T18:02:37-05:00"
-      },
-      {
-        "titulo": "Protestas en Francia: el sector turístico teme la pérdida de visitantes internacionales",
-        "url": "https://es.finance.yahoo.com/noticias/disturbios-francia-turismo-teme-perder-180648743.html",
-        "titulo_fuente": "Disturbios en Francia: el turismo teme perder a los visitantes extranjeros",
         "capturado": "2026-10-21T18:02:37-05:00"
       }
     ]
