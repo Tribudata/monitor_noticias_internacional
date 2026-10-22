@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-10-22T04:11:09-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-22T09:52:59-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Una nueva investigación busca mitigar el impacto del choque de China",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+        "publicacion": "Thu, 22 Oct 2026 09:12:40 +0000",
+        "titulo_fuente": "New research tries to defuse the “China shock”",
+        "capturado": "2026-10-22T09:52:59-05:00"
+      },
+      {
+        "titulo": "La atípica economía de Brasil necesita una reforma de fondo",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+        "publicacion": "Thu, 22 Oct 2026 09:11:38 +0000",
+        "titulo_fuente": "Brazil’s weird economy needs serious reform",
+        "capturado": "2026-10-22T09:52:59-05:00"
+      },
+      {
+        "titulo": "La capacidad de cómputo para IA es el nuevo petróleo y requiere un nuevo mercado",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+        "publicacion": "Thu, 22 Oct 2026 09:07:29 +0000",
+        "titulo_fuente": "AI compute is the new oil—and needs a new market",
+        "capturado": "2026-10-22T09:52:59-05:00"
+      },
       {
         "titulo": "El fallecido Perry Mehrling expuso la jerarquía del dinero",
         "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
@@ -16,30 +37,16 @@
         "publicacion": "Mon, 19 Oct 2026 18:11:37 +0000",
         "titulo_fuente": "Who will buy $120bn-worth of fresh Japanese government bonds?",
         "capturado": "2026-10-19T22:35:58-05:00"
-      },
-      {
-        "titulo": "No solo es Commerzbank: inversionistas italianos adquieren empresas en Alemania",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
-        "publicacion": "Fri, 16 Oct 2026 17:58:53 +0000",
-        "titulo_fuente": "It’s not just Commerzbank: Italians are eating up German business",
-        "capturado": "2026-10-16T14:20:25-05:00"
-      },
-      {
-        "titulo": "Cómo opera el banco más grande de Ucrania en medio de una zona de guerra",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
-        "publicacion": "Thu, 15 Oct 2026 09:34:30 +0000",
-        "titulo_fuente": "How Ukraine’s biggest bank is run in a war zone",
-        "capturado": "2026-10-15T22:19:36-05:00"
-      },
-      {
-        "titulo": "La escasez de azufre podría perjudicar a las minas y fincas en todo el mundo",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
-        "publicacion": "Thu, 15 Oct 2026 09:32:42 +0000",
-        "titulo_fuente": "A shortage of sulphur could hurt mines and farms everywhere",
-        "capturado": "2026-10-15T22:19:36-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Balance de la prueba de Bukele para transformar a El Salvador en la nación del bitcoin, Duración 6,57",
+        "url": "https://www.bbc.com/mundo/articles/cqn49jp9p1k0o",
+        "publicacion": "PT6M57S",
+        "titulo_fuente": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\", Duración 6,57",
+        "capturado": "2026-10-22T09:52:59-05:00"
+      },
       {
         "titulo": "Qué implica el efecto bola de nieve de la deuda y su rol en la crisis económica que impulsa protestas en Francia",
         "url": "https://www.bbc.com/mundo/articles/c65ynve23xj7o",
@@ -67,13 +74,6 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
         "capturado": "2026-10-20T09:41:56-05:00"
-      },
-      {
-        "titulo": "Aporte económico de la provincia de Alberta a Canadá y efectos de su eventual independencia",
-        "url": "https://www.bbc.com/mundo/articles/c95yng8me7vmo",
-        "publicacion": "2026-10-18",
-        "titulo_fuente": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
-        "capturado": "2026-10-18T08:46:42-05:00"
       }
     ],
     "Yahoo": [
