@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T22:33:32-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T04:07:36-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué el crecimiento de inyecciones para bajar de peso dinamiza las ventas de artículos para cuidar la piel",
+        "url": "https://www.bbc.com/mundo/articles/c699z39257zlo",
+        "publicacion": "2026-10-23",
+        "titulo_fuente": "Por qué el auge de las inyecciones para adelgazar está impulsando las ventas de productos para el cuidado de la piel",
+        "capturado": "2026-10-23T04:07:36-05:00"
+      },
+      {
         "titulo": "Balance de la prueba de Bukele para transformar a El Salvador en la nación del bitcoin, Duración 6,57",
         "url": "https://www.bbc.com/mundo/articles/cqn49jp9p1k0o",
         "publicacion": "PT6M57S",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
         "capturado": "2026-10-20T09:41:56-05:00"
-      },
-      {
-        "titulo": "De Medellín a Ho Chi Minh: 5 ciudades en expansión que los viajeros no deberían perderse",
-        "url": "https://www.bbc.com/mundo/articles/c6n4ewzkn45go",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
-        "capturado": "2026-10-20T09:41:56-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Bancos de EE. UU. identifican agentes de IA no permitidos operando en cuentas de usuarios",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-eeuu-detectan-agentes-ia-192900898.html",
-        "titulo_fuente": "Bancos de EEUU detectan agentes de IA no autorizados operando dentro de las cuentas de clientes",
-        "capturado": "2026-10-22T14:45:40-05:00"
+        "titulo": "Apple ingresa al sector de celulares plegables al comenzar a vender el iPhone Duo",
+        "url": "https://es.finance.yahoo.com/noticias/apple-entra-mercado-tel%C3%A9fonos-plegables-085021227.html",
+        "titulo_fuente": "Apple entra en el mercado de los teléfonos plegables con el inicio de las ventas del iPhone Duo",
+        "capturado": "2026-10-23T04:07:36-05:00"
       },
       {
-        "titulo": "Vacuna de Merck/Moderna disminuye más del 40% el riesgo de muerte o reaparición del melanoma",
-        "url": "https://es.finance.yahoo.com/noticias/vacuna-merck-moderna-reduce-40-192636460.html",
-        "titulo_fuente": "Vacuna de Merck/Moderna reduce más de 40% el riesgo de muerte o recurrencia de melanoma",
-        "capturado": "2026-10-22T14:45:40-05:00"
+        "titulo": "Volvo cae con fuerza en bolsa por abultadas pérdidas y la eliminación de otros 2.500 puestos",
+        "url": "https://es.finance.yahoo.com/noticias/volvo-desploma-bolsa-registrar-p%C3%A9rdidas-083931842.html",
+        "titulo_fuente": "Volvo se desploma en bolsa tras registrar grandes pérdidas y anunciar el recorte de 2.500 empleos más",
+        "capturado": "2026-10-23T04:07:36-05:00"
       },
       {
-        "titulo": "Heladas extemporáneas generan mermas de hasta 15% en campos de trigo de Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/heladas-tard%C3%ADas-causan-p%C3%A9rdidas-15-190639561.html",
-        "titulo_fuente": "Heladas tardías causan pérdidas de hasta 15% en áreas de trigo de Argentina",
-        "capturado": "2026-10-22T14:45:40-05:00"
+        "titulo": "Bombardier destinará 270 millones de dólares en EE. UU., de acuerdo con Trump",
+        "url": "https://es.finance.yahoo.com/noticias/bombardier-invertir%C3%A1-270-millones-d%C3%B3lares-083826437.html",
+        "titulo_fuente": "Bombardier invertirá 270 millones de dólares en EEUU, según Trump",
+        "capturado": "2026-10-23T04:07:36-05:00"
       },
       {
-        "titulo": "Transportadores del sur de Italia atenúan protestas tras la aprobación de ayudas del Gobierno",
-        "url": "https://es.finance.yahoo.com/noticias/camioneros-sur-italia-suavizan-protestas-185415841.html",
-        "titulo_fuente": "Camioneros del sur de Italia suavizan protestas tras aprobación de ayudas por parte del Gobierno",
-        "capturado": "2026-10-22T14:45:40-05:00"
+        "titulo": "Un despacho de diésel ruso va rumbo a EE. UU. luego del pacto Putin-Trump, según datos",
+        "url": "https://es.finance.yahoo.com/noticias/cargamento-di%C3%A9sel-ruso-dirige-eeuu-080029694.html",
+        "titulo_fuente": "Un cargamento de diésel ruso se dirige a EEUU tras el acuerdo Putin-Trump, según datos",
+        "capturado": "2026-10-23T04:07:36-05:00"
       },
       {
-        "titulo": "Fireblocks rechaza versiones sobre su adquisición por parte de Visa en $2.5 mil millones",
-        "url": "https://es.finance.yahoo.com/noticias/fireblocks-niega-afirmaciones-compra-2-180600449.html",
-        "titulo_fuente": "Fireblocks niega afirmaciones sobre compra por $2.5 mil millones por parte de Visa",
-        "capturado": "2026-10-22T14:45:40-05:00"
+        "titulo": "Grayscale da a conocer los 10 principales criptoactivos para lograr rendimientos y ganancias",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-revela-top-10-criptoactivos-074900953.html",
+        "titulo_fuente": "Grayscale revela el top 10 criptoactivos para obtener rendimientos y ganancias",
+        "capturado": "2026-10-23T04:07:36-05:00"
       }
     ]
   }
