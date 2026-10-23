@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T09:40:55-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T14:48:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Apple ingresa al sector de celulares plegables al comenzar a vender el iPhone Duo",
-        "url": "https://es.finance.yahoo.com/noticias/apple-entra-mercado-tel%C3%A9fonos-plegables-085021227.html",
-        "titulo_fuente": "Apple entra en el mercado de los teléfonos plegables con el inicio de las ventas del iPhone Duo",
-        "capturado": "2026-10-23T04:07:36-05:00"
+        "titulo": "Novartis reporta resultados inferiores a lo previsto sobre su medicamento para esclerosis múltiple",
+        "url": "https://es.finance.yahoo.com/noticias/novartis-presenta-datos-f%C3%A1rmaco-esclerosis-191643295.html",
+        "titulo_fuente": "Novartis presenta datos sobre fármaco para esclerosis múltiple peores de lo esperado",
+        "capturado": "2026-10-23T14:48:01-05:00"
       },
       {
-        "titulo": "Volvo cae con fuerza en bolsa por abultadas pérdidas y la eliminación de otros 2.500 puestos",
-        "url": "https://es.finance.yahoo.com/noticias/volvo-desploma-bolsa-registrar-p%C3%A9rdidas-083931842.html",
-        "titulo_fuente": "Volvo se desploma en bolsa tras registrar grandes pérdidas y anunciar el recorte de 2.500 empleos más",
-        "capturado": "2026-10-23T04:07:36-05:00"
+        "titulo": "Bitcoin rompe nivel clave antes del fin de semana: ¿se avecina una fuerte variación?",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-soporte-clave-semana-185100114.html",
+        "titulo_fuente": "Bitcoin pierde soporte clave antes del fin de semana: ¿Se aproxima un gran movimiento?",
+        "capturado": "2026-10-23T14:48:01-05:00"
       },
       {
-        "titulo": "Bombardier destinará 270 millones de dólares en EE. UU., de acuerdo con Trump",
-        "url": "https://es.finance.yahoo.com/noticias/bombardier-invertir%C3%A1-270-millones-d%C3%B3lares-083826437.html",
-        "titulo_fuente": "Bombardier invertirá 270 millones de dólares en EEUU, según Trump",
-        "capturado": "2026-10-23T04:07:36-05:00"
+        "titulo": "Actualización: índices de EE. UU. van mixtos y tecnología intenta rebotar tras alza del petróleo crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-180315073.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras el sector tecnológico intenta recuperarse en medio del alza del precio del petróleo crudo.",
+        "capturado": "2026-10-23T14:48:01-05:00"
       },
       {
-        "titulo": "Un despacho de diésel ruso va rumbo a EE. UU. luego del pacto Putin-Trump, según datos",
-        "url": "https://es.finance.yahoo.com/noticias/cargamento-di%C3%A9sel-ruso-dirige-eeuu-080029694.html",
-        "titulo_fuente": "Un cargamento de diésel ruso se dirige a EEUU tras el acuerdo Putin-Trump, según datos",
-        "capturado": "2026-10-23T04:07:36-05:00"
+        "titulo": "El petróleo alcanza su nivel más alto en 5 meses mientras la tecnología y las criptomonedas se debilitan",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-registra-m%C3%A1ximo-5-meses-173300565.html",
+        "titulo_fuente": "El petróleo registra máximo de 5 meses mientras el sector tecnológico y las criptomonedas se tambalean",
+        "capturado": "2026-10-23T14:48:01-05:00"
       },
       {
-        "titulo": "Grayscale da a conocer los 10 principales criptoactivos para lograr rendimientos y ganancias",
-        "url": "https://es.finance.yahoo.com/noticias/grayscale-revela-top-10-criptoactivos-074900953.html",
-        "titulo_fuente": "Grayscale revela el top 10 criptoactivos para obtener rendimientos y ganancias",
-        "capturado": "2026-10-23T04:07:36-05:00"
+        "titulo": "EE.UU. plantea emplear luces cian para identificar vehículos autónomos",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-propone-luces-cian-172920038.html",
+        "titulo_fuente": "EE.UU. propone luces cian para distinguir a los vehículos autónomos",
+        "capturado": "2026-10-23T14:48:01-05:00"
       }
     ]
   }
