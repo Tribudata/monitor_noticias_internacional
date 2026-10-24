@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T17:54:58-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-23T22:27:40-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Cierre mixto semanal en EE. UU.: rotan a bonos del Tesoro y activos defensivos ante estancar el comercio de IA",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-resultados-203519782.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cierran con resultados mixtos esta semana, ya que los inversores rotan sus inversiones hacia bonos del Tesoro y activos defensivos ante el estancamiento del comercio de IA.",
+        "capturado": "2026-10-23T22:27:40-05:00"
+      },
+      {
+        "titulo": "Actualización: Caen bolsas de EE. UU., suben rendimientos del Tesoro mientras tensión con Irán eleva el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-202915313.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, los rendimientos de los bonos del Tesoro suben mientras las tensiones con Irán impulsan al alza el precio del petróleo crudo.",
+        "capturado": "2026-10-23T22:27:40-05:00"
+      },
+      {
         "titulo": "Novartis reporta resultados inferiores a lo previsto sobre su medicamento para esclerosis múltiple",
         "url": "https://es.finance.yahoo.com/noticias/novartis-presenta-datos-f%C3%A1rmaco-esclerosis-191643295.html",
         "titulo_fuente": "Novartis presenta datos sobre fármaco para esclerosis múltiple peores de lo esperado",
@@ -93,18 +105,6 @@
         "titulo": "Actualización: índices de EE. UU. van mixtos y tecnología intenta rebotar tras alza del petróleo crudo",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-180315073.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras el sector tecnológico intenta recuperarse en medio del alza del precio del petróleo crudo.",
-        "capturado": "2026-10-23T14:48:01-05:00"
-      },
-      {
-        "titulo": "El petróleo alcanza su nivel más alto en 5 meses mientras la tecnología y las criptomonedas se debilitan",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-registra-m%C3%A1ximo-5-meses-173300565.html",
-        "titulo_fuente": "El petróleo registra máximo de 5 meses mientras el sector tecnológico y las criptomonedas se tambalean",
-        "capturado": "2026-10-23T14:48:01-05:00"
-      },
-      {
-        "titulo": "EE.UU. plantea emplear luces cian para identificar vehículos autónomos",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-propone-luces-cian-172920038.html",
-        "titulo_fuente": "EE.UU. propone luces cian para distinguir a los vehículos autónomos",
         "capturado": "2026-10-23T14:48:01-05:00"
       }
     ]
