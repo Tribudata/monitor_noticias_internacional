@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T12:13:19-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-24T15:17:58-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Las futuras criptomonedas líderes podrían ser distintas de las actuales",
+        "url": "https://es.finance.yahoo.com/noticias/pr%C3%B3ximas-criptomonedas-ganadoras-ser-actuales-193619042.html",
+        "titulo_fuente": "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
+        "capturado": "2026-10-24T15:17:58-05:00"
+      },
+      {
         "titulo": "Bitcoin cae de los $80,000 y se liquidan $200 millones en posiciones apalancadas en una hora",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-80-000-200-164348366.html",
         "titulo_fuente": "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
         "titulo_fuente": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
         "capturado": "2026-10-24T12:13:19-05:00"
-      },
-      {
-        "titulo": "Uniswap reporta su mayor alza de billeteras en 4 años: ¿tendrá UNI un rally?",
-        "url": "https://es.finance.yahoo.com/noticias/uniswap-registra-aumento-wallets-4-120343429.html",
-        "titulo_fuente": "Uniswap registra el mayor aumento de wallets en 4 años. ¿UNI tendrá un rally?",
-        "capturado": "2026-10-24T08:50:33-05:00"
       }
     ]
   }
