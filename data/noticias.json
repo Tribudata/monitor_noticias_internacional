@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-23T22:27:40-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-24T03:40:33-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Francia esquiva el recorte de Moody's, pero su endeudamiento genera máxima alerta",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-moodys-leve-respiro-francia-072131662.html",
+        "titulo_fuente": "Francia evita la rebaja de Moody's, pero su deuda enciende todas las alarmas",
+        "capturado": "2026-10-24T03:40:33-05:00"
+      },
+      {
+        "titulo": "¿Dónde cuesta más hacer el mercado en Europa? De 63 euros en España a 138 en Suiza",
+        "url": "https://es.finance.yahoo.com/noticias/precios-cesta-compra-europa-d%C3%B3nde-050050228.html",
+        "titulo_fuente": "¿Dónde es más caro hacer la compra en Europa? de los 63 euros de España a los 138 de Suiza",
+        "capturado": "2026-10-24T03:40:33-05:00"
+      },
+      {
         "titulo": "Cierre mixto semanal en EE. UU.: rotan a bonos del Tesoro y activos defensivos ante estancar el comercio de IA",
         "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-resultados-203519782.html",
         "titulo_fuente": "Los índices bursátiles estadounidenses cierran con resultados mixtos esta semana, ya que los inversores rotan sus inversiones hacia bonos del Tesoro y activos defensivos ante el estancamiento del comercio de IA.",
@@ -90,22 +102,10 @@
         "capturado": "2026-10-23T22:27:40-05:00"
       },
       {
-        "titulo": "Novartis reporta resultados inferiores a lo previsto sobre su medicamento para esclerosis múltiple",
-        "url": "https://es.finance.yahoo.com/noticias/novartis-presenta-datos-f%C3%A1rmaco-esclerosis-191643295.html",
-        "titulo_fuente": "Novartis presenta datos sobre fármaco para esclerosis múltiple peores de lo esperado",
-        "capturado": "2026-10-23T14:48:01-05:00"
-      },
-      {
-        "titulo": "Bitcoin rompe nivel clave antes del fin de semana: ¿se avecina una fuerte variación?",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-soporte-clave-semana-185100114.html",
-        "titulo_fuente": "Bitcoin pierde soporte clave antes del fin de semana: ¿Se aproxima un gran movimiento?",
-        "capturado": "2026-10-23T14:48:01-05:00"
-      },
-      {
-        "titulo": "Actualización: índices de EE. UU. van mixtos y tecnología intenta rebotar tras alza del petróleo crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-180315073.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras el sector tecnológico intenta recuperarse en medio del alza del precio del petróleo crudo.",
-        "capturado": "2026-10-23T14:48:01-05:00"
+        "titulo": "Estudio indie ajusta cómo corre su protagonista tras críticas y la mitad de fans exige el diseño inicial",
+        "url": "https://es-us.noticias.yahoo.com/estudio-indie-cambia-animaci%C3%B3n-carrera-195148776.html",
+        "titulo_fuente": "Estudio indie cambia la animación de carrera de su protagonista por las críticas, y la mitad de los fans pide que vuelva la original",
+        "capturado": "2026-10-24T03:40:33-05:00"
       }
     ]
   }
