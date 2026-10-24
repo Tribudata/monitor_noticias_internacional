@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T08:50:33-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-24T12:13:19-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Justicia argentina exonera al presidente Javier Milei y su hermana Karina en escándalo de criptomoneda $LIBRA",
+        "url": "https://www.bbc.com/mundo/articles/cq62y3xz365ko",
+        "publicacion": "2026-10-24",
+        "titulo_fuente": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
+        "capturado": "2026-10-24T12:13:19-05:00"
+      },
+      {
         "titulo": "Por qué el crecimiento de inyecciones para bajar de peso dinamiza las ventas de artículos para cuidar la piel",
         "url": "https://www.bbc.com/mundo/articles/c699z39257zlo",
         "publicacion": "2026-10-23",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-20",
         "titulo_fuente": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
         "capturado": "2026-10-20T14:50:14-05:00"
-      },
-      {
-        "titulo": "Razones de la crisis económica y el desempleo récord en Chile bajo la austeridad de Kast",
-        "url": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
-        "capturado": "2026-10-20T09:41:56-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Bitcoin cae de los $80,000 y se liquidan $200 millones en posiciones apalancadas en una hora",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-80-000-200-164348366.html",
+        "titulo_fuente": "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
+        "capturado": "2026-10-24T12:13:19-05:00"
+      },
+      {
+        "titulo": "Proyección económica global 2027: ¿nos dirigimos a otra crisis financiera?",
+        "url": "https://es.finance.yahoo.com/noticias/perspectiva-econ%C3%B3mica-global-2027-crisis-160100933.html",
+        "titulo_fuente": "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
+        "capturado": "2026-10-24T12:13:19-05:00"
+      },
+      {
+        "titulo": "China pide a EEUU detener la ampliación propuesta de restricciones a la inversión extranjera",
+        "url": "https://es.finance.yahoo.com/noticias/china-insta-eeuu-frene-ampliaci%C3%B3n-153135664.html",
+        "titulo_fuente": "China insta a EEUU a que frene ampliación propuesta de restricciones a la inversión en el extranjero",
+        "capturado": "2026-10-24T12:13:19-05:00"
+      },
+      {
+        "titulo": "Bitcoin afronta un fin de semana decisivo mientras aumenta el temor a un desplome del mercado",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
+        "titulo_fuente": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
+        "capturado": "2026-10-24T12:13:19-05:00"
+      },
       {
         "titulo": "Uniswap reporta su mayor alza de billeteras en 4 años: ¿tendrá UNI un rally?",
         "url": "https://es.finance.yahoo.com/noticias/uniswap-registra-aumento-wallets-4-120343429.html",
         "titulo_fuente": "Uniswap registra el mayor aumento de wallets en 4 años. ¿UNI tendrá un rally?",
         "capturado": "2026-10-24T08:50:33-05:00"
-      },
-      {
-        "titulo": "¿Está en auge la economía de agentes de IA? 6.4 millones de pagos muestran un escenario distinto",
-        "url": "https://es.finance.yahoo.com/noticias/realmente-auge-econom%C3%ADa-agentes-ia-105200406.html",
-        "titulo_fuente": "¿Realmente está en auge la economía de agentes de IA? 6.4 millones de pagos cuentan una historia diferente",
-        "capturado": "2026-10-24T08:50:33-05:00"
-      },
-      {
-        "titulo": "Bitcoin tocaría el millón de dólares en 2030, según Mark Moss",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-alcanzar-mill%C3%B3n-d%C3%B3lares-2030-100026819.html",
-        "titulo_fuente": "Bitcoin podría alcanzar un millón de dólares en 2030, según Mark Moss",
-        "capturado": "2026-10-24T08:50:33-05:00"
-      },
-      {
-        "titulo": "El porvenir de los exchanges de criptomonedas con miras a 2027",
-        "url": "https://es.finance.yahoo.com/noticias/futuro-exchanges-criptomonedas-cara-2027-084100530.html",
-        "titulo_fuente": "El futuro de los exchanges de criptomonedas de cara a 2027",
-        "capturado": "2026-10-24T08:50:33-05:00"
-      },
-      {
-        "titulo": "Francia esquiva el recorte de Moody's, pero su endeudamiento genera máxima alerta",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-moodys-leve-respiro-francia-072131662.html",
-        "titulo_fuente": "Francia evita la rebaja de Moody's, pero su deuda enciende todas las alarmas",
-        "capturado": "2026-10-24T03:40:33-05:00"
       }
     ]
   }
