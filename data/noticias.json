@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T07:58:37-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-25T12:25:15-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,33 +78,33 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Por qué los exchanges de criptomonedas remuneran la continuidad en el trading?",
+        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
+        "titulo_fuente": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
+        "capturado": "2026-10-25T12:25:15-05:00"
+      },
+      {
+        "titulo": "¿Qué cantidad de dinero dejaría bajo el control de una IA?",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-dinero-dejar%C3%ADas-controle-ia-134400122.html",
+        "titulo_fuente": "¿Cuánto dinero dejarías que controle una IA?",
+        "capturado": "2026-10-25T12:25:15-05:00"
+      },
+      {
         "titulo": "Colectivo laboral alerta sobre fuerte pérdida de empleo en Suiza si UBS se reubica",
         "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
         "titulo_fuente": "Grupo trabajadores advierte de importantes pérdidas de puestos de trabajo en Suiza si UBS se traslada",
         "capturado": "2026-10-25T07:58:37-05:00"
       },
       {
+        "titulo": "Alphabet asume sus resultados con Cloud y los chips como impulsores",
+        "url": "https://es.finance.yahoo.com/noticias/alphabet-afronta-resultados-cloud-chips-120019773.html",
+        "titulo_fuente": "Alphabet afronta sus resultados con Cloud y los chips como motores",
+        "capturado": "2026-10-25T12:25:15-05:00"
+      },
+      {
         "titulo": "Javier Milei y el caso LIBRA: la determinación final emitida por la Justicia",
         "url": "https://es.finance.yahoo.com/noticias/javier-milei-esc%C3%A1ndalo-libra-finalmente-112300098.html",
         "titulo_fuente": "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
-        "capturado": "2026-10-25T07:58:37-05:00"
-      },
-      {
-        "titulo": "Audi se enfoca en EE.UU.: Trump aprovecha la inversión de la firma alemana en plena campaña electoral",
-        "url": "https://es.finance.yahoo.com/noticias/audi-vuelca-ee-uu-trump-091807101.html",
-        "titulo_fuente": "Audi se vuelca con EE.UU.: Trump aprovecha la inversión del fabricante alemán en plena campaña electoral",
-        "capturado": "2026-10-25T07:58:37-05:00"
-      },
-      {
-        "titulo": "MoneyGram da un nuevo avance significativo en blockchain junto a XDC Network",
-        "url": "https://es.finance.yahoo.com/noticias/moneygram-paso-blockchain-xdc-network-090200435.html",
-        "titulo_fuente": "MoneyGram da otro gran paso en blockchain con XDC Network",
-        "capturado": "2026-10-25T07:58:37-05:00"
-      },
-      {
-        "titulo": "El Treasury alcanza el 5,34%: las empresas de Wall Street que resultan más afectadas",
-        "url": "https://es.finance.yahoo.com/noticias/treasury-llega-5-34-compa%C3%B1%C3%ADas-054000449.html",
-        "titulo_fuente": "El Treasury llega al 5,34%: las compañías de Wall Street que más sufren",
         "capturado": "2026-10-25T07:58:37-05:00"
       }
     ]
