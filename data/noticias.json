@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T15:17:58-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-24T19:00:23-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Ethereum refleja el mismo indicador que impulsó el alza de junio: qué representa",
+        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-se%C3%B1al-provoc%C3%B3-rally-231000881.html",
+        "titulo_fuente": "Ethereum muestra la misma señal que provocó el rally de junio: ¿Qué significa?",
+        "capturado": "2026-10-24T19:00:23-05:00"
+      },
+      {
+        "titulo": "Las acciones de IA podrían colapsar en 2027: 3 alternativas para resguardar el dinero",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-desplomarse-2027-3-214700667.html",
+        "titulo_fuente": "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
+        "capturado": "2026-10-24T19:00:23-05:00"
+      },
+      {
         "titulo": "Las futuras criptomonedas líderes podrían ser distintas de las actuales",
         "url": "https://es.finance.yahoo.com/noticias/pr%C3%B3ximas-criptomonedas-ganadoras-ser-actuales-193619042.html",
         "titulo_fuente": "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
@@ -93,18 +105,6 @@
         "titulo": "Proyección económica global 2027: ¿nos dirigimos a otra crisis financiera?",
         "url": "https://es.finance.yahoo.com/noticias/perspectiva-econ%C3%B3mica-global-2027-crisis-160100933.html",
         "titulo_fuente": "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
-        "capturado": "2026-10-24T12:13:19-05:00"
-      },
-      {
-        "titulo": "China pide a EEUU detener la ampliación propuesta de restricciones a la inversión extranjera",
-        "url": "https://es.finance.yahoo.com/noticias/china-insta-eeuu-frene-ampliaci%C3%B3n-153135664.html",
-        "titulo_fuente": "China insta a EEUU a que frene ampliación propuesta de restricciones a la inversión en el extranjero",
-        "capturado": "2026-10-24T12:13:19-05:00"
-      },
-      {
-        "titulo": "Bitcoin afronta un fin de semana decisivo mientras aumenta el temor a un desplome del mercado",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
-        "titulo_fuente": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
         "capturado": "2026-10-24T12:13:19-05:00"
       }
     ]
