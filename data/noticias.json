@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T12:25:15-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-25T15:25:33-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "El petróleo sube a 110 dólares por temor a más ataques de Irán y las bolsas bajan",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
+        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
+        "capturado": "2026-10-25T15:25:33-05:00"
+      },
+      {
+        "titulo": "Razones por las que las plataformas cripto buscan ser la aplicación cotidiana de tu dinero",
+        "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
+        "titulo_fuente": "¿Por qué las plataformas cripto quieren convertirse en tu app diaria de dinero?",
+        "capturado": "2026-10-25T15:25:33-05:00"
+      },
+      {
         "titulo": "¿Por qué los exchanges de criptomonedas remuneran la continuidad en el trading?",
         "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
         "titulo_fuente": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
@@ -93,18 +105,6 @@
         "titulo": "Colectivo laboral alerta sobre fuerte pérdida de empleo en Suiza si UBS se reubica",
         "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
         "titulo_fuente": "Grupo trabajadores advierte de importantes pérdidas de puestos de trabajo en Suiza si UBS se traslada",
-        "capturado": "2026-10-25T07:58:37-05:00"
-      },
-      {
-        "titulo": "Alphabet asume sus resultados con Cloud y los chips como impulsores",
-        "url": "https://es.finance.yahoo.com/noticias/alphabet-afronta-resultados-cloud-chips-120019773.html",
-        "titulo_fuente": "Alphabet afronta sus resultados con Cloud y los chips como motores",
-        "capturado": "2026-10-25T12:25:15-05:00"
-      },
-      {
-        "titulo": "Javier Milei y el caso LIBRA: la determinación final emitida por la Justicia",
-        "url": "https://es.finance.yahoo.com/noticias/javier-milei-esc%C3%A1ndalo-libra-finalmente-112300098.html",
-        "titulo_fuente": "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
         "capturado": "2026-10-25T07:58:37-05:00"
       }
     ]
