@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T15:25:33-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-25T18:50:08-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -84,6 +84,12 @@
         "capturado": "2026-10-25T15:25:33-05:00"
       },
       {
+        "titulo": "María Corina Machado retorna a Venezuela y mide la apertura política de Delcy Rodríguez",
+        "url": "https://es.finance.yahoo.com/noticias/mar%C3%ADa-corina-machado-regresa-venezuela-191824244.html",
+        "titulo_fuente": "María Corina Machado regresa a Venezuela y pone a prueba la apertura política de Delcy Rodríguez",
+        "capturado": "2026-10-25T18:50:08-05:00"
+      },
+      {
         "titulo": "Razones por las que las plataformas cripto buscan ser la aplicación cotidiana de tu dinero",
         "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
         "titulo_fuente": "¿Por qué las plataformas cripto quieren convertirse en tu app diaria de dinero?",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-dinero-dejar%C3%ADas-controle-ia-134400122.html",
         "titulo_fuente": "¿Cuánto dinero dejarías que controle una IA?",
         "capturado": "2026-10-25T12:25:15-05:00"
-      },
-      {
-        "titulo": "Colectivo laboral alerta sobre fuerte pérdida de empleo en Suiza si UBS se reubica",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
-        "titulo_fuente": "Grupo trabajadores advierte de importantes pérdidas de puestos de trabajo en Suiza si UBS se traslada",
-        "capturado": "2026-10-25T07:58:37-05:00"
       }
     ]
   }
