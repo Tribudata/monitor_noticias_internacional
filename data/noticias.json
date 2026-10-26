@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T18:50:08-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-25T22:25:50-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Bolsonaro solicita cancelar los comicios luego de perder frente a Lula",
+        "url": "https://es.finance.yahoo.com/noticias/bolsonaro-pide-anular-elecciones-derrota-015111780.html",
+        "titulo_fuente": "Bolsonaro pide anular las elecciones tras su derrota ante Lula",
+        "capturado": "2026-10-25T22:25:50-05:00"
+      },
+      {
+        "titulo": "Cinco desafíos económicos que encarará el presidente Lula durante su nuevo mandato en Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/retos-econ%C3%B3micos-enfrenta-presidente-lula-010454182.html",
+        "titulo_fuente": "Cinco retos económicos a los que se enfrenta el presidente Lula en un nuevo mandato en Brasil",
+        "capturado": "2026-10-25T22:25:50-05:00"
+      },
+      {
+        "titulo": "Lula derrota a Flávio Bolsonaro en la segunda vuelta y será mandatario de Brasil por cuarta vez",
+        "url": "https://es.finance.yahoo.com/noticias/lula-supera-fl%C3%A1vio-bolsonaro-balotaje-003242522.html",
+        "titulo_fuente": "Lula supera a Flávio Bolsonaro en el balotaje y será presidente de Brasil por cuarta vez",
+        "capturado": "2026-10-25T22:25:50-05:00"
+      },
+      {
+        "titulo": "Lula triunfa en comicios de Brasil, dólar llega a 5.60 reales y podría elevar el precio de Bitcoin en reales",
+        "url": "https://es.finance.yahoo.com/noticias/lula-gana-elecciones-brasil-d%C3%B3lar-001150351.html",
+        "titulo_fuente": "Lula gana las elecciones en Brasil y el dólar sube hasta 5.60 reales, lo que podría encarecer el precio de Bitcoin en reales",
+        "capturado": "2026-10-25T22:25:50-05:00"
+      },
+      {
         "titulo": "El petróleo sube a 110 dólares por temor a más ataques de Irán y las bolsas bajan",
         "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
         "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
         "capturado": "2026-10-25T15:25:33-05:00"
-      },
-      {
-        "titulo": "María Corina Machado retorna a Venezuela y mide la apertura política de Delcy Rodríguez",
-        "url": "https://es.finance.yahoo.com/noticias/mar%C3%ADa-corina-machado-regresa-venezuela-191824244.html",
-        "titulo_fuente": "María Corina Machado regresa a Venezuela y pone a prueba la apertura política de Delcy Rodríguez",
-        "capturado": "2026-10-25T18:50:08-05:00"
-      },
-      {
-        "titulo": "Razones por las que las plataformas cripto buscan ser la aplicación cotidiana de tu dinero",
-        "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
-        "titulo_fuente": "¿Por qué las plataformas cripto quieren convertirse en tu app diaria de dinero?",
-        "capturado": "2026-10-25T15:25:33-05:00"
-      },
-      {
-        "titulo": "¿Por qué los exchanges de criptomonedas remuneran la continuidad en el trading?",
-        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
-        "titulo_fuente": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
-        "capturado": "2026-10-25T12:25:15-05:00"
-      },
-      {
-        "titulo": "¿Qué cantidad de dinero dejaría bajo el control de una IA?",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-dinero-dejar%C3%ADas-controle-ia-134400122.html",
-        "titulo_fuente": "¿Cuánto dinero dejarías que controle una IA?",
-        "capturado": "2026-10-25T12:25:15-05:00"
       }
     ]
   }
