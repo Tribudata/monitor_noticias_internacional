@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T22:25:50-05:00",
+  "actualizado": "2026-10-26T04:45:44-05:00",
   "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Arabia Saudita guardará crudo en Singapur para consolidar la seguridad del abastecimiento en Asia",
+        "url": "https://es.finance.yahoo.com/noticias/arabia-saudita-almacenar%C3%A1-petr%C3%B3leo-singapur-094200238.html",
+        "titulo_fuente": "Arabia Saudita almacenará petróleo en Singapur para reforzar la seguridad del suministro en Asia",
+        "capturado": "2026-10-26T04:45:44-05:00"
+      },
+      {
+        "titulo": "Bitcoin y el oro marcan un hecho inédito en 2026: los dos refugios seguros son hoy los peores activos",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-oro-logran-in%C3%A9dito-2026-085100273.html",
+        "titulo_fuente": "Bitcoin y el oro logran algo inédito en 2026: los dos “refugios seguros” ahora son los peores activos",
+        "capturado": "2026-10-26T04:45:44-05:00"
+      },
+      {
+        "titulo": "Generación Z: disparidad de ingresos y manifestaciones por el costo de vida",
+        "url": "https://es.finance.yahoo.com/noticias/renta-j%C3%B3venes-europa-sit%C3%BAa-francia-070006963.html",
+        "titulo_fuente": "Generación Z: brecha de renta y protestas por el coste de la vida",
+        "capturado": "2026-10-26T04:45:44-05:00"
+      },
+      {
+        "titulo": "Tener dinero no basta: por qué trabajar ya no garantiza el acceso a vivienda digna en España",
+        "url": "https://es.finance.yahoo.com/noticias/disponer-dinero-basta-trabajar-garantiza-060041960.html",
+        "titulo_fuente": "\"Disponer de dinero no basta\": Por qué trabajar ya no garantiza el acceso a una vivienda digna en España",
+        "capturado": "2026-10-26T04:45:44-05:00"
+      },
+      {
         "titulo": "Bolsonaro solicita cancelar los comicios luego de perder frente a Lula",
         "url": "https://es.finance.yahoo.com/noticias/bolsonaro-pide-anular-elecciones-derrota-015111780.html",
         "titulo_fuente": "Bolsonaro pide anular las elecciones tras su derrota ante Lula",
         "capturado": "2026-10-25T22:25:50-05:00"
-      },
-      {
-        "titulo": "Cinco desafíos económicos que encarará el presidente Lula durante su nuevo mandato en Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/retos-econ%C3%B3micos-enfrenta-presidente-lula-010454182.html",
-        "titulo_fuente": "Cinco retos económicos a los que se enfrenta el presidente Lula en un nuevo mandato en Brasil",
-        "capturado": "2026-10-25T22:25:50-05:00"
-      },
-      {
-        "titulo": "Lula derrota a Flávio Bolsonaro en la segunda vuelta y será mandatario de Brasil por cuarta vez",
-        "url": "https://es.finance.yahoo.com/noticias/lula-supera-fl%C3%A1vio-bolsonaro-balotaje-003242522.html",
-        "titulo_fuente": "Lula supera a Flávio Bolsonaro en el balotaje y será presidente de Brasil por cuarta vez",
-        "capturado": "2026-10-25T22:25:50-05:00"
-      },
-      {
-        "titulo": "Lula triunfa en comicios de Brasil, dólar llega a 5.60 reales y podría elevar el precio de Bitcoin en reales",
-        "url": "https://es.finance.yahoo.com/noticias/lula-gana-elecciones-brasil-d%C3%B3lar-001150351.html",
-        "titulo_fuente": "Lula gana las elecciones en Brasil y el dólar sube hasta 5.60 reales, lo que podría encarecer el precio de Bitcoin en reales",
-        "capturado": "2026-10-25T22:25:50-05:00"
-      },
-      {
-        "titulo": "El petróleo sube a 110 dólares por temor a más ataques de Irán y las bolsas bajan",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
-        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
-        "capturado": "2026-10-25T15:25:33-05:00"
       }
     ]
   }
