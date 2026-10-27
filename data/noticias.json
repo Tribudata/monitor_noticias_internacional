@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-26T17:20:08-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-26T22:52:38-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Tres altcoins principales para seguir en la semana final de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-215400428.html",
+        "titulo_fuente": "Top 3 altcoins a observar en la última semana de octubre de 2026",
+        "capturado": "2026-10-26T22:52:38-05:00"
+      },
+      {
         "titulo": "Actualización: Índices de EE. UU. ganan tras la solicitud de salida a bolsa de Anthropic y la baja del crudo",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-210440089.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan tras la presentación de la solicitud de salida a bolsa de Anthropic y el descenso del petróleo crudo.",
@@ -90,21 +96,15 @@
         "capturado": "2026-10-26T17:20:08-05:00"
       },
       {
+        "titulo": "Colapsa burbuja de IA en China y elimina $480 mil millones: ¿se repetirá en EEUU?",
+        "url": "https://es.finance.yahoo.com/noticias/estalla-burbuja-ia-china-borra-202457707.html",
+        "titulo_fuente": "Estalla la burbuja de IA en China y borra $480 mil millones: ¿Se replicará en EEUU?",
+        "capturado": "2026-10-26T22:52:38-05:00"
+      },
+      {
         "titulo": "Anthropic obtiene elevados ingresos al salir a bolsa y advierte los riesgos de la IA para la humanidad",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-revela-fuertes-ingresos-salida-185651630.html",
         "titulo_fuente": "Anthropic logra fuertes ingresos en su salida a bolsa y alerta de los riesgos de la IA para la humanidad",
-        "capturado": "2026-10-26T17:20:08-05:00"
-      },
-      {
-        "titulo": "Un medicamento de Merck extiende la supervivencia en un ensayo sobre el cáncer de endometrio",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-merck-prolonga-supervivencia-prueba-174028031.html",
-        "titulo_fuente": "Un fármaco de Merck prolonga la supervivencia en una prueba sobre el cáncer de endometrio",
-        "capturado": "2026-10-26T17:20:08-05:00"
-      },
-      {
-        "titulo": "Actualización: Bolsas de EE. UU. suben tras solicitud al Nasdaq de Anthropic, impulsando optimismo en la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-172924112.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben tras la presentación de la solicitud de salida a bolsa de Anthropic en el Nasdaq, lo que impulsa el optimismo en el mercado de la IA.",
         "capturado": "2026-10-26T17:20:08-05:00"
       }
     ]
