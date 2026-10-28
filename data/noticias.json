@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-27T19:59:23-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-28T02:56:49-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Ciberatacantes roban $400.000 de mercado de predicciones vinculado a Binance",
-        "url": "https://es.finance.yahoo.com/noticias/hackers-roban-400-000-mercado-214600899.html",
-        "titulo_fuente": "Hackers roban $400,000 de un mercado de predicciones vinculado a Binance",
-        "capturado": "2026-10-27T19:59:23-05:00"
+        "titulo": "Alemania prevé registrar un déficit comercial histórico con Asia-Pacífico para 2026",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-encamina-d%C3%A9ficit-comercial-r%C3%A9cord-072354221.html",
+        "titulo_fuente": "Alemania se encamina hacia un déficit comercial récord con Asia-Pacífico en 2026",
+        "capturado": "2026-10-28T02:56:49-05:00"
       },
       {
-        "titulo": "Al día: Índices bursátiles suben y tecnología lidera sectores antes de resultados de hiperescaladoras",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-suben-tecnolog%C3%ADa-204903817.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles suben mientras la tecnología lidera las listas sectoriales antes de la presentación de resultados de las hiperescaladoras.",
-        "capturado": "2026-10-27T19:59:23-05:00"
+        "titulo": "Banco Santander eleva sus ingresos totales y su beneficio atribuible a los nueve meses",
+        "url": "https://es.finance.yahoo.com/noticias/aumento-beneficio-atribuible-ingresos-totales-064318542.html",
+        "titulo_fuente": "Aumento del beneficio atribuible y de los ingresos totales de Banco Santander en los nueve meses",
+        "capturado": "2026-10-28T02:56:49-05:00"
       },
       {
-        "titulo": "¿Falta una década para el Q-Day de Bitcoin? Escépticos afirman que ya sufre un retraso",
-        "url": "https://es.finance.yahoo.com/noticias/q-day-bitcoin-d%C3%A9cada-distancia-193200512.html",
-        "titulo_fuente": "¿El Q-Day de Bitcoin está a una década de distancia? Los escépticos dicen que ya se está retrasando",
-        "capturado": "2026-10-27T15:27:14-05:00"
+        "titulo": "Crisis del costo de vida: qué ingresos netos se requieren para vivir con comodidad en Europa",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-coste-vida-ingresos-netos-060015379.html",
+        "titulo_fuente": "Crisis del coste de la vida: qué ingresos netos se necesitan para vivir cómodamente en Europa",
+        "capturado": "2026-10-28T02:56:49-05:00"
       },
       {
-        "titulo": "Cinco aspectos para comprender las siguientes etapas de la salida a bolsa de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/claves-entender-pasos-salida-bolsa-190904832.html",
-        "titulo_fuente": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
-        "capturado": "2026-10-27T15:27:14-05:00"
+        "titulo": "Empresas tecnológicas asiáticas suben con fuerza luego de que SK hynix reforzara la confianza en la IA",
+        "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-disparan-reforzar-sk-hynix-053309971.html",
+        "titulo_fuente": "Las tecnológicas asiáticas se disparan al reforzar SK hynix la confianza en la IA",
+        "capturado": "2026-10-28T02:56:49-05:00"
       },
       {
-        "titulo": "CEO de JPMorgan alerta sobre riesgos que amenazan los bonos y acciones de EEUU",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-jpmorgan-advierte-riesgos-amenazan-181400304.html",
-        "titulo_fuente": "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
-        "capturado": "2026-10-27T15:27:14-05:00"
+        "titulo": "Acciones de Boeing caen con fuerza tras una cautelosa previsión de crecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-boeing-hunden-prudente-pron%C3%B3stico-043004219.html",
+        "titulo_fuente": "Las acciones de Boeing se hunden tras un prudente pronóstico de crecimiento",
+        "capturado": "2026-10-28T02:56:49-05:00"
       }
     ]
   }
