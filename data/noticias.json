@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-27T15:27:14-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-27T19:59:23-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Pagarían las aseguradoras en caso de un colapso de la inteligencia artificial",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
+        "publicacion": "Tue, 27 Oct 2026 22:26:42 +0000",
+        "titulo_fuente": "In an AI blow-up, would insurance pay out?",
+        "capturado": "2026-10-27T19:59:23-05:00"
+      },
       {
         "titulo": "Sam Bankman-Fried asegura que ya saldó sus deudas",
         "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
@@ -30,13 +37,6 @@
         "publicacion": "Thu, 22 Oct 2026 09:07:29 +0000",
         "titulo_fuente": "AI compute is the new oil—and needs a new market",
         "capturado": "2026-10-22T09:52:59-05:00"
-      },
-      {
-        "titulo": "El fallecido Perry Mehrling expuso la jerarquía del dinero",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
-        "publicacion": "Tue, 20 Oct 2026 18:32:09 +0000",
-        "titulo_fuente": "The late Perry Mehrling explained the hierarchy of money",
-        "capturado": "2026-10-20T14:50:14-05:00"
       }
     ],
     "BBC": [
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Ciberatacantes roban $400.000 de mercado de predicciones vinculado a Binance",
+        "url": "https://es.finance.yahoo.com/noticias/hackers-roban-400-000-mercado-214600899.html",
+        "titulo_fuente": "Hackers roban $400,000 de un mercado de predicciones vinculado a Binance",
+        "capturado": "2026-10-27T19:59:23-05:00"
+      },
+      {
+        "titulo": "Al día: Índices bursátiles suben y tecnología lidera sectores antes de resultados de hiperescaladoras",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-suben-tecnolog%C3%ADa-204903817.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles suben mientras la tecnología lidera las listas sectoriales antes de la presentación de resultados de las hiperescaladoras.",
+        "capturado": "2026-10-27T19:59:23-05:00"
+      },
+      {
         "titulo": "¿Falta una década para el Q-Day de Bitcoin? Escépticos afirman que ya sufre un retraso",
         "url": "https://es.finance.yahoo.com/noticias/q-day-bitcoin-d%C3%A9cada-distancia-193200512.html",
         "titulo_fuente": "¿El Q-Day de Bitcoin está a una década de distancia? Los escépticos dicen que ya se está retrasando",
@@ -93,18 +105,6 @@
         "titulo": "CEO de JPMorgan alerta sobre riesgos que amenazan los bonos y acciones de EEUU",
         "url": "https://es.finance.yahoo.com/noticias/ceo-jpmorgan-advierte-riesgos-amenazan-181400304.html",
         "titulo_fuente": "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
-        "capturado": "2026-10-27T15:27:14-05:00"
-      },
-      {
-        "titulo": "Oracle extiende acuerdo de provisión de chips con Nvidia e incluye oferta de Google y Cerebras",
-        "url": "https://es.finance.yahoo.com/noticias/oracle-ampl%C3%ADa-acuerdo-suministro-chips-181138932.html",
-        "titulo_fuente": "Oracle amplía su acuerdo de suministro de chips con Nvidia e incorpora la oferta de Google y Cerebras",
-        "capturado": "2026-10-27T15:27:14-05:00"
-      },
-      {
-        "titulo": "Maíz baja por presión de cosecha en EEUU; trigo roza el mínimo de tres meses y medio",
-        "url": "https://es.finance.yahoo.com/noticias/ma%C3%ADz-cae-presi%C3%B3n-cosecha-eeuu-180225756.html",
-        "titulo_fuente": "Maíz cae por presión de la cosecha de EEUU; trigo, cerca de mínimo de tres meses y medio",
         "capturado": "2026-10-27T15:27:14-05:00"
       }
     ]
