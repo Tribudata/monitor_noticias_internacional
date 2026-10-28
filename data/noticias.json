@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-28T09:57:06-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-28T15:47:38-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Los mercados accionarios de China representan la gran excepción global",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+        "publicacion": "Wed, 28 Oct 2026 19:48:19 +0000",
+        "titulo_fuente": "China’s stock markets are the great global exception",
+        "capturado": "2026-10-28T15:47:38-05:00"
+      },
       {
         "titulo": "¿Pagarían las aseguradoras en caso de un colapso de la inteligencia artificial",
         "url": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
         "publicacion": "Thu, 22 Oct 2026 09:11:38 +0000",
         "titulo_fuente": "Brazil’s weird economy needs serious reform",
-        "capturado": "2026-10-22T09:52:59-05:00"
-      },
-      {
-        "titulo": "La capacidad de cómputo para IA es el nuevo petróleo y requiere un nuevo mercado",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-        "publicacion": "Thu, 22 Oct 2026 09:07:29 +0000",
-        "titulo_fuente": "AI compute is the new oil—and needs a new market",
         "capturado": "2026-10-22T09:52:59-05:00"
       }
     ],
