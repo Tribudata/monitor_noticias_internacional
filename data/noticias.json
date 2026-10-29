@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-28T20:34:18-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-29T03:04:07-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "El alza en el costo del combustible deja atrapados en Camboya a los usuarios de un crucero de alta gama",
+        "url": "https://www.bbc.com/mundo/articles/ckly063z9lyeo",
+        "publicacion": "2026-10-28",
+        "titulo_fuente": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
+        "capturado": "2026-10-29T03:04:07-05:00"
+      },
+      {
         "titulo": "Justicia argentina exonera al presidente Javier Milei y su hermana Karina en escándalo de criptomoneda $LIBRA",
         "url": "https://www.bbc.com/mundo/articles/cq62y3xz365ko",
         "publicacion": "2026-10-24",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-21",
         "titulo_fuente": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
         "capturado": "2026-10-21T04:08:35-05:00"
-      },
-      {
-        "titulo": "Análisis: los separatistas de Alberta reciben un gran golpe pero la tirantez con Canadá continuará",
-        "url": "https://www.bbc.com/mundo/articles/cxyvr6508relo",
-        "publicacion": "2026-10-20",
-        "titulo_fuente": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
-        "capturado": "2026-10-20T14:50:14-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Corea del Sur sanciona a Google y Apple por condicionar a desarrolladores con sus sistemas de pago",
-        "url": "https://es.finance.yahoo.com/noticias/corea-sur-multa-google-apple-140830601.html",
-        "titulo_fuente": "Corea del Sur multa a Google y Apple por presionar a desarrolladores con sus sistemas de pago",
-        "capturado": "2026-10-28T09:57:06-05:00"
+        "titulo": "Los mercados bursátiles muestran desempeño mixto tras decepcionar los resultados de Alphabet",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-registran-signo-mixto-decepcionar-070424716.html",
+        "titulo_fuente": "Las Bolsas registran signo mixto tras decepcionar Alphabet con sus resultados",
+        "capturado": "2026-10-29T03:04:07-05:00"
       },
       {
-        "titulo": "Argentina ve ventaja para su harina de soja en reglas de deforestación de la UE que amenazan a Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/argentina-ve-oportunidad-harina-soja-140745588.html",
-        "titulo_fuente": "Argentina ve oportunidad para su harina soja en normas deforestación de UE que amenazan a Brasil",
-        "capturado": "2026-10-28T09:57:06-05:00"
+        "titulo": "Volkswagen reporta pérdidas por 5.800 millones debido a la competencia china",
+        "url": "https://es.finance.yahoo.com/noticias/volkswagen-registra-p%C3%A9rdidas-5-800-071334934.html",
+        "titulo_fuente": "Volkswagen pierde 5.800 millones por la competencia china",
+        "capturado": "2026-10-29T03:04:07-05:00"
       },
       {
-        "titulo": "Banco Mundial estima un alza del 23% en precios de materias primas para 2026 por guerra en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-prev%C3%A9-precios-materias-140631744.html",
-        "titulo_fuente": "Banco Mundial prevé que precios de materias primas suban 23% en 2026 por guerra en Oriente Medio",
-        "capturado": "2026-10-28T09:57:06-05:00"
+        "titulo": "Ministros de Energía de la UE discutirán el aumento del combustible ante la llegada del invierno",
+        "url": "https://es.finance.yahoo.com/noticias/ministros-energ%C3%ADa-ue-debatir%C3%A1n-alza-074923005.html",
+        "titulo_fuente": "Los ministros de Energía de la UE debatirán el alza de los combustibles ante la llegada del invierno",
+        "capturado": "2026-10-29T03:04:07-05:00"
       },
       {
-        "titulo": "Presupuesto del Reino Unido: los 5 aspectos clave del discurso del ministro de Finanzas",
-        "url": "https://es.finance.yahoo.com/noticias/presupuesto-reino-unido-5-claves-140135874.html",
-        "titulo_fuente": "Presupuesto del Reino Unido: las 5 claves del discurso del ministro de Finanzas",
-        "capturado": "2026-10-28T09:57:06-05:00"
+        "titulo": "La factura petrolera de la UE se incrementa un 56% pese a importar una cantidad casi idéntica",
+        "url": "https://es.finance.yahoo.com/noticias/factura-petrolera-europa-ue-paga-043007678.html",
+        "titulo_fuente": "La factura del petróleo se dispara un 56% en la UE pese a importar casi la misma cantidad",
+        "capturado": "2026-10-29T03:04:07-05:00"
       },
       {
-        "titulo": "Reino Unido otorga miles de millones de libras en ayudas a los hogares ante la crisis económica",
-        "url": "https://es.finance.yahoo.com/noticias/reino-unido-ofrece-miles-millones-135550796.html",
-        "titulo_fuente": "Reino Unido ofrece miles de millones de libras en ayudas a los hogares ante la crisis económica",
-        "capturado": "2026-10-28T09:57:06-05:00"
+        "titulo": "Airbus evalúa un nuevo caza europeo con Reino Unido, Japón e Italia luego del quiebre con Francia",
+        "url": "https://es.finance.yahoo.com/noticias/airbus-busca-acuerdo-caza-reino-051848696.html",
+        "titulo_fuente": "Airbus abre la puerta a un nuevo caza europeo con Reino Unido, Japón e Italia tras la ruptura con Francia",
+        "capturado": "2026-10-29T03:04:07-05:00"
       }
     ]
   }
