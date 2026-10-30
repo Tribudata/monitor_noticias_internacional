@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T23:34:44-05:00",
+  "actualizado": "2026-10-30T07:12:57-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Cómo el tren de alta velocidad español pasó de referente global a dos graves accidentes en menos de un año",
+        "url": "https://www.bbc.com/mundo/articles/cmz7x8xydzwgo",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Cómo el tren de alta velocidad de España pasó de ser un modelo mundial a sufrir dos terribles accidentes en menos de un año",
+        "capturado": "2026-10-30T07:12:57-05:00"
+      },
+      {
         "titulo": "El alza en el costo del combustible deja atrapados en Camboya a los usuarios de un crucero de alta gama",
         "url": "https://www.bbc.com/mundo/articles/ckly063z9lyeo",
         "publicacion": "2026-10-28",
@@ -67,13 +74,6 @@
         "publicacion": "PT6M57S",
         "titulo_fuente": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\", Duración 6,57",
         "capturado": "2026-10-22T09:52:59-05:00"
-      },
-      {
-        "titulo": "Qué implica el efecto bola de nieve de la deuda y su rol en la crisis económica que impulsa protestas en Francia",
-        "url": "https://www.bbc.com/mundo/articles/c65ynve23xj7o",
-        "publicacion": "2026-10-21",
-        "titulo_fuente": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
-        "capturado": "2026-10-21T04:08:35-05:00"
       }
     ],
     "Yahoo": [
