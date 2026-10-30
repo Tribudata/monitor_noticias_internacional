@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-29T17:28:16-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-29T23:34:44-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Ejecutivo colombiano propone iniciativa de reforma fiscal para reducir egresos y elevar ingresos",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-colombia-presenta-proyecto-reforma-232627737.html",
+        "titulo_fuente": "Gobierno de Colombia presenta proyecto de reforma fiscal para recortar gastos y aumentar ingresos",
+        "capturado": "2026-10-29T23:34:44-05:00"
+      },
+      {
         "titulo": "Actualización: Índices de EE. UU. caen luego de que flojos resultados de Alphabet afectaran comunicaciones",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210938000.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los decepcionantes resultados de Alphabet diezman los servicios de comunicación.",
@@ -99,12 +105,6 @@
         "titulo": "¿Binance sufre un hackeo? Retiro de 2 mil millones de dólares genera dudas sobre fondos de clientes",
         "url": "https://es.finance.yahoo.com/noticias/hackeando-binance-salida-2-mil-204922706.html",
         "titulo_fuente": "¿Está siendo hackeado Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes",
-        "capturado": "2026-10-29T17:28:16-05:00"
-      },
-      {
-        "titulo": "Coinbase logra ganancia sorpresa e insiders venderán 2 mil millones de dólares en acciones: ¿por qué ahora?",
-        "url": "https://es.finance.yahoo.com/noticias/coinbase-reporta-ganancia-sorpresa-insiders-203858827.html",
-        "titulo_fuente": "Coinbase reporta ganancia sorpresa mientras insiders planean venta de acciones por 2 mil millones de dólares: ¿por qué ahora?",
         "capturado": "2026-10-29T17:28:16-05:00"
       }
     ]
