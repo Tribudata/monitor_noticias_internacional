@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-30T13:59:31-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-30T18:28:38-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,33 +78,33 @@
     ],
     "Yahoo": [
       {
+        "titulo": "La IPO de Anthropic afronta un riesgo imprevisto: una calificación de grado basura",
+        "url": "https://es.finance.yahoo.com/noticias/ipo-anthropic-enfrenta-riesgo-inesperado-222600754.html",
+        "titulo_fuente": "La IPO de Anthropic enfrenta un riesgo inesperado: una nota de grado basura",
+        "capturado": "2026-10-30T18:28:38-05:00"
+      },
+      {
+        "titulo": "El valor del oro cae de los $3,900 y marca mínimo anual: ¿qué señalan los analistas?",
+        "url": "https://es.finance.yahoo.com/noticias/precio-oro-pierde-3-900-205500670.html",
+        "titulo_fuente": "El precio del oro pierde los $3,900 y registra mínimo anual: ¿Qué dicen los analistas?",
+        "capturado": "2026-10-30T18:28:38-05:00"
+      },
+      {
+        "titulo": "Bolsas estadounidenses cayeron esta semana: datos de hiperescaladoras opacaron alza por IPO de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-204054573.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana, ya que los decepcionantes resultados de las hiperescaladoras contrarrestaron las ganancias derivadas del impulso de la salida a bolsa de Anthropic.",
+        "capturado": "2026-10-30T18:28:38-05:00"
+      },
+      {
+        "titulo": "Actualización: bolsas de EE. UU. caen tras Intel, desatando venta masiva en chips de gran capitalización",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-202046786.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman tras los resultados de Intel, que provocan una venta masiva de acciones de los fabricantes de chips de gran capitalización.",
+        "capturado": "2026-10-30T18:28:38-05:00"
+      },
+      {
         "titulo": "El PIB de Francia disminuye 0,1% e incrementa la incertidumbre presupuestaria",
         "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-estanca-incertidumbre-presupuestaria-175552056.html",
         "titulo_fuente": "El PIB francés cae un 0,1% y agrava la incertidumbre presupuestaria",
-        "capturado": "2026-10-30T13:59:31-05:00"
-      },
-      {
-        "titulo": "El analista James Check sostiene que Bitcoin se torna aburrido y eso favorece su alza",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-volviendo-aburrido-raz%C3%B3n-alcista-180300003.html",
-        "titulo_fuente": "Bitcoin se está volviendo “aburrido” y esa es una razón alcista, dice el analista James Check",
-        "capturado": "2026-10-30T13:59:31-05:00"
-      },
-      {
-        "titulo": "Actualización: El Nasdaq cae 810 puntos tras baja de fabricantes de chips de gran capitalización por Intel",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-desploma-810-puntos-174623316.html",
-        "titulo_fuente": "Actualización: El Nasdaq se desploma 810 puntos tras la caída de los fabricantes de chips de gran capitalización después de los resultados de Intel.",
-        "capturado": "2026-10-30T13:59:31-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados en bolsa bajan al caer las acciones estadounidenses luego del mediodía del viernes",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172229663.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen tras el mediodía del viernes.",
-        "capturado": "2026-10-30T13:59:31-05:00"
-      },
-      {
-        "titulo": "Musalem de la Fed sostiene que resulta necesario elevar las tasas pronto",
-        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesario-subir-tasas-164927632.html",
-        "titulo_fuente": "Musalem, de la Fed, dice que es necesario subir las tasas \"pronto\"",
         "capturado": "2026-10-30T13:59:31-05:00"
       }
     ]
