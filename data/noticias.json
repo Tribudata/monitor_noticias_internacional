@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-30T07:12:57-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-30T13:59:31-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Ejecutivo colombiano propone iniciativa de reforma fiscal para reducir egresos y elevar ingresos",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-colombia-presenta-proyecto-reforma-232627737.html",
-        "titulo_fuente": "Gobierno de Colombia presenta proyecto de reforma fiscal para recortar gastos y aumentar ingresos",
-        "capturado": "2026-10-29T23:34:44-05:00"
+        "titulo": "El PIB de Francia disminuye 0,1% e incrementa la incertidumbre presupuestaria",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-estanca-incertidumbre-presupuestaria-175552056.html",
+        "titulo_fuente": "El PIB francés cae un 0,1% y agrava la incertidumbre presupuestaria",
+        "capturado": "2026-10-30T13:59:31-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. caen luego de que flojos resultados de Alphabet afectaran comunicaciones",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210938000.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los decepcionantes resultados de Alphabet diezman los servicios de comunicación.",
-        "capturado": "2026-10-29T17:28:16-05:00"
+        "titulo": "El analista James Check sostiene que Bitcoin se torna aburrido y eso favorece su alza",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-volviendo-aburrido-raz%C3%B3n-alcista-180300003.html",
+        "titulo_fuente": "Bitcoin se está volviendo “aburrido” y esa es una razón alcista, dice el analista James Check",
+        "capturado": "2026-10-30T13:59:31-05:00"
       },
       {
-        "titulo": "Liquidaciones cripto superan 628 millones de dólares en una hora y Bitcoin cae por temor a hack en Binance",
-        "url": "https://es.finance.yahoo.com/noticias/liquidaciones-cripto-superan-628-millones-210259727.html",
-        "titulo_fuente": "Las liquidaciones cripto superan los 628 millones de dólares en una hora mientras el miedo a un hack en Binance hunde el precio de Bitcoin",
-        "capturado": "2026-10-29T17:28:16-05:00"
+        "titulo": "Actualización: El Nasdaq cae 810 puntos tras baja de fabricantes de chips de gran capitalización por Intel",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-desploma-810-puntos-174623316.html",
+        "titulo_fuente": "Actualización: El Nasdaq se desploma 810 puntos tras la caída de los fabricantes de chips de gran capitalización después de los resultados de Intel.",
+        "capturado": "2026-10-30T13:59:31-05:00"
       },
       {
-        "titulo": "Volumen de stablecoins de Visa aumentó 10 veces en un año: ¿cuáles de ellas se benefician?",
-        "url": "https://es.finance.yahoo.com/noticias/volumen-stablecoins-visa-creci%C3%B3-10x-205800189.html",
-        "titulo_fuente": "Volumen de stablecoins de Visa creció 10x en un año: ¿Cuáles stablecoins se benefician?",
-        "capturado": "2026-10-29T17:28:16-05:00"
+        "titulo": "Los fondos cotizados en bolsa bajan al caer las acciones estadounidenses luego del mediodía del viernes",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172229663.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen tras el mediodía del viernes.",
+        "capturado": "2026-10-30T13:59:31-05:00"
       },
       {
-        "titulo": "¿Binance sufre un hackeo? Retiro de 2 mil millones de dólares genera dudas sobre fondos de clientes",
-        "url": "https://es.finance.yahoo.com/noticias/hackeando-binance-salida-2-mil-204922706.html",
-        "titulo_fuente": "¿Está siendo hackeado Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes",
-        "capturado": "2026-10-29T17:28:16-05:00"
+        "titulo": "Musalem de la Fed sostiene que resulta necesario elevar las tasas pronto",
+        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesario-subir-tasas-164927632.html",
+        "titulo_fuente": "Musalem, de la Fed, dice que es necesario subir las tasas \"pronto\"",
+        "capturado": "2026-10-30T13:59:31-05:00"
       }
     ]
   }
