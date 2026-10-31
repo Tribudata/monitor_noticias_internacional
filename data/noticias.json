@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-30T23:17:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-31T06:44:47-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Relevancia de Binance en América Latina e impacto del hackeo de US$6.300 millones en usuarios de la región",
+        "url": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
+        "capturado": "2026-10-31T06:44:47-05:00"
+      },
+      {
+        "titulo": "Ciberataque a Binance afecta US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
+        "url": "https://www.bbc.com/mundo/articles/cvze42lk562ko",
+        "publicacion": "2026-10-30",
+        "titulo_fuente": "Un hackeo a la empresa Binance afecta a US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
+        "capturado": "2026-10-31T06:44:47-05:00"
+      },
+      {
         "titulo": "Cómo el tren de alta velocidad español pasó de referente global a dos graves accidentes en menos de un año",
         "url": "https://www.bbc.com/mundo/articles/cmz7x8xydzwgo",
         "publicacion": "2026-10-30",
@@ -60,52 +74,38 @@
         "publicacion": "2026-10-24",
         "titulo_fuente": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
         "capturado": "2026-10-24T12:13:19-05:00"
-      },
-      {
-        "titulo": "Por qué el crecimiento de inyecciones para bajar de peso dinamiza las ventas de artículos para cuidar la piel",
-        "url": "https://www.bbc.com/mundo/articles/c699z39257zlo",
-        "publicacion": "2026-10-23",
-        "titulo_fuente": "Por qué el auge de las inyecciones para adelgazar está impulsando las ventas de productos para el cuidado de la piel",
-        "capturado": "2026-10-23T04:07:36-05:00"
-      },
-      {
-        "titulo": "Balance de la prueba de Bukele para transformar a El Salvador en la nación del bitcoin, Duración 6,57",
-        "url": "https://www.bbc.com/mundo/articles/cqn49jp9p1k0o",
-        "publicacion": "PT6M57S",
-        "titulo_fuente": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\", Duración 6,57",
-        "capturado": "2026-10-22T09:52:59-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "La IPO de Anthropic afronta un riesgo imprevisto: una calificación de grado basura",
-        "url": "https://es.finance.yahoo.com/noticias/ipo-anthropic-enfrenta-riesgo-inesperado-222600754.html",
-        "titulo_fuente": "La IPO de Anthropic enfrenta un riesgo inesperado: una nota de grado basura",
-        "capturado": "2026-10-30T18:28:38-05:00"
+        "titulo": "Así fue el ciberataque a Binance: investigación detallada del robo de $6 mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/ocurri%C3%B3-hack-binance-investigaci%C3%B3n-detallada-111700413.html",
+        "titulo_fuente": "¿Cómo ocurrió el hack de Binance? Investigación detallada del robo de $6 mil millones",
+        "capturado": "2026-10-31T06:44:47-05:00"
       },
       {
-        "titulo": "El valor del oro cae de los $3,900 y marca mínimo anual: ¿qué señalan los analistas?",
-        "url": "https://es.finance.yahoo.com/noticias/precio-oro-pierde-3-900-205500670.html",
-        "titulo_fuente": "El precio del oro pierde los $3,900 y registra mínimo anual: ¿Qué dicen los analistas?",
-        "capturado": "2026-10-30T18:28:38-05:00"
+        "titulo": "No puedo seguir siendo neutral: Lagarde explica la razón de su salida anticipada del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/puedo-seguir-neutral-lagarde-explica-154507142.html",
+        "titulo_fuente": "\"No puedo seguir siendo neutral\": Lagarde explica por fin su salida anticipada del BCE",
+        "capturado": "2026-10-31T06:44:47-05:00"
       },
       {
-        "titulo": "Bolsas estadounidenses cayeron esta semana: datos de hiperescaladoras opacaron alza por IPO de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-204054573.html",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana, ya que los decepcionantes resultados de las hiperescaladoras contrarrestaron las ganancias derivadas del impulso de la salida a bolsa de Anthropic.",
-        "capturado": "2026-10-30T18:28:38-05:00"
+        "titulo": "Tres altcoins con potencial de alcanzar un ATH este fin de semana",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-registrar-ath-092000582.html",
+        "titulo_fuente": "Top 3 altcoins que podrían registrar ATH este fin de semana",
+        "capturado": "2026-10-31T06:44:47-05:00"
       },
       {
-        "titulo": "Actualización: bolsas de EE. UU. caen tras Intel, desatando venta masiva en chips de gran capitalización",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-202046786.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman tras los resultados de Intel, que provocan una venta masiva de acciones de los fabricantes de chips de gran capitalización.",
-        "capturado": "2026-10-30T18:28:38-05:00"
+        "titulo": "¿Qué proporción de sus ingresos destinan los europeos a vivienda? Países con mayor sobrecarga",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-europa-destina-40-renta-054639635.html",
+        "titulo_fuente": "¿Qué parte de sus ingresos destinan los europeos a la vivienda? Los países con mayor sobrecarga",
+        "capturado": "2026-10-31T06:44:47-05:00"
       },
       {
-        "titulo": "El PIB de Francia disminuye 0,1% e incrementa la incertidumbre presupuestaria",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-estanca-incertidumbre-presupuestaria-175552056.html",
-        "titulo_fuente": "El PIB francés cae un 0,1% y agrava la incertidumbre presupuestaria",
-        "capturado": "2026-10-30T13:59:31-05:00"
+        "titulo": "Fitch conserva la calificación de la deuda de Francia pero reduce su perspectiva a negativa",
+        "url": "https://es.finance.yahoo.com/noticias/fitch-mantiene-nota-deuda-francesa-062711853.html",
+        "titulo_fuente": "Fitch mantiene la calificación de la deuda francesa, pero rebaja su perspectiva a negativa",
+        "capturado": "2026-10-31T06:44:47-05:00"
       }
     ]
   }
