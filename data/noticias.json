@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-31T11:52:38-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-31T16:02:04-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Pi Network efectúa 4 modificaciones antes de su principal impulso en el ecosistema",
+        "url": "https://es.finance.yahoo.com/noticias/pi-network-realiza-4-cambios-194100495.html",
+        "titulo_fuente": "Pi Network realiza 4 cambios antes de su mayor impulso en el ecosistema",
+        "capturado": "2026-10-31T16:02:04-05:00"
+      },
+      {
+        "titulo": "Fuentes señalan que OPEP+ pacta en principio mantener sin ajustes las metas de bombeo de crudo en diciembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
+        "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
+        "capturado": "2026-10-31T16:02:04-05:00"
+      },
+      {
+        "titulo": "Chainalysis la empresa que persigue hackers de criptomonedas padece un ciberataque con agentes de IA",
+        "url": "https://es.finance.yahoo.com/noticias/chainalysis-firma-caza-hackers-criptomonedas-175200076.html",
+        "titulo_fuente": "Chainalysis, la firma que caza hackers de criptomonedas, sufre hack con agentes de IA",
+        "capturado": "2026-10-31T16:02:04-05:00"
+      },
+      {
+        "titulo": "Petrolera estadounidense NABEP indica que disminuirá la flota venezolana a 41 plataformas en noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-reducir%C3%A1-flota-170623059.html",
+        "titulo_fuente": "Petrolera estadounidense NABEP dice reducirá la flota venezolana a 41 plataformas en noviembre",
+        "capturado": "2026-10-31T16:02:04-05:00"
+      },
+      {
         "titulo": "Halloween rivaliza con Nochevieja como la fecha de mayor rentabilidad anual en España",
         "url": "https://es.finance.yahoo.com/noticias/halloween-dispara-29-negocio-ocio-152452279.html",
         "titulo_fuente": "Halloween desafía a Nochevieja como la noche más rentable del año en España",
         "capturado": "2026-10-31T11:52:38-05:00"
-      },
-      {
-        "titulo": "Inversores sacan $643 millones de ETF spot de Bitcoin tras el mayor hackeo de criptomonedas de la historia",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-retiran-643-millones-etf-150300948.html",
-        "titulo_fuente": "Inversores retiran $643 millones de los ETF spot de Bitcoin tras el mayor hack de criptomonedas de la historia",
-        "capturado": "2026-10-31T11:52:38-05:00"
-      },
-      {
-        "titulo": "Según Deutsche Bank llegó el dólar IA: así impactaría a Bitcoin y al oro",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3lar-ia-deutsche-bank-afectar-130800640.html",
-        "titulo_fuente": "El “dólar IA” llegó, según Deutsche Bank: así podría afectar a Bitcoin y al oro",
-        "capturado": "2026-10-31T11:52:38-05:00"
-      },
-      {
-        "titulo": "Así fue el ciberataque a Binance: investigación detallada del robo de $6 mil millones",
-        "url": "https://es.finance.yahoo.com/noticias/ocurri%C3%B3-hack-binance-investigaci%C3%B3n-detallada-111700413.html",
-        "titulo_fuente": "¿Cómo ocurrió el hack de Binance? Investigación detallada del robo de $6 mil millones",
-        "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
-        "titulo": "No puedo seguir siendo neutral: Lagarde explica la razón de su salida anticipada del BCE",
-        "url": "https://es.finance.yahoo.com/noticias/puedo-seguir-neutral-lagarde-explica-154507142.html",
-        "titulo_fuente": "\"No puedo seguir siendo neutral\": Lagarde explica por fin su salida anticipada del BCE",
-        "capturado": "2026-10-31T06:44:47-05:00"
       }
     ]
   }
