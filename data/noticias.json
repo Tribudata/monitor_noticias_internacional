@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-31T06:44:47-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-31T11:52:38-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Halloween rivaliza con Nochevieja como la fecha de mayor rentabilidad anual en España",
+        "url": "https://es.finance.yahoo.com/noticias/halloween-dispara-29-negocio-ocio-152452279.html",
+        "titulo_fuente": "Halloween desafía a Nochevieja como la noche más rentable del año en España",
+        "capturado": "2026-10-31T11:52:38-05:00"
+      },
+      {
+        "titulo": "Inversores sacan $643 millones de ETF spot de Bitcoin tras el mayor hackeo de criptomonedas de la historia",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-retiran-643-millones-etf-150300948.html",
+        "titulo_fuente": "Inversores retiran $643 millones de los ETF spot de Bitcoin tras el mayor hack de criptomonedas de la historia",
+        "capturado": "2026-10-31T11:52:38-05:00"
+      },
+      {
+        "titulo": "Según Deutsche Bank llegó el dólar IA: así impactaría a Bitcoin y al oro",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3lar-ia-deutsche-bank-afectar-130800640.html",
+        "titulo_fuente": "El “dólar IA” llegó, según Deutsche Bank: así podría afectar a Bitcoin y al oro",
+        "capturado": "2026-10-31T11:52:38-05:00"
+      },
+      {
         "titulo": "Así fue el ciberataque a Binance: investigación detallada del robo de $6 mil millones",
         "url": "https://es.finance.yahoo.com/noticias/ocurri%C3%B3-hack-binance-investigaci%C3%B3n-detallada-111700413.html",
         "titulo_fuente": "¿Cómo ocurrió el hack de Binance? Investigación detallada del robo de $6 mil millones",
@@ -87,24 +105,6 @@
         "titulo": "No puedo seguir siendo neutral: Lagarde explica la razón de su salida anticipada del BCE",
         "url": "https://es.finance.yahoo.com/noticias/puedo-seguir-neutral-lagarde-explica-154507142.html",
         "titulo_fuente": "\"No puedo seguir siendo neutral\": Lagarde explica por fin su salida anticipada del BCE",
-        "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
-        "titulo": "Tres altcoins con potencial de alcanzar un ATH este fin de semana",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-registrar-ath-092000582.html",
-        "titulo_fuente": "Top 3 altcoins que podrían registrar ATH este fin de semana",
-        "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
-        "titulo": "¿Qué proporción de sus ingresos destinan los europeos a vivienda? Países con mayor sobrecarga",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-europa-destina-40-renta-054639635.html",
-        "titulo_fuente": "¿Qué parte de sus ingresos destinan los europeos a la vivienda? Los países con mayor sobrecarga",
-        "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
-        "titulo": "Fitch conserva la calificación de la deuda de Francia pero reduce su perspectiva a negativa",
-        "url": "https://es.finance.yahoo.com/noticias/fitch-mantiene-nota-deuda-francesa-062711853.html",
-        "titulo_fuente": "Fitch mantiene la calificación de la deuda francesa, pero rebaja su perspectiva a negativa",
         "capturado": "2026-10-31T06:44:47-05:00"
       }
     ]
