@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-31T16:02:04-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-31T19:42:57-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,18 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Por qué el siguiente récord histórico de Bitcoin luce distante tras el hackeo a Binance",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A1ximo-hist%C3%B3rico-bitcoin-lejano-hack-232200863.html",
+        "titulo_fuente": "¿Por qué el próximo máximo histórico de Bitcoin parece lejano tras el hack de Binance?",
+        "capturado": "2026-10-31T19:42:57-05:00"
+      },
+      {
+        "titulo": "A 18 años de la paradoja de Satoshi: ¿logrará Bitcoin resistir lo que viene?",
+        "url": "https://es.finance.yahoo.com/noticias/18-a%C3%B1os-paradoja-satoshi-bitcoin-214455731.html",
+        "titulo_fuente": "18 años de la paradoja de Satoshi: ¿Podrá Bitcoin sobrevivir a lo que viene?",
+        "capturado": "2026-10-31T19:42:57-05:00"
+      },
+      {
         "titulo": "Pi Network efectúa 4 modificaciones antes de su principal impulso en el ecosistema",
         "url": "https://es.finance.yahoo.com/noticias/pi-network-realiza-4-cambios-194100495.html",
         "titulo_fuente": "Pi Network realiza 4 cambios antes de su mayor impulso en el ecosistema",
@@ -94,18 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/chainalysis-firma-caza-hackers-criptomonedas-175200076.html",
         "titulo_fuente": "Chainalysis, la firma que caza hackers de criptomonedas, sufre hack con agentes de IA",
         "capturado": "2026-10-31T16:02:04-05:00"
-      },
-      {
-        "titulo": "Petrolera estadounidense NABEP indica que disminuirá la flota venezolana a 41 plataformas en noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-reducir%C3%A1-flota-170623059.html",
-        "titulo_fuente": "Petrolera estadounidense NABEP dice reducirá la flota venezolana a 41 plataformas en noviembre",
-        "capturado": "2026-10-31T16:02:04-05:00"
-      },
-      {
-        "titulo": "Halloween rivaliza con Nochevieja como la fecha de mayor rentabilidad anual en España",
-        "url": "https://es.finance.yahoo.com/noticias/halloween-dispara-29-negocio-ocio-152452279.html",
-        "titulo_fuente": "Halloween desafía a Nochevieja como la noche más rentable del año en España",
-        "capturado": "2026-10-31T11:52:38-05:00"
       }
     ]
   }
