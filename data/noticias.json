@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-01T11:35:50-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-01T16:43:58-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "La crianza intensiva dejó de ser una práctica exclusiva de los ricos",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+        "publicacion": "Sun, 01 Nov 2026 16:08:43 +0000",
+        "titulo_fuente": "Intensive parenting is no longer the preserve of the rich",
+        "capturado": "2026-11-01T16:43:58-05:00"
+      },
       {
         "titulo": "Christine Lagarde deja su cargo en un momento de gran peligro",
         "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
         "publicacion": "Thu, 29 Oct 2026 10:06:28 +0000",
         "titulo_fuente": "The task facing the new head of India’s biggest private bank",
-        "capturado": "2026-10-29T11:37:53-05:00"
-      },
-      {
-        "titulo": "Haga caso omiso a la AI y solicite ese aumento salarial",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
-        "publicacion": "Thu, 29 Oct 2026 09:47:49 +0000",
-        "titulo_fuente": "Ignore AI and ask for that pay rise",
         "capturado": "2026-10-29T11:37:53-05:00"
       }
     ],
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "¿Resulta seguro Coinbase tras el masivo ciberataque a Binance?",
+        "url": "https://es.finance.yahoo.com/noticias/seguro-coinbase-monumental-hack-binance-210000377.html",
+        "titulo_fuente": "¿Es seguro Coinbase tras el monumental hack de Binance?",
+        "capturado": "2026-11-01T16:43:58-05:00"
+      },
+      {
+        "titulo": "Impacto Lula: la bolsa de Brasil vive su peor mes desde 2022 y el dólar sube fuerte",
+        "url": "https://es.finance.yahoo.com/noticias/efecto-lula-bolsa-brasile%C3%B1a-peor-173600143.html",
+        "titulo_fuente": "Efecto Lula: La bolsa brasileña tiene su peor mes desde 2022 y el dólar se dispara",
+        "capturado": "2026-11-01T16:43:58-05:00"
+      },
+      {
+        "titulo": "Bitwise aumenta su proyección para Bitcoin a 1,6 millones de dólares en 2036",
+        "url": "https://es.finance.yahoo.com/noticias/bitwise-eleva-previsi%C3%B3n-bitcoin-1-170007541.html",
+        "titulo_fuente": "Bitwise eleva su previsión para Bitcoin hasta 1,6 millones de dólares en 2036",
+        "capturado": "2026-11-01T16:43:58-05:00"
+      },
+      {
         "titulo": "¿Quién definirá sus elecciones de inversión para el 2027?",
         "url": "https://es.finance.yahoo.com/noticias/tomar%C3%A1-tus-decisiones-inversi%C3%B3n-2027-151300401.html",
         "titulo_fuente": "¿Quién tomará tus decisiones de inversión en 2027?",
@@ -87,24 +105,6 @@
         "titulo": "OPEP+ sostiene sin modificaciones las metas de producción de crudo para diciembre",
         "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
         "titulo_fuente": "OPEP+ mantiene sin cambios objetivos de producción de crudo para diciembre",
-        "capturado": "2026-11-01T11:35:50-05:00"
-      },
-      {
-        "titulo": "Millonario afirma que GTA 6 le ahorraría $5,000: ¿de qué manera?",
-        "url": "https://es.finance.yahoo.com/noticias/millonario-gta-6-ahorrarte-5-125554942.html",
-        "titulo_fuente": "Millonario dice que GTA 6 podría ahorrarte $5,000: ¿Cómo?",
-        "capturado": "2026-11-01T11:35:50-05:00"
-      },
-      {
-        "titulo": "Binance reactiva retiros de criptomonedas tras hackeo récord: 95% de pérdidas están cubiertas",
-        "url": "https://es.finance.yahoo.com/noticias/binance-reanuda-retiros-criptomonedas-hack-114657116.html",
-        "titulo_fuente": "Binance reanuda los retiros de criptomonedas tras hack récord: el 95% de las pérdidas están cubiertas",
-        "capturado": "2026-11-01T11:35:50-05:00"
-      },
-      {
-        "titulo": "Tom Lee plantea que un solo inversionista podría estar tras la caída accionaria del Nasdaq",
-        "url": "https://es.finance.yahoo.com/noticias/tom-lee-cree-inversor-detr%C3%A1s-093800998.html",
-        "titulo_fuente": "Tom Lee cree que un solo inversor podría estar detrás de la caída de las acciones del Nasdaq",
         "capturado": "2026-11-01T11:35:50-05:00"
       }
     ]
