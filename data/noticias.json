@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-31T19:42:57-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-01T03:45:38-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Expertos aconsejan inversión y sectores estratégicos para la economía europea frente a China y EE.UU.",
+        "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-sectores-clave-receta-expertos-040026423.html",
+        "titulo_fuente": "Inversión y sectores clave: La receta de los expertos para la economía europea frente a China y EE.UU.",
+        "capturado": "2026-11-01T03:45:38-05:00"
+      },
+      {
         "titulo": "Por qué el siguiente récord histórico de Bitcoin luce distante tras el hackeo a Binance",
         "url": "https://es.finance.yahoo.com/noticias/m%C3%A1ximo-hist%C3%B3rico-bitcoin-lejano-hack-232200863.html",
         "titulo_fuente": "¿Por qué el próximo máximo histórico de Bitcoin parece lejano tras el hack de Binance?",
@@ -99,12 +105,6 @@
         "titulo": "Fuentes señalan que OPEP+ pacta en principio mantener sin ajustes las metas de bombeo de crudo en diciembre",
         "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
         "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
-        "capturado": "2026-10-31T16:02:04-05:00"
-      },
-      {
-        "titulo": "Chainalysis la empresa que persigue hackers de criptomonedas padece un ciberataque con agentes de IA",
-        "url": "https://es.finance.yahoo.com/noticias/chainalysis-firma-caza-hackers-criptomonedas-175200076.html",
-        "titulo_fuente": "Chainalysis, la firma que caza hackers de criptomonedas, sufre hack con agentes de IA",
         "capturado": "2026-10-31T16:02:04-05:00"
       }
     ]
