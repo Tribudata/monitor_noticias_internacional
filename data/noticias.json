@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T03:45:38-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-01T11:35:50-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
+        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
+        "capturado": "2026-11-01T11:35:50-05:00"
+      },
+      {
         "titulo": "Relevancia de Binance en América Latina e impacto del hackeo de US$6.300 millones en usuarios de la región",
         "url": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko",
         "publicacion": "2026-10-30",
@@ -67,45 +74,38 @@
         "publicacion": "2026-10-28",
         "titulo_fuente": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
         "capturado": "2026-10-29T03:04:07-05:00"
-      },
-      {
-        "titulo": "Justicia argentina exonera al presidente Javier Milei y su hermana Karina en escándalo de criptomoneda $LIBRA",
-        "url": "https://www.bbc.com/mundo/articles/cq62y3xz365ko",
-        "publicacion": "2026-10-24",
-        "titulo_fuente": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
-        "capturado": "2026-10-24T12:13:19-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Expertos aconsejan inversión y sectores estratégicos para la economía europea frente a China y EE.UU.",
-        "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-sectores-clave-receta-expertos-040026423.html",
-        "titulo_fuente": "Inversión y sectores clave: La receta de los expertos para la economía europea frente a China y EE.UU.",
-        "capturado": "2026-11-01T03:45:38-05:00"
+        "titulo": "¿Quién definirá sus elecciones de inversión para el 2027?",
+        "url": "https://es.finance.yahoo.com/noticias/tomar%C3%A1-tus-decisiones-inversi%C3%B3n-2027-151300401.html",
+        "titulo_fuente": "¿Quién tomará tus decisiones de inversión en 2027?",
+        "capturado": "2026-11-01T11:35:50-05:00"
       },
       {
-        "titulo": "Por qué el siguiente récord histórico de Bitcoin luce distante tras el hackeo a Binance",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A1ximo-hist%C3%B3rico-bitcoin-lejano-hack-232200863.html",
-        "titulo_fuente": "¿Por qué el próximo máximo histórico de Bitcoin parece lejano tras el hack de Binance?",
-        "capturado": "2026-10-31T19:42:57-05:00"
+        "titulo": "OPEP+ sostiene sin modificaciones las metas de producción de crudo para diciembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
+        "titulo_fuente": "OPEP+ mantiene sin cambios objetivos de producción de crudo para diciembre",
+        "capturado": "2026-11-01T11:35:50-05:00"
       },
       {
-        "titulo": "A 18 años de la paradoja de Satoshi: ¿logrará Bitcoin resistir lo que viene?",
-        "url": "https://es.finance.yahoo.com/noticias/18-a%C3%B1os-paradoja-satoshi-bitcoin-214455731.html",
-        "titulo_fuente": "18 años de la paradoja de Satoshi: ¿Podrá Bitcoin sobrevivir a lo que viene?",
-        "capturado": "2026-10-31T19:42:57-05:00"
+        "titulo": "Millonario afirma que GTA 6 le ahorraría $5,000: ¿de qué manera?",
+        "url": "https://es.finance.yahoo.com/noticias/millonario-gta-6-ahorrarte-5-125554942.html",
+        "titulo_fuente": "Millonario dice que GTA 6 podría ahorrarte $5,000: ¿Cómo?",
+        "capturado": "2026-11-01T11:35:50-05:00"
       },
       {
-        "titulo": "Pi Network efectúa 4 modificaciones antes de su principal impulso en el ecosistema",
-        "url": "https://es.finance.yahoo.com/noticias/pi-network-realiza-4-cambios-194100495.html",
-        "titulo_fuente": "Pi Network realiza 4 cambios antes de su mayor impulso en el ecosistema",
-        "capturado": "2026-10-31T16:02:04-05:00"
+        "titulo": "Binance reactiva retiros de criptomonedas tras hackeo récord: 95% de pérdidas están cubiertas",
+        "url": "https://es.finance.yahoo.com/noticias/binance-reanuda-retiros-criptomonedas-hack-114657116.html",
+        "titulo_fuente": "Binance reanuda los retiros de criptomonedas tras hack récord: el 95% de las pérdidas están cubiertas",
+        "capturado": "2026-11-01T11:35:50-05:00"
       },
       {
-        "titulo": "Fuentes señalan que OPEP+ pacta en principio mantener sin ajustes las metas de bombeo de crudo en diciembre",
-        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
-        "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
-        "capturado": "2026-10-31T16:02:04-05:00"
+        "titulo": "Tom Lee plantea que un solo inversionista podría estar tras la caída accionaria del Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/tom-lee-cree-inversor-detr%C3%A1s-093800998.html",
+        "titulo_fuente": "Tom Lee cree que un solo inversor podría estar detrás de la caída de las acciones del Nasdaq",
+        "capturado": "2026-11-01T11:35:50-05:00"
       }
     ]
   }
