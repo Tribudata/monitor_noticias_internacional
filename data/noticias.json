@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-01T20:17:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-02T03:55:09-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "¿Resulta seguro Coinbase tras el masivo ciberataque a Binance?",
-        "url": "https://es.finance.yahoo.com/noticias/seguro-coinbase-monumental-hack-binance-210000377.html",
-        "titulo_fuente": "¿Es seguro Coinbase tras el monumental hack de Binance?",
-        "capturado": "2026-11-01T16:43:58-05:00"
+        "titulo": "Merlin Properties capta 4.000 millones de euros en financiación corporativa",
+        "url": "https://es.finance.yahoo.com/noticias/merlin-properties-consigue-financiaci%C3%B3n-corporativa-083622220.html",
+        "titulo_fuente": "Merlin Properties consigue financiación corporativa por valor de 4.000 millones de euros.",
+        "capturado": "2026-11-02T03:55:09-05:00"
       },
       {
-        "titulo": "Impacto Lula: la bolsa de Brasil vive su peor mes desde 2022 y el dólar sube fuerte",
-        "url": "https://es.finance.yahoo.com/noticias/efecto-lula-bolsa-brasile%C3%B1a-peor-173600143.html",
-        "titulo_fuente": "Efecto Lula: La bolsa brasileña tiene su peor mes desde 2022 y el dólar se dispara",
-        "capturado": "2026-11-01T16:43:58-05:00"
+        "titulo": "Europa busca minerales críticos en Asia Central y productores fomentan el procesamiento local",
+        "url": "https://es.finance.yahoo.com/noticias/europa-busca-minerales-cr%C3%ADticos-asia-082605433.html",
+        "titulo_fuente": "Europa busca minerales críticos en Asia Central y los productores impulsan el procesado local",
+        "capturado": "2026-11-02T03:55:09-05:00"
       },
       {
-        "titulo": "Bitwise aumenta su proyección para Bitcoin a 1,6 millones de dólares en 2036",
-        "url": "https://es.finance.yahoo.com/noticias/bitwise-eleva-previsi%C3%B3n-bitcoin-1-170007541.html",
-        "titulo_fuente": "Bitwise eleva su previsión para Bitcoin hasta 1,6 millones de dólares en 2036",
-        "capturado": "2026-11-01T16:43:58-05:00"
+        "titulo": "RBC reajusta precio objetivo y proyecciones de CaixaBank luego de sus resultados del tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-precio-objetivo-estimaciones-072305437.html",
+        "titulo_fuente": "RBC actualiza el precio objetivo y las estimaciones para CaixaBank tras los resultados del tercer trimestre.",
+        "capturado": "2026-11-02T03:55:09-05:00"
       },
       {
-        "titulo": "¿Quién definirá sus elecciones de inversión para el 2027?",
-        "url": "https://es.finance.yahoo.com/noticias/tomar%C3%A1-tus-decisiones-inversi%C3%B3n-2027-151300401.html",
-        "titulo_fuente": "¿Quién tomará tus decisiones de inversión en 2027?",
-        "capturado": "2026-11-01T11:35:50-05:00"
+        "titulo": "Plantas textiles de Bangladés reabren tras protestas por sueldos que mantienen en tensión al sector",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1bricas-textiles-banglad%C3%A9s-reabren-protestas-072136415.html",
+        "titulo_fuente": "Fábricas textiles de Bangladés reabren tras protestas salariales que mantienen al sector en vilo",
+        "capturado": "2026-11-02T03:55:09-05:00"
       },
       {
-        "titulo": "OPEP+ sostiene sin modificaciones las metas de producción de crudo para diciembre",
-        "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
-        "titulo_fuente": "OPEP+ mantiene sin cambios objetivos de producción de crudo para diciembre",
-        "capturado": "2026-11-01T11:35:50-05:00"
+        "titulo": "Goldman Sachs sube sus proyecciones del valor del crudo y calcula que el Brent alcanzará 140 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-eleva-previsiones-precio-071852074.html",
+        "titulo_fuente": "Goldman Sachs eleva sus previsiones del precio del crudo y prevé que el Brent llegue a 140 dólares",
+        "capturado": "2026-11-02T03:55:09-05:00"
       }
     ]
   }
