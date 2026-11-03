@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-02T21:10:47-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-03T06:38:50-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
       {
@@ -41,20 +41,6 @@
     ],
     "BBC": [
       {
-        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
-        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-        "capturado": "2026-11-01T11:35:50-05:00"
-      },
-      {
-        "titulo": "Relevancia de Binance en América Latina e impacto del hackeo de US$6.300 millones en usuarios de la región",
-        "url": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
-        "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
         "titulo": "Ciberataque a Binance afecta US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
         "url": "https://www.bbc.com/mundo/articles/cvze42lk562ko",
         "publicacion": "2026-10-30",
@@ -62,50 +48,64 @@
         "capturado": "2026-10-31T06:44:47-05:00"
       },
       {
-        "titulo": "Cómo el tren de alta velocidad español pasó de referente global a dos graves accidentes en menos de un año",
-        "url": "https://www.bbc.com/mundo/articles/cmz7x8xydzwgo",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Cómo el tren de alta velocidad de España pasó de ser un modelo mundial a sufrir dos terribles accidentes en menos de un año",
-        "capturado": "2026-10-30T07:12:57-05:00"
+        "titulo": "8 gráficas ilustran por qué las elecciones intermedias perjudican a Trump y qué está en disputa",
+        "url": "https://www.bbc.com/mundo/articles/cq5ynzzkxeymo",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "8 gráficos que muestran por qué las elecciones de medio mandato llegan en mal momento para Trump y qué hay en juego",
+        "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "El alza en el costo del combustible deja atrapados en Camboya a los usuarios de un crucero de alta gama",
-        "url": "https://www.bbc.com/mundo/articles/ckly063z9lyeo",
-        "publicacion": "2026-10-28",
-        "titulo_fuente": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
-        "capturado": "2026-10-29T03:04:07-05:00"
+        "titulo": "En gráficas: ¿cómo marcha en verdad la economía de EE. UU. en el mandato de Trump?, Duración 6,56",
+        "url": "https://www.bbc.com/mundo/watch/cw33x0zz1pj3o",
+        "publicacion": "PT6M56S",
+        "titulo_fuente": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump?, Duración 6,56",
+        "capturado": "2026-11-03T06:38:50-05:00"
+      },
+      {
+        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
+        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
+        "capturado": "2026-11-01T11:35:50-05:00"
+      },
+      {
+        "titulo": "Selló la frontera pero vivimos peor: molestia de votantes latinos con apoyo histórico a Trump en sur de Texas",
+        "url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo",
+        "publicacion": "2026-11-02",
+        "titulo_fuente": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
+        "capturado": "2026-11-03T06:38:50-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Índices bursátiles de EE. UU. suben tras caída del crudo y rendimientos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-191826313.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de la caída del petróleo crudo y los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-02T14:58:57-05:00"
+        "titulo": "Títulos tecnológicos suben tras reporte de Apple del tercer trimestre previo a Wall Street; Asia y Europa caen",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-tecnol%C3%B3gicas-repuntan-informe-tercer-110938867.html",
+        "titulo_fuente": "Las acciones tecnológicas repuntan tras el informe del tercer trimestre de Apple en Wall Street antes de la apertura; Asia y Europa retroceden.",
+        "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "Automotrices piden al Congreso de EE. UU. aprobar el veto permanente a vehículos chinos",
-        "url": "https://es.finance.yahoo.com/noticias/automotrices-instan-congreso-eeuu-aprobar-185716930.html",
-        "titulo_fuente": "Automotrices instan al Congreso de EEUU a aprobar una prohibición permanente a los vehículos chinos",
-        "capturado": "2026-11-02T14:58:57-05:00"
+        "titulo": "El oro baja por temores sobre inflación, con la atención en las elecciones de EEUU",
+        "url": "https://es.finance.yahoo.com/noticias/oro-cae-temores-inflaci%C3%B3n-foco-104104511.html",
+        "titulo_fuente": "Oro cae por temores sobre inflación, con foco en elecciones en EEUU",
+        "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "Wall Street registra la mayor rotación entre sectores desde la burbuja puntocom",
-        "url": "https://es.finance.yahoo.com/noticias/wall-street-vive-rotaci%C3%B3n-sectorial-184007205.html",
-        "titulo_fuente": "Wall Street vive su mayor rotación sectorial desde la burbuja puntocom",
-        "capturado": "2026-11-02T14:58:57-05:00"
+        "titulo": "La zona euro arranca la carrera para relevar a Lagarde en la presidencia del Banco Central Europeo",
+        "url": "https://es.finance.yahoo.com/noticias/eurozona-inicia-carrera-suceder-lagarde-101131204.html",
+        "titulo_fuente": "La eurozona inicia la carrera para sustituir a Lagarde en la presidencia del Banco Central Europeo",
+        "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "Fondos cotizados en bolsa suben tras el repunte de las acciones de EE. UU. después del mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-182141378.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan después del mediodía.",
-        "capturado": "2026-11-02T14:58:57-05:00"
+        "titulo": "Lufthansa reporta facturación trimestral récord a pesar del encarecimiento del combustible",
+        "url": "https://es.finance.yahoo.com/noticias/lufthansa-logra-r%C3%A9cord-ingresos-pese-100628967.html",
+        "titulo_fuente": "Lufthansa logra un récord de ingresos trimestrales pese al encarecimiento del combustible",
+        "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "American Airlines repunta en el mercado bursátil ante la bajada del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/american-airlines-dispara-bolsa-ca%C3%ADda-182009941.html",
-        "titulo_fuente": "American Airlines se dispara en bolsa por la caída del petróleo",
-        "capturado": "2026-11-02T14:58:57-05:00"
+        "titulo": "¿Se avecina un repunte de alivio para XRP? Esto indican los datos de wallets y el sentimiento del mercado",
+        "url": "https://es.finance.yahoo.com/noticias/acerca-rally-alivio-xrp-datos-085000141.html",
+        "titulo_fuente": "¿Se acerca un rally de alivio para XRP? Esto dicen los datos de wallets y el sentimiento del mercado",
+        "capturado": "2026-11-03T06:38:50-05:00"
       }
     ]
   }
