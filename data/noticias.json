@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-03T06:38:50-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-03T14:07:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -62,50 +62,50 @@
         "capturado": "2026-11-03T06:38:50-05:00"
       },
       {
-        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
-        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-        "capturado": "2026-11-01T11:35:50-05:00"
-      },
-      {
         "titulo": "Selló la frontera pero vivimos peor: molestia de votantes latinos con apoyo histórico a Trump en sur de Texas",
         "url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo",
         "publicacion": "2026-11-02",
         "titulo_fuente": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
         "capturado": "2026-11-03T06:38:50-05:00"
+      },
+      {
+        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
+        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
+        "publicacion": "2026-11-01",
+        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
+        "capturado": "2026-11-01T11:35:50-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Títulos tecnológicos suben tras reporte de Apple del tercer trimestre previo a Wall Street; Asia y Europa caen",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-tecnol%C3%B3gicas-repuntan-informe-tercer-110938867.html",
-        "titulo_fuente": "Las acciones tecnológicas repuntan tras el informe del tercer trimestre de Apple en Wall Street antes de la apertura; Asia y Europa retroceden.",
-        "capturado": "2026-11-03T06:38:50-05:00"
+        "titulo": "Perú revela plan de carga marítima para garantizar exportaciones ante los impactos de El Niño",
+        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
+        "titulo_fuente": "Perú anuncia plan de transporte marítimo para asegurar exportaciones pese a efectos de El Niño",
+        "capturado": "2026-11-03T14:07:01-05:00"
       },
       {
-        "titulo": "El oro baja por temores sobre inflación, con la atención en las elecciones de EEUU",
-        "url": "https://es.finance.yahoo.com/noticias/oro-cae-temores-inflaci%C3%B3n-foco-104104511.html",
-        "titulo_fuente": "Oro cae por temores sobre inflación, con foco en elecciones en EEUU",
-        "capturado": "2026-11-03T06:38:50-05:00"
+        "titulo": "Fondos cotizados ganan terreno mientras la bolsa de EEUU muestra desempeño mixto a mitad del día",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-suben-bolsa-estadounidense-181052345.html",
+        "titulo_fuente": "Los fondos cotizados suben, mientras que la bolsa estadounidense presenta resultados mixtos al mediodía",
+        "capturado": "2026-11-03T14:07:01-05:00"
       },
       {
-        "titulo": "La zona euro arranca la carrera para relevar a Lagarde en la presidencia del Banco Central Europeo",
-        "url": "https://es.finance.yahoo.com/noticias/eurozona-inicia-carrera-suceder-lagarde-101131204.html",
-        "titulo_fuente": "La eurozona inicia la carrera para sustituir a Lagarde en la presidencia del Banco Central Europeo",
-        "capturado": "2026-11-03T06:38:50-05:00"
+        "titulo": "Portugal sella la venta parcial de TAP a Lufthansa resguardando su identidad portuguesa",
+        "url": "https://es.finance.yahoo.com/noticias/portugal-firma-venta-parcial-tap-180401775.html",
+        "titulo_fuente": "Portugal firma la venta parcial de TAP a Lufthansa y garantiza su identidad portuguesa",
+        "capturado": "2026-11-03T14:07:01-05:00"
       },
       {
-        "titulo": "Lufthansa reporta facturación trimestral récord a pesar del encarecimiento del combustible",
-        "url": "https://es.finance.yahoo.com/noticias/lufthansa-logra-r%C3%A9cord-ingresos-pese-100628967.html",
-        "titulo_fuente": "Lufthansa logra un récord de ingresos trimestrales pese al encarecimiento del combustible",
-        "capturado": "2026-11-03T06:38:50-05:00"
+        "titulo": "Supermercados de Europa corrigen fallas de seguridad tras un ciberataque a sistemas frigoríficos",
+        "url": "https://es.finance.yahoo.com/noticias/supermercados-europeos-apresuran-parchear-vulnerabilidades-172517603.html",
+        "titulo_fuente": "Supermercados europeos se apresuran a parchear vulnerabilidades tras ataque informático a frigoríficos",
+        "capturado": "2026-11-03T14:07:01-05:00"
       },
       {
-        "titulo": "¿Se avecina un repunte de alivio para XRP? Esto indican los datos de wallets y el sentimiento del mercado",
-        "url": "https://es.finance.yahoo.com/noticias/acerca-rally-alivio-xrp-datos-085000141.html",
-        "titulo_fuente": "¿Se acerca un rally de alivio para XRP? Esto dicen los datos de wallets y el sentimiento del mercado",
-        "capturado": "2026-11-03T06:38:50-05:00"
+        "titulo": "Órdenes industriales en EEUU rebasan pronósticos en septiembre ante una fortaleza generalizada",
+        "url": "https://es.finance.yahoo.com/noticias/pedidos-industriales-eeuu-superan-expectativas-172447730.html",
+        "titulo_fuente": "Pedidos industriales EEUU superan expectativas en septiembre en contexto de fortaleza generalizada",
+        "capturado": "2026-11-03T14:07:01-05:00"
       }
     ]
   }
