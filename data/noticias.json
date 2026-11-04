@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-04T03:40:15-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-04T12:46:50-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "De acuerdo con un estudio China concentra casi la mitad de la inversión en industrias limpias",
-        "url": "https://es.finance.yahoo.com/noticias/china-representa-mitad-inversiones-industrias-082543761.html",
-        "titulo_fuente": "China representa casi la mitad de las inversiones en industrias limpias, según un estudio",
-        "capturado": "2026-11-04T03:40:15-05:00"
+        "titulo": "Colombia prevé alistar la oferta de zonas para nueva exploración petrolera en el primer trimestre de 2027",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-espera-listo-ofrecimiento-%C3%A1reas-170357863.html",
+        "titulo_fuente": "Colombia espera tener listo ofrecimiento de áreas para nueva exploración petrolera en primer trimestre 2027",
+        "capturado": "2026-11-04T12:46:50-05:00"
       },
       {
-        "titulo": "Votantes estadounidenses dan la espalda a Trump en legislativas: su impacto en Europa y mercados",
-        "url": "https://es.finance.yahoo.com/noticias/derrota-trump-legislativas-eeuu-impacto-070753590.html",
-        "titulo_fuente": "Los estadounidenses le dan la espalda a Trump en las legislativas: cómo afectará a Europa y a los mercados",
-        "capturado": "2026-11-04T03:40:15-05:00"
+        "titulo": "Triunfo demócrata en EEUU no bajará costos ni aranceles de empresas a corto plazo según ejecutivos",
+        "url": "https://es.finance.yahoo.com/noticias/victoria-dem%C3%B3cratas-eeuu-aliviar%C3%ADa-costos-160211183.html",
+        "titulo_fuente": "Victoria de demócratas en EEUU no aliviaría costos y aranceles de empresas a corto plazo, dicen ejecutivos",
+        "capturado": "2026-11-04T12:46:50-05:00"
       },
       {
-        "titulo": "La victoria demócrata en EEUU aumenta el temor a una parálisis legislativa entre inversionistas",
-        "url": "https://es.finance.yahoo.com/noticias/triunfo-dem%C3%B3crata-eeuu-alienta-temor-075657971.html",
-        "titulo_fuente": "El triunfo demócrata en EEUU alienta el temor a una parálisis legislativa entre los inversionistas",
-        "capturado": "2026-11-04T03:40:15-05:00"
+        "titulo": "Nuevo ataque informático se dirige a bancos de sangre franceses afirma el Ministerio de Salud",
+        "url": "https://es.finance.yahoo.com/noticias/ciberataque-objetivo-bancos-sangre-franceses-151907426.html",
+        "titulo_fuente": "Nuevo ciberataque tiene como objetivo los bancos de sangre franceses: Ministerio de Salud",
+        "capturado": "2026-11-04T12:46:50-05:00"
       },
       {
-        "titulo": "El premio Nobel Paul Krugman apoya un límite temporal al arriendo para contener especulación",
-        "url": "https://es.finance.yahoo.com/noticias/paul-krugman-acepta-topes-temporales-070009538.html",
-        "titulo_fuente": "El Nobel Paul Krugman suscribe un tope temporal al alquiler para frenar la especulación",
-        "capturado": "2026-11-04T03:40:15-05:00"
+        "titulo": "Elecciones en EEUU consolidan controles de la Fed pero se mantienen riesgos para su independencia",
+        "url": "https://es.finance.yahoo.com/noticias/elecciones-eeuu-refuerzan-medidas-control-151640864.html",
+        "titulo_fuente": "Elecciones EEUU refuerzan las medidas de control de la Fed, pero persisten riesgos para su independencia",
+        "capturado": "2026-11-04T12:46:50-05:00"
       },
       {
-        "titulo": "Las bolsas asiáticas y el dólar caen mientras los demócratas avanzan en legislativas de EE.UU.",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-d%C3%B3lar-caen-dem%C3%B3cratas-054818042.html",
-        "titulo_fuente": "Las Bolsas asiáticas y el dólar caen mientras los demócratas avanzan en las legislativas de EE.UU.",
-        "capturado": "2026-11-04T03:40:15-05:00"
+        "titulo": "Peso argentino alcanza un nuevo mínimo histórico y el riesgo país se mantiene sobre los 800 puntos",
+        "url": "https://es.finance.yahoo.com/noticias/peso-argentino-renueva-piso-r%C3%A9cord-142746078.html",
+        "titulo_fuente": "Peso argentino renueva piso récord, riesgo país sigue arriba de 800 puntos",
+        "capturado": "2026-11-04T12:46:50-05:00"
       }
     ]
   }
