@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-03T19:24:14-05:00",
-  "nuevos_en_esta_corrida": 9,
+  "actualizado": "2026-11-04T03:40:15-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Los demócratas retoman la Cámara y el Senado con una contundente derrota a Trump y sus aliados",
+        "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o",
+        "publicacion": "2026-11-04",
+        "titulo_fuente": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
+        "capturado": "2026-11-04T03:40:15-05:00"
+      },
+      {
+        "titulo": "Es posible emitir el voto incluso desde el espacio, duración 0,28",
+        "url": "https://www.bbc.com/mundo/watch/c6y43zlx9xzxo",
+        "publicacion": "PT28S",
+        "titulo_fuente": "\"¡Sí, se puede votar incluso desde el espacio!\", Duración 0,28",
+        "capturado": "2026-11-04T03:40:15-05:00"
+      },
+      {
         "titulo": "El Banco Central del Paraguay toma Ueno Bank, gran banco local, y congela ahorros de millones de usuarios",
         "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo",
         "publicacion": "2026-11-03",
@@ -60,52 +74,38 @@
         "publicacion": "PT6M48S",
         "titulo_fuente": "¿La economía de Trump funciona?, Duración 6,48",
         "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "¿Qué se decide en los comicios de medio término de EE.UU. este martes?, Duración 1,29",
-        "url": "https://www.bbc.com/mundo/watch/c3vgx8zl9701o",
-        "publicacion": "PT1M29S",
-        "titulo_fuente": "¿Qué se vota en las elecciones de medio mandato de EE.UU. este martes?, Duración 1,29",
-        "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "Ciberataque a Binance afecta US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
-        "url": "https://www.bbc.com/mundo/articles/cvze42lk562ko",
-        "publicacion": "2026-10-30",
-        "titulo_fuente": "Un hackeo a la empresa Binance afecta a US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
-        "capturado": "2026-10-31T06:44:47-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Personal de OpenAI lleva años alertando sobre fallas de seguridad operativa, según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/empleados-openai-llevan-a%C3%B1os-advirtiendo-200413579.html",
-        "titulo_fuente": "Empleados de OpenAI llevan años advirtiendo de fallos en la seguridad operativa: fuentes",
-        "capturado": "2026-11-03T19:24:14-05:00"
+        "titulo": "De acuerdo con un estudio China concentra casi la mitad de la inversión en industrias limpias",
+        "url": "https://es.finance.yahoo.com/noticias/china-representa-mitad-inversiones-industrias-082543761.html",
+        "titulo_fuente": "China representa casi la mitad de las inversiones en industrias limpias, según un estudio",
+        "capturado": "2026-11-04T03:40:15-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. con saldo mixto por cifras del 4T de Apple y espera de elecciones",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191440220.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras las decepcionantes cifras del cuarto trimestre fiscal de Apple, mientras los inversores esperan los resultados de las elecciones de mitad de mandato.",
-        "capturado": "2026-11-03T19:24:14-05:00"
+        "titulo": "Votantes estadounidenses dan la espalda a Trump en legislativas: su impacto en Europa y mercados",
+        "url": "https://es.finance.yahoo.com/noticias/derrota-trump-legislativas-eeuu-impacto-070753590.html",
+        "titulo_fuente": "Los estadounidenses le dan la espalda a Trump en las legislativas: cómo afectará a Europa y a los mercados",
+        "capturado": "2026-11-04T03:40:15-05:00"
       },
       {
-        "titulo": "Portugal sella la venta parcial de TAP a Lufthansa resguardando su identidad portuguesa",
-        "url": "https://es.finance.yahoo.com/noticias/portugal-firma-venta-parcial-tap-180401775.html",
-        "titulo_fuente": "Portugal firma la venta parcial de TAP a Lufthansa y garantiza su identidad portuguesa",
-        "capturado": "2026-11-03T14:07:01-05:00"
+        "titulo": "La victoria demócrata en EEUU aumenta el temor a una parálisis legislativa entre inversionistas",
+        "url": "https://es.finance.yahoo.com/noticias/triunfo-dem%C3%B3crata-eeuu-alienta-temor-075657971.html",
+        "titulo_fuente": "El triunfo demócrata en EEUU alienta el temor a una parálisis legislativa entre los inversionistas",
+        "capturado": "2026-11-04T03:40:15-05:00"
       },
       {
-        "titulo": "Dimite el titular del Banco Central de Paraguay tras la intervención de una entidad financiera local",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-banco-central-paraguayo-renuncia-190752796.html",
-        "titulo_fuente": "Presidente del Banco Central paraguayo renuncia tras intervención a banco local",
-        "capturado": "2026-11-03T19:24:14-05:00"
+        "titulo": "El premio Nobel Paul Krugman apoya un límite temporal al arriendo para contener especulación",
+        "url": "https://es.finance.yahoo.com/noticias/paul-krugman-acepta-topes-temporales-070009538.html",
+        "titulo_fuente": "El Nobel Paul Krugman suscribe un tope temporal al alquiler para frenar la especulación",
+        "capturado": "2026-11-04T03:40:15-05:00"
       },
       {
-        "titulo": "Perú revela plan de carga marítima para garantizar exportaciones ante los impactos de El Niño",
-        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
-        "titulo_fuente": "Perú anuncia plan de transporte marítimo para asegurar exportaciones pese a efectos de El Niño",
-        "capturado": "2026-11-03T14:07:01-05:00"
+        "titulo": "Las bolsas asiáticas y el dólar caen mientras los demócratas avanzan en legislativas de EE.UU.",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-d%C3%B3lar-caen-dem%C3%B3cratas-054818042.html",
+        "titulo_fuente": "Las Bolsas asiáticas y el dólar caen mientras los demócratas avanzan en las legislativas de EE.UU.",
+        "capturado": "2026-11-04T03:40:15-05:00"
       }
     ]
   }
