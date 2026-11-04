@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-04T12:46:50-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-04T18:15:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Así interpretan los mercados las elecciones de mitad de mandato",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+        "publicacion": "Wed, 04 Nov 2026 21:48:18 +0000",
+        "titulo_fuente": "What markets make of the midterms",
+        "capturado": "2026-11-04T18:15:10-05:00"
+      },
       {
         "titulo": "Las dificultades de la IA en el mercado accionario de China son una advertencia",
         "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
@@ -30,16 +37,23 @@
         "publicacion": "Thu, 29 Oct 2026 11:26:26 +0000",
         "titulo_fuente": "Christine Lagarde departs at a moment of peril",
         "capturado": "2026-10-29T11:37:53-05:00"
-      },
-      {
-        "titulo": "La interminable absurdez de los mercados petroleros globales",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
-        "publicacion": "Thu, 29 Oct 2026 11:16:13 +0000",
-        "titulo_fuente": "The never-ending absurdity of global oil markets",
-        "capturado": "2026-10-29T11:37:53-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Las sensaciones de una noche memorable para demócratas y republicanos en EE.UU., Duración 0,47",
+        "url": "https://www.bbc.com/mundo/watch/cwkg5xk41d0no",
+        "publicacion": "PT47S",
+        "titulo_fuente": "Las emociones de una noche histórica para demócratas y republicanos en EE.UU., Duración 0,47",
+        "capturado": "2026-11-04T18:15:10-05:00"
+      },
+      {
+        "titulo": "Factores del triunfo memorable de los demócratas en EE.UU. y lo que implica para Trump, Duración 6,07",
+        "url": "https://www.bbc.com/mundo/watch/cm369lj9g433o",
+        "publicacion": "PT6M7S",
+        "titulo_fuente": "Las claves de la victoria histórica de los demócratas en EE.UU. y qué supone para Trump, Duración 6,07",
+        "capturado": "2026-11-04T18:15:10-05:00"
+      },
       {
         "titulo": "Los demócratas retoman la Cámara y el Senado con una contundente derrota a Trump y sus aliados",
         "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o",
@@ -60,52 +74,38 @@
         "publicacion": "2026-11-03",
         "titulo_fuente": "El Banco Central del Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
         "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "¿Cuál es la mayor inquietud de los electores de EE.UU.?, Duración 1,16",
-        "url": "https://www.bbc.com/mundo/watch/c6m2dggwgx4ko",
-        "publicacion": "PT1M16S",
-        "titulo_fuente": "¿Qué es lo que más preocupa a los votantes de EE.UU.?, Duración 1,16",
-        "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "¿Da resultados el modelo económico de Trump?, Duración 6,48",
-        "url": "https://www.bbc.com/mundo/watch/cj3vq0013v2wo",
-        "publicacion": "PT6M48S",
-        "titulo_fuente": "¿La economía de Trump funciona?, Duración 6,48",
-        "capturado": "2026-11-03T19:24:14-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Colombia prevé alistar la oferta de zonas para nueva exploración petrolera en el primer trimestre de 2027",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-espera-listo-ofrecimiento-%C3%A1reas-170357863.html",
-        "titulo_fuente": "Colombia espera tener listo ofrecimiento de áreas para nueva exploración petrolera en primer trimestre 2027",
-        "capturado": "2026-11-04T12:46:50-05:00"
+        "titulo": "Bolsas de EE. UU. suben por consumo discrecional tras triunfo demócrata a mitad de mandato y cae el petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-222316555.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan impulsados por el sector de consumo discrecional tras la victoria de los demócratas en las elecciones de mitad de mandato, que provocó una caída del precio del petróleo crudo.",
+        "capturado": "2026-11-04T18:15:10-05:00"
       },
       {
-        "titulo": "Triunfo demócrata en EEUU no bajará costos ni aranceles de empresas a corto plazo según ejecutivos",
-        "url": "https://es.finance.yahoo.com/noticias/victoria-dem%C3%B3cratas-eeuu-aliviar%C3%ADa-costos-160211183.html",
-        "titulo_fuente": "Victoria de demócratas en EEUU no aliviaría costos y aranceles de empresas a corto plazo, dicen ejecutivos",
-        "capturado": "2026-11-04T12:46:50-05:00"
+        "titulo": "Indra encabeza la alianza española que protegerá la infraestructura submarina de Europa",
+        "url": "https://es.finance.yahoo.com/noticias/indra-lidera-alianza-espa%C3%B1ola-blindar%C3%A1-212802463.html",
+        "titulo_fuente": "Indra lidera la alianza española que blindará las infraestructuras submarinas de Europa",
+        "capturado": "2026-11-04T18:15:10-05:00"
       },
       {
-        "titulo": "Nuevo ataque informático se dirige a bancos de sangre franceses afirma el Ministerio de Salud",
-        "url": "https://es.finance.yahoo.com/noticias/ciberataque-objetivo-bancos-sangre-franceses-151907426.html",
-        "titulo_fuente": "Nuevo ciberataque tiene como objetivo los bancos de sangre franceses: Ministerio de Salud",
-        "capturado": "2026-11-04T12:46:50-05:00"
+        "titulo": "MercadoLibre cumple lo esperado a pesar de altas inversiones logísticas y crediticias",
+        "url": "https://es.finance.yahoo.com/noticias/mercadolibre-cumple-expectativas-pese-fuertes-213839316.html",
+        "titulo_fuente": "MercadoLibre cumple expectativas pese a fuertes inversiones en logística y crédito",
+        "capturado": "2026-11-04T18:15:10-05:00"
       },
       {
-        "titulo": "Elecciones en EEUU consolidan controles de la Fed pero se mantienen riesgos para su independencia",
-        "url": "https://es.finance.yahoo.com/noticias/elecciones-eeuu-refuerzan-medidas-control-151640864.html",
-        "titulo_fuente": "Elecciones EEUU refuerzan las medidas de control de la Fed, pero persisten riesgos para su independencia",
-        "capturado": "2026-11-04T12:46:50-05:00"
+        "titulo": "Crisis bancaria genera pedido de juicio político al presidente Peña en Paraguay",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-bancaria-desencadena-pedido-juicio-213711108.html",
+        "titulo_fuente": "Crisis bancaria desencadena pedido de juicio político contra el presidente Peña en Paraguay",
+        "capturado": "2026-11-04T18:15:10-05:00"
       },
       {
-        "titulo": "Peso argentino alcanza un nuevo mínimo histórico y el riesgo país se mantiene sobre los 800 puntos",
-        "url": "https://es.finance.yahoo.com/noticias/peso-argentino-renueva-piso-r%C3%A9cord-142746078.html",
-        "titulo_fuente": "Peso argentino renueva piso récord, riesgo país sigue arriba de 800 puntos",
-        "capturado": "2026-11-04T12:46:50-05:00"
+        "titulo": "Venezuela registra una inflación acumulada de 245,5% en 10 meses",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-acumula-inflaci%C3%B3n-245-5-213603070.html",
+        "titulo_fuente": "Venezuela acumula una inflación de 245,5% en 10 meses",
+        "capturado": "2026-11-04T18:15:10-05:00"
       }
     ]
   }
