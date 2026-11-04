@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-03T14:07:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-03T19:24:14-05:00",
+  "nuevos_en_esta_corrida": 9,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Las dificultades de la IA en el mercado accionario de China son una advertencia",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+        "publicacion": "Tue, 03 Nov 2026 20:48:59 +0000",
+        "titulo_fuente": "China’s AI stock-market struggles are a warning",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
+      {
+        "titulo": "Los arrendatarios en Estados Unidos enfrentan serias dificultades",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+        "publicacion": "Tue, 03 Nov 2026 19:06:57 +0000",
+        "titulo_fuente": "America’s renters are in serious trouble",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
       {
         "titulo": "La crianza intensiva dejó de ser una práctica exclusiva de los ricos",
         "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
@@ -23,71 +37,57 @@
         "publicacion": "Thu, 29 Oct 2026 11:16:13 +0000",
         "titulo_fuente": "The never-ending absurdity of global oil markets",
         "capturado": "2026-10-29T11:37:53-05:00"
-      },
-      {
-        "titulo": "Los países que hacen una fortuna con la rivalidad entre US y China",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-countries-making-a-fortune-from-the-us-china-rivalry",
-        "publicacion": "Thu, 29 Oct 2026 10:41:27 +0000",
-        "titulo_fuente": "The countries making a fortune from the US-China rivalry",
-        "capturado": "2026-10-29T11:37:53-05:00"
-      },
-      {
-        "titulo": "El desafío del nuevo líder del banco privado más grande de India",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/29/the-task-facing-the-new-head-of-indias-biggest-private-bank",
-        "publicacion": "Thu, 29 Oct 2026 10:06:28 +0000",
-        "titulo_fuente": "The task facing the new head of India’s biggest private bank",
-        "capturado": "2026-10-29T11:37:53-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "El Banco Central del Paraguay toma Ueno Bank, gran banco local, y congela ahorros de millones de usuarios",
+        "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo",
+        "publicacion": "2026-11-03",
+        "titulo_fuente": "El Banco Central del Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
+      {
+        "titulo": "¿Cuál es la mayor inquietud de los electores de EE.UU.?, Duración 1,16",
+        "url": "https://www.bbc.com/mundo/watch/c6m2dggwgx4ko",
+        "publicacion": "PT1M16S",
+        "titulo_fuente": "¿Qué es lo que más preocupa a los votantes de EE.UU.?, Duración 1,16",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
+      {
+        "titulo": "¿Da resultados el modelo económico de Trump?, Duración 6,48",
+        "url": "https://www.bbc.com/mundo/watch/cj3vq0013v2wo",
+        "publicacion": "PT6M48S",
+        "titulo_fuente": "¿La economía de Trump funciona?, Duración 6,48",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
+      {
+        "titulo": "¿Qué se decide en los comicios de medio término de EE.UU. este martes?, Duración 1,29",
+        "url": "https://www.bbc.com/mundo/watch/c3vgx8zl9701o",
+        "publicacion": "PT1M29S",
+        "titulo_fuente": "¿Qué se vota en las elecciones de medio mandato de EE.UU. este martes?, Duración 1,29",
+        "capturado": "2026-11-03T19:24:14-05:00"
+      },
       {
         "titulo": "Ciberataque a Binance afecta US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
         "url": "https://www.bbc.com/mundo/articles/cvze42lk562ko",
         "publicacion": "2026-10-30",
         "titulo_fuente": "Un hackeo a la empresa Binance afecta a US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
         "capturado": "2026-10-31T06:44:47-05:00"
-      },
-      {
-        "titulo": "8 gráficas ilustran por qué las elecciones intermedias perjudican a Trump y qué está en disputa",
-        "url": "https://www.bbc.com/mundo/articles/cq5ynzzkxeymo",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "8 gráficos que muestran por qué las elecciones de medio mandato llegan en mal momento para Trump y qué hay en juego",
-        "capturado": "2026-11-03T06:38:50-05:00"
-      },
-      {
-        "titulo": "En gráficas: ¿cómo marcha en verdad la economía de EE. UU. en el mandato de Trump?, Duración 6,56",
-        "url": "https://www.bbc.com/mundo/watch/cw33x0zz1pj3o",
-        "publicacion": "PT6M56S",
-        "titulo_fuente": "En gráficos: ¿cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump?, Duración 6,56",
-        "capturado": "2026-11-03T06:38:50-05:00"
-      },
-      {
-        "titulo": "Selló la frontera pero vivimos peor: molestia de votantes latinos con apoyo histórico a Trump en sur de Texas",
-        "url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo",
-        "publicacion": "2026-11-02",
-        "titulo_fuente": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
-        "capturado": "2026-11-03T06:38:50-05:00"
-      },
-      {
-        "titulo": "Por qué Trump afronta la misma dificultad económica que perjudicó a Biden",
-        "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo",
-        "publicacion": "2026-11-01",
-        "titulo_fuente": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-        "capturado": "2026-11-01T11:35:50-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Perú revela plan de carga marítima para garantizar exportaciones ante los impactos de El Niño",
-        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
-        "titulo_fuente": "Perú anuncia plan de transporte marítimo para asegurar exportaciones pese a efectos de El Niño",
-        "capturado": "2026-11-03T14:07:01-05:00"
+        "titulo": "Personal de OpenAI lleva años alertando sobre fallas de seguridad operativa, según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/empleados-openai-llevan-a%C3%B1os-advirtiendo-200413579.html",
+        "titulo_fuente": "Empleados de OpenAI llevan años advirtiendo de fallos en la seguridad operativa: fuentes",
+        "capturado": "2026-11-03T19:24:14-05:00"
       },
       {
-        "titulo": "Fondos cotizados ganan terreno mientras la bolsa de EEUU muestra desempeño mixto a mitad del día",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-suben-bolsa-estadounidense-181052345.html",
-        "titulo_fuente": "Los fondos cotizados suben, mientras que la bolsa estadounidense presenta resultados mixtos al mediodía",
-        "capturado": "2026-11-03T14:07:01-05:00"
+        "titulo": "Actualización: Índices de EE. UU. con saldo mixto por cifras del 4T de Apple y espera de elecciones",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191440220.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras las decepcionantes cifras del cuarto trimestre fiscal de Apple, mientras los inversores esperan los resultados de las elecciones de mitad de mandato.",
+        "capturado": "2026-11-03T19:24:14-05:00"
       },
       {
         "titulo": "Portugal sella la venta parcial de TAP a Lufthansa resguardando su identidad portuguesa",
@@ -96,15 +96,15 @@
         "capturado": "2026-11-03T14:07:01-05:00"
       },
       {
-        "titulo": "Supermercados de Europa corrigen fallas de seguridad tras un ciberataque a sistemas frigoríficos",
-        "url": "https://es.finance.yahoo.com/noticias/supermercados-europeos-apresuran-parchear-vulnerabilidades-172517603.html",
-        "titulo_fuente": "Supermercados europeos se apresuran a parchear vulnerabilidades tras ataque informático a frigoríficos",
-        "capturado": "2026-11-03T14:07:01-05:00"
+        "titulo": "Dimite el titular del Banco Central de Paraguay tras la intervención de una entidad financiera local",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-banco-central-paraguayo-renuncia-190752796.html",
+        "titulo_fuente": "Presidente del Banco Central paraguayo renuncia tras intervención a banco local",
+        "capturado": "2026-11-03T19:24:14-05:00"
       },
       {
-        "titulo": "Órdenes industriales en EEUU rebasan pronósticos en septiembre ante una fortaleza generalizada",
-        "url": "https://es.finance.yahoo.com/noticias/pedidos-industriales-eeuu-superan-expectativas-172447730.html",
-        "titulo_fuente": "Pedidos industriales EEUU superan expectativas en septiembre en contexto de fortaleza generalizada",
+        "titulo": "Perú revela plan de carga marítima para garantizar exportaciones ante los impactos de El Niño",
+        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
+        "titulo_fuente": "Perú anuncia plan de transporte marítimo para asegurar exportaciones pese a efectos de El Niño",
         "capturado": "2026-11-03T14:07:01-05:00"
       }
     ]
