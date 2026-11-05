@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T09:03:48-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-05T16:46:33-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Dimisión de Santiago Peña como presidente de Paraguay, Duración 1,09",
+        "url": "https://www.bbc.com/mundo/watch/cmpdgglnxz48o",
+        "publicacion": "PT1M9S",
+        "titulo_fuente": "La renuncia de Santiago Peña como presidente de Paraguay, Duración 1,09",
+        "capturado": "2026-11-05T16:46:33-05:00"
+      },
+      {
+        "titulo": "EN VIVO, Crisis en Paraguay: Congreso define si avala renuncia del presidente Santiago Peña o juicio político",
+        "url": "https://www.bbc.com/mundo/live/cmgr8vrv5w55t",
+        "publicacion": "",
+        "titulo_fuente": "EN VIVO , Crisis en Paraguay: el Congreso decide si acepta la renuncia del presidente Santiago Peña o sigue con el juicio político",
+        "capturado": "2026-11-05T16:46:33-05:00"
+      },
+      {
         "titulo": "Las sensaciones de una noche memorable para demócratas y republicanos en EE.UU., Duración 0,47",
         "url": "https://www.bbc.com/mundo/watch/cwkg5xk41d0no",
         "publicacion": "PT47S",
@@ -60,52 +74,38 @@
         "publicacion": "2026-11-04",
         "titulo_fuente": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
         "capturado": "2026-11-04T03:40:15-05:00"
-      },
-      {
-        "titulo": "Es posible emitir el voto incluso desde el espacio, duración 0,28",
-        "url": "https://www.bbc.com/mundo/watch/c6y43zlx9xzxo",
-        "publicacion": "PT28S",
-        "titulo_fuente": "\"¡Sí, se puede votar incluso desde el espacio!\", Duración 0,28",
-        "capturado": "2026-11-04T03:40:15-05:00"
-      },
-      {
-        "titulo": "El Banco Central del Paraguay toma Ueno Bank, gran banco local, y congela ahorros de millones de usuarios",
-        "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo",
-        "publicacion": "2026-11-03",
-        "titulo_fuente": "El Banco Central del Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
-        "capturado": "2026-11-03T19:24:14-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Futuros en EE. UU. mixtos antes de abrir y cae la IA tras victoria demócrata a medio mandato",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-presentan-134844052.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses presentan resultados mixtos antes de la apertura del mercado, con caídas en las acciones de IA tras la victoria de los demócratas en las elecciones de mitad de mandato.",
-        "capturado": "2026-11-05T09:03:48-05:00"
+        "titulo": "Qué es el banco ueno y cómo originó la crisis que provocó la dimisión del presidente de Paraguay",
+        "url": "https://es.finance.yahoo.com/noticias/banco-ueno-desencaden%C3%B3-crisis-llev%C3%B3-194817121.html",
+        "titulo_fuente": "¿Qué es el banco ueno y cómo desencadenó la crisis que llevó a renuncia de presidente Paraguay?",
+        "capturado": "2026-11-05T16:46:33-05:00"
       },
       {
-        "titulo": "El Banco de Inglaterra eleva tasas al 4% por la inflación del crudo y prevé mayores incrementos",
-        "url": "https://es.finance.yahoo.com/noticias/banco-inglaterra-sube-tipo-clave-123908988.html",
-        "titulo_fuente": "El Banco de Inglaterra sube los tipos al 4% por la inflación del crudo y avisa de nuevas subidas",
-        "capturado": "2026-11-05T09:03:48-05:00"
+        "titulo": "Marco Rubio evalúa salir de la administración Trump luego de la derrota del Partido Republicano",
+        "url": "https://es.finance.yahoo.com/noticias/marco-rubio-eval%C3%BAa-dejar-administraci%C3%B3n-193902423.html",
+        "titulo_fuente": "Marco Rubio evalúa dejar administración Trump tras derrota republicana",
+        "capturado": "2026-11-05T16:46:33-05:00"
       },
       {
-        "titulo": "Futuros de EE. UU. mixtos premercado; cae inteligencia artificial tras triunfo demócrata a mitad de mandato",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-presentan-resultados-125958777.html",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses presentan resultados mixtos antes de la apertura del mercado, con caídas en las acciones de inteligencia artificial tras la victoria de los demócratas en las elecciones de mitad de mandato.",
-        "capturado": "2026-11-05T09:03:48-05:00"
+        "titulo": "Nasdaq entra en corrección y Dow Jones anula el alza postelectoral tras desplome de grandes tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-191906485.html",
+        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones borra el repunte posterior a las elecciones en medio del desplome de las grandes tecnológicas.",
+        "capturado": "2026-11-05T16:46:33-05:00"
       },
       {
-        "titulo": "Uzbekistán disminuye la pobreza del 17% al 3,6% en cinco años: los pilares de su cambio económico",
-        "url": "https://es.finance.yahoo.com/noticias/uzbekist%C3%A1n-reduce-pobreza-gracias-aumento-120308312.html",
-        "titulo_fuente": "Uzbekistán reduce la pobreza del 17% al 3,6% en cinco años: las claves de su transformación económica",
-        "capturado": "2026-11-05T09:03:48-05:00"
+        "titulo": "Goldman registra un alto volumen de llamadas tras el desplome de las acciones de IA",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-recibe-avalancha-llamadas-acciones-191407390.html",
+        "titulo_fuente": "Goldman recibe avalancha de llamadas mientras acciones de IA se hunden",
+        "capturado": "2026-11-05T16:46:33-05:00"
       },
       {
-        "titulo": "Alemania acuerda la compra del 50% en KNDS, firma fabricante del tanque Leopard",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-cierra-acuerdo-adquirir-participaci%C3%B3n-121137996.html",
-        "titulo_fuente": "Alemania cierra acuerdo para adquirir participación del 50% en KNDS, fabricante del tanque Leopard",
-        "capturado": "2026-11-05T09:03:48-05:00"
+        "titulo": "La victoria de Lula frena la expectativa de EEUU de un rápido acceso a las tierras raras de Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/triunfo-lula-frustra-esperanzas-eeuu-185553188.html",
+        "titulo_fuente": "Triunfo de Lula frustra esperanzas de EEUU de acceder rápido a las tierras raras de Brasil",
+        "capturado": "2026-11-05T16:46:33-05:00"
       }
     ]
   }
