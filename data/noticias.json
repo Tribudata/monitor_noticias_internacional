@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-11-05T00:20:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-05T09:03:48-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Magnates endeudados agobian al sistema bancario de China",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+        "publicacion": "Thu, 05 Nov 2026 11:54:22 +0000",
+        "titulo_fuente": "Indebted tycoons haunt China’s banking system",
+        "capturado": "2026-11-05T09:03:48-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial transforma a proteccionistas en librecambistas",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+        "publicacion": "Thu, 05 Nov 2026 10:22:20 +0000",
+        "titulo_fuente": "AI is turning protectionists into free traders",
+        "capturado": "2026-11-05T09:03:48-05:00"
+      },
+      {
+        "titulo": "William Nordhaus, el economista preferido de la derecha y la izquierda",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+        "publicacion": "Thu, 05 Nov 2026 10:17:54 +0000",
+        "titulo_fuente": "William Nordhaus, favourite economist of the right and the left",
+        "capturado": "2026-11-05T09:03:48-05:00"
+      },
       {
         "titulo": "Así interpretan los mercados las elecciones de mitad de mandato",
         "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
@@ -16,27 +37,6 @@
         "publicacion": "Tue, 03 Nov 2026 20:48:59 +0000",
         "titulo_fuente": "China’s AI stock-market struggles are a warning",
         "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "Los arrendatarios en Estados Unidos enfrentan serias dificultades",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-        "publicacion": "Tue, 03 Nov 2026 19:06:57 +0000",
-        "titulo_fuente": "America’s renters are in serious trouble",
-        "capturado": "2026-11-03T19:24:14-05:00"
-      },
-      {
-        "titulo": "La crianza intensiva dejó de ser una práctica exclusiva de los ricos",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
-        "publicacion": "Sun, 01 Nov 2026 16:08:43 +0000",
-        "titulo_fuente": "Intensive parenting is no longer the preserve of the rich",
-        "capturado": "2026-11-01T16:43:58-05:00"
-      },
-      {
-        "titulo": "Christine Lagarde deja su cargo en un momento de gran peligro",
-        "url": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
-        "publicacion": "Thu, 29 Oct 2026 11:26:26 +0000",
-        "titulo_fuente": "Christine Lagarde departs at a moment of peril",
-        "capturado": "2026-10-29T11:37:53-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Bolsas de EE. UU. suben por consumo discrecional tras triunfo demócrata a mitad de mandato y cae el petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-222316555.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan impulsados por el sector de consumo discrecional tras la victoria de los demócratas en las elecciones de mitad de mandato, que provocó una caída del precio del petróleo crudo.",
-        "capturado": "2026-11-04T18:15:10-05:00"
+        "titulo": "Actualización: Futuros en EE. UU. mixtos antes de abrir y cae la IA tras victoria demócrata a medio mandato",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-presentan-134844052.html",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses presentan resultados mixtos antes de la apertura del mercado, con caídas en las acciones de IA tras la victoria de los demócratas en las elecciones de mitad de mandato.",
+        "capturado": "2026-11-05T09:03:48-05:00"
       },
       {
-        "titulo": "Indra encabeza la alianza española que protegerá la infraestructura submarina de Europa",
-        "url": "https://es.finance.yahoo.com/noticias/indra-lidera-alianza-espa%C3%B1ola-blindar%C3%A1-212802463.html",
-        "titulo_fuente": "Indra lidera la alianza española que blindará las infraestructuras submarinas de Europa",
-        "capturado": "2026-11-04T18:15:10-05:00"
+        "titulo": "El Banco de Inglaterra eleva tasas al 4% por la inflación del crudo y prevé mayores incrementos",
+        "url": "https://es.finance.yahoo.com/noticias/banco-inglaterra-sube-tipo-clave-123908988.html",
+        "titulo_fuente": "El Banco de Inglaterra sube los tipos al 4% por la inflación del crudo y avisa de nuevas subidas",
+        "capturado": "2026-11-05T09:03:48-05:00"
       },
       {
-        "titulo": "MercadoLibre cumple lo esperado a pesar de altas inversiones logísticas y crediticias",
-        "url": "https://es.finance.yahoo.com/noticias/mercadolibre-cumple-expectativas-pese-fuertes-213839316.html",
-        "titulo_fuente": "MercadoLibre cumple expectativas pese a fuertes inversiones en logística y crédito",
-        "capturado": "2026-11-04T18:15:10-05:00"
+        "titulo": "Futuros de EE. UU. mixtos premercado; cae inteligencia artificial tras triunfo demócrata a mitad de mandato",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-presentan-resultados-125958777.html",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses presentan resultados mixtos antes de la apertura del mercado, con caídas en las acciones de inteligencia artificial tras la victoria de los demócratas en las elecciones de mitad de mandato.",
+        "capturado": "2026-11-05T09:03:48-05:00"
       },
       {
-        "titulo": "Crisis bancaria genera pedido de juicio político al presidente Peña en Paraguay",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-bancaria-desencadena-pedido-juicio-213711108.html",
-        "titulo_fuente": "Crisis bancaria desencadena pedido de juicio político contra el presidente Peña en Paraguay",
-        "capturado": "2026-11-04T18:15:10-05:00"
+        "titulo": "Uzbekistán disminuye la pobreza del 17% al 3,6% en cinco años: los pilares de su cambio económico",
+        "url": "https://es.finance.yahoo.com/noticias/uzbekist%C3%A1n-reduce-pobreza-gracias-aumento-120308312.html",
+        "titulo_fuente": "Uzbekistán reduce la pobreza del 17% al 3,6% en cinco años: las claves de su transformación económica",
+        "capturado": "2026-11-05T09:03:48-05:00"
       },
       {
-        "titulo": "Venezuela registra una inflación acumulada de 245,5% en 10 meses",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-acumula-inflaci%C3%B3n-245-5-213603070.html",
-        "titulo_fuente": "Venezuela acumula una inflación de 245,5% en 10 meses",
-        "capturado": "2026-11-04T18:15:10-05:00"
+        "titulo": "Alemania acuerda la compra del 50% en KNDS, firma fabricante del tanque Leopard",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-cierra-acuerdo-adquirir-participaci%C3%B3n-121137996.html",
+        "titulo_fuente": "Alemania cierra acuerdo para adquirir participación del 50% en KNDS, fabricante del tanque Leopard",
+        "capturado": "2026-11-05T09:03:48-05:00"
       }
     ]
   }
