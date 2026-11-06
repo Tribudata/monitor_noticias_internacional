@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-05T20:59:43-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-06T04:14:53-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Los mercados advierten su rechazo a la ola azul en Estados Unidos",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+        "publicacion": "Thu, 05 Nov 2026 23:41:07 +0000",
+        "titulo_fuente": "Markets realise they hate America’s blue wave",
+        "capturado": "2026-11-06T04:14:53-05:00"
+      },
       {
         "titulo": "Magnates endeudados agobian al sistema bancario de China",
         "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
@@ -30,16 +37,16 @@
         "publicacion": "Wed, 04 Nov 2026 21:48:18 +0000",
         "titulo_fuente": "What markets make of the midterms",
         "capturado": "2026-11-04T18:15:10-05:00"
-      },
-      {
-        "titulo": "Las dificultades de la IA en el mercado accionario de China son una advertencia",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-        "publicacion": "Tue, 03 Nov 2026 20:48:59 +0000",
-        "titulo_fuente": "China’s AI stock-market struggles are a warning",
-        "capturado": "2026-11-03T19:24:14-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Crisis en Ueno Bank: aspectos clave de la dimisión de Peña en Paraguay, duración 2,35",
+        "url": "https://www.bbc.com/mundo/watch/cv8ezzdyzkrdo",
+        "publicacion": "PT2M35S",
+        "titulo_fuente": "Crisis de Ueno Bank: las claves de la renuncia de Peña en Paraguay, Duración 2,35",
+        "capturado": "2026-11-06T04:14:53-05:00"
+      },
       {
         "titulo": "Dimisión de Santiago Peña como presidente de Paraguay, Duración 1,09",
         "url": "https://www.bbc.com/mundo/watch/cmpdgglnxz48o",
@@ -67,16 +74,27 @@
         "publicacion": "PT6M7S",
         "titulo_fuente": "Las claves de la victoria histórica de los demócratas en EE.UU. y qué supone para Trump, Duración 6,07",
         "capturado": "2026-11-04T18:15:10-05:00"
-      },
-      {
-        "titulo": "Los demócratas retoman la Cámara y el Senado con una contundente derrota a Trump y sus aliados",
-        "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o",
-        "publicacion": "2026-11-04",
-        "titulo_fuente": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
-        "capturado": "2026-11-04T03:40:15-05:00"
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "RBC revisa la meta de precio y proyecciones para BBVA tras sus balances del tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-precio-objetivo-estimaciones-085707064.html",
+        "titulo_fuente": "RBC actualiza el precio objetivo y las estimaciones para BBVA tras los resultados del tercer trimestre.",
+        "capturado": "2026-11-06T04:14:53-05:00"
+      },
+      {
+        "titulo": "Putin asume el dominio de los activos de Japan Tobacco en Rusia",
+        "url": "https://es.finance.yahoo.com/noticias/putin-toma-control-activos-rusos-084601873.html",
+        "titulo_fuente": "Putin toma el control de los activos rusos de Japan Tobacco",
+        "capturado": "2026-11-06T04:14:53-05:00"
+      },
+      {
+        "titulo": "Actualización: Nasdaq entra en corrección y Dow Jones cae más de 1.800 puntos al vender grandes tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-223339444.html",
+        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones se desploma más de 1.800 puntos mientras los inversores se deshacen de las grandes tecnológicas.",
+        "capturado": "2026-11-06T04:14:53-05:00"
+      },
       {
         "titulo": "Qué es el banco ueno y cómo originó la crisis que provocó la dimisión del presidente de Paraguay",
         "url": "https://es.finance.yahoo.com/noticias/banco-ueno-desencaden%C3%B3-crisis-llev%C3%B3-194817121.html",
@@ -87,24 +105,6 @@
         "titulo": "Marco Rubio evalúa salir de la administración Trump luego de la derrota del Partido Republicano",
         "url": "https://es.finance.yahoo.com/noticias/marco-rubio-eval%C3%BAa-dejar-administraci%C3%B3n-193902423.html",
         "titulo_fuente": "Marco Rubio evalúa dejar administración Trump tras derrota republicana",
-        "capturado": "2026-11-05T16:46:33-05:00"
-      },
-      {
-        "titulo": "Nasdaq entra en corrección y Dow Jones anula el alza postelectoral tras desplome de grandes tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-191906485.html",
-        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones borra el repunte posterior a las elecciones en medio del desplome de las grandes tecnológicas.",
-        "capturado": "2026-11-05T16:46:33-05:00"
-      },
-      {
-        "titulo": "Goldman registra un alto volumen de llamadas tras el desplome de las acciones de IA",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-recibe-avalancha-llamadas-acciones-191407390.html",
-        "titulo_fuente": "Goldman recibe avalancha de llamadas mientras acciones de IA se hunden",
-        "capturado": "2026-11-05T16:46:33-05:00"
-      },
-      {
-        "titulo": "La victoria de Lula frena la expectativa de EEUU de un rápido acceso a las tierras raras de Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/triunfo-lula-frustra-esperanzas-eeuu-185553188.html",
-        "titulo_fuente": "Triunfo de Lula frustra esperanzas de EEUU de acceder rápido a las tierras raras de Brasil",
         "capturado": "2026-11-05T16:46:33-05:00"
       }
     ]
