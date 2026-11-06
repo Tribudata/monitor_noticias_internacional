@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T04:14:53-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-06T12:12:05-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,27 @@
     ],
     "BBC": [
       {
+        "titulo": "Razones del juicio político a Santiago Peña, presidente de Paraguay, tras la crisis de Ueno Bank",
+        "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
+        "capturado": "2026-11-06T12:12:05-05:00"
+      },
+      {
+        "titulo": "En vivo, crisis paraguaya: Santiago Peña no va al Congreso y sus abogados lo defienden en juicio político",
+        "url": "https://www.bbc.com/mundo/live/c54g11vvvemkt",
+        "publicacion": "",
+        "titulo_fuente": "EN VIVO , Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
+        "capturado": "2026-11-06T12:12:05-05:00"
+      },
+      {
+        "titulo": "Quién es Santiago Peña, economista al que Horacio Cartes llevó a la presidencia paraguaya y hoy dejó caer",
+        "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+        "capturado": "2026-11-06T12:12:05-05:00"
+      },
+      {
         "titulo": "Crisis en Ueno Bank: aspectos clave de la dimisión de Peña en Paraguay, duración 2,35",
         "url": "https://www.bbc.com/mundo/watch/cv8ezzdyzkrdo",
         "publicacion": "PT2M35S",
@@ -53,59 +74,38 @@
         "publicacion": "PT1M9S",
         "titulo_fuente": "La renuncia de Santiago Peña como presidente de Paraguay, Duración 1,09",
         "capturado": "2026-11-05T16:46:33-05:00"
-      },
-      {
-        "titulo": "EN VIVO, Crisis en Paraguay: Congreso define si avala renuncia del presidente Santiago Peña o juicio político",
-        "url": "https://www.bbc.com/mundo/live/cmgr8vrv5w55t",
-        "publicacion": "",
-        "titulo_fuente": "EN VIVO , Crisis en Paraguay: el Congreso decide si acepta la renuncia del presidente Santiago Peña o sigue con el juicio político",
-        "capturado": "2026-11-05T16:46:33-05:00"
-      },
-      {
-        "titulo": "Las sensaciones de una noche memorable para demócratas y republicanos en EE.UU., Duración 0,47",
-        "url": "https://www.bbc.com/mundo/watch/cwkg5xk41d0no",
-        "publicacion": "PT47S",
-        "titulo_fuente": "Las emociones de una noche histórica para demócratas y republicanos en EE.UU., Duración 0,47",
-        "capturado": "2026-11-04T18:15:10-05:00"
-      },
-      {
-        "titulo": "Factores del triunfo memorable de los demócratas en EE.UU. y lo que implica para Trump, Duración 6,07",
-        "url": "https://www.bbc.com/mundo/watch/cm369lj9g433o",
-        "publicacion": "PT6M7S",
-        "titulo_fuente": "Las claves de la victoria histórica de los demócratas en EE.UU. y qué supone para Trump, Duración 6,07",
-        "capturado": "2026-11-04T18:15:10-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "RBC revisa la meta de precio y proyecciones para BBVA tras sus balances del tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-precio-objetivo-estimaciones-085707064.html",
-        "titulo_fuente": "RBC actualiza el precio objetivo y las estimaciones para BBVA tras los resultados del tercer trimestre.",
-        "capturado": "2026-11-06T04:14:53-05:00"
+        "titulo": "Expansión de la UE: oportunidades y riesgos de inversión para firmas e inversionistas",
+        "url": "https://es.finance.yahoo.com/noticias/ampliaci%C3%B3n-ue-oportunidades-riesgos-inversi%C3%B3n-163935744.html",
+        "titulo_fuente": "Ampliación de la UE: las oportunidades y riesgos de inversión para empresas e inversores",
+        "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
-        "titulo": "Putin asume el dominio de los activos de Japan Tobacco en Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/putin-toma-control-activos-rusos-084601873.html",
-        "titulo_fuente": "Putin toma el control de los activos rusos de Japan Tobacco",
-        "capturado": "2026-11-06T04:14:53-05:00"
+        "titulo": "Tesla disminuirá la fabricación del Cybertruck en 2027 para promover el robotaxi Cybercab",
+        "url": "https://es.finance.yahoo.com/noticias/tesla-reducir%C3%A1-producci%C3%B3n-cybertruck-2027-164545454.html",
+        "titulo_fuente": "Tesla reducirá la producción de la Cybertruck en 2027 para impulsar el Cybercab robotaxi",
+        "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
-        "titulo": "Actualización: Nasdaq entra en corrección y Dow Jones cae más de 1.800 puntos al vender grandes tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-223339444.html",
-        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones se desploma más de 1.800 puntos mientras los inversores se deshacen de las grandes tecnológicas.",
-        "capturado": "2026-11-06T04:14:53-05:00"
+        "titulo": "Rehabilitación del gasoducto entre Colombia y Venezuela iniciará antes de finalizar el año",
+        "url": "https://es.finance.yahoo.com/noticias/recuperaci%C3%B3n-gasoducto-conecta-colombia-venezuela-163648615.html",
+        "titulo_fuente": "Recuperación de gasoducto que conecta a Colombia con Venezuela iniciará antes de fin del año",
+        "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
-        "titulo": "Qué es el banco ueno y cómo originó la crisis que provocó la dimisión del presidente de Paraguay",
-        "url": "https://es.finance.yahoo.com/noticias/banco-ueno-desencaden%C3%B3-crisis-llev%C3%B3-194817121.html",
-        "titulo_fuente": "¿Qué es el banco ueno y cómo desencadenó la crisis que llevó a renuncia de presidente Paraguay?",
-        "capturado": "2026-11-05T16:46:33-05:00"
+        "titulo": "Disminuye la producción colombiana de café durante octubre",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-colombiana-caf%C3%A9-baja-octubre-162419235.html",
+        "titulo_fuente": "Producción colombiana de café baja en octubre",
+        "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
-        "titulo": "Marco Rubio evalúa salir de la administración Trump luego de la derrota del Partido Republicano",
-        "url": "https://es.finance.yahoo.com/noticias/marco-rubio-eval%C3%BAa-dejar-administraci%C3%B3n-193902423.html",
-        "titulo_fuente": "Marco Rubio evalúa dejar administración Trump tras derrota republicana",
-        "capturado": "2026-11-05T16:46:33-05:00"
+        "titulo": "Mercados europeos caen tras la peor baja de fabricantes de chips en EE. UU. desde 2020",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-caen-extenderse-peor-130104730.html",
+        "titulo_fuente": "Las bolsas europeas caen tras el peor desplome de los fabricantes de chips en EE.UU. desde 2020",
+        "capturado": "2026-11-06T12:12:05-05:00"
       }
     ]
   }
