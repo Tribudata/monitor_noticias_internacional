@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T12:12:05-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-06T17:45:01-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Perfil de Miguel Vázquez, financista milenial y deportista en el eje de la crisis paraguaya",
+        "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
+        "capturado": "2026-11-06T17:45:01-05:00"
+      },
+      {
         "titulo": "Razones del juicio político a Santiago Peña, presidente de Paraguay, tras la crisis de Ueno Bank",
         "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o",
         "publicacion": "2026-11-06",
@@ -67,21 +74,20 @@
         "publicacion": "PT2M35S",
         "titulo_fuente": "Crisis de Ueno Bank: las claves de la renuncia de Peña en Paraguay, Duración 2,35",
         "capturado": "2026-11-06T04:14:53-05:00"
-      },
-      {
-        "titulo": "Dimisión de Santiago Peña como presidente de Paraguay, Duración 1,09",
-        "url": "https://www.bbc.com/mundo/watch/cmpdgglnxz48o",
-        "publicacion": "PT1M9S",
-        "titulo_fuente": "La renuncia de Santiago Peña como presidente de Paraguay, Duración 1,09",
-        "capturado": "2026-11-05T16:46:33-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Expansión de la UE: oportunidades y riesgos de inversión para firmas e inversionistas",
-        "url": "https://es.finance.yahoo.com/noticias/ampliaci%C3%B3n-ue-oportunidades-riesgos-inversi%C3%B3n-163935744.html",
-        "titulo_fuente": "Ampliación de la UE: las oportunidades y riesgos de inversión para empresas e inversores",
-        "capturado": "2026-11-06T12:12:05-05:00"
+        "titulo": "Actualización: Índices de EE. UU. varían tras excelente informe laboral que eleva rendimientos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo que impulsa al alza los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-06T17:45:01-05:00"
+      },
+      {
+        "titulo": "Índices de EE. UU. cayeron esta semana tras baja tecnológica por victoria demócrata y dudas sobre la IA",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-213227037.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana a medida que las grandes tecnológicas se desplomaron tras la victoria de los demócratas en las elecciones de mitad de mandato, lo que generó dudas sobre el desarrollo de la IA.",
+        "capturado": "2026-11-06T17:45:01-05:00"
       },
       {
         "titulo": "Tesla disminuirá la fabricación del Cybertruck en 2027 para promover el robotaxi Cybercab",
@@ -90,22 +96,16 @@
         "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
-        "titulo": "Rehabilitación del gasoducto entre Colombia y Venezuela iniciará antes de finalizar el año",
-        "url": "https://es.finance.yahoo.com/noticias/recuperaci%C3%B3n-gasoducto-conecta-colombia-venezuela-163648615.html",
-        "titulo_fuente": "Recuperación de gasoducto que conecta a Colombia con Venezuela iniciará antes de fin del año",
-        "capturado": "2026-11-06T12:12:05-05:00"
+        "titulo": "Paraísos fiscales del Reino Unido cuestan a la UE 8.000 millones en tributos",
+        "url": "https://es.finance.yahoo.com/noticias/para%C3%ADsos-fiscales-brit%C3%A1nicos-cuestan-8-203038041.html",
+        "titulo_fuente": "Los paraísos fiscales británicos cuestan 8.000 millones en impuestos a la UE",
+        "capturado": "2026-11-06T17:45:01-05:00"
       },
       {
-        "titulo": "Disminuye la producción colombiana de café durante octubre",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-colombiana-caf%C3%A9-baja-octubre-162419235.html",
-        "titulo_fuente": "Producción colombiana de café baja en octubre",
-        "capturado": "2026-11-06T12:12:05-05:00"
-      },
-      {
-        "titulo": "Mercados europeos caen tras la peor baja de fabricantes de chips en EE. UU. desde 2020",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-caen-extenderse-peor-130104730.html",
-        "titulo_fuente": "Las bolsas europeas caen tras el peor desplome de los fabricantes de chips en EE.UU. desde 2020",
-        "capturado": "2026-11-06T12:12:05-05:00"
+        "titulo": "Adquisición de viviendas por extranjeros marca récord del 16% en España con precios en máximos históricos",
+        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
+        "titulo_fuente": "La compra de vivienda por extranjeros marca un récord del 16% en España con precios en máximos históricos",
+        "capturado": "2026-11-06T17:45:01-05:00"
       }
     ]
   }
