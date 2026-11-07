@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T23:49:18-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-07T07:31:26-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Paraguay separa a Peña de su cargo y habilita eventuales acusaciones por el caso Ueno",
-        "url": "https://es.finance.yahoo.com/noticias/paraguay-destituye-pe%C3%B1a-abre-paso-222609107.html",
-        "titulo_fuente": "Paraguay destituye a Peña y abre paso a posibles cargos por caso Ueno",
-        "capturado": "2026-11-06T23:49:18-05:00"
+        "titulo": "Ministro afirma que la extracción de crudo en Irak rebasa los 5 millones de bpd",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petrolera-irak-supera-5-121833731.html",
+        "titulo_fuente": "La producción petrolera de Irak supera los 5 millones de bpd: ministro",
+        "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. varían tras excelente informe laboral que eleva rendimientos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo que impulsa al alza los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-06T17:45:01-05:00"
+        "titulo": "Advertencia de la OCDE sobre pensiones en Europa y el ahorro adicional para el retiro",
+        "url": "https://es.finance.yahoo.com/noticias/pensiones-obligatorias-22-pa%C3%ADses-europeos-055914104.html",
+        "titulo_fuente": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
+        "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "Índices de EE. UU. cayeron esta semana tras baja tecnológica por victoria demócrata y dudas sobre la IA",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-213227037.html",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana a medida que las grandes tecnológicas se desplomaron tras la victoria de los demócratas en las elecciones de mitad de mandato, lo que generó dudas sobre el desarrollo de la IA.",
-        "capturado": "2026-11-06T17:45:01-05:00"
+        "titulo": "Principales bancos de Wall Street se alistan ante un mayor control del Congreso",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-wall-street-preparan-escrutinio-060000255.html",
+        "titulo_fuente": "Los grandes bancos de Wall Street se preparan para un mayor escrutinio del Congreso",
+        "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "Tesla disminuirá la fabricación del Cybertruck en 2027 para promover el robotaxi Cybercab",
-        "url": "https://es.finance.yahoo.com/noticias/tesla-reducir%C3%A1-producci%C3%B3n-cybertruck-2027-164545454.html",
-        "titulo_fuente": "Tesla reducirá la producción de la Cybertruck en 2027 para impulsar el Cybercab robotaxi",
-        "capturado": "2026-11-06T12:12:05-05:00"
+        "titulo": "¿Qué revela el antecedente histórico tras un aumento del 70% en el VIX?",
+        "url": "https://es.finance.yahoo.com/noticias/historia-impulso-vix-70-055000380.html",
+        "titulo_fuente": "¿Qué dice la historia tras un impulso del VIX en un 70%?",
+        "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "Paraísos fiscales del Reino Unido cuestan a la UE 8.000 millones en tributos",
-        "url": "https://es.finance.yahoo.com/noticias/para%C3%ADsos-fiscales-brit%C3%A1nicos-cuestan-8-203038041.html",
-        "titulo_fuente": "Los paraísos fiscales británicos cuestan 8.000 millones en impuestos a la UE",
-        "capturado": "2026-11-06T17:45:01-05:00"
+        "titulo": "Neinor acelera su avance y eleva el pago al accionista mediante rentabilidad y disciplina de capital",
+        "url": "https://es.finance.yahoo.com/noticias/neinor-acelera-crecimiento-eleva-remuneraci%C3%B3n-050000318.html",
+        "titulo_fuente": "\"Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital\"",
+        "capturado": "2026-11-07T07:31:26-05:00"
       }
     ]
   }
