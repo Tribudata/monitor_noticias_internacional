@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-06T17:45:01-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-06T23:49:18-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,11 +41,11 @@
     ],
     "BBC": [
       {
-        "titulo": "Perfil de Miguel Vázquez, financista milenial y deportista en el eje de la crisis paraguaya",
-        "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o",
+        "titulo": "Quién es Santiago Peña, economista al que Horacio Cartes llevó a la presidencia paraguaya y hoy dejó caer",
+        "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo",
         "publicacion": "2026-11-06",
-        "titulo_fuente": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
-        "capturado": "2026-11-06T17:45:01-05:00"
+        "titulo_fuente": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+        "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
         "titulo": "Razones del juicio político a Santiago Peña, presidente de Paraguay, tras la crisis de Ueno Bank",
@@ -55,17 +55,17 @@
         "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
+        "titulo": "Perfil de Miguel Vázquez, financista milenial y deportista en el eje de la crisis paraguaya",
+        "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o",
+        "publicacion": "2026-11-06",
+        "titulo_fuente": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
+        "capturado": "2026-11-06T17:45:01-05:00"
+      },
+      {
         "titulo": "En vivo, crisis paraguaya: Santiago Peña no va al Congreso y sus abogados lo defienden en juicio político",
         "url": "https://www.bbc.com/mundo/live/c54g11vvvemkt",
         "publicacion": "",
         "titulo_fuente": "EN VIVO , Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
-        "capturado": "2026-11-06T12:12:05-05:00"
-      },
-      {
-        "titulo": "Quién es Santiago Peña, economista al que Horacio Cartes llevó a la presidencia paraguaya y hoy dejó caer",
-        "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
         "capturado": "2026-11-06T12:12:05-05:00"
       },
       {
@@ -77,6 +77,12 @@
       }
     ],
     "Yahoo": [
+      {
+        "titulo": "Paraguay separa a Peña de su cargo y habilita eventuales acusaciones por el caso Ueno",
+        "url": "https://es.finance.yahoo.com/noticias/paraguay-destituye-pe%C3%B1a-abre-paso-222609107.html",
+        "titulo_fuente": "Paraguay destituye a Peña y abre paso a posibles cargos por caso Ueno",
+        "capturado": "2026-11-06T23:49:18-05:00"
+      },
       {
         "titulo": "Actualización: Índices de EE. UU. varían tras excelente informe laboral que eleva rendimientos del Tesoro",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
@@ -99,12 +105,6 @@
         "titulo": "Paraísos fiscales del Reino Unido cuestan a la UE 8.000 millones en tributos",
         "url": "https://es.finance.yahoo.com/noticias/para%C3%ADsos-fiscales-brit%C3%A1nicos-cuestan-8-203038041.html",
         "titulo_fuente": "Los paraísos fiscales británicos cuestan 8.000 millones en impuestos a la UE",
-        "capturado": "2026-11-06T17:45:01-05:00"
-      },
-      {
-        "titulo": "Adquisición de viviendas por extranjeros marca récord del 16% en España con precios en máximos históricos",
-        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
-        "titulo_fuente": "La compra de vivienda por extranjeros marca un récord del 16% en España con precios en máximos históricos",
         "capturado": "2026-11-06T17:45:01-05:00"
       }
     ]
