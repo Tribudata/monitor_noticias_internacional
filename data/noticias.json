@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-07T07:31:26-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-07T13:28:33-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Ministro afirma que la extracción de crudo en Irak rebasa los 5 millones de bpd",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petrolera-irak-supera-5-121833731.html",
-        "titulo_fuente": "La producción petrolera de Irak supera los 5 millones de bpd: ministro",
-        "capturado": "2026-11-07T07:31:26-05:00"
-      },
-      {
         "titulo": "Advertencia de la OCDE sobre pensiones en Europa y el ahorro adicional para el retiro",
         "url": "https://es.finance.yahoo.com/noticias/pensiones-obligatorias-22-pa%C3%ADses-europeos-055914104.html",
         "titulo_fuente": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
         "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "Principales bancos de Wall Street se alistan ante un mayor control del Congreso",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-wall-street-preparan-escrutinio-060000255.html",
-        "titulo_fuente": "Los grandes bancos de Wall Street se preparan para un mayor escrutinio del Congreso",
+        "titulo": "Putin extiende la gestión provisional de los bienes de Japan Tobacco en Rusia",
+        "url": "https://es.finance.yahoo.com/noticias/putin-ampl%C3%ADa-administraci%C3%B3n-temporal-activos-152403858.html",
+        "titulo_fuente": "Putin amplía la administración temporal de los activos de Japan Tobacco en Rusia",
+        "capturado": "2026-11-07T13:28:33-05:00"
+      },
+      {
+        "titulo": "Las razones de España para sacar del mercado 188.000 toneladas de aceite de oliva",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-ordena-almazaras-almacenar-12-091224848.html",
+        "titulo_fuente": "Por qué España retira 188.000 toneladas de aceite de oliva del mercado",
+        "capturado": "2026-11-07T13:28:33-05:00"
+      },
+      {
+        "titulo": "Ministro afirma que la extracción de crudo en Irak rebasa los 5 millones de bpd",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petrolera-irak-supera-5-121833731.html",
+        "titulo_fuente": "La producción petrolera de Irak supera los 5 millones de bpd: ministro",
         "capturado": "2026-11-07T07:31:26-05:00"
       },
       {
-        "titulo": "¿Qué revela el antecedente histórico tras un aumento del 70% en el VIX?",
-        "url": "https://es.finance.yahoo.com/noticias/historia-impulso-vix-70-055000380.html",
-        "titulo_fuente": "¿Qué dice la historia tras un impulso del VIX en un 70%?",
-        "capturado": "2026-11-07T07:31:26-05:00"
-      },
-      {
-        "titulo": "Neinor acelera su avance y eleva el pago al accionista mediante rentabilidad y disciplina de capital",
-        "url": "https://es.finance.yahoo.com/noticias/neinor-acelera-crecimiento-eleva-remuneraci%C3%B3n-050000318.html",
-        "titulo_fuente": "\"Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital\"",
-        "capturado": "2026-11-07T07:31:26-05:00"
+        "titulo": "Francia, con 57% de gasto público y riesgo de crisis de deuda europea: la salida forzosa es menos Estado",
+        "url": "https://es.finance.yahoo.com/noticias/francia-57-gasto-p%C3%BAblico-riesgo-070000101.html",
+        "titulo_fuente": "Francia, con un 57% de gasto público y el riesgo de una crisis de deuda europea: la solución inevitable es menos Estado",
+        "capturado": "2026-11-07T13:28:33-05:00"
       }
     ]
   }
