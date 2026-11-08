@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-08T07:49:51-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-08T13:40:05-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Egipto halla un depósito de gas en el Mediterráneo de 200.000 millones de pies cúbicos",
+        "url": "https://es.finance.yahoo.com/noticias/egipto-descubre-yacimiento-gas-mediterr%C3%A1neo-133504816.html",
+        "titulo_fuente": "Egipto descubre un yacimiento de gas en el Mediterráneo con 200.000 millones de pies cúbicos",
+        "capturado": "2026-11-08T13:40:05-05:00"
+      },
+      {
         "titulo": "Larimar avanza de forma gradual desde su construcción y venta hacia una etapa de operación efectiva",
         "url": "https://es.finance.yahoo.com/noticias/larimar-pasando-progresivamente-ser-proyecto-050000409.html",
         "titulo_fuente": "\"Larimar está pasando progresivamente de ser un proyecto en construcción y comercialización a convertirse en una realidad operativa\"",
@@ -100,12 +106,6 @@
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-remake-164056314.html",
         "titulo_fuente": "Descarga gratis el port para PC del remake de Zelda Ocarina of Time, sin emulador, que alcanza los 120 FPS con ajuste de resolución, reescalado y Frame Generation hasta 4x",
         "capturado": "2026-11-08T07:49:51-05:00"
-      },
-      {
-        "titulo": "Putin extiende la gestión provisional de los bienes de Japan Tobacco en Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/putin-ampl%C3%ADa-administraci%C3%B3n-temporal-activos-152403858.html",
-        "titulo_fuente": "Putin amplía la administración temporal de los activos de Japan Tobacco en Rusia",
-        "capturado": "2026-11-07T13:28:33-05:00"
       }
     ]
   }
