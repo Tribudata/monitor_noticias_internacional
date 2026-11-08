@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T13:40:05-05:00",
+  "actualizado": "2026-11-08T18:26:15-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
@@ -78,6 +78,12 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Campo iraquí de gas de Khor Mor paraliza producción tras ataque con drones según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/yacimiento-iraqu%C3%AD-gas-khor-mor-225314216.html",
+        "titulo_fuente": "Yacimiento iraquí de gas de Khor Mor suspende producción tras ataque con drones: fuentes",
+        "capturado": "2026-11-08T18:26:15-05:00"
+      },
+      {
         "titulo": "Egipto halla un depósito de gas en el Mediterráneo de 200.000 millones de pies cúbicos",
         "url": "https://es.finance.yahoo.com/noticias/egipto-descubre-yacimiento-gas-mediterr%C3%A1neo-133504816.html",
         "titulo_fuente": "Egipto descubre un yacimiento de gas en el Mediterráneo con 200.000 millones de pies cúbicos",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/pensiones-obligatorias-22-pa%C3%ADses-europeos-055914104.html",
         "titulo_fuente": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
         "capturado": "2026-11-07T07:31:26-05:00"
-      },
-      {
-        "titulo": "Baje gratis port PC del remake Zelda Ocarina of Time sin emulador: 120 FPS, reescalado y Frame Generation 4x",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-remake-164056314.html",
-        "titulo_fuente": "Descarga gratis el port para PC del remake de Zelda Ocarina of Time, sin emulador, que alcanza los 120 FPS con ajuste de resolución, reescalado y Frame Generation hasta 4x",
-        "capturado": "2026-11-08T07:49:51-05:00"
       }
     ]
   }
