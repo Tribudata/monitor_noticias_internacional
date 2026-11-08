@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-07T18:26:39-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-07T23:40:24-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -90,6 +90,12 @@
         "capturado": "2026-11-07T13:28:33-05:00"
       },
       {
+        "titulo": "AMD declara priorizar los centros de datos de IA mientras sus ingresos por gaming disminuyen 40%",
+        "url": "https://es-us.noticias.yahoo.com/amd-asegura-empresa-prioriza-centros-151632347.html",
+        "titulo_fuente": "AMD asegura que es una empresa que prioriza los centros de datos de IA, mientras sus ingresos de gaming caen 40%",
+        "capturado": "2026-11-07T23:40:24-05:00"
+      },
+      {
         "titulo": "Dan Ives no teme la baja tecnológica y selecciona seis acciones de IA",
         "url": "https://es.finance.yahoo.com/noticias/ives-teme-ca%C3%ADda-tecnol%C3%B3gica-elige-150007291.html",
         "titulo_fuente": "Dan Ives no teme la caída tecnológica y elige seis acciones de IA",
@@ -100,12 +106,6 @@
         "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-ordena-almazaras-almacenar-12-091224848.html",
         "titulo_fuente": "Por qué España retira 188.000 toneladas de aceite de oliva del mercado",
         "capturado": "2026-11-07T13:28:33-05:00"
-      },
-      {
-        "titulo": "Bill Ackman adquiriría Microsoft, Amazon y Netflix aun si la Bolsa cerrara 20 años",
-        "url": "https://es.finance.yahoo.com/noticias/bill-ackman-comprar%C3%ADa-microsoft-amazon-130009270.html",
-        "titulo_fuente": "Bill Ackman compraría Microsoft, Amazon y Netflix aunque la Bolsa cerrara 20 años",
-        "capturado": "2026-11-07T18:26:39-05:00"
       }
     ]
   }
