@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-09T10:18:57-05:00",
+  "actualizado": "2026-11-09T18:58:06-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El futuro del Trumponomics: conciliación o fracaso",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+        "publicacion": "Mon, 09 Nov 2026 19:13:41 +0000",
+        "titulo_fuente": "The future of Trumponomics: compromise or failure",
+        "capturado": "2026-11-09T18:58:06-05:00"
+      },
       {
         "titulo": "Los mercados advierten su rechazo a la ola azul en Estados Unidos",
         "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
@@ -30,13 +37,6 @@
         "publicacion": "Thu, 05 Nov 2026 10:17:54 +0000",
         "titulo_fuente": "William Nordhaus, favourite economist of the right and the left",
         "capturado": "2026-11-05T09:03:48-05:00"
-      },
-      {
-        "titulo": "Así interpretan los mercados las elecciones de mitad de mandato",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-        "publicacion": "Wed, 04 Nov 2026 21:48:18 +0000",
-        "titulo_fuente": "What markets make of the midterms",
-        "capturado": "2026-11-04T18:15:10-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Lecornu reporta incremento de 24 euros en el salario mínimo y beneficios tributarios a empresas",
-        "url": "https://es.finance.yahoo.com/noticias/lecornu-anuncia-subida-salario-m%C3%ADnimo-132342043.html",
-        "titulo_fuente": "Lecornu anuncia la subida de 24 euros del salario mínimo y alivios fiscales a empresas",
-        "capturado": "2026-11-09T10:18:57-05:00"
+        "titulo": "Actualización: Índices de EE. UU. superan pérdidas postelecciones tras repunte de crecimiento; petróleo cae",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-recuperan-221526995.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses recuperan las pérdidas posteriores a las elecciones gracias al fuerte repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
+        "capturado": "2026-11-09T18:58:06-05:00"
       },
       {
-        "titulo": "Fondos cotizados y futuros de renta variable avanzan el lunes antes de la apertura por repunte global",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-141309552.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable suben el lunes antes de la apertura del mercado en medio de la recuperación del mercado global.",
-        "capturado": "2026-11-09T10:18:57-05:00"
+        "titulo": "Anthropic da a conocer nuevos modelos de Fable y Mythos previo a su salida a bolsa",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-presenta-modelos-fable-mythos-194148125.html",
+        "titulo_fuente": "Anthropic presenta nuevos modelos de Fable y Mythos antes de su salida a bolsa",
+        "capturado": "2026-11-09T18:58:06-05:00"
       },
       {
-        "titulo": "Actualización: Futuros accionarios de EE. UU. suben antes de abrir; operadores miden baja del petróleo e IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-135516149.html",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan la caída del precio del petróleo y esperan los resultados relacionados con la IA esta semana.",
-        "capturado": "2026-11-09T10:18:57-05:00"
+        "titulo": "Evalúan nexos de Trump con Huang, de Nvidia, ante temores por operación de inteligencia extranjera",
+        "url": "https://es.finance.yahoo.com/noticias/analizan-v%C3%ADnculos-trump-huang-nvidia-190857555.html",
+        "titulo_fuente": "Analizan vínculos de Trump con Huang, de Nvidia, tras temores sobre operación inteligencia extranjera",
+        "capturado": "2026-11-09T18:58:06-05:00"
       },
       {
-        "titulo": "Oposición en Italia atribuye a desaciertos de Meloni la transacción de Crédit Agricole sobre Banco BPM",
-        "url": "https://es.finance.yahoo.com/noticias/oposici%C3%B3n-italiana-achaca-errores-meloni-133326979.html",
-        "titulo_fuente": "Oposición italiana achaca a los errores de Meloni la operación de Crédit Agricole sobre el Banco BPM",
-        "capturado": "2026-11-09T10:18:57-05:00"
+        "titulo": "Actualización: Índices de EE. UU. suben con fuerza por repunte en sectores de crecimiento; petróleo cae",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-182137459.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben con fuerza gracias al repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
+        "capturado": "2026-11-09T18:58:06-05:00"
       },
       {
-        "titulo": "Oncopeptides recibe aval de la UE para extender el uso de Pepaxti a tratamientos de tercera línea",
-        "url": "https://es.finance.yahoo.com/noticias/oncopeptides-obtiene-aprobaci%C3%B3n-ue-ampliar-133302998.html",
-        "titulo_fuente": "Oncopeptides obtiene la aprobación de la UE para ampliar la indicación de Pepaxti para el tratamiento de tercera línea.",
-        "capturado": "2026-11-09T10:18:57-05:00"
+        "titulo": "Fondos cotizados en bolsa aumentan mientras las acciones de EE. UU. avanzan tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-180817978.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-11-09T18:58:06-05:00"
       }
     ]
   }
