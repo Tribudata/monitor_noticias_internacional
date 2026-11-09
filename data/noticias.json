@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-08T23:50:40-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-09T10:18:57-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Jensen Huang, migrante taiwanés que lavó platos y creó Nvidia, es indagado por nexo con presunta espía china",
+        "url": "https://www.bbc.com/mundo/articles/c03r1red14yo",
+        "publicacion": "2026-11-09",
+        "titulo_fuente": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y ahora es investigado por su relación con una presunta espía china",
+        "capturado": "2026-11-09T10:18:57-05:00"
+      },
+      {
         "titulo": "Quién es Santiago Peña, economista al que Horacio Cartes llevó a la presidencia paraguaya y hoy dejó caer",
         "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo",
         "publicacion": "2026-11-06",
@@ -67,45 +74,38 @@
         "publicacion": "",
         "titulo_fuente": "EN VIVO , Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
         "capturado": "2026-11-06T12:12:05-05:00"
-      },
-      {
-        "titulo": "Crisis en Ueno Bank: aspectos clave de la dimisión de Peña en Paraguay, duración 2,35",
-        "url": "https://www.bbc.com/mundo/watch/cv8ezzdyzkrdo",
-        "publicacion": "PT2M35S",
-        "titulo_fuente": "Crisis de Ueno Bank: las claves de la renuncia de Peña en Paraguay, Duración 2,35",
-        "capturado": "2026-11-06T04:14:53-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Campo iraquí de gas de Khor Mor paraliza producción tras ataque con drones según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/yacimiento-iraqu%C3%AD-gas-khor-mor-225314216.html",
-        "titulo_fuente": "Yacimiento iraquí de gas de Khor Mor suspende producción tras ataque con drones: fuentes",
-        "capturado": "2026-11-08T18:26:15-05:00"
+        "titulo": "Lecornu reporta incremento de 24 euros en el salario mínimo y beneficios tributarios a empresas",
+        "url": "https://es.finance.yahoo.com/noticias/lecornu-anuncia-subida-salario-m%C3%ADnimo-132342043.html",
+        "titulo_fuente": "Lecornu anuncia la subida de 24 euros del salario mínimo y alivios fiscales a empresas",
+        "capturado": "2026-11-09T10:18:57-05:00"
       },
       {
-        "titulo": "Egipto halla un depósito de gas en el Mediterráneo de 200.000 millones de pies cúbicos",
-        "url": "https://es.finance.yahoo.com/noticias/egipto-descubre-yacimiento-gas-mediterr%C3%A1neo-133504816.html",
-        "titulo_fuente": "Egipto descubre un yacimiento de gas en el Mediterráneo con 200.000 millones de pies cúbicos",
-        "capturado": "2026-11-08T13:40:05-05:00"
+        "titulo": "Fondos cotizados y futuros de renta variable avanzan el lunes antes de la apertura por repunte global",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-141309552.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable suben el lunes antes de la apertura del mercado en medio de la recuperación del mercado global.",
+        "capturado": "2026-11-09T10:18:57-05:00"
       },
       {
-        "titulo": "Port a PC gratis de Pokémon Legends Z-A sin emulador: multijugador online para chatear, intercambiar y luchar",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-pok%C3%A9mon-141757609.html",
-        "titulo_fuente": "Descarga gratis el port para PC de Pokémon Legends Z-A sin emulador y con Multijugador Online, donde chateas, intercambias y combates con otros jugadores",
-        "capturado": "2026-11-08T23:50:40-05:00"
+        "titulo": "Actualización: Futuros accionarios de EE. UU. suben antes de abrir; operadores miden baja del petróleo e IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-135516149.html",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan la caída del precio del petróleo y esperan los resultados relacionados con la IA esta semana.",
+        "capturado": "2026-11-09T10:18:57-05:00"
       },
       {
-        "titulo": "Obtenga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars: tardó veinte años en completarse",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-pc-simulador-espacial-132000947.html",
-        "titulo_fuente": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars que desarrolladores tardaron veinte años en completar",
-        "capturado": "2026-11-08T23:50:40-05:00"
+        "titulo": "Oposición en Italia atribuye a desaciertos de Meloni la transacción de Crédit Agricole sobre Banco BPM",
+        "url": "https://es.finance.yahoo.com/noticias/oposici%C3%B3n-italiana-achaca-errores-meloni-133326979.html",
+        "titulo_fuente": "Oposición italiana achaca a los errores de Meloni la operación de Crédit Agricole sobre el Banco BPM",
+        "capturado": "2026-11-09T10:18:57-05:00"
       },
       {
-        "titulo": "Larimar avanza de forma gradual desde su construcción y venta hacia una etapa de operación efectiva",
-        "url": "https://es.finance.yahoo.com/noticias/larimar-pasando-progresivamente-ser-proyecto-050000409.html",
-        "titulo_fuente": "\"Larimar está pasando progresivamente de ser un proyecto en construcción y comercialización a convertirse en una realidad operativa\"",
-        "capturado": "2026-11-08T07:49:51-05:00"
+        "titulo": "Oncopeptides recibe aval de la UE para extender el uso de Pepaxti a tratamientos de tercera línea",
+        "url": "https://es.finance.yahoo.com/noticias/oncopeptides-obtiene-aprobaci%C3%B3n-ue-ampliar-133302998.html",
+        "titulo_fuente": "Oncopeptides obtiene la aprobación de la UE para ampliar la indicación de Pepaxti para el tratamiento de tercera línea.",
+        "capturado": "2026-11-09T10:18:57-05:00"
       }
     ]
   }
