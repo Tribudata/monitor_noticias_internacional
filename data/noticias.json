@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-10T11:07:23-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-10T17:52:40-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Lecciones que dejó un mes difícil para los fondos de cobertura",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+        "publicacion": "Tue, 10 Nov 2026 20:47:39 +0000",
+        "titulo_fuente": "Lessons from a miserable month for hedge funds",
+        "capturado": "2026-11-10T17:52:40-05:00"
+      },
+      {
+        "titulo": "La época de bonanza económica terminó para los boomers",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+        "publicacion": "Tue, 10 Nov 2026 20:28:56 +0000",
+        "titulo_fuente": "For boomers, economic boom times are over",
+        "capturado": "2026-11-10T17:52:40-05:00"
+      },
       {
         "titulo": "El futuro del Trumponomics: conciliación o fracaso",
         "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
@@ -23,23 +37,16 @@
         "publicacion": "Thu, 05 Nov 2026 11:54:22 +0000",
         "titulo_fuente": "Indebted tycoons haunt China’s banking system",
         "capturado": "2026-11-05T09:03:48-05:00"
-      },
-      {
-        "titulo": "La inteligencia artificial transforma a proteccionistas en librecambistas",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
-        "publicacion": "Thu, 05 Nov 2026 10:22:20 +0000",
-        "titulo_fuente": "AI is turning protectionists into free traders",
-        "capturado": "2026-11-05T09:03:48-05:00"
-      },
-      {
-        "titulo": "William Nordhaus, el economista preferido de la derecha y la izquierda",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
-        "publicacion": "Thu, 05 Nov 2026 10:17:54 +0000",
-        "titulo_fuente": "William Nordhaus, favourite economist of the right and the left",
-        "capturado": "2026-11-05T09:03:48-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Sin noticias de su dinero, millones de paraguayos afectados por la crisis de Ueno Bank exigen sus ahorros",
+        "url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
+        "capturado": "2026-11-10T17:52:40-05:00"
+      },
       {
         "titulo": "Causas del bajo recaudo tributario en México y cómo financia su creciente Estado de bienestar",
         "url": "https://www.bbc.com/mundo/articles/cm4g109r03npo",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-06",
         "titulo_fuente": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
         "capturado": "2026-11-06T12:12:05-05:00"
-      },
-      {
-        "titulo": "Perfil de Miguel Vázquez, financista milenial y deportista en el eje de la crisis paraguaya",
-        "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
-        "capturado": "2026-11-06T17:45:01-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "España afronta un paro general en medio de la ola de protestas en Europa",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-encara-huelga-general-medio-055302392.html",
-        "titulo_fuente": "España encara una huelga general en medio de la ola de protestas europeas",
-        "capturado": "2026-11-10T01:58:17-05:00"
+        "titulo": "Actualización: Índices de EEUU caen tras inflación sobre lo previsto que eleva opción de ajuste de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-215350718.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante el aumento de las probabilidades de un endurecimiento de la política monetaria de la Fed, luego de que la inflación superara las previsiones.",
+        "capturado": "2026-11-10T17:52:40-05:00"
       },
       {
-        "titulo": "China aumenta sus exportaciones por la demanda de IA y obtiene un superávit de 1 billón de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/china-dispara-exportaciones-demanda-ia-043048967.html",
-        "titulo_fuente": "China dispara sus exportaciones por la demanda de IA y logra un superávit de 1 billón de dólares",
-        "capturado": "2026-11-10T01:58:17-05:00"
+        "titulo": "Parlamento de Venezuela avala reforma legal que abre el sector eléctrico a la inversión privada",
+        "url": "https://es.finance.yahoo.com/noticias/parlamento-venezolano-aprueba-reforma-legal-212031740.html",
+        "titulo_fuente": "Parlamento venezolano aprueba reforma legal que abre sector eléctrico a inversión privada",
+        "capturado": "2026-11-10T17:52:40-05:00"
       },
       {
-        "titulo": "Colombia registra inflación en octubre menor a la prevista por el mercado y acumula 6,30% anual",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-reporta-inflaci%C3%B3n-octubre-inferior-002649626.html",
-        "titulo_fuente": "Colombia reporta inflación en octubre inferior a la esperada por el mercado, acumula 6,30% anual",
-        "capturado": "2026-11-10T01:58:17-05:00"
+        "titulo": "SpaceX enfrentará demanda por discriminación sexual al negar corte de apelación pedido de arbitraje",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-deber%C3%A1-enfrentar-demanda-discriminaci%C3%B3n-201308899.html",
+        "titulo_fuente": "SpaceX deberá enfrentar demanda por discriminación sexual ya que corte de apelación rechaza solicitud arbitraje",
+        "capturado": "2026-11-10T17:52:40-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EE. UU. superan pérdidas postelecciones tras repunte de crecimiento; petróleo cae",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-recuperan-221526995.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses recuperan las pérdidas posteriores a las elecciones gracias al fuerte repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
-        "capturado": "2026-11-09T18:58:06-05:00"
+        "titulo": "Anthropic compite con Microsoft y Google mediante nuevas herramientas de Claude",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-desaf%C3%ADa-microsoft-google-herramientas-184246618.html",
+        "titulo_fuente": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude",
+        "capturado": "2026-11-10T17:52:40-05:00"
       },
       {
-        "titulo": "Anthropic da a conocer nuevos modelos de Fable y Mythos previo a su salida a bolsa",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-presenta-modelos-fable-mythos-194148125.html",
-        "titulo_fuente": "Anthropic presenta nuevos modelos de Fable y Mythos antes de su salida a bolsa",
-        "capturado": "2026-11-09T18:58:06-05:00"
+        "titulo": "Actualización: Bolsas de EEUU caen al subir opción de ajuste de la Reserva Federal por inflación de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183806425.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el dato de inflación de octubre aumenta las probabilidades de que la Reserva Federal endurezca su política monetaria.",
+        "capturado": "2026-11-10T17:52:40-05:00"
       }
     ]
   }
