@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-09T18:58:06-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-10T01:58:17-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
       {
@@ -78,6 +78,24 @@
     ],
     "Yahoo": [
       {
+        "titulo": "España afronta un paro general en medio de la ola de protestas en Europa",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-encara-huelga-general-medio-055302392.html",
+        "titulo_fuente": "España encara una huelga general en medio de la ola de protestas europeas",
+        "capturado": "2026-11-10T01:58:17-05:00"
+      },
+      {
+        "titulo": "China aumenta sus exportaciones por la demanda de IA y obtiene un superávit de 1 billón de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/china-dispara-exportaciones-demanda-ia-043048967.html",
+        "titulo_fuente": "China dispara sus exportaciones por la demanda de IA y logra un superávit de 1 billón de dólares",
+        "capturado": "2026-11-10T01:58:17-05:00"
+      },
+      {
+        "titulo": "Colombia registra inflación en octubre menor a la prevista por el mercado y acumula 6,30% anual",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-reporta-inflaci%C3%B3n-octubre-inferior-002649626.html",
+        "titulo_fuente": "Colombia reporta inflación en octubre inferior a la esperada por el mercado, acumula 6,30% anual",
+        "capturado": "2026-11-10T01:58:17-05:00"
+      },
+      {
         "titulo": "Actualización: Índices de EE. UU. superan pérdidas postelecciones tras repunte de crecimiento; petróleo cae",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-recuperan-221526995.html",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses recuperan las pérdidas posteriores a las elecciones gracias al fuerte repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
@@ -87,24 +105,6 @@
         "titulo": "Anthropic da a conocer nuevos modelos de Fable y Mythos previo a su salida a bolsa",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-presenta-modelos-fable-mythos-194148125.html",
         "titulo_fuente": "Anthropic presenta nuevos modelos de Fable y Mythos antes de su salida a bolsa",
-        "capturado": "2026-11-09T18:58:06-05:00"
-      },
-      {
-        "titulo": "Evalúan nexos de Trump con Huang, de Nvidia, ante temores por operación de inteligencia extranjera",
-        "url": "https://es.finance.yahoo.com/noticias/analizan-v%C3%ADnculos-trump-huang-nvidia-190857555.html",
-        "titulo_fuente": "Analizan vínculos de Trump con Huang, de Nvidia, tras temores sobre operación inteligencia extranjera",
-        "capturado": "2026-11-09T18:58:06-05:00"
-      },
-      {
-        "titulo": "Actualización: Índices de EE. UU. suben con fuerza por repunte en sectores de crecimiento; petróleo cae",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-182137459.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben con fuerza gracias al repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
-        "capturado": "2026-11-09T18:58:06-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados en bolsa aumentan mientras las acciones de EE. UU. avanzan tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-180817978.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
         "capturado": "2026-11-09T18:58:06-05:00"
       }
     ]
