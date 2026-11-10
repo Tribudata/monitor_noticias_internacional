@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10T01:58:17-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-10T11:07:23-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Causas del bajo recaudo tributario en México y cómo financia su creciente Estado de bienestar",
+        "url": "https://www.bbc.com/mundo/articles/cm4g109r03npo",
+        "publicacion": "2026-11-10",
+        "titulo_fuente": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
+        "capturado": "2026-11-10T11:07:23-05:00"
+      },
+      {
         "titulo": "Jensen Huang, migrante taiwanés que lavó platos y creó Nvidia, es indagado por nexo con presunta espía china",
         "url": "https://www.bbc.com/mundo/articles/c03r1red14yo",
         "publicacion": "2026-11-09",
@@ -67,13 +74,6 @@
         "publicacion": "2026-11-06",
         "titulo_fuente": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
         "capturado": "2026-11-06T17:45:01-05:00"
-      },
-      {
-        "titulo": "En vivo, crisis paraguaya: Santiago Peña no va al Congreso y sus abogados lo defienden en juicio político",
-        "url": "https://www.bbc.com/mundo/live/c54g11vvvemkt",
-        "publicacion": "",
-        "titulo_fuente": "EN VIVO , Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
-        "capturado": "2026-11-06T12:12:05-05:00"
       }
     ],
     "Yahoo": [
