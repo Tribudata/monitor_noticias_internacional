@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-10T23:53:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-11T08:38:21-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "3 ejes de la primera huelga general en España en 14 años: paradoja del aval del gobierno y crítica opositora",
+        "url": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
+        "capturado": "2026-11-11T08:38:21-05:00"
+      },
+      {
         "titulo": "Sin noticias de su dinero, millones de paraguayos afectados por la crisis de Ueno Bank exigen sus ahorros",
         "url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo",
         "publicacion": "2026-11-10",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-06",
         "titulo_fuente": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
         "capturado": "2026-11-06T12:12:05-05:00"
-      },
-      {
-        "titulo": "Razones del juicio político a Santiago Peña, presidente de Paraguay, tras la crisis de Ueno Bank",
-        "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
-        "capturado": "2026-11-06T12:12:05-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Índices de EEUU caen tras inflación sobre lo previsto que eleva opción de ajuste de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-215350718.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante el aumento de las probabilidades de un endurecimiento de la política monetaria de la Fed, luego de que la inflación superara las previsiones.",
-        "capturado": "2026-11-10T17:52:40-05:00"
+        "titulo": "El BCE ratifica el avance del euro digital tras la renuncia de Christine Lagarde",
+        "url": "https://es.finance.yahoo.com/noticias/bce-asegura-salida-lagarde-retrasa-124621702.html",
+        "titulo_fuente": "El BCE confirma que el euro digital seguirá adelante pese a la dimisión de Christine Lagarde",
+        "capturado": "2026-11-11T08:38:21-05:00"
       },
       {
-        "titulo": "Parlamento de Venezuela avala reforma legal que abre el sector eléctrico a la inversión privada",
-        "url": "https://es.finance.yahoo.com/noticias/parlamento-venezolano-aprueba-reforma-legal-212031740.html",
-        "titulo_fuente": "Parlamento venezolano aprueba reforma legal que abre sector eléctrico a inversión privada",
-        "capturado": "2026-11-10T17:52:40-05:00"
+        "titulo": "Futuros de acciones de EE. UU. suben previo a apertura, con Nvidia y CoreWeave al alza en repunte tecnológico",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-130206241.html",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
+        "capturado": "2026-11-11T08:38:21-05:00"
       },
       {
-        "titulo": "SpaceX enfrentará demanda por discriminación sexual al negar corte de apelación pedido de arbitraje",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-deber%C3%A1-enfrentar-demanda-discriminaci%C3%B3n-201308899.html",
-        "titulo_fuente": "SpaceX deberá enfrentar demanda por discriminación sexual ya que corte de apelación rechaza solicitud arbitraje",
-        "capturado": "2026-11-10T17:52:40-05:00"
+        "titulo": "Irán alerta sobre desabastecimiento de gas en la nación durante el invierno boreal debido a la guerra",
+        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-advierte-escasez-gas-pa%C3%ADs-124825912.html",
+        "titulo_fuente": "Irán advierte de escasez de gas en el país durante invierno boreal a causa de la guerra",
+        "capturado": "2026-11-11T08:38:21-05:00"
       },
       {
-        "titulo": "Anthropic compite con Microsoft y Google mediante nuevas herramientas de Claude",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-desaf%C3%ADa-microsoft-google-herramientas-184246618.html",
-        "titulo_fuente": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude",
-        "capturado": "2026-11-10T17:52:40-05:00"
+        "titulo": "Acciones de IA avanzan luego de los resultados de CoreWeave",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-repuntan-resultados-coreweave-115323263.html",
+        "titulo_fuente": "Acciones de IA repuntan tras resultados de CoreWeave",
+        "capturado": "2026-11-11T08:38:21-05:00"
       },
       {
-        "titulo": "Actualización: Bolsas de EEUU caen al subir opción de ajuste de la Reserva Federal por inflación de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183806425.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el dato de inflación de octubre aumenta las probabilidades de que la Reserva Federal endurezca su política monetaria.",
-        "capturado": "2026-11-10T17:52:40-05:00"
+        "titulo": "La UE amenaza con aplicar fuertes multas por prácticas comerciales desleales en internet",
+        "url": "https://es.finance.yahoo.com/noticias/ue-amenaza-imponer-cuantiosas-multas-114554863.html",
+        "titulo_fuente": "La UE amenaza con imponer cuantiosas multas por prácticas comerciales desleales en internet",
+        "capturado": "2026-11-11T08:38:21-05:00"
       }
     ]
   }
