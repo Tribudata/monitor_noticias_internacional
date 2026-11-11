@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T08:38:21-05:00",
+  "actualizado": "2026-11-11T16:03:55-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "En imágenes: decenas de arrestados durante la primera huelga general en España tras 14 años",
+        "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o",
+        "publicacion": "2026-11-11",
+        "titulo_fuente": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+        "capturado": "2026-11-11T16:03:55-05:00"
+      },
+      {
         "titulo": "3 ejes de la primera huelga general en España en 14 años: paradoja del aval del gobierno y crítica opositora",
         "url": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o",
         "publicacion": "2026-11-11",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-09",
         "titulo_fuente": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y ahora es investigado por su relación con una presunta espía china",
         "capturado": "2026-11-09T10:18:57-05:00"
-      },
-      {
-        "titulo": "Quién es Santiago Peña, economista al que Horacio Cartes llevó a la presidencia paraguaya y hoy dejó caer",
-        "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo",
-        "publicacion": "2026-11-06",
-        "titulo_fuente": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
-        "capturado": "2026-11-06T12:12:05-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "El BCE ratifica el avance del euro digital tras la renuncia de Christine Lagarde",
-        "url": "https://es.finance.yahoo.com/noticias/bce-asegura-salida-lagarde-retrasa-124621702.html",
-        "titulo_fuente": "El BCE confirma que el euro digital seguirá adelante pese a la dimisión de Christine Lagarde",
-        "capturado": "2026-11-11T08:38:21-05:00"
+        "titulo": "Lula se reúne con la presidenta interina de Venezuela para tratar inversiones en el sector petrolero",
+        "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
+        "titulo_fuente": "Lula se reúne con presidenta encargada de Venezuela, hablan de inversiones en el sector petrolero",
+        "capturado": "2026-11-11T16:03:55-05:00"
       },
       {
-        "titulo": "Futuros de acciones de EE. UU. suben previo a apertura, con Nvidia y CoreWeave al alza en repunte tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-130206241.html",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
-        "capturado": "2026-11-11T08:38:21-05:00"
+        "titulo": "Rusia reporta más de 11.000 extranjeros fallecidos en el conflicto armado con Ucrania",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-registra-11-000-extranjeros-194419828.html",
+        "titulo_fuente": "Rusia registra más de 11.000 extranjeros muertos en la guerra contra Ucrania",
+        "capturado": "2026-11-11T16:03:55-05:00"
       },
       {
-        "titulo": "Irán alerta sobre desabastecimiento de gas en la nación durante el invierno boreal debido a la guerra",
-        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-advierte-escasez-gas-pa%C3%ADs-124825912.html",
-        "titulo_fuente": "Irán advierte de escasez de gas en el país durante invierno boreal a causa de la guerra",
-        "capturado": "2026-11-11T08:38:21-05:00"
+        "titulo": "Jefe del Banco Central brasileño afirma que orientar la política monetaria es negativo ante la incertidumbre",
+        "url": "https://es.finance.yahoo.com/noticias/jefe-banco-central-brasile%C3%B1o-valor-193224078.html",
+        "titulo_fuente": "Jefe Banco Central brasileño dice valor de orientaciones política monetaria es negativo en contexto incierto",
+        "capturado": "2026-11-11T16:03:55-05:00"
       },
       {
-        "titulo": "Acciones de IA avanzan luego de los resultados de CoreWeave",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-repuntan-resultados-coreweave-115323263.html",
-        "titulo_fuente": "Acciones de IA repuntan tras resultados de CoreWeave",
-        "capturado": "2026-11-11T08:38:21-05:00"
+        "titulo": "Al día: Índices de EE. UU. suben por balances trimestrales y metas de CoreWeave que impulsan comercio de IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-185545925.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan gracias a los sólidos resultados trimestrales y las previsiones de CoreWeave, que impulsan el comercio basado en IA.",
+        "capturado": "2026-11-11T16:03:55-05:00"
       },
       {
-        "titulo": "La UE amenaza con aplicar fuertes multas por prácticas comerciales desleales en internet",
-        "url": "https://es.finance.yahoo.com/noticias/ue-amenaza-imponer-cuantiosas-multas-114554863.html",
-        "titulo_fuente": "La UE amenaza con imponer cuantiosas multas por prácticas comerciales desleales en internet",
-        "capturado": "2026-11-11T08:38:21-05:00"
+        "titulo": "Los fondos cotizados en bolsa ganan valor mientras los títulos de EE. UU. aumentan tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181134671.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-11-11T16:03:55-05:00"
       }
     ]
   }
