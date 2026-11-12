@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-11-11T21:42:12-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-12T07:13:35-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El regreso del Estado confiscatorio",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
+        "publicacion": "Thu, 12 Nov 2026 10:40:24 +0000",
+        "titulo_fuente": "The return of the snatch-and-grab state",
+        "capturado": "2026-11-12T07:13:35-05:00"
+      },
+      {
+        "titulo": "Dónde hallar operaciones de inversión en contra de la IA",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
+        "publicacion": "Thu, 12 Nov 2026 10:38:28 +0000",
+        "titulo_fuente": "Where to find the anti-AI trade",
+        "capturado": "2026-11-12T07:13:35-05:00"
+      },
+      {
+        "titulo": "El impuesto de salida propuesto por Italia genera tensiones",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
+        "publicacion": "Thu, 12 Nov 2026 10:35:00 +0000",
+        "titulo_fuente": "Italy’s proposed exit tax causes ructions",
+        "capturado": "2026-11-12T07:13:35-05:00"
+      },
       {
         "titulo": "Lecciones que dejó un mes difícil para los fondos de cobertura",
         "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
@@ -16,27 +37,6 @@
         "publicacion": "Tue, 10 Nov 2026 20:28:56 +0000",
         "titulo_fuente": "For boomers, economic boom times are over",
         "capturado": "2026-11-10T17:52:40-05:00"
-      },
-      {
-        "titulo": "El futuro del Trumponomics: conciliación o fracaso",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-        "publicacion": "Mon, 09 Nov 2026 19:13:41 +0000",
-        "titulo_fuente": "The future of Trumponomics: compromise or failure",
-        "capturado": "2026-11-09T18:58:06-05:00"
-      },
-      {
-        "titulo": "Los mercados advierten su rechazo a la ola azul en Estados Unidos",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-        "publicacion": "Thu, 05 Nov 2026 23:41:07 +0000",
-        "titulo_fuente": "Markets realise they hate America’s blue wave",
-        "capturado": "2026-11-06T04:14:53-05:00"
-      },
-      {
-        "titulo": "Magnates endeudados agobian al sistema bancario de China",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
-        "publicacion": "Thu, 05 Nov 2026 11:54:22 +0000",
-        "titulo_fuente": "Indebted tycoons haunt China’s banking system",
-        "capturado": "2026-11-05T09:03:48-05:00"
       }
     ],
     "BBC": [
