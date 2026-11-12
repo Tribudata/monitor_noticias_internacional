@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-11T16:03:55-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-11T21:42:12-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,33 +78,33 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Exxon analiza 7 zonas en Venezuela para eventuales proyectos de energía según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/exxon-eval%C3%BAa-7-%C3%A1reas-venezuela-225604175.html",
+        "titulo_fuente": "Exxon evalúa 7 áreas en Venezuela para posibles proyectos energéticos: fuentes",
+        "capturado": "2026-11-11T21:42:12-05:00"
+      },
+      {
+        "titulo": "México señala que límites a importaciones de acero asiático funcionan mientras negocia con EEUU",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-afirma-restricciones-importaciones-acero-223949766.html",
+        "titulo_fuente": "México afirma restricciones a importaciones acero asiático dan frutos mientras avanzan negociaciones con EEUU",
+        "capturado": "2026-11-11T21:42:12-05:00"
+      },
+      {
+        "titulo": "Fitch pone la calificación BB+ de Paraguay en observación negativa tras la quiebra de ueno",
+        "url": "https://es.finance.yahoo.com/noticias/fitch-coloca-nota-bb-paraguay-215842405.html",
+        "titulo_fuente": "Fitch coloca nota \"BB+\" de Paraguay en vigilancia negativa tras la quiebra de ueno",
+        "capturado": "2026-11-11T21:42:12-05:00"
+      },
+      {
+        "titulo": "Actualización: Índices de EEUU suben por firmes cifras en T3 de CoreWeave que elevan a fabricantes de chips",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-215702751.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan tras los sólidos resultados del tercer trimestre de CoreWeave, que impulsan la subida de los fabricantes de chips.",
+        "capturado": "2026-11-11T21:42:12-05:00"
+      },
+      {
         "titulo": "Lula se reúne con la presidenta interina de Venezuela para tratar inversiones en el sector petrolero",
         "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
         "titulo_fuente": "Lula se reúne con presidenta encargada de Venezuela, hablan de inversiones en el sector petrolero",
-        "capturado": "2026-11-11T16:03:55-05:00"
-      },
-      {
-        "titulo": "Rusia reporta más de 11.000 extranjeros fallecidos en el conflicto armado con Ucrania",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-registra-11-000-extranjeros-194419828.html",
-        "titulo_fuente": "Rusia registra más de 11.000 extranjeros muertos en la guerra contra Ucrania",
-        "capturado": "2026-11-11T16:03:55-05:00"
-      },
-      {
-        "titulo": "Jefe del Banco Central brasileño afirma que orientar la política monetaria es negativo ante la incertidumbre",
-        "url": "https://es.finance.yahoo.com/noticias/jefe-banco-central-brasile%C3%B1o-valor-193224078.html",
-        "titulo_fuente": "Jefe Banco Central brasileño dice valor de orientaciones política monetaria es negativo en contexto incierto",
-        "capturado": "2026-11-11T16:03:55-05:00"
-      },
-      {
-        "titulo": "Al día: Índices de EE. UU. suben por balances trimestrales y metas de CoreWeave que impulsan comercio de IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-185545925.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan gracias a los sólidos resultados trimestrales y las previsiones de CoreWeave, que impulsan el comercio basado en IA.",
-        "capturado": "2026-11-11T16:03:55-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados en bolsa ganan valor mientras los títulos de EE. UU. aumentan tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181134671.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
         "capturado": "2026-11-11T16:03:55-05:00"
       }
     ]
