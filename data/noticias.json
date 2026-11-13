@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T16:18:48-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-12T21:25:18-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Cómo las malas decisiones de Jensen Huang, visionario de la IA, lo llevaron a caer en desgracia",
+        "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus propias malas decisiones",
+        "capturado": "2026-11-12T21:25:18-05:00"
+      },
+      {
+        "titulo": "En gráficos: cómo operaba Ueno Bank y los motivos tras el colapso que desató una crisis en Paraguay",
+        "url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno",
+        "publicacion": "2026-11-12",
+        "titulo_fuente": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
+        "capturado": "2026-11-12T21:25:18-05:00"
+      },
+      {
         "titulo": "En imágenes: decenas de arrestados durante la primera huelga general en España tras 14 años",
         "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o",
         "publicacion": "2026-11-11",
@@ -60,52 +74,38 @@
         "publicacion": "2026-11-10",
         "titulo_fuente": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
         "capturado": "2026-11-10T17:52:40-05:00"
-      },
-      {
-        "titulo": "Causas del bajo recaudo tributario en México y cómo financia su creciente Estado de bienestar",
-        "url": "https://www.bbc.com/mundo/articles/cm4g109r03npo",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
-        "capturado": "2026-11-10T11:07:23-05:00"
-      },
-      {
-        "titulo": "Jensen Huang, migrante taiwanés que lavó platos y creó Nvidia, es indagado por nexo con presunta espía china",
-        "url": "https://www.bbc.com/mundo/articles/c03r1red14yo",
-        "publicacion": "2026-11-09",
-        "titulo_fuente": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y ahora es investigado por su relación con una presunta espía china",
-        "capturado": "2026-11-09T10:18:57-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Exxon analiza 7 zonas en Venezuela para eventuales proyectos de energía según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/exxon-eval%C3%BAa-7-%C3%A1reas-venezuela-225604175.html",
-        "titulo_fuente": "Exxon evalúa 7 áreas en Venezuela para posibles proyectos energéticos: fuentes",
-        "capturado": "2026-11-11T21:42:12-05:00"
+        "titulo": "Bolsa de Rosario eleva previsión de cosecha de trigo argentino por menor efecto de El Niño",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-rosario-sube-estimaci%C3%B3n-cosecha-223826760.html",
+        "titulo_fuente": "Bolsa Rosario sube estimación cosecha trigo argentino gracias a menor impacto de El Niño",
+        "capturado": "2026-11-12T21:25:18-05:00"
       },
       {
-        "titulo": "México señala que límites a importaciones de acero asiático funcionan mientras negocia con EEUU",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-afirma-restricciones-importaciones-acero-223949766.html",
-        "titulo_fuente": "México afirma restricciones a importaciones acero asiático dan frutos mientras avanzan negociaciones con EEUU",
-        "capturado": "2026-11-11T21:42:12-05:00"
+        "titulo": "Actualización: caen índices de EE.UU., crisis de Nvidia amenaza extenderse y petróleo eleva bonos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-220045018.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, la crisis de Nvidia amenaza con extenderse, mientras que el alza del petróleo crudo eleva los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-12T21:25:18-05:00"
       },
       {
-        "titulo": "Fitch pone la calificación BB+ de Paraguay en observación negativa tras la quiebra de ueno",
-        "url": "https://es.finance.yahoo.com/noticias/fitch-coloca-nota-bb-paraguay-215842405.html",
-        "titulo_fuente": "Fitch coloca nota \"BB+\" de Paraguay en vigilancia negativa tras la quiebra de ueno",
-        "capturado": "2026-11-11T21:42:12-05:00"
+        "titulo": "Web Summit dedica su día final a la partida de Huang, la burbuja de la IA y la deuda estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/web-summit-centra-jornada-salida-213245774.html",
+        "titulo_fuente": "Web Summit centra su última jornada en la salida de Huang, burbuja de IA y deuda de EE.UU.",
+        "capturado": "2026-11-12T21:25:18-05:00"
       },
       {
-        "titulo": "Actualización: Índices de EEUU suben por firmes cifras en T3 de CoreWeave que elevan a fabricantes de chips",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-215702751.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan tras los sólidos resultados del tercer trimestre de CoreWeave, que impulsan la subida de los fabricantes de chips.",
-        "capturado": "2026-11-11T21:42:12-05:00"
+        "titulo": "Mercedes frena nuevas inversiones en Alemania y contempla el cierre de plantas",
+        "url": "https://es.finance.yahoo.com/noticias/mercedes-congela-inversiones-alemania-baraja-192201726.html",
+        "titulo_fuente": "Mercedes congela nuevas inversiones en Alemania y baraja cerrar fábricas",
+        "capturado": "2026-11-12T21:25:18-05:00"
       },
       {
-        "titulo": "Lula se reúne con la presidenta interina de Venezuela para tratar inversiones en el sector petrolero",
-        "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
-        "titulo_fuente": "Lula se reúne con presidenta encargada de Venezuela, hablan de inversiones en el sector petrolero",
-        "capturado": "2026-11-11T16:03:55-05:00"
+        "titulo": "OpenAI, Google y Anthropic enfrentan demanda para detener el avance de la IA de vanguardia",
+        "url": "https://es.finance.yahoo.com/noticias/openai-google-anthropic-objeto-demanda-194001619.html",
+        "titulo_fuente": "OpenAI, Google y Anthropic, objeto de una demanda que busca frenar desarrollo de la IA de vanguardia",
+        "capturado": "2026-11-12T21:25:18-05:00"
       }
     ]
   }
