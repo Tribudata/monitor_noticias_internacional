@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T21:25:18-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-13T06:53:06-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Bolsa de Rosario eleva previsión de cosecha de trigo argentino por menor efecto de El Niño",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-rosario-sube-estimaci%C3%B3n-cosecha-223826760.html",
-        "titulo_fuente": "Bolsa Rosario sube estimación cosecha trigo argentino gracias a menor impacto de El Niño",
-        "capturado": "2026-11-12T21:25:18-05:00"
+        "titulo": "Wall Street registra estabilidad antes de abrir tras la salida del CEO de Nvidia; Asia cae y Europa sube",
+        "url": "https://es.finance.yahoo.com/noticias/wall-street-mantiene-estable-apertura-111911923.html",
+        "titulo_fuente": "Wall Street se mantiene estable antes de la apertura tras la salida del CEO de Nvidia; Asia baja, Europa sube.",
+        "capturado": "2026-11-13T06:53:06-05:00"
       },
       {
-        "titulo": "Actualización: caen índices de EE.UU., crisis de Nvidia amenaza extenderse y petróleo eleva bonos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-220045018.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, la crisis de Nvidia amenaza con extenderse, mientras que el alza del petróleo crudo eleva los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-12T21:25:18-05:00"
+        "titulo": "La AIE afirma que el diésel en Europa se mantiene costoso a pesar de la sobreoferta de crudo",
+        "url": "https://es.finance.yahoo.com/noticias/aie-di%C3%A9sel-europeo-caro-pese-111802161.html",
+        "titulo_fuente": "La AIE dice que el diésel europeo sigue caro pese al exceso de crudo",
+        "capturado": "2026-11-13T06:53:06-05:00"
       },
       {
-        "titulo": "Web Summit dedica su día final a la partida de Huang, la burbuja de la IA y la deuda estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/web-summit-centra-jornada-salida-213245774.html",
-        "titulo_fuente": "Web Summit centra su última jornada en la salida de Huang, burbuja de IA y deuda de EE.UU.",
-        "capturado": "2026-11-12T21:25:18-05:00"
+        "titulo": "En España la compra de viviendas por extranjeros logra un récord del 16% con precios en picos históricos",
+        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
+        "titulo_fuente": "En España la compra de vivienda por extranjeros marca un récord del 16% con precios en máximos históricos",
+        "capturado": "2026-11-13T06:53:06-05:00"
       },
       {
-        "titulo": "Mercedes frena nuevas inversiones en Alemania y contempla el cierre de plantas",
-        "url": "https://es.finance.yahoo.com/noticias/mercedes-congela-inversiones-alemania-baraja-192201726.html",
-        "titulo_fuente": "Mercedes congela nuevas inversiones en Alemania y baraja cerrar fábricas",
-        "capturado": "2026-11-12T21:25:18-05:00"
+        "titulo": "China y Turquía firman pacto de renovables por cerca de 15.000 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/china-turqu%C3%ADa-firman-acuerdo-renovables-110908042.html",
+        "titulo_fuente": "China y Turquía firman acuerdo de renovables por unos 15.000 millones de dólares",
+        "capturado": "2026-11-13T06:53:06-05:00"
       },
       {
-        "titulo": "OpenAI, Google y Anthropic enfrentan demanda para detener el avance de la IA de vanguardia",
-        "url": "https://es.finance.yahoo.com/noticias/openai-google-anthropic-objeto-demanda-194001619.html",
-        "titulo_fuente": "OpenAI, Google y Anthropic, objeto de una demanda que busca frenar desarrollo de la IA de vanguardia",
-        "capturado": "2026-11-12T21:25:18-05:00"
+        "titulo": "El oro sube, pero se encamina a una baja semanal aguardando el dato de inflación en EEUU",
+        "url": "https://es.finance.yahoo.com/noticias/oro-repunta-rumbo-ca%C3%ADda-semanal-104953746.html",
+        "titulo_fuente": "El oro repunta, pero va rumbo a una caída semanal a la espera de dato inflación EEUU",
+        "capturado": "2026-11-13T06:53:06-05:00"
       }
     ]
   }
