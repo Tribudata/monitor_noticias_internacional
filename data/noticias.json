@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-13T06:53:06-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-13T14:15:00-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Camaçari, la urbe cambiada por la planta de autos chinos más grande de Latinoamérica, Duración 15,28",
+        "url": "https://www.bbc.com/mundo/watch/c6eq4nwn4e44o",
+        "publicacion": "PT15M28S",
+        "titulo_fuente": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina, Duración 15,28",
+        "capturado": "2026-11-13T14:15:00-05:00"
+      },
+      {
+        "titulo": "EE.UU. sostiene que giró a Venezuela más de US$12.000 millones por sus exportaciones petroleras y otros recursos",
+        "url": "https://www.bbc.com/mundo/articles/cq1438vzvj1eo",
+        "publicacion": "2026-11-13",
+        "titulo_fuente": "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
+        "capturado": "2026-11-13T14:15:00-05:00"
+      },
+      {
         "titulo": "Cómo las malas decisiones de Jensen Huang, visionario de la IA, lo llevaron a caer en desgracia",
         "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo",
         "publicacion": "2026-11-12",
@@ -60,52 +74,38 @@
         "publicacion": "2026-11-11",
         "titulo_fuente": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
         "capturado": "2026-11-11T16:03:55-05:00"
-      },
-      {
-        "titulo": "3 ejes de la primera huelga general en España en 14 años: paradoja del aval del gobierno y crítica opositora",
-        "url": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
-        "capturado": "2026-11-11T08:38:21-05:00"
-      },
-      {
-        "titulo": "Sin noticias de su dinero, millones de paraguayos afectados por la crisis de Ueno Bank exigen sus ahorros",
-        "url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo",
-        "publicacion": "2026-11-10",
-        "titulo_fuente": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
-        "capturado": "2026-11-10T17:52:40-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Wall Street registra estabilidad antes de abrir tras la salida del CEO de Nvidia; Asia cae y Europa sube",
-        "url": "https://es.finance.yahoo.com/noticias/wall-street-mantiene-estable-apertura-111911923.html",
-        "titulo_fuente": "Wall Street se mantiene estable antes de la apertura tras la salida del CEO de Nvidia; Asia baja, Europa sube.",
-        "capturado": "2026-11-13T06:53:06-05:00"
+        "titulo": "Fondos cotizados en bolsa retroceden por el descenso de acciones estadounidenses tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181215629.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-13T14:15:00-05:00"
       },
       {
-        "titulo": "La AIE afirma que el diésel en Europa se mantiene costoso a pesar de la sobreoferta de crudo",
-        "url": "https://es.finance.yahoo.com/noticias/aie-di%C3%A9sel-europeo-caro-pese-111802161.html",
-        "titulo_fuente": "La AIE dice que el diésel europeo sigue caro pese al exceso de crudo",
-        "capturado": "2026-11-13T06:53:06-05:00"
+        "titulo": "Fed probablemente deba elevar las tasas ante el deterioro de la inflación, afirma Daly",
+        "url": "https://es.finance.yahoo.com/noticias/fed-probablemente-subir-tasas-empeoramiento-180128207.html",
+        "titulo_fuente": "Fed probablemente tenga que subir las tasas ante empeoramiento de la inflación: Daly",
+        "capturado": "2026-11-13T14:15:00-05:00"
       },
       {
-        "titulo": "En España la compra de viviendas por extranjeros logra un récord del 16% con precios en picos históricos",
-        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
-        "titulo_fuente": "En España la compra de vivienda por extranjeros marca un récord del 16% con precios en máximos históricos",
-        "capturado": "2026-11-13T06:53:06-05:00"
+        "titulo": "Francia y Alemania afinan un pacto para que De Cos dirija el BCE",
+        "url": "https://es.finance.yahoo.com/noticias/francia-alemania-ultiman-acuerdo-cos-173800428.html",
+        "titulo_fuente": "Francia y Alemania ultiman un acuerdo para que De Cos presida el BCE",
+        "capturado": "2026-11-13T14:15:00-05:00"
       },
       {
-        "titulo": "China y Turquía firman pacto de renovables por cerca de 15.000 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/china-turqu%C3%ADa-firman-acuerdo-renovables-110908042.html",
-        "titulo_fuente": "China y Turquía firman acuerdo de renovables por unos 15.000 millones de dólares",
-        "capturado": "2026-11-13T06:53:06-05:00"
+        "titulo": "Ecopetrol gestiona con PDVSA un convenio a 10 años para adquirir gas natural venezolano",
+        "url": "https://es.finance.yahoo.com/noticias/ecopetrol-negocia-pdvsa-acuerdo-10-172618772.html",
+        "titulo_fuente": "Ecopetrol negocia con PDVSA un acuerdo a 10 años para comprar gas natural venezolano",
+        "capturado": "2026-11-13T14:15:00-05:00"
       },
       {
-        "titulo": "El oro sube, pero se encamina a una baja semanal aguardando el dato de inflación en EEUU",
-        "url": "https://es.finance.yahoo.com/noticias/oro-repunta-rumbo-ca%C3%ADda-semanal-104953746.html",
-        "titulo_fuente": "El oro repunta, pero va rumbo a una caída semanal a la espera de dato inflación EEUU",
-        "capturado": "2026-11-13T06:53:06-05:00"
+        "titulo": "La crisis de Nvidia genera disputas entre integrantes del gabinete de Donald Trump",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-nvidia-causa-rencillas-miembros-170209667.html",
+        "titulo_fuente": "Crisis de Nvidia causa rencillas entre miembros del gabinete de Donald Trump",
+        "capturado": "2026-11-13T14:15:00-05:00"
       }
     ]
   }
