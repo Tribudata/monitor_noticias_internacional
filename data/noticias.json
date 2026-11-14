@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-13T19:40:52-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-14T03:38:37-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Francia y Alemania afinan un pacto para que De Cos dirija el BCE",
-        "url": "https://es.finance.yahoo.com/noticias/francia-alemania-ultiman-acuerdo-cos-173800428.html",
-        "titulo_fuente": "Francia y Alemania ultiman un acuerdo para que De Cos presida el BCE",
-        "capturado": "2026-11-13T14:15:00-05:00"
+        "titulo": "Escasean educadores, personal de salud y expertos TIC en Europa; sobran obreros y auxiliares de cocina",
+        "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
+        "titulo_fuente": "En Europa faltan docentes, sanitarios y expertos TIC pero abundan peones y ayudantes de cocina",
+        "capturado": "2026-11-14T03:38:37-05:00"
       },
       {
-        "titulo": "Fondos cotizados en bolsa retroceden por el descenso de acciones estadounidenses tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181215629.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-11-13T14:15:00-05:00"
+        "titulo": "Al día: Bolsas de EE. UU. cierran mixtas por crisis de Nvidia en chips y precios al productor elevados",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-215300080.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados dispares mientras la crisis de Nvidia afecta a los fabricantes de chips; los precios al productor se mantienen «elevados»",
+        "capturado": "2026-11-14T03:38:37-05:00"
       },
       {
-        "titulo": "Fed probablemente deba elevar las tasas ante el deterioro de la inflación, afirma Daly",
-        "url": "https://es.finance.yahoo.com/noticias/fed-probablemente-subir-tasas-empeoramiento-180128207.html",
-        "titulo_fuente": "Fed probablemente tenga que subir las tasas ante empeoramiento de la inflación: Daly",
-        "capturado": "2026-11-13T14:15:00-05:00"
+        "titulo": "Estados Unidos paraliza todos los vuelos; el mercado bursátil afronta un riesgo significativo",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-suspende-vuelos-mercado-214939287.html",
+        "titulo_fuente": "EE. UU. suspende todos los vuelos; mercado de valores enfrenta un riesgo importante",
+        "capturado": "2026-11-14T03:38:37-05:00"
       },
       {
-        "titulo": "Ecopetrol gestiona con PDVSA un convenio a 10 años para adquirir gas natural venezolano",
-        "url": "https://es.finance.yahoo.com/noticias/ecopetrol-negocia-pdvsa-acuerdo-10-172618772.html",
-        "titulo_fuente": "Ecopetrol negocia con PDVSA un acuerdo a 10 años para comprar gas natural venezolano",
-        "capturado": "2026-11-13T14:15:00-05:00"
+        "titulo": "Bolsas de EE. UU. ganan esta semana: alza poselectoral e IA sopesaron precios al consumidor y crisis de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-212028742.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana, ya que el repunte posterior a las elecciones de mitad de mandato y la demanda de infraestructura de IA compensaron los altos precios al consumidor y la crisis de Nvidia.",
+        "capturado": "2026-11-14T03:38:37-05:00"
       },
       {
-        "titulo": "La crisis de Nvidia genera disputas entre integrantes del gabinete de Donald Trump",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-nvidia-causa-rencillas-miembros-170209667.html",
-        "titulo_fuente": "Crisis de Nvidia causa rencillas entre miembros del gabinete de Donald Trump",
-        "capturado": "2026-11-13T14:15:00-05:00"
+        "titulo": "Inversores internacionales acuden a Venezuela en el marco de una nueva relación con EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/inversionistas-extranjeros-viajan-venezuela-medio-200657839.html",
+        "titulo_fuente": "Inversionistas extranjeros viajan a Venezuela en medio de nueva relación con EEUU",
+        "capturado": "2026-11-14T03:38:37-05:00"
       }
     ]
   }
