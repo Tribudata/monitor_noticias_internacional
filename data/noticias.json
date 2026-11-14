@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-14T03:38:37-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-14T11:22:54-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,33 +78,33 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Collins de la Fed señala que aumentos graduales de tasas son la mejor manera de gestionar los riesgos",
+        "url": "https://es.finance.yahoo.com/noticias/collins-fed-alzas-graduales-tasas-150429891.html",
+        "titulo_fuente": "Collins, de la Fed, dice alzas graduales de tasas son la mejor forma de gestionar los riesgos",
+        "capturado": "2026-11-14T11:22:54-05:00"
+      },
+      {
+        "titulo": "EEUU reactivará los vuelos tras el caos originado por un fallo en la red de tráfico aéreo",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-reanudar%C3%A1-vuelos-caos-provocado-112529832.html",
+        "titulo_fuente": "EEUU reanudará vuelos tras el caos provocado por un fallo en la red de tráfico aéreo",
+        "capturado": "2026-11-14T11:22:54-05:00"
+      },
+      {
+        "titulo": "El valor de XRP afronta una posible caída del 20%: niveles clave para monitorear",
+        "url": "https://es.finance.yahoo.com/noticias/precio-xrp-enfrenta-ca%C3%ADda-20-102400701.html",
+        "titulo_fuente": "El precio de XRP enfrenta una posible caída del 20%: niveles clave a vigilar",
+        "capturado": "2026-11-14T11:22:54-05:00"
+      },
+      {
+        "titulo": "¿Bitcoin jamás volverá a alcanzar un máximo histórico? Analistas debaten en X",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-registrar%C3%A1-m%C3%A1ximo-hist%C3%B3rico-analistas-083500740.html",
+        "titulo_fuente": "¿Bitcoin nunca más registrará un nuevo máximo histórico? Analistas debaten en X",
+        "capturado": "2026-11-14T11:22:54-05:00"
+      },
+      {
         "titulo": "Escasean educadores, personal de salud y expertos TIC en Europa; sobran obreros y auxiliares de cocina",
         "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
         "titulo_fuente": "En Europa faltan docentes, sanitarios y expertos TIC pero abundan peones y ayudantes de cocina",
-        "capturado": "2026-11-14T03:38:37-05:00"
-      },
-      {
-        "titulo": "Al día: Bolsas de EE. UU. cierran mixtas por crisis de Nvidia en chips y precios al productor elevados",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-215300080.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados dispares mientras la crisis de Nvidia afecta a los fabricantes de chips; los precios al productor se mantienen «elevados»",
-        "capturado": "2026-11-14T03:38:37-05:00"
-      },
-      {
-        "titulo": "Estados Unidos paraliza todos los vuelos; el mercado bursátil afronta un riesgo significativo",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-suspende-vuelos-mercado-214939287.html",
-        "titulo_fuente": "EE. UU. suspende todos los vuelos; mercado de valores enfrenta un riesgo importante",
-        "capturado": "2026-11-14T03:38:37-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. ganan esta semana: alza poselectoral e IA sopesaron precios al consumidor y crisis de Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-212028742.html",
-        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana, ya que el repunte posterior a las elecciones de mitad de mandato y la demanda de infraestructura de IA compensaron los altos precios al consumidor y la crisis de Nvidia.",
-        "capturado": "2026-11-14T03:38:37-05:00"
-      },
-      {
-        "titulo": "Inversores internacionales acuden a Venezuela en el marco de una nueva relación con EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/inversionistas-extranjeros-viajan-venezuela-medio-200657839.html",
-        "titulo_fuente": "Inversionistas extranjeros viajan a Venezuela en medio de nueva relación con EEUU",
         "capturado": "2026-11-14T03:38:37-05:00"
       }
     ]
