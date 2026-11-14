@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-14T11:22:54-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-14T17:00:05-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Collins de la Fed señala que aumentos graduales de tasas son la mejor manera de gestionar los riesgos",
-        "url": "https://es.finance.yahoo.com/noticias/collins-fed-alzas-graduales-tasas-150429891.html",
-        "titulo_fuente": "Collins, de la Fed, dice alzas graduales de tasas son la mejor forma de gestionar los riesgos",
-        "capturado": "2026-11-14T11:22:54-05:00"
+        "titulo": "Atribuyen colapso de la aviación estadounidense a router instalado por L3 Harris",
+        "url": "https://es.finance.yahoo.com/noticias/colapso-sector-aviaci%C3%B3n-estadounidense-achaca-213522560.html",
+        "titulo_fuente": "Colapso del sector de la aviación estadounidense se achaca a un router instalado por L3 Harris",
+        "capturado": "2026-11-14T17:00:05-05:00"
       },
       {
-        "titulo": "EEUU reactivará los vuelos tras el caos originado por un fallo en la red de tráfico aéreo",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-reanudar%C3%A1-vuelos-caos-provocado-112529832.html",
-        "titulo_fuente": "EEUU reanudará vuelos tras el caos provocado por un fallo en la red de tráfico aéreo",
-        "capturado": "2026-11-14T11:22:54-05:00"
+        "titulo": "Lilly afirma que sus fármacos para la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
+        "url": "https://es.finance.yahoo.com/noticias/lilly-medicamentos-obesidad-ayudaron-pacientes-194754407.html",
+        "titulo_fuente": "Lilly dice sus medicamentos contra la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
+        "capturado": "2026-11-14T17:00:05-05:00"
       },
       {
-        "titulo": "El valor de XRP afronta una posible caída del 20%: niveles clave para monitorear",
-        "url": "https://es.finance.yahoo.com/noticias/precio-xrp-enfrenta-ca%C3%ADda-20-102400701.html",
-        "titulo_fuente": "El precio de XRP enfrenta una posible caída del 20%: niveles clave a vigilar",
-        "capturado": "2026-11-14T11:22:54-05:00"
+        "titulo": "Starship de SpaceX roza el final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
+        "url": "https://es.finance.yahoo.com/noticias/starship-spacex-acerca-final-decimoquinto-194525197.html",
+        "titulo_fuente": "Starship de SpaceX se acerca al final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
+        "capturado": "2026-11-14T17:00:05-05:00"
       },
       {
-        "titulo": "¿Bitcoin jamás volverá a alcanzar un máximo histórico? Analistas debaten en X",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-registrar%C3%A1-m%C3%A1ximo-hist%C3%B3rico-analistas-083500740.html",
-        "titulo_fuente": "¿Bitcoin nunca más registrará un nuevo máximo histórico? Analistas debaten en X",
-        "capturado": "2026-11-14T11:22:54-05:00"
+        "titulo": "Cifras muestran que Wegovy de Novo ayuda a pacientes a perder alrededor de 6% de peso en tres meses",
+        "url": "https://es.finance.yahoo.com/noticias/datos-muestran-wegovy-novo-ayuda-190122054.html",
+        "titulo_fuente": "Datos muestran que Wegovy de Novo ayuda a pacientes a perder en torno a 6% de su peso en tres meses",
+        "capturado": "2026-11-14T17:00:05-05:00"
       },
       {
-        "titulo": "Escasean educadores, personal de salud y expertos TIC en Europa; sobran obreros y auxiliares de cocina",
-        "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
-        "titulo_fuente": "En Europa faltan docentes, sanitarios y expertos TIC pero abundan peones y ayudantes de cocina",
-        "capturado": "2026-11-14T03:38:37-05:00"
+        "titulo": "Microsoft restaura el servicio de Outlook y Teams luego de una interrupción a escala global",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-restablece-servicio-outlook-teams-180034140.html",
+        "titulo_fuente": "Microsoft restablece el servicio de Outlook y Teams tras una interrupción a nivel mundial",
+        "capturado": "2026-11-14T17:00:05-05:00"
       }
     ]
   }
