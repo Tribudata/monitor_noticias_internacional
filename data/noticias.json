@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-15T03:51:28-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-15T11:49:39-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Atribuyen colapso de la aviación estadounidense a router instalado por L3 Harris",
-        "url": "https://es.finance.yahoo.com/noticias/colapso-sector-aviaci%C3%B3n-estadounidense-achaca-213522560.html",
-        "titulo_fuente": "Colapso del sector de la aviación estadounidense se achaca a un router instalado por L3 Harris",
-        "capturado": "2026-11-14T17:00:05-05:00"
+        "titulo": "Bessent afirma que Nvidia debe seleccionar fuera de la firma a su próximo director general",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
+        "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
+        "capturado": "2026-11-15T11:49:39-05:00"
       },
       {
-        "titulo": "Lilly afirma que sus fármacos para la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
-        "url": "https://es.finance.yahoo.com/noticias/lilly-medicamentos-obesidad-ayudaron-pacientes-194754407.html",
-        "titulo_fuente": "Lilly dice sus medicamentos contra la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
-        "capturado": "2026-11-14T17:00:05-05:00"
+        "titulo": "Naciones del sudeste asiático suscriben pacto digital para acelerar pagos y reducir trámites",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-sudeste-asi%C3%A1tico-firman-acuerdo-142529221.html",
+        "titulo_fuente": "Los países del sudeste asiático firman un acuerdo digital para agilizar pagos y reducir trámites",
+        "capturado": "2026-11-15T11:49:39-05:00"
       },
       {
-        "titulo": "Starship de SpaceX roza el final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
-        "url": "https://es.finance.yahoo.com/noticias/starship-spacex-acerca-final-decimoquinto-194525197.html",
-        "titulo_fuente": "Starship de SpaceX se acerca al final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
-        "capturado": "2026-11-14T17:00:05-05:00"
+        "titulo": "Drones impactan tres buques en el Mar Negro cerca a canal marítimo rumano según primer ministro",
+        "url": "https://es.finance.yahoo.com/noticias/buques-alcanzados-drones-mar-negro-133752418.html",
+        "titulo_fuente": "Tres buques son alcanzados por drones en el Mar Negro, cerca de canal marítimo rumano: primer ministro",
+        "capturado": "2026-11-15T11:49:39-05:00"
       },
       {
-        "titulo": "Descarga libre del port PC de Astro Bot sin emulador: primer exclusivo PS5 sobre 120 FPS con DLSS y DualSense",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-astro-193423399.html",
-        "titulo_fuente": "Descarga gratis el port para PC de Astro Bot sin emulador, el primer exclusivo de PS5 que supera los 120 FPS con DLSS y mantiene todas las funciones del DualSense",
-        "capturado": "2026-11-15T03:51:28-05:00"
+        "titulo": "Estrategia de Trump sobre minerales aún no resta control a China antes de diálogos con Xi",
+        "url": "https://es.finance.yahoo.com/noticias/ofensiva-trump-minerales-logra-aflojar-123136227.html",
+        "titulo_fuente": "Ofensiva Trump sobre minerales aún no logra aflojar control de China antes de conversaciones con Xi",
+        "capturado": "2026-11-15T11:49:39-05:00"
       },
       {
-        "titulo": "Cifras muestran que Wegovy de Novo ayuda a pacientes a perder alrededor de 6% de peso en tres meses",
-        "url": "https://es.finance.yahoo.com/noticias/datos-muestran-wegovy-novo-ayuda-190122054.html",
-        "titulo_fuente": "Datos muestran que Wegovy de Novo ayuda a pacientes a perder en torno a 6% de su peso en tres meses",
-        "capturado": "2026-11-14T17:00:05-05:00"
+        "titulo": "Escándalos íntimos entran al consejo de administración y al análisis bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADos-cama-entran-consejo-administraci%C3%B3n-060000082.html",
+        "titulo_fuente": "Los líos de cama entran en el consejo de administración y el análisis bursátil",
+        "capturado": "2026-11-15T11:49:39-05:00"
       }
     ]
   }
