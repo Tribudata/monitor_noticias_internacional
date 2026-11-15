@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-14T20:44:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-15T03:51:28-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
       {
@@ -96,15 +96,15 @@
         "capturado": "2026-11-14T17:00:05-05:00"
       },
       {
+        "titulo": "Descarga libre del port PC de Astro Bot sin emulador: primer exclusivo PS5 sobre 120 FPS con DLSS y DualSense",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-astro-193423399.html",
+        "titulo_fuente": "Descarga gratis el port para PC de Astro Bot sin emulador, el primer exclusivo de PS5 que supera los 120 FPS con DLSS y mantiene todas las funciones del DualSense",
+        "capturado": "2026-11-15T03:51:28-05:00"
+      },
+      {
         "titulo": "Cifras muestran que Wegovy de Novo ayuda a pacientes a perder alrededor de 6% de peso en tres meses",
         "url": "https://es.finance.yahoo.com/noticias/datos-muestran-wegovy-novo-ayuda-190122054.html",
         "titulo_fuente": "Datos muestran que Wegovy de Novo ayuda a pacientes a perder en torno a 6% de su peso en tres meses",
-        "capturado": "2026-11-14T17:00:05-05:00"
-      },
-      {
-        "titulo": "Microsoft restaura el servicio de Outlook y Teams luego de una interrupción a escala global",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-restablece-servicio-outlook-teams-180034140.html",
-        "titulo_fuente": "Microsoft restablece el servicio de Outlook y Teams tras una interrupción a nivel mundial",
         "capturado": "2026-11-14T17:00:05-05:00"
       }
     ]
