@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-15T17:30:31-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-15T23:57:25-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
+        "titulo": "Canadá acudiría a ensambladores chinos si fracasan los diálogos automotrices con EE.UU.",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-recurrir%C3%ADa-fabricantes-chinos-fracasan-044121875.html",
+        "titulo_fuente": "Canadá recurriría a fabricantes chinos si fracasan las negociaciones sobre el automóvil con EE.UU.",
+        "capturado": "2026-11-15T23:57:25-05:00"
+      },
+      {
+        "titulo": "Según informes de mercado, IG Group eliminará 50 empleos tras cerrar sedes en Francia, España e Italia",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-informes-ig-043824888.html",
+        "titulo_fuente": "Actualización: Rumores del mercado: Según informes, IG Group recortará 50 puestos de trabajo en medio del cierre de oficinas en Francia, España e Italia.",
+        "capturado": "2026-11-15T23:57:25-05:00"
+      },
+      {
+        "titulo": "Jensen Huang dialoga con aliados sobre su retorno como director ejecutivo de Nvidia, según el FT",
+        "url": "https://es.finance.yahoo.com/noticias/jensen-huang-habla-aliados-regreso-231456459.html",
+        "titulo_fuente": "Jensen Huang habla con sus aliados sobre su regreso como director ejecutivo de Nvidia, según el FT",
+        "capturado": "2026-11-15T23:57:25-05:00"
+      },
+      {
         "titulo": "Bessent afirma que Nvidia debe seleccionar fuera de la firma a su próximo director general",
         "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
         "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
         "capturado": "2026-11-15T11:49:39-05:00"
       },
       {
-        "titulo": "Naciones del sudeste asiático suscriben pacto digital para acelerar pagos y reducir trámites",
-        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-sudeste-asi%C3%A1tico-firman-acuerdo-142529221.html",
-        "titulo_fuente": "Los países del sudeste asiático firman un acuerdo digital para agilizar pagos y reducir trámites",
-        "capturado": "2026-11-15T11:49:39-05:00"
-      },
-      {
-        "titulo": "Drones impactan tres buques en el Mar Negro cerca a canal marítimo rumano según primer ministro",
-        "url": "https://es.finance.yahoo.com/noticias/buques-alcanzados-drones-mar-negro-133752418.html",
-        "titulo_fuente": "Tres buques son alcanzados por drones en el Mar Negro, cerca de canal marítimo rumano: primer ministro",
-        "capturado": "2026-11-15T11:49:39-05:00"
-      },
-      {
-        "titulo": "Estrategia de Trump sobre minerales aún no resta control a China antes de diálogos con Xi",
-        "url": "https://es.finance.yahoo.com/noticias/ofensiva-trump-minerales-logra-aflojar-123136227.html",
-        "titulo_fuente": "Ofensiva Trump sobre minerales aún no logra aflojar control de China antes de conversaciones con Xi",
-        "capturado": "2026-11-15T11:49:39-05:00"
-      },
-      {
-        "titulo": "Escándalos íntimos entran al consejo de administración y al análisis bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADos-cama-entran-consejo-administraci%C3%B3n-060000082.html",
-        "titulo_fuente": "Los líos de cama entran en el consejo de administración y el análisis bursátil",
-        "capturado": "2026-11-15T11:49:39-05:00"
+        "titulo": "Premios Games From Chile figuran en la portada de Steam previo a su ceremonia este martes 17 de noviembre",
+        "url": "https://es-us.noticias.yahoo.com/premios-games-from-chile-aparecen-162914603.html",
+        "titulo_fuente": "Premios Games From Chile aparecen en la portada de Steam, a horas de su ceremonia este martes 17 de noviembre",
+        "capturado": "2026-11-15T23:57:25-05:00"
       }
     ]
   }
