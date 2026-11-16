@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-16T09:54:17-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-16T18:58:51-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Estados Unidos no genera estadísticas líderes a nivel mundial. ¿Quién lo hace?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+        "publicacion": "Mon, 16 Nov 2026 18:28:18 +0000",
+        "titulo_fuente": "America does not produce world-beating statistics. Who does?",
+        "capturado": "2026-11-16T18:58:51-05:00"
+      },
       {
         "titulo": "El regreso del Estado confiscatorio",
         "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
@@ -30,16 +37,16 @@
         "publicacion": "Tue, 10 Nov 2026 20:47:39 +0000",
         "titulo_fuente": "Lessons from a miserable month for hedge funds",
         "capturado": "2026-11-10T17:52:40-05:00"
-      },
-      {
-        "titulo": "La época de bonanza económica terminó para los boomers",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
-        "publicacion": "Tue, 10 Nov 2026 20:28:56 +0000",
-        "titulo_fuente": "For boomers, economic boom times are over",
-        "capturado": "2026-11-10T17:52:40-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Millonarios de la tecnología piden el regreso de Jensen Huang a Nvidia y la opinión de Trump",
+        "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o",
+        "publicacion": "2026-11-16",
+        "titulo_fuente": "\"Traigan a Jensen de vuelta\": la campaña de los millonarios tecnológicos a favor del regreso de Huang a Nvidia (y qué opina Trump)",
+        "capturado": "2026-11-16T18:58:51-05:00"
+      },
       {
         "titulo": "Camaçari, la urbe cambiada por la planta de autos chinos más grande de Latinoamérica, Duración 15,28",
         "url": "https://www.bbc.com/mundo/watch/c6eq4nwn4e44o",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
         "capturado": "2026-11-12T21:25:18-05:00"
-      },
-      {
-        "titulo": "En imágenes: decenas de arrestados durante la primera huelga general en España tras 14 años",
-        "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o",
-        "publicacion": "2026-11-11",
-        "titulo_fuente": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
-        "capturado": "2026-11-11T16:03:55-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Canadá acudiría a ensambladores chinos si fracasan los diálogos automotrices con EE.UU.",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-recurrir%C3%ADa-fabricantes-chinos-fracasan-044121875.html",
-        "titulo_fuente": "Canadá recurriría a fabricantes chinos si fracasan las negociaciones sobre el automóvil con EE.UU.",
-        "capturado": "2026-11-15T23:57:25-05:00"
+        "titulo": "Actualización: Caen índices de EE. UU. por chips tras plan del Departamento de Comercio sobre vacíos en IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-222335169.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los fabricantes de chips se hunden después de que el Departamento de Comercio planeara cerrar las lagunas legales para adquirir chips de IA restringidos.",
+        "capturado": "2026-11-16T18:58:51-05:00"
       },
       {
-        "titulo": "Según informes de mercado, IG Group eliminará 50 empleos tras cerrar sedes en Francia, España e Italia",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-informes-ig-043824888.html",
-        "titulo_fuente": "Actualización: Rumores del mercado: Según informes, IG Group recortará 50 puestos de trabajo en medio del cierre de oficinas en Francia, España e Italia.",
-        "capturado": "2026-11-15T23:57:25-05:00"
+        "titulo": "Bahaia Metals comunica una emisión privada de acciones por 1,2 millones de dólares canadienses",
+        "url": "https://es.finance.yahoo.com/noticias/bahaia-metals-anuncia-colocaci%C3%B3n-privada-212601317.html",
+        "titulo_fuente": "Bahaia Metals anuncia una colocación privada de acciones por valor de 1,2 millones de dólares canadienses.",
+        "capturado": "2026-11-16T18:58:51-05:00"
       },
       {
-        "titulo": "Jensen Huang dialoga con aliados sobre su retorno como director ejecutivo de Nvidia, según el FT",
-        "url": "https://es.finance.yahoo.com/noticias/jensen-huang-habla-aliados-regreso-231456459.html",
-        "titulo_fuente": "Jensen Huang habla con sus aliados sobre su regreso como director ejecutivo de Nvidia, según el FT",
-        "capturado": "2026-11-15T23:57:25-05:00"
+        "titulo": "PPX Mining indica que perforaciones en el proyecto Igor en Perú dan más datos sobre el objetivo Portachuelos",
+        "url": "https://es.finance.yahoo.com/noticias/ppx-mining-afirma-perforaciones-proyecto-204352615.html",
+        "titulo_fuente": "PPX Mining afirma que las perforaciones en el proyecto Igor en Perú brindan más información sobre el objetivo Portachuelos.",
+        "capturado": "2026-11-16T18:58:51-05:00"
       },
       {
-        "titulo": "Premios Games From Chile figuran en la portada de Steam previo a su ceremonia este martes 17 de noviembre",
-        "url": "https://es-us.noticias.yahoo.com/premios-games-from-chile-aparecen-162914603.html",
-        "titulo_fuente": "Premios Games From Chile aparecen en la portada de Steam, a horas de su ceremonia este martes 17 de noviembre",
-        "capturado": "2026-11-15T23:57:25-05:00"
+        "titulo": "JPMorgan notifica un fallo técnico que retrasa algunas transacciones",
+        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-reporta-problema-t%C3%A9cnico-demora-200526213.html",
+        "titulo_fuente": "JPMorgan reporta problema técnico que demora algunas transacciones",
+        "capturado": "2026-11-16T18:58:51-05:00"
       },
       {
-        "titulo": "Bessent afirma que Nvidia debe seleccionar fuera de la firma a su próximo director general",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
-        "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
-        "capturado": "2026-11-15T11:49:39-05:00"
+        "titulo": "Un error no detectado desde julio ocasionó la falla mundial que paralizó servicios de Microsoft",
+        "url": "https://es.finance.yahoo.com/noticias/error-oculto-julio-provoc%C3%B3-falla-194845564.html",
+        "titulo_fuente": "Error oculto desde julio provocó la falla global que paralizó los servicios de Microsoft",
+        "capturado": "2026-11-16T18:58:51-05:00"
       }
     ]
   }
