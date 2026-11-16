@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-15T23:57:25-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-16T09:54:17-05:00",
+  "nuevos_en_esta_corrida": 0,
   "secciones": {
     "Economist": [
       {
@@ -96,16 +96,16 @@
         "capturado": "2026-11-15T23:57:25-05:00"
       },
       {
-        "titulo": "Bessent afirma que Nvidia debe seleccionar fuera de la firma a su próximo director general",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
-        "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
-        "capturado": "2026-11-15T11:49:39-05:00"
-      },
-      {
         "titulo": "Premios Games From Chile figuran en la portada de Steam previo a su ceremonia este martes 17 de noviembre",
         "url": "https://es-us.noticias.yahoo.com/premios-games-from-chile-aparecen-162914603.html",
         "titulo_fuente": "Premios Games From Chile aparecen en la portada de Steam, a horas de su ceremonia este martes 17 de noviembre",
         "capturado": "2026-11-15T23:57:25-05:00"
+      },
+      {
+        "titulo": "Bessent afirma que Nvidia debe seleccionar fuera de la firma a su próximo director general",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
+        "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
+        "capturado": "2026-11-15T11:49:39-05:00"
       }
     ]
   }
