@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-18T04:46:07-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-18T13:39:50-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "Estos son los 7 fundadores de Anthropic que están cerca de ser multimillonarios",
+        "url": "https://www.bbc.com/mundo/articles/cm98x39221yro",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
+        "capturado": "2026-11-18T13:39:50-05:00"
+      },
+      {
+        "titulo": "No lográbamos pagar una vivienda para nuestra familia por lo que adquirimos una con desconocidos",
+        "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o",
+        "publicacion": "2026-11-18",
+        "titulo_fuente": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+        "capturado": "2026-11-18T13:39:50-05:00"
+      },
+      {
         "titulo": "Megaspeed, firma ligada a la presunta espía china en el centro del escándalo del gigante tecnológico Nvidia",
         "url": "https://www.bbc.com/mundo/articles/crkgvngyd12wo",
         "publicacion": "2026-11-17",
@@ -60,52 +74,38 @@
         "publicacion": "PT15M28S",
         "titulo_fuente": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina, Duración 15,28",
         "capturado": "2026-11-13T14:15:00-05:00"
-      },
-      {
-        "titulo": "EE.UU. sostiene que giró a Venezuela más de US$12.000 millones por sus exportaciones petroleras y otros recursos",
-        "url": "https://www.bbc.com/mundo/articles/cq1438vzvj1eo",
-        "publicacion": "2026-11-13",
-        "titulo_fuente": "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
-        "capturado": "2026-11-13T14:15:00-05:00"
-      },
-      {
-        "titulo": "Cómo las malas decisiones de Jensen Huang, visionario de la IA, lo llevaron a caer en desgracia",
-        "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus propias malas decisiones",
-        "capturado": "2026-11-12T21:25:18-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "PLD Space pacta con Mitsubishi Electric su primer convenio de lanzamiento comercial",
-        "url": "https://es.finance.yahoo.com/noticias/pld-space-firma-acuerdo-lanzamiento-074425600.html",
-        "titulo_fuente": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric",
-        "capturado": "2026-11-18T04:46:07-05:00"
+        "titulo": "Acciones de EE. UU. y fondos cotizados en bolsa registran tendencia mixta a mitad de jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-181634535.html",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-11-18T13:39:50-05:00"
       },
       {
-        "titulo": "Black Friday en Portugal: DECO advierte sobre rebajas falsas y conductas irregulares",
-        "url": "https://es.finance.yahoo.com/noticias/black-friday-portugal-deco-alerta-074111327.html",
-        "titulo_fuente": "Black Friday en Portugal: DECO alerta de falsos descuentos y prácticas irregulares",
-        "capturado": "2026-11-18T04:46:07-05:00"
+        "titulo": "Producción global de vino bordea mínimos históricos por condiciones meteorológicas extremas",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-mundial-vino-acerca-m%C3%ADnimos-173941998.html",
+        "titulo_fuente": "Producción mundial de vino se acerca a mínimos históricos por condiciones meteorológicas extremas",
+        "capturado": "2026-11-18T13:39:50-05:00"
       },
       {
-        "titulo": "Nvidia niega el retorno de Huang mientras el WSJ reporta que la SEC investiga a la firma",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-descarta-regreso-huang-wsj-071209865.html",
-        "titulo_fuente": "Nvidia descarta el regreso de Huang y el WSJ informa que la SEC investiga a la empresa",
-        "capturado": "2026-11-18T04:46:07-05:00"
+        "titulo": "Déficit comercial colombiano casi se duplica en septiembre por el dinamismo importador",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-comercial-colombia-duplica-septiembre-163801796.html",
+        "titulo_fuente": "Déficit comercial de Colombia casi se duplica en septiembre por el dinamismo de las importaciones",
+        "capturado": "2026-11-18T13:39:50-05:00"
       },
       {
-        "titulo": "Anthropic, autor de Claude, proyecta fijar hoy el precio de su multimillonaria OPV: guía para inversionistas",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-prev%C3%A9-fijar-precio-opv-061619222.html",
-        "titulo_fuente": "Anthropic, creador de Claude, prevé fijar hoy el precio de su OPV multimillonaria: claves para inversores",
-        "capturado": "2026-11-18T04:46:07-05:00"
+        "titulo": "Irán atacó infraestructura crítica de EE. UU., según secretario de Seguridad Nacional",
+        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-atacado-infraestructura-cr%C3%ADtica-ee-160125126.html",
+        "titulo_fuente": "Irán ha atacado infraestructura crítica de EE.UU., dice secretario de Seguridad Nacional",
+        "capturado": "2026-11-18T13:39:50-05:00"
       },
       {
-        "titulo": "Nvidia dobla su facturación y utilidades impulsada por la IA en plena crisis por la partida de Jensen Huang",
-        "url": "https://es.finance.yahoo.com/noticias/fuerte-demanda-chips-ia-duplica-053247519.html",
-        "titulo_fuente": "Nvidia duplica sus ingresos y beneficios gracias a la IA en plena crisis por la salida de Jensen Huang",
-        "capturado": "2026-11-18T04:46:07-05:00"
+        "titulo": "Cobre se hunde 5% mientras inversionistas retiran su apuesta por la IA",
+        "url": "https://es.finance.yahoo.com/noticias/cobre-desploma-5-inversionistas-abandonan-153556719.html",
+        "titulo_fuente": "Cobre se desploma 5% mientras inversionistas abandonan apuesta por la IA",
+        "capturado": "2026-11-18T13:39:50-05:00"
       }
     ]
   }
