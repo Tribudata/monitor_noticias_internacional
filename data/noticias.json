@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-17T19:35:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-18T04:46:07-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Por qué las startups terminan cotizando en el mercado accionario",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+        "publicacion": "Tue, 17 Nov 2026 18:38:26 +0000",
+        "titulo_fuente": "Why startups still go public, eventually",
+        "capturado": "2026-11-18T04:46:07-05:00"
+      },
+      {
+        "titulo": "¿A Donald Trump le importa la economía?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+        "publicacion": "Tue, 17 Nov 2026 17:54:03 +0000",
+        "titulo_fuente": "Does Donald Trump care about the economy?",
+        "capturado": "2026-11-18T04:46:07-05:00"
+      },
       {
         "titulo": "Estados Unidos no genera estadísticas líderes a nivel mundial. ¿Quién lo hace?",
         "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
@@ -23,23 +37,16 @@
         "publicacion": "Thu, 12 Nov 2026 10:38:28 +0000",
         "titulo_fuente": "Where to find the anti-AI trade",
         "capturado": "2026-11-12T07:13:35-05:00"
-      },
-      {
-        "titulo": "El impuesto de salida propuesto por Italia genera tensiones",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
-        "publicacion": "Thu, 12 Nov 2026 10:35:00 +0000",
-        "titulo_fuente": "Italy’s proposed exit tax causes ructions",
-        "capturado": "2026-11-12T07:13:35-05:00"
-      },
-      {
-        "titulo": "Lecciones que dejó un mes difícil para los fondos de cobertura",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
-        "publicacion": "Tue, 10 Nov 2026 20:47:39 +0000",
-        "titulo_fuente": "Lessons from a miserable month for hedge funds",
-        "capturado": "2026-11-10T17:52:40-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Megaspeed, firma ligada a la presunta espía china en el centro del escándalo del gigante tecnológico Nvidia",
+        "url": "https://www.bbc.com/mundo/articles/crkgvngyd12wo",
+        "publicacion": "2026-11-17",
+        "titulo_fuente": "Megaspeed, la empresa vinculada con la supuesta espía china que está en el centro del escándalo del gigante tecnológico Nvidia",
+        "capturado": "2026-11-18T04:46:07-05:00"
+      },
       {
         "titulo": "Millonarios de la tecnología piden el regreso de Jensen Huang a Nvidia y la opinión de Trump",
         "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-12",
         "titulo_fuente": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus propias malas decisiones",
         "capturado": "2026-11-12T21:25:18-05:00"
-      },
-      {
-        "titulo": "En gráficos: cómo operaba Ueno Bank y los motivos tras el colapso que desató una crisis en Paraguay",
-        "url": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno",
-        "publicacion": "2026-11-12",
-        "titulo_fuente": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
-        "capturado": "2026-11-12T21:25:18-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Caen índices de EE. UU. por chips tras plan del Departamento de Comercio sobre vacíos en IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-222335169.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los fabricantes de chips se hunden después de que el Departamento de Comercio planeara cerrar las lagunas legales para adquirir chips de IA restringidos.",
-        "capturado": "2026-11-16T18:58:51-05:00"
+        "titulo": "PLD Space pacta con Mitsubishi Electric su primer convenio de lanzamiento comercial",
+        "url": "https://es.finance.yahoo.com/noticias/pld-space-firma-acuerdo-lanzamiento-074425600.html",
+        "titulo_fuente": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric",
+        "capturado": "2026-11-18T04:46:07-05:00"
       },
       {
-        "titulo": "Bahaia Metals comunica una emisión privada de acciones por 1,2 millones de dólares canadienses",
-        "url": "https://es.finance.yahoo.com/noticias/bahaia-metals-anuncia-colocaci%C3%B3n-privada-212601317.html",
-        "titulo_fuente": "Bahaia Metals anuncia una colocación privada de acciones por valor de 1,2 millones de dólares canadienses.",
-        "capturado": "2026-11-16T18:58:51-05:00"
+        "titulo": "Black Friday en Portugal: DECO advierte sobre rebajas falsas y conductas irregulares",
+        "url": "https://es.finance.yahoo.com/noticias/black-friday-portugal-deco-alerta-074111327.html",
+        "titulo_fuente": "Black Friday en Portugal: DECO alerta de falsos descuentos y prácticas irregulares",
+        "capturado": "2026-11-18T04:46:07-05:00"
       },
       {
-        "titulo": "PPX Mining indica que perforaciones en el proyecto Igor en Perú dan más datos sobre el objetivo Portachuelos",
-        "url": "https://es.finance.yahoo.com/noticias/ppx-mining-afirma-perforaciones-proyecto-204352615.html",
-        "titulo_fuente": "PPX Mining afirma que las perforaciones en el proyecto Igor en Perú brindan más información sobre el objetivo Portachuelos.",
-        "capturado": "2026-11-16T18:58:51-05:00"
+        "titulo": "Nvidia niega el retorno de Huang mientras el WSJ reporta que la SEC investiga a la firma",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-descarta-regreso-huang-wsj-071209865.html",
+        "titulo_fuente": "Nvidia descarta el regreso de Huang y el WSJ informa que la SEC investiga a la empresa",
+        "capturado": "2026-11-18T04:46:07-05:00"
       },
       {
-        "titulo": "JPMorgan notifica un fallo técnico que retrasa algunas transacciones",
-        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-reporta-problema-t%C3%A9cnico-demora-200526213.html",
-        "titulo_fuente": "JPMorgan reporta problema técnico que demora algunas transacciones",
-        "capturado": "2026-11-16T18:58:51-05:00"
+        "titulo": "Anthropic, autor de Claude, proyecta fijar hoy el precio de su multimillonaria OPV: guía para inversionistas",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-prev%C3%A9-fijar-precio-opv-061619222.html",
+        "titulo_fuente": "Anthropic, creador de Claude, prevé fijar hoy el precio de su OPV multimillonaria: claves para inversores",
+        "capturado": "2026-11-18T04:46:07-05:00"
       },
       {
-        "titulo": "Un error no detectado desde julio ocasionó la falla mundial que paralizó servicios de Microsoft",
-        "url": "https://es.finance.yahoo.com/noticias/error-oculto-julio-provoc%C3%B3-falla-194845564.html",
-        "titulo_fuente": "Error oculto desde julio provocó la falla global que paralizó los servicios de Microsoft",
-        "capturado": "2026-11-16T18:58:51-05:00"
+        "titulo": "Nvidia dobla su facturación y utilidades impulsada por la IA en plena crisis por la partida de Jensen Huang",
+        "url": "https://es.finance.yahoo.com/noticias/fuerte-demanda-chips-ia-duplica-053247519.html",
+        "titulo_fuente": "Nvidia duplica sus ingresos y beneficios gracias a la IA en plena crisis por la salida de Jensen Huang",
+        "capturado": "2026-11-18T04:46:07-05:00"
       }
     ]
   }
