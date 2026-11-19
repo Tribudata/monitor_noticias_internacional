@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-18T13:39:50-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-18T20:44:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Conozca al nuevo equipo del Banco Central Europeo",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+        "publicacion": "Wed, 18 Nov 2026 19:24:30 +0000",
+        "titulo_fuente": "Meet the European Central Bank’s new squad",
+        "capturado": "2026-11-18T20:44:07-05:00"
+      },
       {
         "titulo": "Por qué las startups terminan cotizando en el mercado accionario",
         "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
@@ -29,13 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
         "publicacion": "Thu, 12 Nov 2026 10:40:24 +0000",
         "titulo_fuente": "The return of the snatch-and-grab state",
-        "capturado": "2026-11-12T07:13:35-05:00"
-      },
-      {
-        "titulo": "Dónde hallar operaciones de inversión en contra de la IA",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-        "publicacion": "Thu, 12 Nov 2026 10:38:28 +0000",
-        "titulo_fuente": "Where to find the anti-AI trade",
         "capturado": "2026-11-12T07:13:35-05:00"
       }
     ],
