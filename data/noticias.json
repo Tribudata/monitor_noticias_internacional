@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T20:39:58-05:00",
+  "actualizado": "2026-11-20T04:43:01-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "La AIE señala que la respuesta energética al conflicto en Irán bajaría la demanda de petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/respuesta-energ%C3%A9tica-guerra-ir%C3%A1n-reducir-084816839.html",
-        "titulo_fuente": "La respuesta energética a la guerra en Irán podría reducir la demanda de crudo, dice la AIE",
-        "capturado": "2026-11-19T04:55:22-05:00"
+        "titulo": "TSMC refuerza los límites a los chips de IA para China por nuevas directrices de EEUU según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/tsmc-endurece-restricciones-chips-ia-072044543.html",
+        "titulo_fuente": "TSMC endurece restricciones sobre los chips de IA para China tras nuevas normas de EEUU, según fuentes",
+        "capturado": "2026-11-20T04:43:01-05:00"
       },
       {
-        "titulo": "Anthropic efectúa una OPV histórica mientras Nvidia vive su peor racha desde 2008",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-debuta-bolsa-opv-ser-053157062.html",
-        "titulo_fuente": "Anthropic lanza una histórica OPV mientras Nvidia sufre su peor racha desde 2008",
-        "capturado": "2026-11-19T04:55:22-05:00"
+        "titulo": "Mercados asiáticos caen arrastrados por la venta de acciones de inteligencia artificial en Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-caen-ola-ventas-054934950.html",
+        "titulo_fuente": "Las bolsas de Asia se hunden arrastradas por la venta de valores de inteligencia artificial en Wall Street",
+        "capturado": "2026-11-20T04:43:01-05:00"
       },
       {
-        "titulo": "BAE Systems contempla reducir personal en su sede central y división aérea",
-        "url": "https://es.finance.yahoo.com/noticias/bae-systems-planea-reducir-plantilla-050007742.html",
-        "titulo_fuente": "BAE Systems planea reducir su plantilla en la sede central y en la división aérea.",
-        "capturado": "2026-11-19T04:55:22-05:00"
+        "titulo": "Paulson apoya más alzas de tasas en la Fed y da prioridad al entendimiento mutuo sobre las señales",
+        "url": "https://es.finance.yahoo.com/noticias/paulson-respalda-subidas-tasas-fed-065234897.html",
+        "titulo_fuente": "Paulson respalda más subidas de tasas de la Fed y prioriza el entendimiento compartido sobre señales",
+        "capturado": "2026-11-20T04:43:01-05:00"
       },
       {
-        "titulo": "Bolsas de EE. UU. mixtas: esperan OPV de Anthropic tras efecto Nvidia y actas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-221521260.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los inversores esperan la salida a bolsa de Anthropic tras el impacto de Nvidia en el sentimiento de riesgo y la publicación de las actas de la Reserva Federal a favor de una política monetaria más restrictiva.",
-        "capturado": "2026-11-19T04:55:22-05:00"
+        "titulo": "2026: el mejor ejercicio fiscal de Apple",
+        "url": "https://es.finance.yahoo.com/noticias/2026-a%C3%B1o-fiscal-apple-013000456.html",
+        "titulo_fuente": "2026: el mejor año fiscal de Apple",
+        "capturado": "2026-11-20T04:43:01-05:00"
       },
       {
-        "titulo": "Autoridad de datos de Hesse investiga la filtración de 15 millones de archivos de Deutsche Bank",
-        "url": "https://es.finance.yahoo.com/noticias/regulador-datos-hesse-investiga-filtraci%C3%B3n-214539944.html",
-        "titulo_fuente": "El regulador de datos de Hesse investiga la filtración de 15 millones de archivos de Deutsche Bank",
-        "capturado": "2026-11-19T04:55:22-05:00"
+        "titulo": "Al día: Caída de índices de EEUU por ventas y volatilidad opaca el histórico debut de Anthropic en Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-223941837.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman mientras la venta masiva generalizada y el aumento de la volatilidad empañan el histórico debut de Anthropic en el Nasdaq.",
+        "capturado": "2026-11-20T04:43:01-05:00"
       }
     ]
   }
