@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-11-19T13:53:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-19T20:39:58-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "Los rendimientos de los bonos suben en todas partes, salvo en China",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+        "publicacion": "Thu, 19 Nov 2026 10:04:37 +0000",
+        "titulo_fuente": "Bond yields are rising everywhere—except China",
+        "capturado": "2026-11-19T20:39:58-05:00"
+      },
+      {
+        "titulo": "Europa endurece las sanciones a Rusia, mientras Estados Unidos las suaviza",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+        "publicacion": "Thu, 19 Nov 2026 10:03:23 +0000",
+        "titulo_fuente": "Europe tightens sanctions on Russia. America loosens them",
+        "capturado": "2026-11-19T20:39:58-05:00"
+      },
+      {
+        "titulo": "La IA está absorbiendo las matemáticas: ¿seguirá la economía?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+        "publicacion": "Thu, 19 Nov 2026 10:01:25 +0000",
+        "titulo_fuente": "AI is swallowing maths. Is economics next?",
+        "capturado": "2026-11-19T20:39:58-05:00"
+      },
       {
         "titulo": "Conozca al nuevo equipo del Banco Central Europeo",
         "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
@@ -16,30 +37,23 @@
         "publicacion": "Tue, 17 Nov 2026 18:38:26 +0000",
         "titulo_fuente": "Why startups still go public, eventually",
         "capturado": "2026-11-18T04:46:07-05:00"
-      },
-      {
-        "titulo": "¿A Donald Trump le importa la economía?",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
-        "publicacion": "Tue, 17 Nov 2026 17:54:03 +0000",
-        "titulo_fuente": "Does Donald Trump care about the economy?",
-        "capturado": "2026-11-18T04:46:07-05:00"
-      },
-      {
-        "titulo": "Estados Unidos no genera estadísticas líderes a nivel mundial. ¿Quién lo hace?",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-        "publicacion": "Mon, 16 Nov 2026 18:28:18 +0000",
-        "titulo_fuente": "America does not produce world-beating statistics. Who does?",
-        "capturado": "2026-11-16T18:58:51-05:00"
-      },
-      {
-        "titulo": "El regreso del Estado confiscatorio",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-        "publicacion": "Thu, 12 Nov 2026 10:40:24 +0000",
-        "titulo_fuente": "The return of the snatch-and-grab state",
-        "capturado": "2026-11-12T07:13:35-05:00"
       }
     ],
     "BBC": [
+      {
+        "titulo": "Personas con discapacidad en Argentina quedan confinadas y sin futuro por las medidas de Milei",
+        "url": "https://www.bbc.com/mundo/articles/c617k978p47ro",
+        "publicacion": "2026-11-19",
+        "titulo_fuente": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
+        "capturado": "2026-11-19T20:39:58-05:00"
+      },
+      {
+        "titulo": "Motivos de la crisis económica en Chile ante las políticas de austeridad de Kast, Duración 5,20",
+        "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o",
+        "publicacion": "PT5M20S",
+        "titulo_fuente": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast, Duración 5,20",
+        "capturado": "2026-11-19T20:39:58-05:00"
+      },
       {
         "titulo": "Estos son los 7 fundadores de Anthropic que están cerca de ser multimillonarios",
         "url": "https://www.bbc.com/mundo/articles/cm98x39221yro",
@@ -60,20 +74,6 @@
         "publicacion": "2026-11-17",
         "titulo_fuente": "Megaspeed, la empresa vinculada con la supuesta espía china que está en el centro del escándalo del gigante tecnológico Nvidia",
         "capturado": "2026-11-18T04:46:07-05:00"
-      },
-      {
-        "titulo": "Millonarios de la tecnología piden el regreso de Jensen Huang a Nvidia y la opinión de Trump",
-        "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o",
-        "publicacion": "2026-11-16",
-        "titulo_fuente": "\"Traigan a Jensen de vuelta\": la campaña de los millonarios tecnológicos a favor del regreso de Huang a Nvidia (y qué opina Trump)",
-        "capturado": "2026-11-16T18:58:51-05:00"
-      },
-      {
-        "titulo": "Camaçari, la urbe cambiada por la planta de autos chinos más grande de Latinoamérica, Duración 15,28",
-        "url": "https://www.bbc.com/mundo/watch/c6eq4nwn4e44o",
-        "publicacion": "PT15M28S",
-        "titulo_fuente": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina, Duración 15,28",
-        "capturado": "2026-11-13T14:15:00-05:00"
       }
     ],
     "Yahoo": [
