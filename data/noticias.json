@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T13:20:37-05:00",
+  "actualizado": "2026-11-20T20:05:54-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Detalles y favorecidos del pacto para reactivar nexos entre el Reino Unido y la Unión Europea tras el Brexit",
+        "url": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o",
+        "publicacion": "2026-11-20",
+        "titulo_fuente": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
+        "capturado": "2026-11-20T20:05:54-05:00"
+      },
+      {
         "titulo": "4 causas que aclaran el ingreso de Chile a la recesión, Duración 5,16",
         "url": "https://www.bbc.com/mundo/watch/ck8791xel5pjo",
         "publicacion": "PT5M16S",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-18",
         "titulo_fuente": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
         "capturado": "2026-11-18T13:39:50-05:00"
-      },
-      {
-        "titulo": "No lográbamos pagar una vivienda para nuestra familia por lo que adquirimos una con desconocidos",
-        "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
-        "capturado": "2026-11-18T13:39:50-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Fondos cotizados retroceden ante la caída de acciones estadounidenses tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181552445.html",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-11-20T13:20:37-05:00"
+        "titulo": "Actualización: S&P 500 y Dow Jones caen a corrección; inversores van a bonos del Tesoro tras baja tecnológica",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-s-p-500-dow-214248463.html",
+        "titulo_fuente": "Actualización: El S&P 500 y el Dow Jones caen en territorio de corrección mientras los inversores buscan refugio en bonos del Tesoro en medio del desplome de las grandes tecnológicas.",
+        "capturado": "2026-11-20T20:05:54-05:00"
       },
       {
-        "titulo": "Trump afirma que un pacto comercial con México se encuentra más próximo",
-        "url": "https://es.finance.yahoo.com/noticias/trump-acuerdo-comercial-m%C3%A9xico-180726863.html",
-        "titulo_fuente": "Trump dice que un acuerdo comercial con México está más cerca",
-        "capturado": "2026-11-20T13:20:37-05:00"
+        "titulo": "Caen bolsas de EE. UU. por firmas de chips y la Reserva Federal ante debut de Anthropic en Nasdaq esta semana",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-nubes-212255403.html",
+        "titulo_fuente": "Los índices bursátiles estadounidenses se desploman mientras las nubes que se ciernen sobre los fabricantes de chips y la postura restrictiva de la Reserva Federal pesan sobre el debut de Anthropic en el Nasdaq esta semana.",
+        "capturado": "2026-11-20T20:05:54-05:00"
       },
       {
-        "titulo": "Cook de la Fed sostiene que se precisan alzas de tasas para bajar la alta inflación",
-        "url": "https://es.finance.yahoo.com/noticias/cook-fed-necesarias-alzas-tasas-180421465.html",
-        "titulo_fuente": "Cook, de la Fed, dice que son necesarias alzas de tasas para reducir la elevada inflación",
-        "capturado": "2026-11-20T13:20:37-05:00"
+        "titulo": "Tesla inaugura su primer concesionario en Argentina y refuerza su expansión en Latinoamérica",
+        "url": "https://es.finance.yahoo.com/noticias/tesla-abre-concesionaria-argentina-profundiza-200234437.html",
+        "titulo_fuente": "Tesla abre primera concesionaria en Argentina y profundiza expansión en Latinoamérica",
+        "capturado": "2026-11-20T20:05:54-05:00"
       },
       {
-        "titulo": "Incremento de casos de gusano barrenador en EE. UU. mantiene en alerta a los ganaderos",
-        "url": "https://es.finance.yahoo.com/noticias/aumentan-casos-gusano-barrenador-eeuu-173049652.html",
-        "titulo_fuente": "Aumentan casos de gusano barrenador en EEUU, lo que mantiene a los ganaderos en alerta",
-        "capturado": "2026-11-20T13:20:37-05:00"
+        "titulo": "La canadiense Ensign proyecta aumentar el número de torres de perforación en Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/canadiense-ensign-planea-ampliar-n%C3%BAmero-192629239.html",
+        "titulo_fuente": "Canadiense Ensign planea ampliar número de equipos de perforación en Venezuela",
+        "capturado": "2026-11-20T20:05:54-05:00"
       },
       {
-        "titulo": "La firmeza del riesgo país de Argentina impacta mercados ante el desplome de activos",
-        "url": "https://es.finance.yahoo.com/noticias/firmeza-riesgo-pa%C3%ADs-argentina-golpea-143744219.html",
-        "titulo_fuente": "Firmeza de riesgo país de Argentina golpea mercados, con derrumbe de activos",
-        "capturado": "2026-11-20T13:20:37-05:00"
+        "titulo": "Fujimori afirma que Perú dejó atrás una etapa traumática y solicita en Japón inversiones en el país",
+        "url": "https://es.finance.yahoo.com/noticias/fujimori-afirma-per%C3%BA-super%C3%B3-periodo-184724988.html",
+        "titulo_fuente": "Fujimori afirma que Perú superó \"periodo traumático\" y pide en Japón invertir en el país",
+        "capturado": "2026-11-20T20:05:54-05:00"
       }
     ]
   }
