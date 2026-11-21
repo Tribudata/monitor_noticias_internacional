@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-21T12:07:30-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-21T17:48:37-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Economist": [
       {
@@ -84,6 +84,18 @@
         "capturado": "2026-11-21T12:07:30-05:00"
       },
       {
+        "titulo": "Benjamin Cowen no descarta los 40.000 dólares como precio piso para el Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/40-000-d%C3%B3lares-suelo-benjamin-130007932.html",
+        "titulo_fuente": "40.000 dólares: el suelo que Benjamin Cowen no descarta para Bitcoin",
+        "capturado": "2026-11-21T17:48:37-05:00"
+      },
+      {
+        "titulo": "Razones por las que la captura de Starship podría disminuir costos de centros de datos en órbita",
+        "url": "https://es.finance.yahoo.com/noticias/captura-starship-abaratar-centros-datos-100009440.html",
+        "titulo_fuente": "Por qué la captura de Starship podría abaratar los centros de datos en órbita",
+        "capturado": "2026-11-21T17:48:37-05:00"
+      },
+      {
         "titulo": "Save Soil advierte que el deterioro del suelo le costaría a la UE hasta 509.000 millones de euros",
         "url": "https://es.finance.yahoo.com/noticias/save-soil-alerta-degradaci%C3%B3n-suelo-060027846.html",
         "titulo_fuente": "Save Soil alerta: la degradación del suelo podría costar a la UE hasta 509.000 millones de euros",
@@ -93,18 +105,6 @@
         "titulo": "Apple encara sus rendimientos financieros enfocada en el iPhone y los datos que moverán su cotización",
         "url": "https://es.finance.yahoo.com/noticias/apple-afronta-resultados-atenci%C3%B3n-puesta-060000057.html",
         "titulo_fuente": "Apple afronta sus resultados con la atención puesta en el iPhone: qué cifras pueden mover su cotización",
-        "capturado": "2026-11-21T12:07:30-05:00"
-      },
-      {
-        "titulo": "Que regresen pronto los emigrantes",
-        "url": "https://es.finance.yahoo.com/noticias/vuelvan-pronto-emigrantes-050000106.html",
-        "titulo_fuente": "Que vuelvan pronto los emigrantes…♬♬♬",
-        "capturado": "2026-11-21T12:07:30-05:00"
-      },
-      {
-        "titulo": "Obtenga gratis la versión PC de Metroid Prime 4: Beyond sin emulador FPS libres y jugable de principio a fin",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-metroid-000548858.html",
-        "titulo_fuente": "Descarga gratis el port para PC de Metroid Prime 4: Beyond, sin emulador, con FPS desbloqueados y jugable de principio a fin",
         "capturado": "2026-11-21T12:07:30-05:00"
       }
     ]
