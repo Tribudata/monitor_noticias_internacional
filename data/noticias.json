@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-22T00:18:29-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-22T09:07:28-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "El fondo de riqueza de 1 billón de dólares de Arabia Saudita atraviesa una crisis de identidad",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+        "publicacion": "Sun, 22 Nov 2026 11:13:42 +0000",
+        "titulo_fuente": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+        "capturado": "2026-11-22T09:07:28-05:00"
+      },
       {
         "titulo": "Los rendimientos de los bonos suben en todas partes, salvo en China",
         "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
@@ -30,13 +37,6 @@
         "publicacion": "Wed, 18 Nov 2026 19:24:30 +0000",
         "titulo_fuente": "Meet the European Central Bank’s new squad",
         "capturado": "2026-11-18T20:44:07-05:00"
-      },
-      {
-        "titulo": "Por qué las startups terminan cotizando en el mercado accionario",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
-        "publicacion": "Tue, 17 Nov 2026 18:38:26 +0000",
-        "titulo_fuente": "Why startups still go public, eventually",
-        "capturado": "2026-11-18T04:46:07-05:00"
       }
     ],
     "BBC": [
@@ -78,12 +78,6 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Real Madrid sobrepasa al Bayern Múnich en facturación y logra un nuevo máximo histórico",
-        "url": "https://es.finance.yahoo.com/noticias/real-madrid-supera-bayern-m%C3%BAnich-165244719.html",
-        "titulo_fuente": "El Real Madrid supera al Bayern Múnich en ingresos y marca otro récord",
-        "capturado": "2026-11-21T12:07:30-05:00"
-      },
-      {
         "titulo": "GTA 6 se cierra en PS5 por el error CE-108255-1, reinstalar no sirve y el sospechoso es el metal líquido",
         "url": "https://es-us.noticias.yahoo.com/gta-6-cierra-ps5-error-151358005.html",
         "titulo_fuente": "GTA 6 se cierra una y otra vez en PS5 con el error CE-108255-1, reinstalar no sirve de nada y el principal sospechoso es el metal líquido de la consola",
@@ -106,6 +100,12 @@
         "url": "https://es.finance.yahoo.com/noticias/40-000-d%C3%B3lares-suelo-benjamin-130007932.html",
         "titulo_fuente": "40.000 dólares: el suelo que Benjamin Cowen no descarta para Bitcoin",
         "capturado": "2026-11-21T17:48:37-05:00"
+      },
+      {
+        "titulo": "Real Madrid sobrepasa al Bayern Múnich en facturación y logra un nuevo máximo histórico",
+        "url": "https://es.finance.yahoo.com/noticias/real-madrid-supera-bayern-m%C3%BAnich-165244719.html",
+        "titulo_fuente": "El Real Madrid supera al Bayern Múnich en ingresos y marca otro récord",
+        "capturado": "2026-11-21T12:07:30-05:00"
       }
     ]
   }
