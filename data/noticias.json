@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-22T09:07:28-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-22T16:33:14-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Hasta dónde podría desinflarse el mercado de la inteligencia artificial?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+        "publicacion": "Sun, 22 Nov 2026 19:44:21 +0000",
+        "titulo_fuente": "How much more air can come out of the AI trade?",
+        "capturado": "2026-11-22T16:33:14-05:00"
+      },
       {
         "titulo": "El fondo de riqueza de 1 billón de dólares de Arabia Saudita atraviesa una crisis de identidad",
         "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
@@ -30,13 +37,6 @@
         "publicacion": "Thu, 19 Nov 2026 10:01:25 +0000",
         "titulo_fuente": "AI is swallowing maths. Is economics next?",
         "capturado": "2026-11-19T20:39:58-05:00"
-      },
-      {
-        "titulo": "Conozca al nuevo equipo del Banco Central Europeo",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
-        "publicacion": "Wed, 18 Nov 2026 19:24:30 +0000",
-        "titulo_fuente": "Meet the European Central Bank’s new squad",
-        "capturado": "2026-11-18T20:44:07-05:00"
       }
     ],
     "BBC": [
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "GTA 6 se cierra en PS5 por el error CE-108255-1, reinstalar no sirve y el sospechoso es el metal líquido",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-cierra-ps5-error-151358005.html",
-        "titulo_fuente": "GTA 6 se cierra una y otra vez en PS5 con el error CE-108255-1, reinstalar no sirve de nada y el principal sospechoso es el metal líquido de la consola",
-        "capturado": "2026-11-22T00:18:29-05:00"
+        "titulo": "Hutíes de Yemen afirman haber perpetrado un ataque a la refinería de petróleo saudí de Rabigh",
+        "url": "https://es.finance.yahoo.com/noticias/hut%C3%ADes-yemen-atacaron-refiner%C3%ADa-petr%C3%B3leo-193525490.html",
+        "titulo_fuente": "Los hutíes de Yemen dicen que atacaron la refinería de petróleo saudita de Rabigh",
+        "capturado": "2026-11-22T16:33:14-05:00"
       },
       {
-        "titulo": "GTA 6 supera el límite de 30 FPS y corre a más de 60 en Xbox Series X tras un truco del Quick Resume",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-rompe-l%C3%ADmite-30-143331271.html",
-        "titulo_fuente": "GTA 6 rompe el límite de 30 FPS y corre a más de 60 en Xbox Series X con un truco del Quick Resume",
-        "capturado": "2026-11-22T00:18:29-05:00"
+        "titulo": "Israel se expande pese al conflicto: lecciones que Europa puede aprender de su avance tecnológico",
+        "url": "https://es.finance.yahoo.com/noticias/israel-encamina-ser-25-econom%C3%ADa-171332713.html",
+        "titulo_fuente": "Israel crece pese a la guerra: qué puede aprender Europa de su auge tecnológico",
+        "capturado": "2026-11-22T16:33:14-05:00"
       },
       {
-        "titulo": "GTA 6 es jugable en PS4 desbloqueada, aunque PlayStation afirma que el juego jamás llegará a esa consola",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-jugar-ps4-desbloqueada-140505374.html",
-        "titulo_fuente": "GTA 6 se puede jugar en una PS4 desbloqueada, aunque PlayStation asegura que el juego nunca llegará a esa consola",
-        "capturado": "2026-11-22T00:18:29-05:00"
+        "titulo": "EXCLUSIVA: La IA no requiere aguardar años por la red eléctrica según Bloom Energy",
+        "url": "https://es.finance.yahoo.com/noticias/exclusiva-ia-necesita-esperar-a%C3%B1os-170009442.html",
+        "titulo_fuente": "EXCLUSIVA: La IA no necesita esperar años a la red eléctrica, según Bloom Energy",
+        "capturado": "2026-11-22T16:33:14-05:00"
       },
       {
-        "titulo": "Benjamin Cowen no descarta los 40.000 dólares como precio piso para el Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/40-000-d%C3%B3lares-suelo-benjamin-130007932.html",
-        "titulo_fuente": "40.000 dólares: el suelo que Benjamin Cowen no descarta para Bitcoin",
-        "capturado": "2026-11-21T17:48:37-05:00"
+        "titulo": "El Ejecutivo de Pedro Sánchez avala incrementos salariales a menos de 2 semanas de los comicios",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-pedro-s%C3%A1nchez-aprueba-sendas-153812552.html",
+        "titulo_fuente": "El Gobierno de Pedro Sánchez aprueba subidas salariales a menos de 2 semanas de las elecciones",
+        "capturado": "2026-11-22T16:33:14-05:00"
       },
       {
-        "titulo": "Real Madrid sobrepasa al Bayern Múnich en facturación y logra un nuevo máximo histórico",
-        "url": "https://es.finance.yahoo.com/noticias/real-madrid-supera-bayern-m%C3%BAnich-165244719.html",
-        "titulo_fuente": "El Real Madrid supera al Bayern Múnich en ingresos y marca otro récord",
-        "capturado": "2026-11-21T12:07:30-05:00"
+        "titulo": "¿Logrará Nvidia eludir el efecto Ícaro que padeció Cisco tras la burbuja puntocom?",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-escapar-efecto-%C3%ADcaro-sufri%C3%B3-150007775.html",
+        "titulo_fuente": "¿Puede Nvidia escapar del efecto Ícaro que sufrió Cisco tras la burbuja puntocom?",
+        "capturado": "2026-11-22T16:33:14-05:00"
       }
     ]
   }
