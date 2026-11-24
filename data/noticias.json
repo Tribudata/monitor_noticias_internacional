@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-22T21:16:22-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-23T21:45:08-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Por qué Jensen Huang resulta tan crucial que Nvidia no podría despedirlo",
+        "url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo",
+        "publicacion": "2026-11-23",
+        "titulo_fuente": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
+        "capturado": "2026-11-23T21:45:08-05:00"
+      },
+      {
         "titulo": "Detalles y favorecidos del pacto para reactivar nexos entre el Reino Unido y la Unión Europea tras el Brexit",
         "url": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o",
         "publicacion": "2026-11-20",
@@ -67,45 +74,38 @@
         "publicacion": "PT5M20S",
         "titulo_fuente": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast, Duración 5,20",
         "capturado": "2026-11-19T20:39:58-05:00"
-      },
-      {
-        "titulo": "Estos son los 7 fundadores de Anthropic que están cerca de ser multimillonarios",
-        "url": "https://www.bbc.com/mundo/articles/cm98x39221yro",
-        "publicacion": "2026-11-18",
-        "titulo_fuente": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
-        "capturado": "2026-11-18T13:39:50-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Vuelos de Delta presentan cortas demoras en el aeropuerto de Atlanta por falla en sistema automatizado",
-        "url": "https://es.finance.yahoo.com/noticias/vuelos-delta-sufren-breves-retrasos-213944050.html",
-        "titulo_fuente": "Vuelos de Delta sufren breves retrasos en aeropuerto de Atlanta por problema con sistema automatizado",
-        "capturado": "2026-11-22T21:16:22-05:00"
+        "titulo": "Actualización: Bolsas de EEUU suben tras sorpresiva vuelta de Jensen Huang como CEO de Nvidia e impulso a IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-222851408.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan tras la inesperada decisión de Nvidia de restituir a Jensen Huang como CEO, lo que impulsa el comercio de IA.",
+        "capturado": "2026-11-23T21:45:08-05:00"
       },
       {
-        "titulo": "Hutíes de Yemen afirman haber perpetrado un ataque a la refinería de petróleo saudí de Rabigh",
-        "url": "https://es.finance.yahoo.com/noticias/hut%C3%ADes-yemen-atacaron-refiner%C3%ADa-petr%C3%B3leo-193525490.html",
-        "titulo_fuente": "Los hutíes de Yemen dicen que atacaron la refinería de petróleo saudita de Rabigh",
-        "capturado": "2026-11-22T16:33:14-05:00"
+        "titulo": "Nabep prevé dragar el lago Maracaibo para elevar las exportaciones petroleras de Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/nabep-apuesta-dragar-lago-maracaibo-215823108.html",
+        "titulo_fuente": "Nabep apuesta por dragar lago Maracaibo para aumentar exportaciones petroleras de Venezuela",
+        "capturado": "2026-11-23T21:45:08-05:00"
       },
       {
-        "titulo": "Israel se expande pese al conflicto: lecciones que Europa puede aprender de su avance tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/israel-encamina-ser-25-econom%C3%ADa-171332713.html",
-        "titulo_fuente": "Israel crece pese a la guerra: qué puede aprender Europa de su auge tecnológico",
-        "capturado": "2026-11-22T16:33:14-05:00"
+        "titulo": "Comisión del Senado estadounidense indaga nexo de JD Vance con pacto petrolero de Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/comit%C3%A9-senado-eeuu-investiga-v%C3%ADnculo-204804920.html",
+        "titulo_fuente": "Comité del Senado en EEUU investiga vínculo de JD Vance con acuerdo petrolero de Venezuela",
+        "capturado": "2026-11-23T21:45:08-05:00"
       },
       {
-        "titulo": "EXCLUSIVA: La IA no requiere aguardar años por la red eléctrica según Bloom Energy",
-        "url": "https://es.finance.yahoo.com/noticias/exclusiva-ia-necesita-esperar-a%C3%B1os-170009442.html",
-        "titulo_fuente": "EXCLUSIVA: La IA no necesita esperar años a la red eléctrica, según Bloom Energy",
-        "capturado": "2026-11-22T16:33:14-05:00"
+        "titulo": "Trump percibe a Huang, de Nvidia, como promotor de modelos de IA de peso abierto, según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/trump-huang-nvidia-defensor-modelos-200538127.html",
+        "titulo_fuente": "Trump considera a Huang, de Nvidia, como un defensor de los modelos de IA de peso abierto: fuentes",
+        "capturado": "2026-11-23T21:45:08-05:00"
       },
       {
-        "titulo": "El Ejecutivo de Pedro Sánchez avala incrementos salariales a menos de 2 semanas de los comicios",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-pedro-s%C3%A1nchez-aprueba-sendas-153812552.html",
-        "titulo_fuente": "El Gobierno de Pedro Sánchez aprueba subidas salariales a menos de 2 semanas de las elecciones",
-        "capturado": "2026-11-22T16:33:14-05:00"
+        "titulo": "La aerolínea Plus Ultra paraliza todos sus vuelos y compromete su supervivencia",
+        "url": "https://es.finance.yahoo.com/noticias/plus-ultra-suspende-vuelos-deja-171141420.html",
+        "titulo_fuente": "La aerolínea Plus Ultra suspende todos sus vuelos y deja en el aire su supervivencia",
+        "capturado": "2026-11-23T21:45:08-05:00"
       }
     ]
   }
