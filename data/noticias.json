@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-24T19:23:00-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-25T05:54:20-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Economist": [
       {
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Novedad: Índices en EEUU operan dispares por paso de inversores a activos defensivos ante debilidad de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-224038441.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a medida que los inversores se inclinan por valores defensivos en medio del debilitamiento de la IA.",
-        "capturado": "2026-11-24T19:23:00-05:00"
+        "titulo": "La aversión al riesgo fortalece al dólar a la espera de las cifras de inflación",
+        "url": "https://es.finance.yahoo.com/noticias/clima-aversi%C3%B3n-riesgo-impulsa-d%C3%B3lar-104623283.html",
+        "titulo_fuente": "El clima de aversión al riesgo impulsa al dólar a la espera de los datos de inflación",
+        "capturado": "2026-11-25T05:54:20-05:00"
       },
       {
-        "titulo": "Capitanía de Puertos de Perú decreta la clausura provisoria de 58 terminales tras fuertes oleajes",
-        "url": "https://es.finance.yahoo.com/noticias/capitan%C3%ADa-puertos-per%C3%BA-ordena-cierre-210830349.html",
-        "titulo_fuente": "Capitanía de Puertos de Perú ordena cierre temporal de 58 puertos por fuertes oleajes",
-        "capturado": "2026-11-24T19:23:00-05:00"
+        "titulo": "La economía alemana registra un crecimiento del 0,1% en el tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-alemana-crece-0-1-094527428.html",
+        "titulo_fuente": "La economía alemana crece un 0,1% en el tercer trimestre",
+        "capturado": "2026-11-25T05:54:20-05:00"
       },
       {
-        "titulo": "La firma china Huawei recibe sentencia condenatoria en EEUU tras un largo proceso penal por operar con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/empresa-china-huawei-condenada-eeuu-204305965.html",
-        "titulo_fuente": "Empresa china Huawei es condenada en EEUU en un extenso juicio penal por sus negocios con Irán",
-        "capturado": "2026-11-24T19:23:00-05:00"
+        "titulo": "El alza del 26% en el tope de precios elevará el costo de la energía para millones de hogares británicos",
+        "url": "https://es.finance.yahoo.com/noticias/millones-hogares-brit%C3%A1nicos-pagar%C3%A1n-energ%C3%ADa-090826273.html",
+        "titulo_fuente": "Millones de hogares británicos pagarán más por la energía tras subir un 26% el tope de precios",
+        "capturado": "2026-11-25T05:54:20-05:00"
       },
       {
-        "titulo": "Administración Trump presentará nuevos gravámenes luego de indagar el exceso de capacidad industrial",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-dispone-anunciar-aranceles-191546300.html",
-        "titulo_fuente": "Gobierno de Trump se dispone a anunciar nuevos aranceles tras investigación sobre exceso de capacidad industrial",
-        "capturado": "2026-11-24T19:23:00-05:00"
+        "titulo": "Los comicios en España exponen las estrategias contrapuestas de Madrid y Cataluña en vivienda",
+        "url": "https://es.finance.yahoo.com/noticias/elecciones-espa%C3%B1a-ponen-relieve-estrategias-090219596.html",
+        "titulo_fuente": "Las elecciones en España ponen de relieve las estrategias opuestas de Madrid y Cataluña para vivienda",
+        "capturado": "2026-11-25T05:54:20-05:00"
       },
       {
-        "titulo": "Al día: Índices de EEUU operan dispares; caídas de Anthropic y Nvidia dañan la IA y acciones defensivas suben",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-190413547.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que la caída de Anthropic y Nvidia perjudican el comercio de IA, mientras que los valores defensivos avanzan.",
-        "capturado": "2026-11-24T19:23:00-05:00"
+        "titulo": "BYD agiliza su expansión en Europa y negocia la compra de una planta en Francia",
+        "url": "https://es.finance.yahoo.com/noticias/byd-negocia-comprar-planta-hambach-074204305.html",
+        "titulo_fuente": "BYD acelera su expansión en Europa y negocia la compra de una fábrica en Francia",
+        "capturado": "2026-11-25T05:54:20-05:00"
       }
     ]
   }
