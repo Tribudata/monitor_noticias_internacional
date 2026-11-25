@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-24T09:34:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-24T19:23:00-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "¿Son en verdad las cadenas de suministro de Estados Unidos más vulnerables que las de China?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+        "publicacion": "Tue, 24 Nov 2026 20:34:14 +0000",
+        "titulo_fuente": "Are America’s supply chains really more vulnerable than China’s?",
+        "capturado": "2026-11-24T19:23:00-05:00"
+      },
+      {
+        "titulo": "El cobre demuestra la forma en que la IA está distorsionando los mercados",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+        "publicacion": "Tue, 24 Nov 2026 18:12:38 +0000",
+        "titulo_fuente": "Copper shows how AI is messing with markets",
+        "capturado": "2026-11-24T19:23:00-05:00"
+      },
       {
         "titulo": "¿Hasta dónde podría desinflarse el mercado de la inteligencia artificial?",
         "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
@@ -22,20 +36,6 @@
         "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
         "publicacion": "Thu, 19 Nov 2026 10:04:37 +0000",
         "titulo_fuente": "Bond yields are rising everywhere—except China",
-        "capturado": "2026-11-19T20:39:58-05:00"
-      },
-      {
-        "titulo": "Europa endurece las sanciones a Rusia, mientras Estados Unidos las suaviza",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
-        "publicacion": "Thu, 19 Nov 2026 10:03:23 +0000",
-        "titulo_fuente": "Europe tightens sanctions on Russia. America loosens them",
-        "capturado": "2026-11-19T20:39:58-05:00"
-      },
-      {
-        "titulo": "La IA está absorbiendo las matemáticas: ¿seguirá la economía?",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
-        "publicacion": "Thu, 19 Nov 2026 10:01:25 +0000",
-        "titulo_fuente": "AI is swallowing maths. Is economics next?",
         "capturado": "2026-11-19T20:39:58-05:00"
       }
     ],
@@ -78,34 +78,34 @@
     ],
     "Yahoo": [
       {
-        "titulo": "Actualización: Bolsas de EEUU suben tras sorpresiva vuelta de Jensen Huang como CEO de Nvidia e impulso a IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-222851408.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan tras la inesperada decisión de Nvidia de restituir a Jensen Huang como CEO, lo que impulsa el comercio de IA.",
-        "capturado": "2026-11-23T21:45:08-05:00"
+        "titulo": "Novedad: Índices en EEUU operan dispares por paso de inversores a activos defensivos ante debilidad de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-224038441.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a medida que los inversores se inclinan por valores defensivos en medio del debilitamiento de la IA.",
+        "capturado": "2026-11-24T19:23:00-05:00"
       },
       {
-        "titulo": "Nabep prevé dragar el lago Maracaibo para elevar las exportaciones petroleras de Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/nabep-apuesta-dragar-lago-maracaibo-215823108.html",
-        "titulo_fuente": "Nabep apuesta por dragar lago Maracaibo para aumentar exportaciones petroleras de Venezuela",
-        "capturado": "2026-11-23T21:45:08-05:00"
+        "titulo": "Capitanía de Puertos de Perú decreta la clausura provisoria de 58 terminales tras fuertes oleajes",
+        "url": "https://es.finance.yahoo.com/noticias/capitan%C3%ADa-puertos-per%C3%BA-ordena-cierre-210830349.html",
+        "titulo_fuente": "Capitanía de Puertos de Perú ordena cierre temporal de 58 puertos por fuertes oleajes",
+        "capturado": "2026-11-24T19:23:00-05:00"
       },
       {
-        "titulo": "Comisión del Senado estadounidense indaga nexo de JD Vance con pacto petrolero de Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/comit%C3%A9-senado-eeuu-investiga-v%C3%ADnculo-204804920.html",
-        "titulo_fuente": "Comité del Senado en EEUU investiga vínculo de JD Vance con acuerdo petrolero de Venezuela",
-        "capturado": "2026-11-23T21:45:08-05:00"
+        "titulo": "La firma china Huawei recibe sentencia condenatoria en EEUU tras un largo proceso penal por operar con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/empresa-china-huawei-condenada-eeuu-204305965.html",
+        "titulo_fuente": "Empresa china Huawei es condenada en EEUU en un extenso juicio penal por sus negocios con Irán",
+        "capturado": "2026-11-24T19:23:00-05:00"
       },
       {
-        "titulo": "Trump percibe a Huang, de Nvidia, como promotor de modelos de IA de peso abierto, según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/trump-huang-nvidia-defensor-modelos-200538127.html",
-        "titulo_fuente": "Trump considera a Huang, de Nvidia, como un defensor de los modelos de IA de peso abierto: fuentes",
-        "capturado": "2026-11-23T21:45:08-05:00"
+        "titulo": "Administración Trump presentará nuevos gravámenes luego de indagar el exceso de capacidad industrial",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-dispone-anunciar-aranceles-191546300.html",
+        "titulo_fuente": "Gobierno de Trump se dispone a anunciar nuevos aranceles tras investigación sobre exceso de capacidad industrial",
+        "capturado": "2026-11-24T19:23:00-05:00"
       },
       {
-        "titulo": "La aerolínea Plus Ultra paraliza todos sus vuelos y compromete su supervivencia",
-        "url": "https://es.finance.yahoo.com/noticias/plus-ultra-suspende-vuelos-deja-171141420.html",
-        "titulo_fuente": "La aerolínea Plus Ultra suspende todos sus vuelos y deja en el aire su supervivencia",
-        "capturado": "2026-11-23T21:45:08-05:00"
+        "titulo": "Al día: Índices de EEUU operan dispares; caídas de Anthropic y Nvidia dañan la IA y acciones defensivas suben",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-190413547.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que la caída de Anthropic y Nvidia perjudican el comercio de IA, mientras que los valores defensivos avanzan.",
+        "capturado": "2026-11-24T19:23:00-05:00"
       }
     ]
   }
