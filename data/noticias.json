@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-25T16:06:26-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-25T22:57:40-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,13 @@
     ],
     "BBC": [
       {
+        "titulo": "Cómo China conserva su gran influencia en América Latina durante la disputa geopolítica con EE.UU.",
+        "url": "https://www.bbc.com/mundo/articles/c32l5enge15go",
+        "publicacion": "2026-11-25",
+        "titulo_fuente": "Cómo China mantiene su enorme influencia en América Latina en pleno pulso geopolítico con EE.UU.",
+        "capturado": "2026-11-25T22:57:40-05:00"
+      },
+      {
         "titulo": "Por qué Jensen Huang resulta tan crucial que Nvidia no podría despedirlo",
         "url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo",
         "publicacion": "2026-11-23",
@@ -67,45 +74,38 @@
         "publicacion": "2026-11-19",
         "titulo_fuente": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
         "capturado": "2026-11-19T20:39:58-05:00"
-      },
-      {
-        "titulo": "Motivos de la crisis económica en Chile ante las políticas de austeridad de Kast, Duración 5,20",
-        "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o",
-        "publicacion": "PT5M20S",
-        "titulo_fuente": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast, Duración 5,20",
-        "capturado": "2026-11-19T20:39:58-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "La aversión al riesgo fortalece al dólar a la espera de las cifras de inflación",
-        "url": "https://es.finance.yahoo.com/noticias/clima-aversi%C3%B3n-riesgo-impulsa-d%C3%B3lar-104623283.html",
-        "titulo_fuente": "El clima de aversión al riesgo impulsa al dólar a la espera de los datos de inflación",
-        "capturado": "2026-11-25T05:54:20-05:00"
+        "titulo": "Colombia descarta sumarse al Grupo de los BRICS y al Nuevo Banco de Desarrollo",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-descarta-ingreso-grupo-brics-000756843.html",
+        "titulo_fuente": "Colombia descarta ingreso al Grupo de los BRICS y al Nuevo Banco de Desarrollo",
+        "capturado": "2026-11-25T22:57:40-05:00"
       },
       {
-        "titulo": "La economía alemana registra un crecimiento del 0,1% en el tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-alemana-crece-0-1-094527428.html",
-        "titulo_fuente": "La economía alemana crece un 0,1% en el tercer trimestre",
-        "capturado": "2026-11-25T05:54:20-05:00"
+        "titulo": "Venezuela pacta alianza estratégica en el sector eléctrico con la firma Omterra",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-firma-alianza-estrat%C3%A9gica-materia-225841316.html",
+        "titulo_fuente": "Venezuela firma \"alianza estratégica\" en materia eléctrica con Omterra",
+        "capturado": "2026-11-25T22:57:40-05:00"
       },
       {
-        "titulo": "El alza del 26% en el tope de precios elevará el costo de la energía para millones de hogares británicos",
-        "url": "https://es.finance.yahoo.com/noticias/millones-hogares-brit%C3%A1nicos-pagar%C3%A1n-energ%C3%ADa-090826273.html",
-        "titulo_fuente": "Millones de hogares británicos pagarán más por la energía tras subir un 26% el tope de precios",
-        "capturado": "2026-11-25T05:54:20-05:00"
+        "titulo": "Actualización: índices de EE. UU. están mixtos y caen bonos del Tesoro tras salir de chips ante aranceles",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213222824.html",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, los rendimientos de los bonos del Tesoro caen a medida que los inversores retiran sus inversiones de los fabricantes de chips mientras evalúan los aranceles comerciales.",
+        "capturado": "2026-11-25T22:57:40-05:00"
       },
       {
-        "titulo": "Los comicios en España exponen las estrategias contrapuestas de Madrid y Cataluña en vivienda",
-        "url": "https://es.finance.yahoo.com/noticias/elecciones-espa%C3%B1a-ponen-relieve-estrategias-090219596.html",
-        "titulo_fuente": "Las elecciones en España ponen de relieve las estrategias opuestas de Madrid y Cataluña para vivienda",
-        "capturado": "2026-11-25T05:54:20-05:00"
+        "titulo": "El inversor Michael Burry se torna casi totalmente alcista tras el desplome de acciones tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/inversor-michael-burry-queda-totalmente-190815082.html",
+        "titulo_fuente": "Inversor Michael Burry queda casi totalmente alcista tras desplome de acciones tecnológicas",
+        "capturado": "2026-11-25T22:57:40-05:00"
       },
       {
-        "titulo": "BYD agiliza su expansión en Europa y negocia la compra de una planta en Francia",
-        "url": "https://es.finance.yahoo.com/noticias/byd-negocia-comprar-planta-hambach-074204305.html",
-        "titulo_fuente": "BYD acelera su expansión en Europa y negocia la compra de una fábrica en Francia",
-        "capturado": "2026-11-25T05:54:20-05:00"
+        "titulo": "SpaceX progresa en su plan de un millón de satélites para centros de datos de IA",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-avanza-plan-mill%C3%B3n-sat%C3%A9lites-190507952.html",
+        "titulo_fuente": "SpaceX avanza con su plan de un millón de satélites para centros de datos de IA",
+        "capturado": "2026-11-25T22:57:40-05:00"
       }
     ]
   }
