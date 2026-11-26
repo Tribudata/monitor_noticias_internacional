@@ -1,42 +1,42 @@
 {
-  "actualizado": "2026-11-26T08:41:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-26T17:49:10-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Economist": [
+      {
+        "titulo": "La lección histórica que sirve de advertencia para Anthropic",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+        "publicacion": "Thu, 26 Nov 2026 09:49:07 +0000",
+        "titulo_fuente": "History’s warning lesson for Anthropic",
+        "capturado": "2026-11-26T17:49:10-05:00"
+      },
+      {
+        "titulo": "La caída del administrador de patrimonio de mayor confianza en China",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+        "publicacion": "Thu, 26 Nov 2026 09:47:52 +0000",
+        "titulo_fuente": "The fall of China’s most trusted wealth manager",
+        "capturado": "2026-11-26T17:49:10-05:00"
+      },
+      {
+        "titulo": "El auge exportador de México es real pero resulta decepcionante",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+        "publicacion": "Thu, 26 Nov 2026 09:45:41 +0000",
+        "titulo_fuente": "Mexico’s export boom is real—and disappointing",
+        "capturado": "2026-11-26T17:49:10-05:00"
+      },
+      {
+        "titulo": "¿Puede el gobierno de Estados Unidos financiar la asequibilidad?",
+        "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+        "publicacion": "Wed, 25 Nov 2026 22:33:27 +0000",
+        "titulo_fuente": "Can America’s government afford “affordability”?",
+        "capturado": "2026-11-26T17:49:10-05:00"
+      },
       {
         "titulo": "¿Son en verdad las cadenas de suministro de Estados Unidos más vulnerables que las de China?",
         "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
         "publicacion": "Tue, 24 Nov 2026 20:34:14 +0000",
         "titulo_fuente": "Are America’s supply chains really more vulnerable than China’s?",
         "capturado": "2026-11-24T19:23:00-05:00"
-      },
-      {
-        "titulo": "El cobre demuestra la forma en que la IA está distorsionando los mercados",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
-        "publicacion": "Tue, 24 Nov 2026 18:12:38 +0000",
-        "titulo_fuente": "Copper shows how AI is messing with markets",
-        "capturado": "2026-11-24T19:23:00-05:00"
-      },
-      {
-        "titulo": "¿Hasta dónde podría desinflarse el mercado de la inteligencia artificial?",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
-        "publicacion": "Sun, 22 Nov 2026 19:44:21 +0000",
-        "titulo_fuente": "How much more air can come out of the AI trade?",
-        "capturado": "2026-11-22T16:33:14-05:00"
-      },
-      {
-        "titulo": "El fondo de riqueza de 1 billón de dólares de Arabia Saudita atraviesa una crisis de identidad",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
-        "publicacion": "Sun, 22 Nov 2026 11:13:42 +0000",
-        "titulo_fuente": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
-        "capturado": "2026-11-22T09:07:28-05:00"
-      },
-      {
-        "titulo": "Los rendimientos de los bonos suben en todas partes, salvo en China",
-        "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
-        "publicacion": "Thu, 19 Nov 2026 10:04:37 +0000",
-        "titulo_fuente": "Bond yields are rising everywhere—except China",
-        "capturado": "2026-11-19T20:39:58-05:00"
       }
     ],
     "BBC": [
