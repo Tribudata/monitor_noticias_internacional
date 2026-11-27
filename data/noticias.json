@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-26T17:49:10-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-27T01:55:12-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Economist": [
       {
@@ -41,6 +41,20 @@
     ],
     "BBC": [
       {
+        "titulo": "4 cifras económicas muestran la situación de España ante los comicios generales del 29N",
+        "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o",
+        "publicacion": "2026-11-27",
+        "titulo_fuente": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
+        "capturado": "2026-11-27T01:55:12-05:00"
+      },
+      {
+        "titulo": "España, con casi 50 millones: la inmigración transformó el país en diez años y es clave en las elecciones",
+        "url": "https://www.bbc.com/mundo/articles/ckq5vgpwwq76o",
+        "publicacion": "2026-11-26",
+        "titulo_fuente": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
+        "capturado": "2026-11-27T01:55:12-05:00"
+      },
+      {
         "titulo": "Cómo China conserva su gran influencia en América Latina durante la disputa geopolítica con EE.UU.",
         "url": "https://www.bbc.com/mundo/articles/c32l5enge15go",
         "publicacion": "2026-11-25",
@@ -60,52 +74,38 @@
         "publicacion": "2026-11-20",
         "titulo_fuente": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
         "capturado": "2026-11-20T20:05:54-05:00"
-      },
-      {
-        "titulo": "4 causas que aclaran el ingreso de Chile a la recesión, Duración 5,16",
-        "url": "https://www.bbc.com/mundo/watch/ck8791xel5pjo",
-        "publicacion": "PT5M16S",
-        "titulo_fuente": "4 razones que explican cómo Chile llegó a estar en recesión, Duración 5,16",
-        "capturado": "2026-11-20T13:20:37-05:00"
-      },
-      {
-        "titulo": "Personas con discapacidad en Argentina quedan confinadas y sin futuro por las medidas de Milei",
-        "url": "https://www.bbc.com/mundo/articles/c617k978p47ro",
-        "publicacion": "2026-11-19",
-        "titulo_fuente": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
-        "capturado": "2026-11-19T20:39:58-05:00"
       }
     ],
     "Yahoo": [
       {
-        "titulo": "Colombia descarta sumarse al Grupo de los BRICS y al Nuevo Banco de Desarrollo",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-descarta-ingreso-grupo-brics-000756843.html",
-        "titulo_fuente": "Colombia descarta ingreso al Grupo de los BRICS y al Nuevo Banco de Desarrollo",
-        "capturado": "2026-11-25T22:57:40-05:00"
+        "titulo": "Perfil de Pablo Hernández de Cos, tecnócrata de consenso ideológico en España",
+        "url": "https://es.finance.yahoo.com/noticias/perfil-pablo-hern%C3%A1ndez-cos-tecn%C3%B3crata-050052514.html",
+        "titulo_fuente": "Perfil: Pablo Hernández de Cos, el tecnócrata de consenso ideológico en España",
+        "capturado": "2026-11-27T01:55:12-05:00"
       },
       {
-        "titulo": "Venezuela pacta alianza estratégica en el sector eléctrico con la firma Omterra",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-firma-alianza-estrat%C3%A9gica-materia-225841316.html",
-        "titulo_fuente": "Venezuela firma \"alianza estratégica\" en materia eléctrica con Omterra",
-        "capturado": "2026-11-25T22:57:40-05:00"
+        "titulo": "Presidente del consejo administrativo de Bradesco acepta oferta de Lula para ministro de Hacienda: fuente",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-consejo-administraci%C3%B3n-bradesco-acepta-215816027.html",
+        "titulo_fuente": "Presidente consejo administración Bradesco acepta ofrecimiento de Lula para ser ministro de Hacienda: fuente",
+        "capturado": "2026-11-27T01:55:12-05:00"
       },
       {
-        "titulo": "Actualización: índices de EE. UU. están mixtos y caen bonos del Tesoro tras salir de chips ante aranceles",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213222824.html",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, los rendimientos de los bonos del Tesoro caen a medida que los inversores retiran sus inversiones de los fabricantes de chips mientras evalúan los aranceles comerciales.",
-        "capturado": "2026-11-25T22:57:40-05:00"
+        "titulo": "Fujimori promete apoyar la inversión privada en Perú y elogia condiciones para planificar",
+        "url": "https://es.finance.yahoo.com/noticias/fujimori-promete-respaldar-inversi%C3%B3n-privada-202545541.html",
+        "titulo_fuente": "Fujimori promete respaldar inversión privada en Perú, alaba \"condiciones para planificar\"",
+        "capturado": "2026-11-27T01:55:12-05:00"
       },
       {
-        "titulo": "El inversor Michael Burry se torna casi totalmente alcista tras el desplome de acciones tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/inversor-michael-burry-queda-totalmente-190815082.html",
-        "titulo_fuente": "Inversor Michael Burry queda casi totalmente alcista tras desplome de acciones tecnológicas",
-        "capturado": "2026-11-25T22:57:40-05:00"
+        "titulo": "EEUU y Qatar prestarán ayuda a Venezuela para saldar sus deudas con bancos regionales: fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-qatar-ayudar%C3%A1n-venezuela-saldar-202007450.html",
+        "titulo_fuente": "EEUU y Qatar ayudarán a Venezuela a saldar sus deudas con bancos regionales: fuentes",
+        "capturado": "2026-11-27T01:55:12-05:00"
       },
       {
-        "titulo": "SpaceX progresa en su plan de un millón de satélites para centros de datos de IA",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-avanza-plan-mill%C3%B3n-sat%C3%A9lites-190507952.html",
-        "titulo_fuente": "SpaceX avanza con su plan de un millón de satélites para centros de datos de IA",
-        "capturado": "2026-11-25T22:57:40-05:00"
+        "titulo": "¿Por qué razón Argentina cayó en recesión técnica pese a las reformas económicas de Milei?",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-entrado-recesi%C3%B3n-t%C3%A9cnica-pese-172246671.html",
+        "titulo_fuente": "¿Por qué Argentina ha entrado en recesión técnica pese a las reformas económicas de Milei?",
+        "capturado": "2026-11-27T01:55:12-05:00"
       }
     ]
   }
